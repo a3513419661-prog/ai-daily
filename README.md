@@ -6,9 +6,34 @@
 定位是**手艺和学习为主、资讯为辅**：八个栏目里六个是技巧/学习/方法论，行业新闻只占最后一个「风向 · 洞察」，
 而且必须带观点或判断才进得来（纯发布、纯财报类的不收）。
 
+## 公网地址（推荐用这个）
+
+```
+https://a3513419661-prog.github.io/ai-daily/
+```
+
+这套跑在 GitHub 上，公司电脑关机也能打开，家里、手机、任何网络都行，每天北京时间 09:00 自动更新。
+
+工作方式：GitHub Actions 每天定时在云端跑 `collect.py` 抓取 → 生成 `index.html` → 提交回仓库 → GitHub Pages 自动发布。
+手动触发或看日志：
+
+```powershell
+gh workflow run daily.yml                      # 立刻跑一次
+gh run list --limit 5                          # 看运行记录
+gh run watch <run-id>                          # 跟踪某次运行
+```
+
+云端想要「AI 精选摘要 + 新条目的中文导读」，需要给它一个大模型接口（可选，不配就用脚本自动排序的精选）：
+
+```powershell
+gh secret set LLM_API_KEY                       # 你的接口密钥
+gh secret set LLM_BASE_URL -b "https://api.openai.com/v1"
+gh secret set LLM_MODEL -b "gpt-4o-mini"
+```
+
 ## 随时打开的链接
 
-公网地址（换网络也能开，比如在家、在外面用流量）：
+本机 / 公司局域网（公司电脑开机时可用）：
 
 ```
 https://xxxxx.trycloudflare.com/     ← 实际地址见页面最底部「公网地址」，或 data/tunnel-url.txt

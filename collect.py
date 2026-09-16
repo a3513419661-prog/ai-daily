@@ -1065,6 +1065,12 @@ def attach_zh_notes(history: dict, notes: dict) -> int:
 
 def build_access_info() -> dict:
     """页面底部展示的访问地址：本机、局域网 IP、主机名。"""
+    if os.environ.get("GITHUB_ACTIONS") == "true":
+        # 云端：只有公网地址有意义，本机/局域网信息是构建机的，不能展示
+        repo = os.environ.get("GITHUB_REPOSITORY", "")
+        owner, _, name = repo.partition("/")
+        public = f"https://{owner}.github.io/{name}/" if owner and name else ""
+        return {"port": SERVE_PORT, "local": "", "lan": [], "hostname": "", "public": public, "cloud": True}
     ips: list[str] = []
     try:
         for info in socket.getaddrinfo(socket.gethostname(), None, socket.AF_INET):

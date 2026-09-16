@@ -184,14 +184,16 @@ document.getElementById('dateLabel').textContent = DATA.date + ' · 更新于 ' 
 if(DATA.access){
   const a = DATA.access;
   const lines = [];
-  if(a.public) lines.push(`<b>公网地址（换网络也能开，比如在家）</b><span class="u">${a.public}</span>`);
-  lines.push(`<b>本机打开</b><span class="u">${a.local}</span>`);
+  if(a.public) lines.push(`<b>${a.cloud ? '本站地址（任何设备、任何网络都能打开）' : '公网地址（换网络也能开，比如在家）'}</b><span class="u">${a.public}</span>`);
+  if(a.local) lines.push(`<b>本机打开</b><span class="u">${a.local}</span>`);
   if(a.lan && a.lan.length) lines.push(`<b>同一局域网的其他电脑 / 手机</b><span class="u">${a.lan.join('&nbsp;&nbsp;')}</span>`);
   if(a.hostname) lines.push(`<b>用主机名访问</b><span class="u">${a.hostname}</span>`);
+  const hint = a.cloud
+    ? '本页由 GitHub 云端每天 09:00 自动抓取并发布，不依赖任何一台个人电脑，公司电脑关机也能看。'
+    : `以上链接都要求这台电脑开机、看板服务和隧道在运行（登录后自动启动）。
+       公网地址由 Cloudflare 快速隧道提供，隧道重启（例如电脑重启）后地址会变，以这里显示的最新地址为准。`;
   document.getElementById('accessBox').innerHTML =
-    lines.join('') +
-    `<div class="hint">以上链接都要求这台电脑开机、看板服务和隧道在运行（登录后自动启动）。
-    公网地址由 Cloudflare 快速隧道提供，隧道重启（例如电脑重启）后地址会变，以这里显示的最新地址为准。</div>`;
+    lines.join('') + `<div class="hint">${hint}</div>`;
 }
 document.getElementById('stats').innerHTML = [
   ['今日新增', DATA.stats.new],
