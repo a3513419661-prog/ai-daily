@@ -1,0 +1,66 @@
+{
+  "date": "2026-09-16",
+  "summary": "今天的内容集中在三件事：把 AI 视频的「连续性」当成状态管理问题而不是玄学抽卡；用构图逻辑而非堆叠形容词来写提示词、串联镜头；以及把剪辑台、分镜台和 Agent 流水线真正接进日常工作流。工具层面 DaVinci 开始被 Claude/ChatGPT 直接驱动，SRT、分镜、多 Agent 协作都有可照抄的具体做法。",
+  "picks": [
+    {
+      "title": "AI Video Continuity Is a State-Tracking Problem",
+      "url": "https://medium.com/@videoagain/ai-video-continuity-is-a-state-tracking-problem-89de2c1e3bf7?source=rss------video_production-5",
+      "why": "把「AI 视频接不上」拆解成状态追踪问题，给出可落地的连续性管理思路，比反复重抽有用得多。",
+      "id": "827ba47ef98a744e"
+    },
+    {
+      "title": "DaVinci Resolve 21.1 Lets ChatGPT and Claude Perform Editing Tasks",
+      "url": "https://ymcinema.com/2026/09/09/davinci-resolve-21-1-chatgpt-claude-ai-assistants/",
+      "why": "DaVinci Resolve 21.1 开放给 ChatGPT/Claude 执行剪辑任务，是剪辑师工作流要变天的信号，值得提前摸一遍。",
+      "id": "603c5c40d6482e23"
+    },
+    {
+      "title": "How to Import and Edit an SRT File in DaVinci Resolve",
+      "url": "https://medium.com/@wangchuangji903/how-to-import-and-edit-an-srt-file-in-davinci-resolve-48a3ad0c9845?source=rss------post_production-5",
+      "why": "SRT 导入与编辑的实操步骤，字幕环节最容易被忽略却最影响成片质感，属于立刻能用的手艺。",
+      "id": "d85cb9e85341e40a"
+    },
+    {
+      "title": "不要用加法思维写提示词，构图逻辑更重要",
+      "url": "https://www.digitaling.com/articles/1582727.html",
+      "why": "点破「加形容词」的提示词误区，改用构图逻辑驱动画面，是导演思维介入 AI 生成的关键一课。",
+      "id": "9acc46cbdeb37daa"
+    },
+    {
+      "title": "From one AI image to a coherent film scene",
+      "url": "https://medium.com/@momo.rzq/from-one-ai-image-to-a-coherent-film-scene-6aa8c62d2dfe?source=rss------film_making-5",
+      "why": "讲从单张 AI 图扩展成一整场连贯戏的方法，正好补上「图能出、戏接不上」的断层。",
+      "id": "9f71319b17d9ccbe"
+    },
+    {
+      "title": "Agent时代，分享12个我最常用的Prompt",
+      "url": "https://www.digitaling.com/articles/1567698.html",
+      "why": "12 个高频 Prompt 的实战清单，Agent 时代的提示词写法可以直接拿来改造自己的模板库。",
+      "id": "da549b118a4a4f60"
+    },
+    {
+      "title": "The Simple AI Video Creation Workflow I Wish I’d Found Sooner",
+      "url": "https://medium.com/@hamimelon2026/the-simple-ai-video-creation-workflow-i-wish-id-found-sooner-5220b3cef82d?source=rss------ai_video-5",
+      "why": "一条被作者后悔没早点找到的 AI 视频创作流水线，适合用来对照检查自己流程里的冗余步骤。",
+      "id": "4c487972cccc05c2"
+    },
+    {
+      "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
+      "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
+      "why": "Seedance 2.5 的分镜工作流，演示如何把一句概念拆成逐个镜头的可执行计划。",
+      "id": "6f5f39903e351a2c"
+    },
+    {
+      "title": "多开几个 Agent，为什么反而更难把活干好？---- 从 Claude Code、Codex 到 DeepSeek Harness，拆解多 Agent 的收益、成本与运行机制。",
+      "url": "https://juejin.cn/post/7685674678509666340",
+      "why": "从收益、成本到运行机制拆解多 Agent，为什么开得越多反而越干不成活，做工作流设计前必读。",
+      "id": "9bc73db6f17f152a"
+    },
+    {
+      "title": "The Next Productivity Crisis May Be Too Much AI-Generated Work",
+      "url": "https://medium.com/@evensmith444/the-next-productivity-crisis-may-be-too-much-ai-generated-work-efa7a2a6544b?source=rss------generative_ai-5",
+      "why": "提醒「AI 生成物过剩」正在变成新的生产力危机，做内容产能规划时需要提前想清楚取舍。",
+      "id": "f72747d2555e90db"
+    }
+  ]
+}
