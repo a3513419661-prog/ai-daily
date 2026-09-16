@@ -45,6 +45,7 @@ LATEST_PATH = os.path.join(DATA_DIR, "latest.json")
 DIGEST_PATH = os.path.join(DATA_DIR, "digest.json")
 ZH_PATH = os.path.join(DATA_DIR, "zh.json")
 TUNNEL_URL_PATH = os.path.join(DATA_DIR, "tunnel-url.txt")
+SKILLS_SNAPSHOT_PATH = os.path.join(DATA_DIR, "skills.json")
 LOG_PATH = os.path.join(DATA_DIR, "last-run.log")
 SERVE_PORT = 8765
 
@@ -1038,6 +1039,18 @@ def load_zh_notes() -> dict:
     return {str(k): str(v) for k, v in data.items() if v}
 
 
+def load_skills_snapshot() -> list[dict]:
+    """云端没有本机 Skill 目录时，用仓库里的快照兜底。"""
+    if not os.path.exists(SKILLS_SNAPSHOT_PATH):
+        return []
+    try:
+        with open(SKILLS_SNAPSHOT_PATH, "r", encoding="utf-8") as fh:
+            data = json.load(fh)
+        return data if isinstance(data, list) else []
+    except Exception:  # noqa: BLE001
+        return []
+
+
 def attach_zh_notes(history: dict, notes: dict) -> int:
     if not notes:
         return 0
@@ -1197,8 +1210,17 @@ def run(render_only: bool, open_after: bool) -> int:
         save_json(HISTORY_PATH, history)
 
     skills = scan_skills(config)
+    if not skills:
+        skills = load_skills_snapshot()
+        if skills:
+            log(f"本机没有 Skill 目录，使用仓库快照里的 {len(skills)} 个")
     for skill in skills:
         skill["id"] = item_id(skill["name"], skill.get("path", skill["name"]))
+    if skills and os.environ.get("AI_DAILY_SKIP_SKILL_SNAPSHOT") != "1":
+        try:
+            save_json(SKILLS_SNAPSHOT_PATH, skills)
+        except OSError:
+            pass
 
     moved, dropped = reclassify_history(history, classifier)
     if moved or dropped:

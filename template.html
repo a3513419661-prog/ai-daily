@@ -277,6 +277,10 @@ document.getElementById('skills').innerHTML = DATA.skills.map(s => `
     <div class="row"><a href="${s.url}" class="tag">查看 SKILL.md</a></div>
   </div>`).join('');
 document.getElementById('skillCount').textContent = `共 ${DATA.skills.length} 个（个人 + 插件内置）`;
+if(!DATA.skills.length){
+  document.getElementById('skills').closest('h2').style.display = 'none';
+  document.getElementById('skills').style.display = 'none';
+}
 
 document.addEventListener('click', e => {
   const tab = e.target.closest('.tab');
