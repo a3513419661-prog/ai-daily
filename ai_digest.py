@@ -85,7 +85,7 @@ def main() -> int:
     pref = preference_note(config)
 
     buckets = collect.build_view(history, config, set())["buckets"]
-    craft_keys = ("editing", "directing", "storyboard", "aicraft", "learning")
+    craft_keys = ("editing", "directing", "storyboard", "aicraft", "learning", "video")
     lines = []
     for key in craft_keys:
         for item in buckets.get(key, [])[:12]:

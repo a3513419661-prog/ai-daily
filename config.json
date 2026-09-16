@@ -669,6 +669,21 @@
     { "q": "coding agent workflow", "label": "Agent 工作流", "min_points": 20 },
     { "q": "codex skills", "label": "Codex Skill", "min_points": 5 }
   ],
+  "youtube": [
+    { "name": "This Guy Edits", "channel_id": "UCcPuBEAwuF6XWXkcXJXJwsg", "weight": 1.05, "max_items": 3, "recent_days": 30 },
+    { "name": "Premiere Gal", "channel_id": "UCaDZLsDEEBBJESXmmi-9m5w", "weight": 1.05, "max_items": 3, "recent_days": 30 },
+    { "name": "Film Riot", "channel_id": "UC6P24bhhCmMPOcujA9PKPTA", "weight": 1.0, "max_items": 3, "recent_days": 30 },
+    { "name": "StudioBinder", "channel_id": "UCDylnpLJWDj2gKWujjwap9w", "weight": 1.1, "max_items": 3, "recent_days": 30 },
+    { "name": "In Depth Cine", "channel_id": "UCUodELQsFwF8dq0X-bK9FQQ", "weight": 1.1, "max_items": 3, "recent_days": 30 },
+    { "name": "wolfcrow", "channel_id": "UC7gBcKzHKc0oOR5-XiWdlFQ", "weight": 1.0, "max_items": 3, "recent_days": 30 },
+    { "name": "Curious Refuge", "channel_id": "UClnFtyUEaxQOCd1s5NKYGFA", "weight": 1.1, "max_items": 3, "recent_days": 30 },
+    { "name": "Theoretically Media", "channel_id": "UC9Ryt3XOGYBoAJVsBHNGDzA", "weight": 1.05, "max_items": 3, "recent_days": 30 },
+    { "name": "Matt Wolfe", "channel_id": "UChpleBmo18P08aKCIgti38g", "weight": 1.0, "max_items": 3, "recent_days": 30 },
+    { "name": "Runway", "channel_id": "UCUBqu_z5uP0AZhYtuyFZB3g", "weight": 1.0, "max_items": 2, "recent_days": 45 },
+    { "name": "Pika Labs", "channel_id": "UC0SclYU4iiQRihtmDnak-gQ", "weight": 0.95, "max_items": 2, "recent_days": 45 },
+    { "name": "AI Explained", "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw", "weight": 0.95, "max_items": 2, "recent_days": 30 },
+    { "name": "Two Minute Papers", "channel_id": "UCbfYPyITQ-7l4upoX8nvctg", "weight": 0.95, "max_items": 2, "recent_days": 30 }
+  ],
   "github": {
     "trending": true,
     "searches": [

@@ -61,6 +61,7 @@ CATEGORY_META = [
     ("directing", "导演 · 影视化"),
     ("storyboard", "分镜 · 视觉"),
     ("learning", "教程 · 学习"),
+    ("video", "视频 · 教程"),
     ("tools", "开源 · 工具"),
     ("drama", "AI 短剧动态"),
     ("trend", "风向 · 洞察"),
@@ -193,9 +194,16 @@ def iso(dt: datetime | None) -> str:
 
 def item_id(title: str, url: str) -> str:
     base = (url or title or "").strip().lower()
-    base = re.sub(r"^https?://", "", base)
-    base = re.sub(r"[?#].*$", "", base)
-    base = base.rstrip("/")
+    base = re.sub(r"#.*$", "", base)
+    # 只去掉跟踪参数，保留 ?v=、?p= 这类真正区分内容的查询串
+    if "?" in base:
+        head, _, query = base.partition("?")
+        keep = [
+            part for part in query.split("&")
+            if part and not re.match(r"^(utm_[^=]*|fbclid|gclid|ref|ref_src|spm|share_token|source|from)=", part)
+        ]
+        base = head + (("?" + "&".join(keep)) if keep else "")
+    base = re.sub(r"^https?://", "", base).rstrip("/")
     return hashlib.sha1(base.encode("utf-8", "replace")).hexdigest()[:16]
 
 
@@ -667,6 +675,55 @@ def fetch_google_news(config: dict, classifier: Classifier) -> list[dict]:
     return items
 
 
+def fetch_youtube(config: dict, classifier: Classifier) -> list[dict]:
+    """YouTube 频道更新：视频教程类内容，独立进「视频 · 教程」栏目。"""
+    items: list[dict] = []
+    for channel in config.get("youtube", []):
+        name = channel.get("name", "")
+        cid = channel.get("channel_id", "")
+        if not cid:
+            continue
+        url = f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}"
+        source = {
+            "id": "youtube",
+            "name": name,
+            "url": url,
+            "lang": channel.get("lang", "en"),
+            "weight": float(channel.get("weight", 1.0)),
+            "ai_only": True,
+        }
+        raw = http_get(url, timeout=20, tries=2)
+        if not raw:
+            log(f"  ! YouTube {name} 抓取失败")
+            continue
+        parsed = parse_feed(raw, source)
+        if not parsed:
+            log(f"  ! YouTube {name} 没有可用条目")
+            continue
+        recent_days = int(channel.get("recent_days", 30))
+        cutoff = now_utc() - timedelta(days=recent_days)
+        parsed.sort(key=lambda i: parse_dt(i.get("published", "")) or now_utc(), reverse=True)
+        kept: list[dict] = []
+        for item in parsed:
+            published = parse_dt(item.get("published", ""))
+            if published and published < cutoff:
+                continue
+            if PROMO_NOISE.search(item["title"]):
+                continue
+            if re.search(r"https?://|skool\.com|patreon\.com|\bapply now\b", item["title"], re.I):
+                continue  # 视频标题就是报名/推广链接的，跳过
+            item["kind"] = "video"
+            item["source"] = name
+            item["extra"] = "视频"
+            kept.append(item)
+            if len(kept) >= int(channel.get("max_items", 3)):
+                break
+        items.extend(kept)
+        log(f"  · YouTube {name}: {len(kept)} 条视频")
+        time.sleep(0.3)
+    return items
+
+
 def fetch_hn_queries(config: dict, classifier: Classifier) -> list[dict]:
     """Hacker News 关键词搜索（Algolia 接口，无需鉴权）。"""
     items: list[dict] = []
@@ -954,6 +1011,10 @@ def reclassify_history(history: dict, classifier: Classifier, days: int = 60) ->
         )
         if stamp and stamp < cutoff:
             continue
+        if item.get("kind") == "video":
+            item["category"] = "video"
+            item["score"] = score_item(item, classifier)
+            continue
         category, tags = classifier.classify(item.get("title", ""), text, item.get("kind", "article"))
         if item.get("default_category") and category in ("trend", "hotspot"):
             category = item["default_category"]
@@ -1188,6 +1249,7 @@ def run(render_only: bool, open_after: bool) -> int:
         log(f"开始抓取，共 {stats['sources_total']} 个订阅源")
         raw_items = fetch_feeds(config, classifier)
         raw_items += fetch_google_news(config, classifier)
+        raw_items += fetch_youtube(config, classifier)
         raw_items += fetch_hn_queries(config, classifier)
         raw_items += fetch_github_trending(config, classifier)
         raw_items += fetch_github_search(config, classifier)
@@ -1198,6 +1260,8 @@ def run(render_only: bool, open_after: bool) -> int:
             if TITLE_JUNK.search(item["title"]):
                 continue
             category, tags = classifier.classify(item["title"], item.get("summary", ""), item.get("kind", "article"))
+            if item.get("kind") == "video":
+                category = "video"  # 视频统一进「视频 · 教程」栏目
             if item.get("default_category") and category in ("trend", "hotspot"):
                 category = item["default_category"]
             if category == "trend" and not TREND_GATE.search(item["title"]):
