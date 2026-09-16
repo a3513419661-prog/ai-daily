@@ -1,0 +1,15 @@
+name: 测试 B 站接口可达性
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 探测 B 站接口
+        run: python tools/btest.py

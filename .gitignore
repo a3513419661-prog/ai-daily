@@ -1,6 +1,6 @@
 __pycache__/
 *.pyc
-tools/
+tools/cloudflared.exe
 preview.png
 data/run-history.log
 data/last-run.log
