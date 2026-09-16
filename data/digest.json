@@ -1,66 +1,66 @@
 {
   "date": "2026-09-16",
-  "summary": "今天能学到的主要是三类实操：一是导演与视觉的构图/镜头语言，包括中文作者讲的「构图逻辑优先于堆提示词」、库布里克的场面控制，以及从单张 AI 图像扩展成连贯电影场景；二是剪辑与 AI 视频工作流，覆盖 DaVinci Resolve 的 SRT 字幕处理、AI 视频的连续性状态追踪和广告剪辑的底层手艺；三是提示词与分镜流程，含中文 12 个常用 Prompt、一套简易 AI 视频创作流程和 Seedance 2.5 的逐镜分镜方法，末尾附带一个把模糊需求补成可开发规格的 AI 学习案例。",
+  "summary": "今天的素材集中在三件事上：一是把剪辑拆成可复用的具体动作——SRT 字幕、剪辑问题排查、AI 视频的连续性管理；二是导演与镜头语言，从构图写提示词到达利镜头、单张 AI 图扩展成完整场景；三是 AI 视频与分镜的工作流串联，包括 Seedance 分镜表、Runway 角色一致性。整体偏向可以直接上手复现的流程，而不是新闻或工具清单。",
   "picks": [
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文内容，直接纠正「堆提示词」的误区，讲清构图逻辑如何决定画面。",
+      "why": "讲清提示词不是堆词，而是先定构图逻辑，直接可用于出图出片。",
       "id": "9acc46cbdeb37daa"
     },
     {
-      "title": "Stanley Kubrick’s Filmmaking Style: The Five Dimensions of His Creative Control",
-      "url": "https://filmdaft.com/stanley-kubricks-filmmaking-style-the-five-dimensions-of-his-creative-control/",
-      "why": "拆解库布里克五个维度的创作控制，是学镜头语言与导演调度的高密度素材。",
-      "id": "6f7553e309cff915"
-    },
-    {
       "title": "From one AI image to a coherent film scene",
-      "url": "https://medium.com/@momo.rzq/from-one-ai-image-to-a-coherent-film-scene-6aa8c62d2dfe?source=rss------film_making-5",
-      "why": "从一张 AI 图到连贯电影场景，适合学 AI 影视化的镜头衔接。",
+      "url": "https://medium.com/@momo.rzq/from-one-ai-image-to-a-coherent-film-scene-6aa8c62d2dfe?source=rss------filmmaking-5",
+      "why": "示范如何从一张 AI 静帧扩成连贯的影视场景，是 AI 叙事的核心难点。",
       "id": "9f71319b17d9ccbe"
     },
     {
-      "title": "How to Import and Edit an SRT File in DaVinci Resolve",
-      "url": "https://medium.com/@wangchuangji903/how-to-import-and-edit-an-srt-file-in-davinci-resolve-48a3ad0c9845?source=rss------post_production-5",
-      "why": "DaVinci Resolve 导入与编辑 SRT 的逐步实操，当天就能上手。",
-      "id": "d85cb9e85341e40a"
+      "title": "Dolly Shots Explained",
+      "url": "https://www.youtube.com/watch?v=NOa1JBdcsVI",
+      "why": "把推轨镜头的动机、路径与情绪作用讲透，运镜入门必备。",
+      "id": "3ac4baa8c24bf3dd"
     },
     {
       "title": "AI Video Continuity Is a State-Tracking Problem",
       "url": "https://medium.com/@videoagain/ai-video-continuity-is-a-state-tracking-problem-89de2c1e3bf7?source=rss------video_production-5",
-      "why": "把 AI 视频连续性当成状态追踪问题来讲，是 AI 视频工作流的关键认知。",
+      "why": "把 AI 视频跳帧、变脸问题拆成状态追踪问题，给出了可落地的排查思路。",
       "id": "827ba47ef98a744e"
     },
     {
-      "title": "Social Media Video Editing: The Unsexy Craft Behind Every Ad That Actually Works",
-      "url": "https://medium.com/@rangreelstudio/social-media-video-editing-the-unsexy-craft-behind-every-ad-that-actually-works-e68fa262e10b?source=rss------video_editing-5",
-      "why": "广告剪辑背后的手艺拆解，聚焦节奏和有效表达而非工具。",
-      "id": "eb34ae56840bc366"
+      "title": "The Breadcrumbs of a Troubled Edit",
+      "url": "https://medium.com/@hello_93098/the-breadcrumbs-of-a-troubled-edit-090c4798f802?source=rss------post_production-5",
+      "why": "教你在剪辑卡住时从素材、节奏、动机里找线索，是提升判断力的实操方法。",
+      "id": "64c2d3dcf7b59a72"
     },
     {
-      "title": "Agent时代，分享12个我最常用的Prompt",
-      "url": "https://www.digitaling.com/articles/1567698.html",
-      "why": "中文作者分享 12 个常用 Prompt，可直接抄用和改造。",
-      "id": "da549b118a4a4f60"
-    },
-    {
-      "title": "The Simple AI Video Creation Workflow I Wish I’d Found Sooner",
-      "url": "https://medium.com/@hamimelon2026/the-simple-ai-video-creation-workflow-i-wish-id-found-sooner-5220b3cef82d?source=rss------ai_video-5",
-      "why": "一套被作者称为「早该找到」的 AI 视频创作流程，实操性强。",
-      "id": "4c487972cccc05c2"
+      "title": "How to Import and Edit an SRT File in DaVinci Resolve",
+      "url": "https://medium.com/@wangchuangji903/how-to-import-and-edit-an-srt-file-in-davinci-resolve-48a3ad0c9845?source=rss------post_production-5",
+      "why": "达芬奇导入与编辑 SRT 字幕的完整步骤，交片交付会立刻用上。",
+      "id": "d85cb9e85341e40a"
     },
     {
       "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
       "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "Seedance 2.5 分镜工作流，把概念落成逐镜计划，正好补分镜方法。",
+      "why": "用 Seedance 2.5 把概念拆成逐镜分镜表的完整工作流，可直接套用。",
       "id": "6f5f39903e351a2c"
     },
     {
-      "title": "当 PRD 里只有一句“支持语音识别”：我如何用 AI 把它补成可开发规格",
-      "url": "https://juejin.cn/post/7685662874368180266",
-      "why": "中文案例：用 AI 把一句模糊需求补成可开发规格，学需求到执行的工作流。",
-      "id": "e4beaa5e17400b24"
+      "title": "The Simple AI Video Creation Workflow I Wish I’d Found Sooner",
+      "url": "https://medium.com/@hamimelon2026/the-simple-ai-video-creation-workflow-i-wish-id-found-sooner-5220b3cef82d?source=rss------ai_video-5",
+      "why": "一条被验证过的 AI 视频全流程，省去自己拼工具链的试错时间。",
+      "id": "4c487972cccc05c2"
+    },
+    {
+      "title": "Consistent AI Characters, Voices and Scenes (Advanced Workflow) | Runway",
+      "url": "https://www.youtube.com/watch?v=swx780Vy_OQ",
+      "why": "Runway 进阶工作流，专治角色、声音、场景不一致的老问题。",
+      "id": "336d93e1d9caff98"
+    },
+    {
+      "title": "【动画】 📚 CSS 动画与 GPU 合成层优化全链路指南",
+      "url": "https://juejin.cn/post/7685659198120263714",
+      "why": "CSS 动画与 GPU 合成层的全链路讲解，做动态视觉时能少踩性能坑。",
+      "id": "8a7a1563137104ad"
     }
   ]
 }
