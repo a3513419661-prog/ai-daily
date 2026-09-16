@@ -9,6 +9,7 @@
       "directing": 40,
       "storyboard": 30,
       "learning": 40,
+      "video": 30,
       "tools": 22,
       "drama": 16,
       "trend": 12
@@ -614,6 +615,36 @@
       "ai_title_only": true,
       "max_items": 8,
       "recent_days": 10
+    },
+    {
+      "id": "technews_tw",
+      "name": "科技新报",
+      "url": "https://technews.tw/feed/",
+      "lang": "zh",
+      "weight": 1.0,
+      "ai_title_only": true,
+      "max_items": 8,
+      "recent_days": 21
+    },
+    {
+      "id": "nytimes_cn",
+      "name": "纽约时报中文网",
+      "url": "https://cn.nytimes.com/rss/",
+      "lang": "zh",
+      "weight": 0.95,
+      "ai_title_only": true,
+      "max_items": 6,
+      "recent_days": 21
+    },
+    {
+      "id": "dw_cn",
+      "name": "德国之声中文",
+      "url": "https://rss.dw.com/rdf/rss-chi-all",
+      "lang": "zh",
+      "weight": 0.9,
+      "ai_title_only": true,
+      "max_items": 6,
+      "recent_days": 21
     }
   ],
   "google_news": [
@@ -670,17 +701,28 @@
     { "q": "codex skills", "label": "Codex Skill", "min_points": 5 }
   ],
   "youtube": [
-    { "name": "This Guy Edits", "channel_id": "UCcPuBEAwuF6XWXkcXJXJwsg", "weight": 1.05, "max_items": 3, "recent_days": 30 },
-    { "name": "Premiere Gal", "channel_id": "UCaDZLsDEEBBJESXmmi-9m5w", "weight": 1.05, "max_items": 3, "recent_days": 30 },
-    { "name": "Film Riot", "channel_id": "UC6P24bhhCmMPOcujA9PKPTA", "weight": 1.0, "max_items": 3, "recent_days": 30 },
-    { "name": "StudioBinder", "channel_id": "UCDylnpLJWDj2gKWujjwap9w", "weight": 1.1, "max_items": 3, "recent_days": 30 },
-    { "name": "In Depth Cine", "channel_id": "UCUodELQsFwF8dq0X-bK9FQQ", "weight": 1.1, "max_items": 3, "recent_days": 30 },
-    { "name": "wolfcrow", "channel_id": "UC7gBcKzHKc0oOR5-XiWdlFQ", "weight": 1.0, "max_items": 3, "recent_days": 30 },
-    { "name": "Curious Refuge", "channel_id": "UClnFtyUEaxQOCd1s5NKYGFA", "weight": 1.1, "max_items": 3, "recent_days": 30 },
-    { "name": "Theoretically Media", "channel_id": "UC9Ryt3XOGYBoAJVsBHNGDzA", "weight": 1.05, "max_items": 3, "recent_days": 30 },
-    { "name": "Matt Wolfe", "channel_id": "UChpleBmo18P08aKCIgti38g", "weight": 1.0, "max_items": 3, "recent_days": 30 },
+    { "name": "小发AI短剧", "channel_id": "UC5xYgnMoQCSmcHiJ-2KGPWg", "lang": "zh", "weight": 1.15, "max_items": 3, "recent_days": 30 },
+    { "name": "破局信息差", "channel_id": "UCeGR2131fGSHMjFf8g-WSaQ", "lang": "zh", "weight": 1.15, "max_items": 3, "recent_days": 30 },
+    { "name": "Xuan2333", "channel_id": "UCWV5QX_b9JuIraI5FnZTFig", "lang": "zh", "weight": 1.15, "max_items": 3, "recent_days": 45 },
+    { "name": "AI视频教程", "channel_id": "UCHjAIVXidnBzbG-HInYB4mA", "lang": "zh", "weight": 1.15, "max_items": 3, "recent_days": 30 },
+    { "name": "AI漫剧工作流", "channel_id": "UCpcrHhaLmiAyDCDZ562ZzWw", "lang": "zh", "weight": 1.1, "max_items": 3, "recent_days": 30 },
+    { "name": "AI短剧教学", "channel_id": "UCFWGXUM1XeES8Cgu_TSd5lA", "lang": "zh", "weight": 1.1, "max_items": 3, "recent_days": 30 },
+    { "name": "2002yusu", "channel_id": "UCmWaq7KWAIdln-vqmCvKOng", "lang": "zh", "weight": 1.1, "max_items": 3, "recent_days": 30 },
+    { "name": "小鱼儿技术", "channel_id": "UCfN8FFpE0Ce94ugnsUTakDA", "lang": "zh", "weight": 1.1, "max_items": 3, "recent_days": 30 },
+    { "name": "Austin Chou", "channel_id": "UC3hsgc8SHJs1RDMEZBCAccA", "lang": "zh", "weight": 1.05, "max_items": 2, "recent_days": 30 },
+    { "name": "零度解说", "channel_id": "UCvijahEyGtvMpmMHBu4FS2w", "lang": "zh", "weight": 1.0, "max_items": 2, "recent_days": 30 },
+    { "name": "Greyson 剪辑教学", "channel_id": "UCCNfpRADcNqqPK8PJZgHRNQ", "lang": "zh", "weight": 1.05, "max_items": 2, "recent_days": 45 },
+    { "name": "影视飓风 MediaStorm", "channel_id": "UC2cRwTuSWxxEtrRnT4lrlQA", "lang": "zh", "weight": 1.0, "max_items": 2, "recent_days": 30 },
+    { "name": "This Guy Edits", "channel_id": "UCcPuBEAwuF6XWXkcXJXJwsg", "weight": 1.05, "max_items": 2, "recent_days": 30 },
+    { "name": "Premiere Gal", "channel_id": "UCaDZLsDEEBBJESXmmi-9m5w", "weight": 1.05, "max_items": 2, "recent_days": 30 },
+    { "name": "Film Riot", "channel_id": "UC6P24bhhCmMPOcujA9PKPTA", "weight": 1.0, "max_items": 2, "recent_days": 30 },
+    { "name": "StudioBinder", "channel_id": "UCDylnpLJWDj2gKWujjwap9w", "weight": 1.1, "max_items": 2, "recent_days": 30 },
+    { "name": "In Depth Cine", "channel_id": "UCUodELQsFwF8dq0X-bK9FQQ", "weight": 1.1, "max_items": 2, "recent_days": 30 },
+    { "name": "wolfcrow", "channel_id": "UC7gBcKzHKc0oOR5-XiWdlFQ", "weight": 1.0, "max_items": 2, "recent_days": 30 },
+    { "name": "Curious Refuge", "channel_id": "UClnFtyUEaxQOCd1s5NKYGFA", "weight": 1.1, "max_items": 2, "recent_days": 30 },
+    { "name": "Theoretically Media", "channel_id": "UC9Ryt3XOGYBoAJVsBHNGDzA", "weight": 1.05, "max_items": 2, "recent_days": 30 },
+    { "name": "Matt Wolfe", "channel_id": "UChpleBmo18P08aKCIgti38g", "weight": 1.0, "max_items": 2, "recent_days": 30 },
     { "name": "Runway", "channel_id": "UCUBqu_z5uP0AZhYtuyFZB3g", "weight": 1.0, "max_items": 2, "recent_days": 45 },
-    { "name": "Pika Labs", "channel_id": "UC0SclYU4iiQRihtmDnak-gQ", "weight": 0.95, "max_items": 2, "recent_days": 45 },
     { "name": "AI Explained", "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw", "weight": 0.95, "max_items": 2, "recent_days": 30 },
     { "name": "Two Minute Papers", "channel_id": "UCbfYPyITQ-7l4upoX8nvctg", "weight": 0.95, "max_items": 2, "recent_days": 30 }
   ],
