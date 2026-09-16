@@ -2,6 +2,7 @@
   "options": {
     "timeout_seconds": 20,
     "max_per_category": 60,
+    "ai_preferences": "优先推能直接学到的实操内容：剪辑节奏与调色、导演/镜头语言、分镜与运镜、AI 视频与提示词工作流。少推纯发布新闻、融资估值、课程广告、器材评测；同一天同一件事只留一条。中文内容优先展示。",
     "category_caps": {
       "aicraft": 45,
       "editing": 45,

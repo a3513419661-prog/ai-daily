@@ -28,6 +28,14 @@ storyboard（分镜·视觉）、learning（教程·学习）、tools（开源·
 只输出 JSON，不要解释。"""
 
 
+def preference_note(config: dict) -> str:
+    """把 config.json 里的 ai_preferences 变成提示词里的一段要求。"""
+    pref = str(config.get("options", {}).get("ai_preferences", "")).strip()
+    if not pref:
+        return ""
+    return "\n\n本期用户的明确偏好（优先满足）：\n" + pref
+
+
 def call_llm(prompt: str, api_key: str, base_url: str, model: str) -> str:
     payload = {
         "model": model,
@@ -74,6 +82,7 @@ def main() -> int:
     if not history:
         print("没有数据，跳过")
         return 0
+    pref = preference_note(config)
 
     buckets = collect.build_view(history, config, set())["buckets"]
     craft_keys = ("editing", "directing", "storyboard", "aicraft", "learning")
@@ -92,7 +101,9 @@ def main() -> int:
     try:
         note_raw = call_llm(
             "下面是今天的条目。给每条写一句中文导读（不超过 60 字，说清能学到什么，不要复述标题）。\n"
-            '输出格式：{"items":{"<id>":"中文导读", ...}}\n\n' + todo_text,
+            '输出格式：{"items":{"<id>":"中文导读", ...}}'
+            + pref
+            + "\n\n" + todo_text,
             api_key,
             base_url,
             model,
@@ -113,8 +124,9 @@ def main() -> int:
         digest_raw = call_llm(
             "下面是今天的条目。挑 8-10 条最值得学的，编辑、导演、AI 创作技巧各至少 2 条，"
             "分镜、教程各至少 1 条，开源或风向最多 1 条。\n"
-            '输出格式：{"summary":"2-3 句话概括今天能学到什么","picks":[{"id":"<id>","why":"一句话"}]}\n\n'
-            + listing,
+            '输出格式：{"summary":"2-3 句话概括今天能学到什么","picks":[{"id":"<id>","why":"一句话"}]}'
+            + pref
+            + "\n\n" + listing,
             api_key,
             base_url,
             model,
