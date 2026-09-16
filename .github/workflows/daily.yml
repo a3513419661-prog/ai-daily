@@ -1,0 +1,45 @@
+name: 每日抓取并发布看板
+
+on:
+  schedule:
+    # 每天 01:00 UTC = 北京时间 09:00
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 抓取当天内容
+        run: python collect.py
+
+      - name: 可选｜用大模型生成中文摘要与导读
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+        run: python ai_digest.py
+
+      - name: 重新渲染页面
+        run: python collect.py --render
+
+      - name: 提交更新
+        run: |
+          git config user.name "ai-daily-bot"
+          git config user.email "ai-daily-bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "今天没有变化"
+          else
+            git commit -m "更新看板 $(date -u '+%Y-%m-%d')"
+            git push
+          fi

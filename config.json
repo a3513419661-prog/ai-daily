@@ -1,0 +1,748 @@
+{
+  "options": {
+    "timeout_seconds": 20,
+    "max_per_category": 60,
+    "category_caps": {
+      "aicraft": 45,
+      "editing": 45,
+      "directing": 40,
+      "storyboard": 30,
+      "learning": 40,
+      "tools": 22,
+      "drama": 16,
+      "trend": 12
+    },
+    "history_days": 90,
+    "fresh_window_hours": 30
+  },
+  "feeds": [
+    {
+      "id": "medium_editing",
+      "name": "Medium · 剪辑",
+      "url": "https://medium.com/feed/tag/video-editing",
+      "lang": "en",
+      "weight": 1.0,
+      "default_category": "editing",
+      "craft_only": true,
+      "max_items": 8,
+      "recent_days": 30
+    },
+    {
+      "id": "medium_editing_tips",
+      "name": "Medium · 剪辑技巧",
+      "url": "https://medium.com/feed/tag/video-editing-tips",
+      "lang": "en",
+      "weight": 1.05,
+      "default_category": "editing",
+      "craft_only": true,
+      "max_items": 8,
+      "recent_days": 60
+    },
+    {
+      "id": "medium_post_production",
+      "name": "Medium · 后期",
+      "url": "https://medium.com/feed/tag/post-production",
+      "lang": "en",
+      "weight": 1.05,
+      "default_category": "editing",
+      "craft_only": true,
+      "max_items": 8,
+      "recent_days": 60
+    },
+    {
+      "id": "medium_color_grading",
+      "name": "Medium · 调色",
+      "url": "https://medium.com/feed/tag/color-grading",
+      "lang": "en",
+      "weight": 1.05,
+      "default_category": "editing",
+      "craft_only": true,
+      "max_items": 6,
+      "recent_days": 60
+    },
+    {
+      "id": "medium_video_production",
+      "name": "Medium · 制作",
+      "url": "https://medium.com/feed/tag/video-production",
+      "lang": "en",
+      "weight": 1.0,
+      "default_category": "editing",
+      "craft_only": true,
+      "max_items": 8,
+      "recent_days": 30
+    },
+    {
+      "id": "medium_motion_design",
+      "name": "Medium · 动态设计",
+      "url": "https://medium.com/feed/tag/motion-design",
+      "lang": "en",
+      "weight": 0.95,
+      "default_category": "editing",
+      "craft_only": true,
+      "max_items": 5,
+      "recent_days": 30
+    },
+    {
+      "id": "medium_filmmaking",
+      "name": "Medium · 电影制作",
+      "url": "https://medium.com/feed/tag/filmmaking",
+      "lang": "en",
+      "weight": 1.05,
+      "default_category": "directing",
+      "craft_only": true,
+      "max_items": 8,
+      "recent_days": 30
+    },
+    {
+      "id": "medium_cinematography",
+      "name": "Medium · 摄影",
+      "url": "https://medium.com/feed/tag/cinematography",
+      "lang": "en",
+      "weight": 1.05,
+      "default_category": "directing",
+      "craft_only": true,
+      "max_items": 8,
+      "recent_days": 30
+    },
+    {
+      "id": "medium_screenwriting",
+      "name": "Medium · 编剧",
+      "url": "https://medium.com/feed/tag/screenwriting",
+      "lang": "en",
+      "weight": 1.0,
+      "default_category": "directing",
+      "craft_only": true,
+      "max_items": 6,
+      "recent_days": 30
+    },
+    {
+      "id": "medium_film_making",
+      "name": "Medium · 影视制作",
+      "url": "https://medium.com/feed/tag/film-making",
+      "lang": "en",
+      "weight": 1.0,
+      "default_category": "directing",
+      "craft_only": true,
+      "max_items": 6,
+      "recent_days": 45
+    },
+    {
+      "id": "medium_storyboarding",
+      "name": "Medium · 分镜",
+      "url": "https://medium.com/feed/tag/storyboarding",
+      "lang": "en",
+      "weight": 1.05,
+      "default_category": "storyboard",
+      "craft_only": true,
+      "max_items": 8,
+      "recent_days": 90
+    },
+    {
+      "id": "medium_storyboard",
+      "name": "Medium · 故事板",
+      "url": "https://medium.com/feed/tag/storyboard",
+      "lang": "en",
+      "weight": 1.05,
+      "default_category": "storyboard",
+      "craft_only": true,
+      "max_items": 6,
+      "recent_days": 120
+    },
+    {
+      "id": "medium_concept_art",
+      "name": "Medium · 概念设计",
+      "url": "https://medium.com/feed/tag/concept-art",
+      "lang": "en",
+      "weight": 1.0,
+      "default_category": "storyboard",
+      "craft_only": true,
+      "max_items": 6,
+      "recent_days": 90
+    },
+    {
+      "id": "medium_visual_development",
+      "name": "Medium · 视觉开发",
+      "url": "https://medium.com/feed/tag/visual-development",
+      "lang": "en",
+      "weight": 0.95,
+      "default_category": "storyboard",
+      "craft_only": true,
+      "max_items": 5,
+      "recent_days": 120
+    },
+    {
+      "id": "filmdaft",
+      "name": "Film Daft",
+      "url": "https://filmdaft.com/feed/",
+      "lang": "en",
+      "weight": 1.1,
+      "default_category": "directing",
+      "craft_only": true,
+      "max_items": 6,
+      "recent_days": 150
+    },
+    {
+      "id": "vashivisuals",
+      "name": "Vashi Visuals",
+      "url": "https://vashivisuals.com/feed/",
+      "lang": "en",
+      "weight": 1.1,
+      "default_category": "directing",
+      "craft_only": true,
+      "max_items": 6,
+      "recent_days": 150
+    },
+    {
+      "id": "ymcinema",
+      "name": "YM Cinema",
+      "url": "https://ymcinema.com/feed/",
+      "lang": "en",
+      "weight": 0.95,
+      "default_category": "directing",
+      "craft_only": true,
+      "max_items": 5,
+      "recent_days": 14
+    },
+    {
+      "id": "filmcourage",
+      "name": "Film Courage",
+      "url": "https://filmcourage.com/feed",
+      "lang": "en",
+      "weight": 1.05,
+      "default_category": "directing",
+      "craft_only": true,
+      "max_items": 6,
+      "recent_days": 30
+    },
+    {
+      "id": "filmmakermagazine",
+      "name": "Filmmaker Magazine",
+      "url": "https://filmmakermagazine.com/feed/",
+      "lang": "en",
+      "weight": 1.0,
+      "default_category": "directing",
+      "craft_only": true,
+      "max_items": 5,
+      "recent_days": 30
+    },
+    {
+      "id": "provideocoalition",
+      "name": "ProVideo Coalition",
+      "url": "https://www.provideocoalition.com/feed/",
+      "lang": "en",
+      "weight": 1.0,
+      "default_category": "editing",
+      "craft_only": true,
+      "max_items": 6,
+      "recent_days": 30
+    },
+    {
+      "id": "videomaker",
+      "name": "Videomaker",
+      "url": "https://www.videomaker.com/feed/",
+      "lang": "en",
+      "weight": 0.95,
+      "default_category": "directing",
+      "craft_only": true,
+      "max_items": 5,
+      "recent_days": 30
+    },
+    {
+      "id": "frameio",
+      "name": "Frame.io Insider",
+      "url": "https://blog.frame.io/feed",
+      "lang": "en",
+      "weight": 1.05,
+      "default_category": "editing",
+      "craft_only": true,
+      "max_items": 5,
+      "recent_days": 150
+    },
+    {
+      "id": "medium_prompt_engineering",
+      "name": "Medium · 提示词",
+      "url": "https://medium.com/feed/tag/prompt-engineering",
+      "lang": "en",
+      "weight": 1.05,
+      "default_category": "aicraft",
+      "max_items": 8,
+      "recent_days": 30
+    },
+    {
+      "id": "medium_generative_ai",
+      "name": "Medium · 生成式 AI",
+      "url": "https://medium.com/feed/tag/generative-ai",
+      "lang": "en",
+      "weight": 1.0,
+      "default_category": "aicraft",
+      "max_items": 8,
+      "recent_days": 21
+    },
+    {
+      "id": "medium_ai_video",
+      "name": "Medium · AI 视频",
+      "url": "https://medium.com/feed/tag/ai-video",
+      "lang": "en",
+      "weight": 1.05,
+      "default_category": "aicraft",
+      "max_items": 8,
+      "recent_days": 90
+    },
+    {
+      "id": "medium_ai_art",
+      "name": "Medium · AI 绘画",
+      "url": "https://medium.com/feed/tag/ai-art",
+      "lang": "en",
+      "weight": 1.0,
+      "default_category": "aicraft",
+      "max_items": 6,
+      "recent_days": 45
+    },
+    {
+      "id": "towardsdatascience",
+      "name": "Towards Data Science",
+      "url": "https://towardsdatascience.com/feed",
+      "lang": "en",
+      "weight": 1.0,
+      "default_category": "learning",
+      "ai_title_only": true,
+      "max_items": 8,
+      "recent_days": 21
+    },
+    {
+      "id": "kdnuggets",
+      "name": "KDnuggets",
+      "url": "https://www.kdnuggets.com/feed",
+      "lang": "en",
+      "weight": 1.0,
+      "default_category": "learning",
+      "ai_title_only": true,
+      "max_items": 6,
+      "recent_days": 30
+    },
+    {
+      "id": "machinelearningmastery",
+      "name": "ML Mastery",
+      "url": "https://machinelearningmastery.com/feed/",
+      "lang": "en",
+      "weight": 1.0,
+      "default_category": "learning",
+      "ai_title_only": true,
+      "max_items": 6,
+      "recent_days": 60
+    },
+    {
+      "id": "devto_tutorial",
+      "name": "DEV · 教程",
+      "url": "https://dev.to/feed/tag/tutorial",
+      "lang": "en",
+      "weight": 0.9,
+      "default_category": "learning",
+      "ai_title_only": true,
+      "max_items": 6,
+      "recent_days": 14
+    },
+    {
+      "id": "sebastianraschka",
+      "name": "Sebastian Raschka",
+      "url": "https://magazine.sebastianraschka.com/feed",
+      "lang": "en",
+      "weight": 1.1,
+      "default_category": "learning",
+      "max_items": 6,
+      "recent_days": 120
+    },
+    {
+      "id": "oneusefulthing",
+      "name": "One Useful Thing",
+      "url": "https://www.oneusefulthing.org/feed",
+      "lang": "en",
+      "weight": 1.1,
+      "default_category": "learning",
+      "max_items": 6,
+      "recent_days": 90
+    },
+    {
+      "id": "freecodecamp",
+      "name": "freeCodeCamp",
+      "url": "https://www.freecodecamp.org/news/rss/",
+      "lang": "en",
+      "weight": 0.9,
+      "default_category": "learning",
+      "ai_title_only": true,
+      "max_items": 6,
+      "recent_days": 30
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "lang": "en",
+      "weight": 1.1,
+      "default_category": "learning",
+      "max_items": 6,
+      "recent_days": 45
+    },
+    {
+      "id": "simonwillison",
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/atom/everything/",
+      "lang": "en",
+      "weight": 1.05,
+      "default_category": "learning",
+      "max_items": 8,
+      "recent_days": 30
+    },
+    {
+      "id": "devto_ai",
+      "name": "DEV · AI",
+      "url": "https://dev.to/feed/tag/ai",
+      "lang": "en",
+      "weight": 0.9,
+      "max_items": 6,
+      "recent_days": 14
+    },
+    {
+      "id": "latentspace",
+      "name": "Latent Space",
+      "url": "https://www.latent.space/feed",
+      "lang": "en",
+      "weight": 1.0,
+      "default_category": "trend",
+      "max_items": 6,
+      "recent_days": 45
+    },
+    {
+      "id": "platformer",
+      "name": "Platformer",
+      "url": "https://www.platformer.news/feed",
+      "lang": "en",
+      "weight": 1.0,
+      "default_category": "trend",
+      "max_items": 6,
+      "recent_days": 30
+    },
+    {
+      "id": "stratechery",
+      "name": "Stratechery",
+      "url": "https://stratechery.com/feed/",
+      "lang": "en",
+      "weight": 1.05,
+      "default_category": "trend",
+      "max_items": 6,
+      "recent_days": 60
+    },
+    {
+      "id": "interconnected",
+      "name": "Interconnected",
+      "url": "https://interconnected.org/home/feed",
+      "lang": "en",
+      "weight": 1.0,
+      "default_category": "trend",
+      "max_items": 5,
+      "recent_days": 120
+    },
+    {
+      "id": "mit_tr_ai",
+      "name": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "lang": "en",
+      "weight": 1.0,
+      "default_category": "trend",
+      "max_items": 6,
+      "recent_days": 21
+    },
+    {
+      "id": "techcrunch_ai",
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "lang": "en",
+      "weight": 0.95,
+      "default_category": "trend",
+      "max_items": 6,
+      "recent_days": 14
+    },
+    {
+      "id": "google_ai",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/rss/",
+      "lang": "en",
+      "weight": 0.95,
+      "ai_only": true,
+      "max_items": 5,
+      "recent_days": 45
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "url": "https://openai.com/blog/rss.xml",
+      "lang": "en",
+      "weight": 1.0,
+      "ai_only": true,
+      "max_items": 5,
+      "recent_days": 45
+    },
+    {
+      "id": "qbitai",
+      "name": "量子位",
+      "url": "https://www.qbitai.com/feed",
+      "lang": "zh",
+      "weight": 1.15,
+      "ai_only": true,
+      "max_items": 10,
+      "recent_days": 14
+    },
+    {
+      "id": "leiphone",
+      "name": "雷锋网",
+      "url": "https://www.leiphone.com/feed",
+      "lang": "zh",
+      "weight": 1.0,
+      "max_items": 8,
+      "recent_days": 20
+    },
+    {
+      "id": "infoq",
+      "name": "InfoQ 中文",
+      "url": "https://www.infoq.cn/feed",
+      "lang": "zh",
+      "weight": 1.0,
+      "max_items": 6,
+      "recent_days": 14
+    },
+    {
+      "id": "sspai",
+      "name": "少数派",
+      "url": "https://sspai.com/feed",
+      "lang": "zh",
+      "weight": 1.0,
+      "max_items": 8,
+      "recent_days": 30
+    },
+    {
+      "id": "ithome",
+      "name": "IT之家",
+      "url": "https://www.ithome.com/rss/",
+      "lang": "zh",
+      "weight": 0.85,
+      "max_items": 12,
+      "recent_days": 3
+    },
+    {
+      "id": "ifanr",
+      "name": "爱范儿",
+      "url": "https://www.ifanr.com/feed",
+      "lang": "zh",
+      "weight": 0.9,
+      "max_items": 6,
+      "recent_days": 14
+    },
+    {
+      "id": "solidot",
+      "name": "Solidot",
+      "url": "https://www.solidot.org/index.rss",
+      "lang": "zh",
+      "weight": 0.9,
+      "max_items": 6,
+      "recent_days": 14
+    },
+    {
+      "id": "tmtpost",
+      "name": "钛媒体",
+      "url": "https://www.tmtpost.com/rss.xml",
+      "lang": "zh",
+      "weight": 0.9,
+      "max_items": 6,
+      "recent_days": 7
+    },
+    {
+      "id": "hn",
+      "name": "Hacker News",
+      "url": "https://news.ycombinator.com/rss",
+      "lang": "en",
+      "weight": 1.0,
+      "max_items": 25,
+      "recent_days": 3
+    },
+    {
+      "id": "woshipm",
+      "name": "人人都是产品经理",
+      "url": "https://www.woshipm.com/feed",
+      "lang": "zh",
+      "weight": 1.05,
+      "ai_title_only": true,
+      "max_items": 8,
+      "recent_days": 21
+    },
+    {
+      "id": "digitaling",
+      "name": "数英 DIGITALING",
+      "url": "https://www.digitaling.com/rss",
+      "lang": "zh",
+      "weight": 0.95,
+      "ai_title_only": true,
+      "max_items": 8,
+      "recent_days": 21
+    },
+    {
+      "id": "juejin",
+      "name": "掘金",
+      "url": "https://juejin.cn/rss",
+      "lang": "zh",
+      "weight": 1.0,
+      "ai_title_only": true,
+      "max_items": 10,
+      "recent_days": 14
+    },
+    {
+      "id": "oschina",
+      "name": "开源中国",
+      "url": "https://www.oschina.net/news/rss",
+      "lang": "zh",
+      "weight": 0.95,
+      "ai_title_only": true,
+      "max_items": 8,
+      "recent_days": 14
+    },
+    {
+      "id": "jiemian",
+      "name": "界面新闻",
+      "url": "https://a.jiemian.com/index.php?m=article&a=rss",
+      "lang": "zh",
+      "weight": 0.9,
+      "ai_title_only": true,
+      "max_items": 8,
+      "recent_days": 10
+    }
+  ],
+  "google_news": [
+    {
+      "q": "AI trends analysis when:30d",
+      "label": "AI Trends",
+      "hint": "trend",
+      "hl": "en-US",
+      "gl": "US",
+      "ceid": "US:en",
+      "max_items": 6
+    },
+    {
+      "q": "prompt engineering tips when:30d",
+      "label": "Prompt Tips",
+      "hint": "aicraft",
+      "hl": "en-US",
+      "gl": "US",
+      "ceid": "US:en",
+      "max_items": 6
+    },
+    {
+      "q": "video editing tips When:14d",
+      "label": "Editing Tips",
+      "hint": "editing",
+      "hl": "en-US",
+      "gl": "US",
+      "ceid": "US:en",
+      "max_items": 6
+    },
+    {
+      "q": "filmmaking techniques when:30d",
+      "label": "Directing",
+      "hint": "directing",
+      "hl": "en-US",
+      "gl": "US",
+      "ceid": "US:en",
+      "max_items": 6
+    },
+    {
+      "q": "storyboard techniques when:30d",
+      "label": "Storyboard Tips",
+      "hint": "storyboard",
+      "hl": "en-US",
+      "gl": "US",
+      "ceid": "US:en",
+      "max_items": 6
+    }
+  ],
+  "hn_queries": [
+    { "q": "AI video generation", "label": "AI 视频生成", "min_points": 12 },
+    { "q": "prompt engineering", "label": "提示词技巧", "min_points": 20 },
+    { "q": "coding agent workflow", "label": "Agent 工作流", "min_points": 20 },
+    { "q": "codex skills", "label": "Codex Skill", "min_points": 5 }
+  ],
+  "github": {
+    "trending": true,
+    "searches": [
+      { "q": "topic:text-to-video", "sort": "stars", "label": "AI 视频生成" },
+      { "q": "topic:ai-video", "sort": "stars", "label": "AI 短剧/视频工具" },
+      { "q": "codex skill in:name,description", "sort": "stars", "label": "Codex Skill" },
+      { "q": "topic:codex-skills", "sort": "stars", "label": "Codex 生态" }
+    ]
+  },
+  "skill_dirs": [
+    "C:/Users/Administrator/.codex/skills",
+    "C:/Users/Administrator/.codex/plugins/cache"
+  ],
+  "keywords": {
+    "ai": [
+      "ai", "人工智能", "大模型", "生成式", "aigc", "机器学习", "深度学习", "神经网络",
+      "llm", "大语言模型", "多模态", "智能体", "agent", "gpt", "chatgpt", "claude", "gemini",
+      "deepseek", "qwen", "通义", "文心", "豆包", "kimi", "llama", "mistral", "grok",
+      "推理", "微调", "蒸馏", "算力", "英伟达", "nvidia", "gpu", "h100", "b200",
+      "具身智能", "机器人", "自动驾驶", "语音合成", "图像生成", "文生图", "提示词", "prompt",
+      "copilot", "cursor", "codex", "mcp", "rag", "sora", "可灵", "即梦", "midjourney",
+      "stable diffusion"
+    ],
+    "drama": [
+      "短剧", "微短剧", "ai短剧", "漫剧", "竖屏剧", "视频生成", "文生视频", "图生视频",
+      "ai视频", "ai 视频", "ai动画", "ai动漫", "剧本", "角色一致性", "配音", "对口型",
+      "唇形", "换脸", "数字人", "虚拟人", "数字主播", "带货视频", "影视工业化", "动漫", "动画",
+      "sora", "veo", "veo3", "runway", "pika", "luma", "kling", "hailuo", "海螺", "seedance",
+      "seedream", "vidu", "wan2", "text-to-video", "image-to-video", "video model",
+      "lip sync", "digital human", "avatar video", "short drama", "mini drama"
+    ],
+    "aicraft": [
+      "提示词", "prompt", "工作流", "workflow", "一致性", "首尾帧", "参考图", "垫图", "抽卡",
+      "出图", "视频提示词", "agent 工作流", "自动化", "提效", "效率工具", "工具链",
+      "技巧", "心得", "踩坑", "避坑", "复盘", "案例拆解", "实战", "套路", "配方",
+      "comfyui", "lora", "controlnet", "prompting", "playbook", "recipe", "cheat sheet"
+    ],
+    "editing": [
+      "剪辑", "剪辑师", "剪辑技巧", "后期", "后期制作", "混剪", "卡点", "转场", "蒙太奇",
+      "调色", "达芬奇", "剪映", "调音", "混音", "音效设计", "字幕", "包装", "抠像", "套底",
+      "时间线", "渲染输出", "成片", "粗剪", "精剪", "分屏", "变速",
+      "editing", "editor", "post-production", "color grading", "davinci resolve", "premiere pro",
+      "final cut", "after effects", "capcut", "montage", "sound design"
+    ],
+    "directing": [
+      "导演", "导演思维", "镜头语言", "视听语言", "场面调度", "调度", "表演指导", "叙事结构",
+      "影视化", "电影感", "影像风格", "摄影指导", "布光", "光影", "长镜头", "机位", "构图",
+      "剧本结构", "人物弧光", "情绪节奏", "摄影师", "美术指导",
+      "directing", "director", "filmmaking", "cinematography", "mise-en-scene", "shot composition",
+      "camera movement", "lighting setup", "storytelling", "film language", "blocking"
+    ],
+    "storyboard": [
+      "分镜", "分镜头", "故事板", "镜头设计", "运镜", "景别", "视效", "概念设计", "美术设计",
+      "角色设计", "画面设计", "场景设计", "视觉风格", "关键帧", "动态分镜", "预演",
+      "storyboard", "shot list", "previz", "previsualization", "concept art", "animatic",
+      "keyframe", "shot design", "lens choice"
+    ],
+    "learning": [
+      "教程", "指南", "入门", "从零", "手把手", "保姆级", "怎么用", "如何", "学习路线",
+      "课程", "讲义", "笔记", "实战训练", "练习", "原理", "详解", "拆解",
+      "tutorial", "guide", "how to", "walkthrough", "cookbook", "getting started",
+      "course", "learn", "notes", "explained", "deep dive", "from scratch"
+    ],
+    "opensource": [
+      "github", "开源", "开源项目", "star", "仓库", "工具库", "框架", "sdk", "插件", "cli",
+      "本地部署", "ollama", "comfyui", "webui", "docker", "部署", "自部署", "一键",
+      "open source", "repo", "toolkit", "plugin", "self-host"
+    ],
+    "trend": [
+      "趋势", "预测", "展望", "拐点", "格局", "泡沫", "竞争", "战略", "路线", "观点", "分析",
+      "深度", "解读", "思考", "观察", "报告", "调研", "白皮书",
+      "市场", "商业化", "定价", "融资", "估值", "收购", "上市", "监管", "政策",
+      "就业", "岗位",
+      "trend", "outlook", "forecast", "analysis", "opinion", "essay", "strategy", "report",
+      "future", "shift", "lesson", "state of", "what it means"
+    ]
+  }
+}

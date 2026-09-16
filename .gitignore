@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+tools/
+preview.png
+data/run-history.log
+data/last-run.log
+data/server.log
+data/tunnel.log
+data/tunnel-url.txt
+data/digest-error.log
