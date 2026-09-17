@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-16",
-  "summary": "今天的可学内容集中在「把工具用成手艺」：剪辑侧有调色如何服务叙事、AI 视频连续性的状态追踪思路；导演侧有中文的提示词构图逻辑、从单张 AI 图扩展成连贯电影场景，以及库布里克的调度控制法；分镜与流程侧则有 Seedance 逐镜规划和 Google Flow 动画工作流，另附多 Agent 协作的踩坑反思。整体偏向可直接套用的判断标准与工作流，而非新闻。",
+  "date": "2026-09-17",
+  "summary": "今天的内容集中在「把 AI 生成接进真正的影视工序」：从单张 AI 图扩展成连贯场景、用构图逻辑而不是加法堆提示词、用分镜把概念拆成镜头表，再到成片阶段的调色叙事与声音统一。剪辑侧可以学到调色如何服务故事、AI 视频最容易崩的音频一致性；导演侧有场景从走位到打光的完整流程和库布里克的镜头控制法。另有中文实操的出片率与电影感模板，直接可抄。",
   "picks": [
     {
-      "title": "Color Grading Is a Storytelling Tool, Not a Final Step",
-      "url": "https://medium.com/@elbaraaa2/color-grading-is-a-storytelling-tool-not-a-final-step-c1a65ff32591?source=rss------video_production-5",
-      "why": "把调色从「最后一步润色」拉回叙事位置，讲清每个色彩决定该服务什么情绪与信息，适合建立自己的调色判断标准。",
-      "id": "943f35771f4394db"
+      "title": "How A Scene Comes Together: Block, Light, Rehearse, Shoot",
+      "url": "https://medium.com/@realAvaHarper/how-a-scene-comes-together-block-light-rehearse-shoot-c702b8435c1a?source=rss------filmmaking-5",
+      "why": "一场戏的完整落地流程：走位（block）→布光→排练→开拍，导演调度最该先学的基本功。",
+      "id": "44f93c3930c9f180"
     },
     {
-      "title": "AI Video Continuity Is a State-Tracking Problem",
-      "url": "https://medium.com/@videoagain/ai-video-continuity-is-a-state-tracking-problem-89de2c1e3bf7?source=rss------video_production-5",
-      "why": "用状态追踪的视角解释 AI 视频为何总「跳」，帮你从提示词层面而不是抽卡层面解决连续性问题。",
-      "id": "827ba47ef98a744e"
+      "title": "Stanley Kubrick’s Filmmaking Style: The Five Dimensions of His Creative Control",
+      "url": "https://filmdaft.com/stanley-kubricks-filmmaking-style-the-five-dimensions-of-his-creative-control/",
+      "why": "拆解库布里克用五个维度掌控创作，可直接对照自己的镜头语言做自检。",
+      "id": "6f7553e309cff915"
     },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文实操，指出写提示词不该堆形容词，而要先想清楚构图逻辑，直接可迁移到 AI 图像与视频生成。",
+      "why": "中文实操：提示词别做加法，先定构图逻辑，AI 画面立刻从堆词变成有意图的镜头。",
       "id": "9acc46cbdeb37daa"
     },
     {
       "title": "From one AI image to a coherent film scene",
       "url": "https://medium.com/@momo.rzq/from-one-ai-image-to-a-coherent-film-scene-6aa8c62d2dfe?source=rss------film_making-5",
-      "why": "演示如何从一张 AI 图延展出一个镜头连贯、景别可信的电影场景，是 AI 影视化最缺的一环。",
+      "why": "从一张 AI 图扩展成连贯的电影场景，解决角色/场景不一致这个最痛的连贯性问题。",
       "id": "9f71319b17d9ccbe"
     },
     {
-      "title": "Stanley Kubrick’s Filmmaking Style: The Five Dimensions of His Creative Control",
-      "url": "https://filmdaft.com/stanley-kubricks-filmmaking-style-the-five-dimensions-of-his-creative-control/",
-      "why": "拆解库布里克在构图、运动、视线与节奏上的五种控制维度，可当作镜头语言的自查清单。",
-      "id": "6f7553e309cff915"
+      "title": "用Seedance2.5肉疼？4个技巧提高出片率",
+      "url": "https://www.youtube.com/watch?v=OFwFMKR45IE",
+      "why": "中文 Seedance2.5 提效四招，专门讲怎么少烧钱、提高出片率，拿来即用。",
+      "id": "00cf201d788c7fed"
     },
     {
-      "title": "Agent时代，分享12个我最常用的Prompt",
-      "url": "https://www.digitaling.com/articles/1567698.html",
-      "why": "中文分享 12 条常用 Prompt，覆盖 Agent 场景下的实际任务，可直接抄改进自己的流程。",
-      "id": "da549b118a4a4f60"
-    },
-    {
-      "title": "I Found an AI Image I Loved. Then I Tried to Recreate Its Prompt.",
-      "url": "https://medium.com/@shehzadmunir.dev/i-found-an-ai-image-i-loved-then-i-tried-to-recreate-its-prompt-539ebad28d36?source=rss------ai_art-5",
-      "why": "反向工程一张喜欢的 AI 图去还原提示词，练的是「看图拆解」这项最实用的提示词基本功。",
-      "id": "5c03d24652f51ddd"
+      "title": "全网首发！不用任何LoRA！krea2+MiniMax H3电影感画面一键生成全流程！电影风格模板开源！",
+      "url": "https://www.youtube.com/watch?v=wF2OlAeZ1bk",
+      "why": "无需 LoRA，krea2+MiniMax 一键出电影感画面，附开源风格模板可直接套。",
+      "id": "674d2f1d85831ebc"
     },
     {
       "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
       "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "把一句概念拆成逐镜计划再交给 Seedance 生成，给出可复用的分镜到出片流程。",
+      "why": "把一句概念拆成分镜表的工作流，是 AI 视频从随机抽卡走向可控拍摄的关键一步。",
       "id": "6f5f39903e351a2c"
     },
     {
-      "title": "How to Make a Full Cartoon in Google Flow Storyboard Studio (Pro Workflow)",
-      "url": "https://medium.com/@4vibe.group/how-to-make-a-full-cartoon-in-google-flow-storyboard-studio-pro-workflow-b1b3d964dde1?source=rss------storyboard-5",
-      "why": "Google Flow Storyboard Studio 的完整动画工作流演示，适合想用分镜工具做整片的人照做。",
-      "id": "54e13deea56276df"
+      "title": "Color Grading Is a Storytelling Tool, Not a Final Step",
+      "url": "https://medium.com/@elbaraaa2/color-grading-is-a-storytelling-tool-not-a-final-step-c1a65ff32591?source=rss------video_production-5",
+      "why": "调色不是最后一道工序而是叙事工具，纠正大多数人后期的顺序性错误。",
+      "id": "943f35771f4394db"
     },
     {
-      "title": "多开几个 Agent，为什么反而更难把活干好？---- 从 Claude Code、Codex 到 DeepSeek Harness，拆解多 Agent 的收益、成本与运行机制。",
-      "url": "https://juejin.cn/post/7685674678509666340",
-      "why": "从 Claude Code、Codex 到多 Agent 编排，讲清并行开多个 Agent 的收益与成本，避免白忙。",
-      "id": "9bc73db6f17f152a"
+      "title": "The Real Bottleneck in AI Video Isn’t Generation — It’s Getting Everything to Sound Like One World",
+      "url": "https://medium.com/jin-system-architect/the-real-bottleneck-in-ai-video-isnt-generation-it-s-getting-everything-to-sound-like-one-world-60a98a43b18d?source=rss------video_production-5",
+      "why": "AI 视频真正的瓶颈不是生成而是「听起来像同一个世界」，声音统一的具体做法值得学。",
+      "id": "7c1de7430ad2507a"
+    },
+    {
+      "title": "The Ghost in the Machine: Why AI-Generated Writing Feels Off — and How to Fix It With the “10%…",
+      "url": "https://medium.com/@vitthalhainalkar2193/the-ghost-in-the-machine-why-ai-generated-writing-feels-off-and-how-to-fix-it-with-the-10-d13fc3fe4f2f?source=rss------prompt_engineering-5",
+      "why": "讲清 AI 文案为什么读着别扭，以及用 10% 原则改回来的具体手法，写脚本、写提示词都用得上。",
+      "id": "d5f60b4a4a5f633c"
     }
   ]
 }
