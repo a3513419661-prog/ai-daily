@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-17",
-  "summary": "今天的内容集中在「把 AI 生成接进真正的影视工序」：从单张 AI 图扩展成连贯场景、用构图逻辑而不是加法堆提示词、用分镜把概念拆成镜头表，再到成片阶段的调色叙事与声音统一。剪辑侧可以学到调色如何服务故事、AI 视频最容易崩的音频一致性；导演侧有场景从走位到打光的完整流程和库布里克的镜头控制法。另有中文实操的出片率与电影感模板，直接可抄。",
+  "date": "2026-09-19",
+  "summary": "今天可重点学剪辑字幕与变焦效率、AI 导演与构图逻辑、以及 Seedance 2.5 分镜出片工作流；同时有中文 AI 绘图和电影感画面开源流程可以直接跟做。",
   "picks": [
     {
-      "title": "How A Scene Comes Together: Block, Light, Rehearse, Shoot",
-      "url": "https://medium.com/@realAvaHarper/how-a-scene-comes-together-block-light-rehearse-shoot-c702b8435c1a?source=rss------filmmaking-5",
-      "why": "一场戏的完整落地流程：走位（block）→布光→排练→开拍，导演调度最该先学的基本功。",
-      "id": "44f93c3930c9f180"
+      "title": "How to Import and Edit an SRT File in DaVinci Resolve",
+      "url": "https://medium.com/@wangchuangji903/how-to-import-and-edit-an-srt-file-in-davinci-resolve-48a3ad0c9845?source=rss------post_production-5",
+      "why": "DaVinci Resolve 里导入与编辑 SRT 字幕的完整实操，适合补齐剪辑流程细节。",
+      "id": "d85cb9e85341e40a"
     },
     {
-      "title": "Stanley Kubrick’s Filmmaking Style: The Five Dimensions of His Creative Control",
-      "url": "https://filmdaft.com/stanley-kubricks-filmmaking-style-the-five-dimensions-of-his-creative-control/",
-      "why": "拆解库布里克用五个维度掌控创作，可直接对照自己的镜头语言做自检。",
-      "id": "6f7553e309cff915"
+      "title": "Auto-Zoom vs. Manual Zoom: How Much Editing Time Can You Actually Save?",
+      "url": "https://medium.com/@morgankung.focusee/auto-zoom-vs-manual-zoom-how-much-editing-time-can-you-actually-save-fb8a8209cf11?source=rss------video_editing-5",
+      "why": "对比自动变焦与手动变焦的耗时，帮你在剪辑节奏和效率之间做取舍。",
+      "id": "fa083195cbee7005"
     },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文实操：提示词别做加法，先定构图逻辑，AI 画面立刻从堆词变成有意图的镜头。",
+      "why": "中文讲提示词的构图逻辑，直接提升 AI 画面导演感。",
       "id": "9acc46cbdeb37daa"
     },
     {
-      "title": "From one AI image to a coherent film scene",
-      "url": "https://medium.com/@momo.rzq/from-one-ai-image-to-a-coherent-film-scene-6aa8c62d2dfe?source=rss------film_making-5",
-      "why": "从一张 AI 图扩展成连贯的电影场景，解决角色/场景不一致这个最痛的连贯性问题。",
-      "id": "9f71319b17d9ccbe"
+      "title": "How to Create a 12-Minute Film with AI: A Step-by-Step AI Director Guide",
+      "url": "https://reevera.medium.com/how-to-create-a-12-minute-film-with-ai-a-step-by-step-ai-director-guide-91d45582e4b7?source=rss------video_production-5",
+      "why": "从导演视角拆解 AI 长片制作流程，适合学结构而非只学生成。",
+      "id": "9c9aae7f9ff89fa5"
+    },
+    {
+      "title": "From Script to Shotlist: Making Pre-Production More Efficient",
+      "url": "https://medium.com/@shotkraftseo/from-script-to-shotlist-making-pre-production-more-efficient-a8176fcbf780?source=rss------filmmaking-5",
+      "why": "把剧本转成镜头清单的前期方法，直接对接分镜与拍摄。",
+      "id": "fcd791bb83f2f7b9"
     },
     {
       "title": "用Seedance2.5肉疼？4个技巧提高出片率",
       "url": "https://www.youtube.com/watch?v=OFwFMKR45IE",
-      "why": "中文 Seedance2.5 提效四招，专门讲怎么少烧钱、提高出片率，拿来即用。",
+      "why": "中文 AI 视频出片技巧，针对 Seedance 2.5 的实操提效。",
       "id": "00cf201d788c7fed"
     },
     {
-      "title": "全网首发！不用任何LoRA！krea2+MiniMax H3电影感画面一键生成全流程！电影风格模板开源！",
-      "url": "https://www.youtube.com/watch?v=wF2OlAeZ1bk",
-      "why": "无需 LoRA，krea2+MiniMax 一键出电影感画面，附开源风格模板可直接套。",
-      "id": "674d2f1d85831ebc"
+      "title": "“Make it better, please” (and why I built Prompt Builder)",
+      "url": "https://medium.com/@matt_68239/make-it-better-please-and-why-i-built-prompt-builder-7da99b7f3984?source=rss------prompt_engineering-5",
+      "why": "用 Prompt Builder 把模糊指令变成可复用提示词工作流。",
+      "id": "adca1b5d587d9768"
     },
     {
       "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
       "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "把一句概念拆成分镜表的工作流，是 AI 视频从随机抽卡走向可控拍摄的关键一步。",
+      "why": "把概念转成逐镜分镜计划，适合和 AI 视频生成衔接。",
       "id": "6f5f39903e351a2c"
     },
     {
-      "title": "Color Grading Is a Storytelling Tool, Not a Final Step",
-      "url": "https://medium.com/@elbaraaa2/color-grading-is-a-storytelling-tool-not-a-final-step-c1a65ff32591?source=rss------video_production-5",
-      "why": "调色不是最后一道工序而是叙事工具，纠正大多数人后期的顺序性错误。",
-      "id": "943f35771f4394db"
+      "title": "ChatGPT绘图新手教程｜10分钟学会AI做封面、产品图换背景！附中文提示词与改图技巧",
+      "url": "https://www.youtube.com/watch?v=DXGIJU4qXHs",
+      "why": "中文绘图教程，含提示词与改图技巧，可快速迁移到封面和产品图。",
+      "id": "37f32204540ed7d4"
     },
     {
-      "title": "The Real Bottleneck in AI Video Isn’t Generation — It’s Getting Everything to Sound Like One World",
-      "url": "https://medium.com/jin-system-architect/the-real-bottleneck-in-ai-video-isnt-generation-it-s-getting-everything-to-sound-like-one-world-60a98a43b18d?source=rss------video_production-5",
-      "why": "AI 视频真正的瓶颈不是生成而是「听起来像同一个世界」，声音统一的具体做法值得学。",
-      "id": "7c1de7430ad2507a"
-    },
-    {
-      "title": "The Ghost in the Machine: Why AI-Generated Writing Feels Off — and How to Fix It With the “10%…",
-      "url": "https://medium.com/@vitthalhainalkar2193/the-ghost-in-the-machine-why-ai-generated-writing-feels-off-and-how-to-fix-it-with-the-10-d13fc3fe4f2f?source=rss------prompt_engineering-5",
-      "why": "讲清 AI 文案为什么读着别扭，以及用 10% 原则改回来的具体手法，写脚本、写提示词都用得上。",
-      "id": "d5f60b4a4a5f633c"
+      "title": "全网首发！不用任何LoRA！krea2+MiniMax H3电影感画面一键生成全流程！电影风格模板开源！",
+      "url": "https://www.youtube.com/watch?v=wF2OlAeZ1bk",
+      "why": "中文全流程演示电影感 AI 画面，模板开源可直接复刻。",
+      "id": "674d2f1d85831ebc"
     }
   ]
 }
