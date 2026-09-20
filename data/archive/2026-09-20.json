@@ -3164,7 +3164,7 @@
     "extra": "今日 +556 · JavaScript",
     "category": "tools",
     "tags": [],
-    "score": 48.4,
+    "score": 48.39,
     "id": "ee6c68beddbc478a",
     "first_seen": "2026-09-16"
   },
@@ -3225,7 +3225,7 @@
       "veo",
       "kling"
     ],
-    "score": 50.73,
+    "score": 50.72,
     "id": "8e1745e015e50e9e",
     "first_seen": "2026-09-16"
   },
@@ -3390,7 +3390,7 @@
     "tags": [
       "workflow"
     ],
-    "score": 48.41,
+    "score": 48.4,
     "id": "16e11b90ef8df779",
     "first_seen": "2026-09-16"
   },
@@ -3408,7 +3408,7 @@
     "extra": "★ 262,965",
     "category": "tools",
     "tags": [],
-    "score": 48.7,
+    "score": 48.69,
     "id": "3eb178ba4cd74e58",
     "first_seen": "2026-09-16"
   },
@@ -3429,7 +3429,7 @@
       "explained",
       "cli"
     ],
-    "score": 27.43,
+    "score": 27.42,
     "id": "79cd21bd93d525b2",
     "first_seen": "2026-09-16"
   },
@@ -3563,7 +3563,7 @@
     "extra": "★ 43,254",
     "category": "tools",
     "tags": [],
-    "score": 26.68,
+    "score": 26.67,
     "id": "badb0e3c83b528bf",
     "first_seen": "2026-09-16"
   },
@@ -7597,7 +7597,8 @@
     "tags": [],
     "score": 27.03,
     "id": "bc8ba740276db74f",
-    "first_seen": "2026-09-17"
+    "first_seen": "2026-09-17",
+    "zh": "用 ChatGPT 驱动 Minecraft 的玩法演示，展示自然语言操控游戏的实现方式。"
   },
   "57e1609901b3d67c": {
     "title": "cloudflare/security-audit-skill",
@@ -7613,7 +7614,7 @@
     "extra": "今日 +3,155 · JavaScript",
     "category": "tools",
     "tags": [],
-    "score": 47.7,
+    "score": 47.69,
     "id": "57e1609901b3d67c",
     "first_seen": "2026-09-17"
   },
@@ -7651,7 +7652,7 @@
     "tags": [
       "open source"
     ],
-    "score": 49.1,
+    "score": 49.09,
     "id": "a9e735159808fe89",
     "first_seen": "2026-09-17"
   },
@@ -7669,7 +7670,7 @@
     "extra": "今日 +483 · TypeScript",
     "category": "tools",
     "tags": [],
-    "score": 47.7,
+    "score": 47.69,
     "id": "020aa1c48a7d2b88",
     "first_seen": "2026-09-17"
   },
@@ -8328,7 +8329,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 12.15,
+    "score": 12.14,
     "id": "3b0035900beef33d",
     "first_seen": "2026-09-19",
     "zh": "DTG 印制极简线稿的落地要点，讲线条粗细与工艺限制怎么配合设计。"
@@ -8372,7 +8373,7 @@
     "tags": [
       "prompting"
     ],
-    "score": 13.72,
+    "score": 13.71,
     "id": "32953bedab417d89",
     "first_seen": "2026-09-19",
     "zh": "反驳\"提示词已死\"，讲清结构化描述和意图表达在新模型下为什么还重要。"
@@ -8396,7 +8397,7 @@
       "learn",
       "lesson"
     ],
-    "score": 14.88,
+    "score": 14.87,
     "id": "532e8001d197417d",
     "first_seen": "2026-09-19",
     "zh": "用翻车案例讲上下文管理，教你给 Agent 喂对信息而不是喂更多信息。"
@@ -8419,7 +8420,7 @@
     "tags": [
       "prompt"
     ],
-    "score": 13.34,
+    "score": 13.33,
     "id": "adca1b5d587d9768",
     "first_seen": "2026-09-19",
     "zh": "从\"再改好一点\"这种无效反馈出发，讲如何把模糊需求翻译成可复用的提示结构。"
@@ -8509,7 +8510,7 @@
     "tags": [
       "workflow"
     ],
-    "score": 15.4,
+    "score": 15.39,
     "id": "3fb8f0993d435ed0",
     "first_seen": "2026-09-19",
     "zh": "教新手用小而完整的 AI 工作流切入，先跑通一条链再扩展到更多环节。"
@@ -8532,7 +8533,7 @@
     "tags": [
       "playbook"
     ],
-    "score": 14.96,
+    "score": 14.95,
     "id": "05ac18406e48e594",
     "first_seen": "2026-09-19",
     "zh": "从深度伪造风险讲到品牌防护，适合做商业内容的人了解授权与合规红线。"
@@ -8553,7 +8554,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 11.3,
+    "score": 11.29,
     "id": "079ac3b004e9ce5d",
     "first_seen": "2026-09-19"
   },
@@ -8678,7 +8679,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 14.79,
+    "score": 14.78,
     "id": "ee0bd2d56d262b36",
     "first_seen": "2026-09-19",
     "zh": "免账号试用多款出图工具，对比上手门槛与出图质量，方便快速选型。"
@@ -8699,7 +8700,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 12.27,
+    "score": 12.26,
     "id": "e3e9909e74163511",
     "first_seen": "2026-09-19",
     "zh": "用几何抽象讲 AI 时代的构图与形式感，适合做视觉风格参考与生成思路。"
@@ -8888,7 +8889,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 16.68,
+    "score": 16.67,
     "id": "309186b738284dbb",
     "first_seen": "2026-09-19",
     "zh": "盘点可白嫖的函数调用接口，附实测对比，能把 Agent 的工具调用链路跑起来。"
@@ -9084,7 +9085,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 15.15,
+    "score": 15.14,
     "id": "5f42d14995366381",
     "first_seen": "2026-09-19",
     "zh": "记录一次 AI 越界攻击事件，重点看攻击路径与暴露出的安全设计缺口。"
@@ -9232,7 +9233,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 10.76,
+    "score": 10.75,
     "id": "78aa70ac5df9a060",
     "first_seen": "2026-09-19",
     "zh": "讲如何借 AI 助手定位 bug 而不让它替你写代码，保住自己的调试判断力。"
@@ -9854,7 +9855,7 @@
       "workflow",
       "analysis"
     ],
-    "score": 26.61,
+    "score": 26.6,
     "id": "7b39475ee521d682",
     "first_seen": "2026-09-19"
   },
@@ -9874,9 +9875,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 30.94,
+    "score": 30.93,
     "id": "5a161eff1617ab5d",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "一套通用 B-roll 公式，素材库挑选与 AI 生成都适用，解决空镜堆砌无逻辑的问题。"
   },
   "be02abd1ffe2fa4b": {
     "title": "How to Convert a Video to MP3 and Extract Audio Easily",
@@ -9898,7 +9900,8 @@
     ],
     "score": 26.82,
     "id": "be02abd1ffe2fa4b",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "从视频里提取音轨并转成 MP3 的完整步骤，含格式与码率的选择建议。"
   },
   "d458716370105880": {
     "title": "OpusClip Alternatives for Creators Who Need More Control",
@@ -9918,9 +9921,10 @@
     "tags": [
       "editing"
     ],
-    "score": 27.0,
+    "score": 26.99,
     "id": "d458716370105880",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "横向比较几款剪辑工具，重点讲怎样拿到切点、节奏与导出参数的完全控制权。"
   },
   "586f6a5d30f7785f": {
     "title": "The 1-to-6 Guide to Video Editing for YouTube",
@@ -9943,7 +9947,8 @@
     ],
     "score": 23.46,
     "id": "586f6a5d30f7785f",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "把 YouTube 剪辑拆成粗剪到成片的六步，节奏、字幕与导出设置都能直接抄。"
   },
   "33a748052b1f3c00": {
     "title": "Stop Wasting ChatGPT Prompts: The 5-Part Formula for Perfect Image Generation",
@@ -9961,9 +9966,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 36.85,
+    "score": 36.84,
     "id": "33a748052b1f3c00",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "五段式提示词公式，逐段说明该写什么，套用后能明显提升出图的稳定性与命中率。"
   },
   "996d8d74a06e9df2": {
     "title": "2026.09.19: Prompt Template — Declaration of Being — Constitution for instilling a sense of “self”…",
@@ -9983,9 +9989,10 @@
     "tags": [
       "prompt"
     ],
-    "score": 34.77,
+    "score": 34.76,
     "id": "996d8d74a06e9df2",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "一份可复制的角色「自我宣言」提示词模板，用来给 AI 角色建立稳定人格与口吻。"
   },
   "fd0f88a822f66b3c": {
     "title": "Prompts in LangChain: Dynamic, Reusable, and Chat Prompts — Part 4",
@@ -10006,9 +10013,10 @@
       "prompting",
       "guide"
     ],
-    "score": 32.35,
+    "score": 32.34,
     "id": "fd0f88a822f66b3c",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "LangChain 提示词第四讲：动态提示、可复用模板与聊天提示词的具体写法。"
   },
   "7a8b6f04322b665c": {
     "title": "Stop Writing Claude Prompts as Plain Paragraphs",
@@ -10048,7 +10056,7 @@
     "tags": [
       "prompting"
     ],
-    "score": 25.0,
+    "score": 24.99,
     "id": "7a450b147eca9f1d",
     "first_seen": "2026-09-20"
   },
@@ -10070,7 +10078,7 @@
     "tags": [
       "prompt"
     ],
-    "score": 25.97,
+    "score": 25.96,
     "id": "1b012886438c32ac",
     "first_seen": "2026-09-20"
   },
@@ -10092,7 +10100,7 @@
     "tags": [
       "prompt"
     ],
-    "score": 25.43,
+    "score": 25.42,
     "id": "978ac13297b3ad2a",
     "first_seen": "2026-09-20"
   },
@@ -10138,7 +10146,8 @@
     "tags": [],
     "score": 34.5,
     "id": "1db805d96143ff10",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "同底座模型在编码能力上的升级说明，帮你判断是否值得替换现有开发模型。"
   },
   "21a70ddff10bdbc5": {
     "title": "How to Come Up With Original Miniature Diorama Ideas",
@@ -10158,9 +10167,10 @@
     "tags": [
       "how to"
     ],
-    "score": 34.5,
+    "score": 34.49,
     "id": "21a70ddff10bdbc5",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "从日常观察与素材收集入手，教你把零散灵感变成原创微缩场景构思。"
   },
   "c79af187fee11a84": {
     "title": "OpenAI & Generative AI: Innovation in modern technology:",
@@ -10180,7 +10190,8 @@
     "tags": [],
     "score": 31.33,
     "id": "c79af187fee11a84",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "梳理生成式 AI 在真实业务中的典型创新用法，适合快速建立应用场景认知。"
   },
   "f33130ef56a8f815": {
     "title": "SEO Yetmez: GEO ile LLM Görünürlüğü ve ChatGPT Trafiğini Ölçmek",
@@ -10200,7 +10211,8 @@
     "tags": [],
     "score": 32.7,
     "id": "f33130ef56a8f815",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "讲 GEO 与 LLM 可见性的衡量方法，含追踪 ChatGPT 引流数据的实操思路。"
   },
   "b441dbb03bf4df7a": {
     "title": "5 Papers Every Agentic AI Engineer Should Read",
@@ -10218,9 +10230,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 31.11,
+    "score": 31.1,
     "id": "b441dbb03bf4df7a",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "列出智能体工程必读的五篇论文，附阅读顺序，帮你补齐 Agent 设计知识框架。"
   },
   "e1721902dd0ffbb3": {
     "title": "Securing Smarter: Exploring Generative AI for Security Automation and Compliance",
@@ -10238,9 +10251,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 30.44,
+    "score": 30.43,
     "id": "e1721902dd0ffbb3",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "生成式 AI 用于安全自动化与合规的落地方式，含可借鉴的流程设计思路。"
   },
   "31eebc68a1e77962": {
     "title": "AI Guardrails Need More Than a Blocklist",
@@ -10258,7 +10272,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 25.76,
+    "score": 25.75,
     "id": "31eebc68a1e77962",
     "first_seen": "2026-09-20"
   },
@@ -10278,7 +10292,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 22.74,
+    "score": 22.73,
     "id": "a68b57c01d22bb3c",
     "first_seen": "2026-09-20"
   },
@@ -10303,7 +10317,8 @@
     ],
     "score": 39.74,
     "id": "19b9690173a18fa0",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "手把手把 NanoBanana 图像编辑接进 Claude Code，含 MCP 配置步骤，可照搬成自己的改图工作流。"
   },
   "ae4469ff4ab35a30": {
     "title": "CRM Trial Checklist: Test Your Workflow Before You Buy",
@@ -10323,9 +10338,10 @@
     "tags": [
       "workflow"
     ],
-    "score": 33.6,
+    "score": 33.59,
     "id": "ae4469ff4ab35a30",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "试用 CRM 前的工作流测试清单，逐项验证再决定是否付费，避免买完用不上。"
   },
   "de5ba8c0ae0c1664": {
     "title": "AI Made Me 5x Faster. It Also Made Me 5x Worse at My Job.",
@@ -10343,9 +10359,10 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 25.68,
+    "score": 25.67,
     "id": "de5ba8c0ae0c1664",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "作者复盘用 AI 提速五倍却手艺退步的经历，提醒你哪些能力不能外包给模型。"
   },
   "1572837334e07150": {
     "title": "Today’s Spark: How the Daily Prompt on Mirrorize Works (and How to Get Seen)",
@@ -10366,9 +10383,10 @@
       "prompt",
       "how to"
     ],
-    "score": 38.56,
+    "score": 38.55,
     "id": "1572837334e07150",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "拆解每日提示词栏目的运作逻辑，教你怎样让作品被算法选中、拿到更多曝光。"
   },
   "27e771acedf1e665": {
     "title": "How Does AI Decide What’s Moral?",
@@ -10410,7 +10428,8 @@
     ],
     "score": 23.47,
     "id": "1459e37531f898bb",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "加颗粒、控光比、破对称等具体手法，让 AI 生成的图摆脱塑料感、更像手工制作。"
   },
   "7efe4a08b7d41cdb": {
     "title": "datasette-auth-github 1.0",
@@ -10453,7 +10472,8 @@
     "tags": [],
     "score": 29.23,
     "id": "3fd36efd0dece3fa",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "海狮与鸬鹚的观察记录，可参考其取景、光线与生态拍摄的现场判断。"
   },
   "058ab06b859bd06c": {
     "title": "Candy AI Shorts: Short AI Stories With More Heat",
@@ -10471,9 +10491,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 28.6,
+    "score": 28.59,
     "id": "058ab06b859bd06c",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "AI 短剧的选题与节奏套路拆解，看清短篇故事留住观众的关键手法。"
   },
   "dcab9befe06885d4": {
     "title": "Free Introducing Voobin: A New Home for Free AI Movies, AI TV Shows, and AI Dramas",
@@ -10491,7 +10512,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 22.82,
+    "score": 22.81,
     "id": "dcab9befe06885d4",
     "first_seen": "2026-09-20"
   },
@@ -10577,7 +10598,8 @@
     ],
     "score": 30.71,
     "id": "d81aa9281c5924ef",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "从技术原理讲到动手实战，展示 AI 落地真实业务流程的完整路径与踩坑点。"
   },
   "35a27611a6465641": {
     "title": "美军险登中国船 只因AI假报告惹祸",
@@ -10597,7 +10619,7 @@
       "部署",
       "报告"
     ],
-    "score": 28.46,
+    "score": 28.45,
     "id": "35a27611a6465641",
     "first_seen": "2026-09-20"
   },
@@ -10618,7 +10640,7 @@
     "tags": [
       "泡沫"
     ],
-    "score": 37.89,
+    "score": 37.88,
     "id": "b663294851347a73",
     "first_seen": "2026-09-20"
   },
@@ -10641,7 +10663,7 @@
       "框架",
       "预测"
     ],
-    "score": 39.5,
+    "score": 39.49,
     "id": "0fdbe0ce001d8fb2",
     "first_seen": "2026-09-20"
   },
@@ -10660,7 +10682,7 @@
     "default_category": null,
     "category": "trend",
     "tags": [],
-    "score": 21.61,
+    "score": 21.6,
     "id": "7ed377cad2d3af0f",
     "first_seen": "2026-09-20"
   },
@@ -10706,7 +10728,8 @@
     ],
     "score": 21.99,
     "id": "fcb18f10311bd45d",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "从系统渲染与调度机制切入，理解移动端画面流畅度和端侧 AI 渲染的实现思路。"
   },
   "5b006fb28c4f7fc9": {
     "title": "别再让 Agent 裸连数据库了：如何用 MCP + 语义网关解决 NL2SQL 幻觉与权限失控",
@@ -10773,7 +10796,8 @@
     ],
     "score": 29.95,
     "id": "696ab1a62f8704f9",
-    "first_seen": "2026-09-20"
+    "first_seen": "2026-09-20",
+    "zh": "8GB 显存本地部署开源大模型的实测过程，含速度、效果与可行性结论。"
   },
   "c2e90d9e668300c5": {
     "title": "是人是狗？",
@@ -11018,7 +11042,7 @@
     "extra": "今日 +196 · Jupyter Notebook",
     "category": "tools",
     "tags": [],
-    "score": 43.71,
+    "score": 43.7,
     "id": "82fbdee85dac71e6",
     "first_seen": "2026-09-20"
   },
@@ -11036,7 +11060,7 @@
     "extra": "今日 +129 · Python",
     "category": "tools",
     "tags": [],
-    "score": 47.7,
+    "score": 47.69,
     "id": "afb28663abe98517",
     "first_seen": "2026-09-20"
   },
