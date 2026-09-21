@@ -3164,7 +3164,7 @@
     "extra": "今日 +736 · JavaScript",
     "category": "tools",
     "tags": [],
-    "score": 48.4,
+    "score": 48.39,
     "id": "ee6c68beddbc478a",
     "first_seen": "2026-09-16"
   },
@@ -3390,7 +3390,7 @@
     "tags": [
       "workflow"
     ],
-    "score": 33.85,
+    "score": 33.84,
     "id": "16e11b90ef8df779",
     "first_seen": "2026-09-16"
   },
@@ -3429,7 +3429,7 @@
       "explained",
       "cli"
     ],
-    "score": 45.98,
+    "score": 45.97,
     "id": "79cd21bd93d525b2",
     "first_seen": "2026-09-16"
   },
@@ -3545,7 +3545,7 @@
     "tags": [
       "cli"
     ],
-    "score": 46.09,
+    "score": 46.08,
     "id": "b43cfacc12a5a525",
     "first_seen": "2026-09-16"
   },
@@ -7614,7 +7614,7 @@
     "extra": "今日 +2,428 · JavaScript",
     "category": "tools",
     "tags": [],
-    "score": 47.7,
+    "score": 47.69,
     "id": "57e1609901b3d67c",
     "first_seen": "2026-09-17"
   },
@@ -7652,7 +7652,7 @@
     "tags": [
       "open source"
     ],
-    "score": 27.49,
+    "score": 27.48,
     "id": "a9e735159808fe89",
     "first_seen": "2026-09-17"
   },
@@ -7670,7 +7670,7 @@
     "extra": "今日 +419 · TypeScript",
     "category": "tools",
     "tags": [],
-    "score": 47.7,
+    "score": 47.69,
     "id": "020aa1c48a7d2b88",
     "first_seen": "2026-09-17"
   },
@@ -9966,7 +9966,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 15.24,
+    "score": 15.23,
     "id": "33a748052b1f3c00",
     "first_seen": "2026-09-20",
     "zh": "五段式提示词公式，逐段说明该写什么，套用后能明显提升出图的稳定性与命中率。"
@@ -10315,7 +10315,7 @@
       "editing",
       "how to"
     ],
-    "score": 18.14,
+    "score": 18.13,
     "id": "19b9690173a18fa0",
     "first_seen": "2026-09-20",
     "zh": "手把手把 NanoBanana 图像编辑接进 Claude Code，含 MCP 配置步骤，可照搬成自己的改图工作流。"
@@ -10338,7 +10338,7 @@
     "tags": [
       "workflow"
     ],
-    "score": 11.99,
+    "score": 11.98,
     "id": "ae4469ff4ab35a30",
     "first_seen": "2026-09-20",
     "zh": "试用 CRM 前的工作流测试清单，逐项验证再决定是否付费，避免买完用不上。"
@@ -10383,7 +10383,7 @@
       "prompt",
       "how to"
     ],
-    "score": 16.95,
+    "score": 16.94,
     "id": "1572837334e07150",
     "first_seen": "2026-09-20",
     "zh": "拆解每日提示词栏目的运作逻辑，教你怎样让作品被算法选中、拿到更多曝光。"
@@ -10555,7 +10555,7 @@
     "tags": [
       "open source"
     ],
-    "score": 14.19,
+    "score": 14.18,
     "id": "b46115d41ec33f05",
     "first_seen": "2026-09-20",
     "extra": "▲ 16"
@@ -11042,7 +11042,7 @@
     "extra": "今日 +465 · Jupyter Notebook",
     "category": "tools",
     "tags": [],
-    "score": 43.99,
+    "score": 43.98,
     "id": "82fbdee85dac71e6",
     "first_seen": "2026-09-20"
   },
@@ -11060,7 +11060,7 @@
     "extra": "今日 +129 · Python",
     "category": "tools",
     "tags": [],
-    "score": 26.09,
+    "score": 26.08,
     "id": "afb28663abe98517",
     "first_seen": "2026-09-20"
   },
@@ -11101,7 +11101,7 @@
     "craft_source": true,
     "category": "editing",
     "tags": [],
-    "score": 27.69,
+    "score": 27.68,
     "id": "fee1160283d467f6",
     "first_seen": "2026-09-21"
   },
@@ -11124,7 +11124,7 @@
       "editing",
       "how to"
     ],
-    "score": 28.73,
+    "score": 28.72,
     "id": "1fd837e2eafdd17f",
     "first_seen": "2026-09-21"
   },
@@ -11146,7 +11146,7 @@
     "tags": [
       "editing"
     ],
-    "score": 24.14,
+    "score": 24.13,
     "id": "3d8380aae5ea3716",
     "first_seen": "2026-09-21"
   },
@@ -11168,7 +11168,7 @@
     "tags": [
       "editing"
     ],
-    "score": 23.81,
+    "score": 23.8,
     "id": "d5ba4079e8e9a436",
     "first_seen": "2026-09-21"
   },
@@ -11212,7 +11212,7 @@
     "tags": [
       "editing"
     ],
-    "score": 21.08,
+    "score": 21.07,
     "id": "35e8feca7563fbbd",
     "first_seen": "2026-09-21"
   },
@@ -11234,7 +11234,7 @@
     "tags": [
       "editing"
     ],
-    "score": 20.26,
+    "score": 20.25,
     "id": "12d8bd7e864ec371",
     "first_seen": "2026-09-21"
   },
@@ -11258,7 +11258,7 @@
       "storyboard",
       "plugin"
     ],
-    "score": 37.9,
+    "score": 37.89,
     "id": "7e7a89a1ccabe03a",
     "first_seen": "2026-09-21"
   },
@@ -11320,7 +11320,7 @@
     "tags": [
       "how to"
     ],
-    "score": 34.18,
+    "score": 34.17,
     "id": "9df98827bfed5fcf",
     "first_seen": "2026-09-21"
   },
@@ -11343,7 +11343,7 @@
       "prompt",
       "how to"
     ],
-    "score": 36.22,
+    "score": 36.21,
     "id": "8ade60679c3d9303",
     "first_seen": "2026-09-21"
   },
@@ -11411,7 +11411,7 @@
       "how to",
       "learn"
     ],
-    "score": 34.27,
+    "score": 34.26,
     "id": "46ee91f4049ad7c9",
     "first_seen": "2026-09-21"
   },
@@ -11431,7 +11431,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 31.14,
+    "score": 31.13,
     "id": "7d69ded6d9776620",
     "first_seen": "2026-09-21"
   },
@@ -11451,7 +11451,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 35.57,
+    "score": 35.56,
     "id": "5186c2e18ccd1ba8",
     "first_seen": "2026-09-21"
   },
@@ -11491,7 +11491,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 36.44,
+    "score": 36.43,
     "id": "0160833113ad47bb",
     "first_seen": "2026-09-21"
   },
@@ -11513,7 +11513,7 @@
     "tags": [
       "shift"
     ],
-    "score": 32.8,
+    "score": 32.79,
     "id": "c86da08bb153643d",
     "first_seen": "2026-09-21"
   },
@@ -11595,7 +11595,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 24.99,
+    "score": 24.98,
     "id": "e1b7725f69b26e60",
     "first_seen": "2026-09-21"
   },
@@ -11615,7 +11615,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 25.37,
+    "score": 25.36,
     "id": "e7fa5cacc107dd14",
     "first_seen": "2026-09-21"
   },
@@ -11640,7 +11640,7 @@
       "how to",
       "cli"
     ],
-    "score": 41.83,
+    "score": 41.82,
     "id": "c4627ad1dc7e2767",
     "first_seen": "2026-09-21"
   },
@@ -11660,7 +11660,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 35.41,
+    "score": 35.4,
     "id": "d5089d3e99f22e11",
     "first_seen": "2026-09-21"
   },
@@ -11747,7 +11747,7 @@
     "tags": [
       "plugin"
     ],
-    "score": 34.01,
+    "score": 34.0,
     "id": "33d9ce85be80605b",
     "first_seen": "2026-09-21"
   },
@@ -11810,7 +11810,7 @@
       "字幕",
       "如何"
     ],
-    "score": 34.23,
+    "score": 34.22,
     "id": "6a1f777ab28afe2c",
     "first_seen": "2026-09-21"
   },
@@ -11831,7 +11831,7 @@
     "tags": [
       "开源"
     ],
-    "score": 32.29,
+    "score": 32.28,
     "id": "59d047793acca342",
     "first_seen": "2026-09-21"
   },
@@ -11852,7 +11852,7 @@
     "tags": [
       "开源"
     ],
-    "score": 32.01,
+    "score": 32.0,
     "id": "15485b1e81645f26",
     "first_seen": "2026-09-21"
   },
@@ -11874,7 +11874,7 @@
       "剪辑",
       "剪映"
     ],
-    "score": 31.33,
+    "score": 31.32,
     "id": "11b048bade71c795",
     "first_seen": "2026-09-21"
   },
@@ -11940,7 +11940,7 @@
       "如何",
       "报告"
     ],
-    "score": 22.2,
+    "score": 22.19,
     "id": "7269adc5adf508c4",
     "first_seen": "2026-09-21"
   },
@@ -11983,7 +11983,7 @@
     "tags": [
       "套路"
     ],
-    "score": 25.1,
+    "score": 25.09,
     "id": "c94e926f3db400d4",
     "first_seen": "2026-09-21"
   },
@@ -12005,7 +12005,7 @@
       "笔记",
       "路线"
     ],
-    "score": 25.43,
+    "score": 25.42,
     "id": "8d8dabcc91ad4a9a",
     "first_seen": "2026-09-21"
   },
@@ -12073,7 +12073,7 @@
       "工作流",
       "提效"
     ],
-    "score": 24.58,
+    "score": 24.57,
     "id": "6600b8f385547887",
     "first_seen": "2026-09-21"
   },
@@ -12118,7 +12118,7 @@
       "开源",
       "框架"
     ],
-    "score": 23.57,
+    "score": 23.56,
     "id": "5f54abc7c75142c8",
     "first_seen": "2026-09-21"
   },
@@ -12381,7 +12381,7 @@
     "extra": "今日 +98 · TypeScript",
     "category": "tools",
     "tags": [],
-    "score": 43.18,
+    "score": 43.17,
     "id": "f32c515c307f1225",
     "first_seen": "2026-09-21"
   }

@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-20",
-  "summary": "今天能学到三块硬手艺：用构图逻辑（而不是堆词）写提示词、用 AI 导演流程把想法拆成可执行镜头；剪辑侧有 YouTube 节奏指南、Resolve 字幕处理和 Claude Code × NanoBanana 的改图工作流；AI 视频侧则聚焦 Seedance 2.5 出片率与 krea2+MiniMax 电影感调性的全流程复现。",
+  "date": "2026-09-21",
+  "summary": "今天最值得学的是「构图优先的提示词思路」和「先分镜再动手」的工作流：导演、分镜、剪辑三条线都有可直接照做的拆解。剪辑侧能拿到字幕无痕擦除、剪映 AI 打通与「分享前先粗剪一遍」的节奏纪律，AI 侧则是提示词质量与漫剧全链路落地。",
   "picks": [
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文实操，讲清提示词该做构图与视觉决策、而非元素堆加，直接提升画面控制力。",
+      "why": "提醒写提示词别堆形容词，先把构图逻辑和画面关系定下来，出片率立刻不一样。",
       "id": "9acc46cbdeb37daa"
-    },
-    {
-      "title": "How to Create a 12-Minute Film with AI: A Step-by-Step AI Director Guide",
-      "url": "https://reevera.medium.com/how-to-create-a-12-minute-film-with-ai-a-step-by-step-ai-director-guide-91d45582e4b7?source=rss------video_production-5",
-      "why": "把 AI 短片当正规制作来拆：从概念、分场到成片的导演级步骤清单，可照做。",
-      "id": "9c9aae7f9ff89fa5"
-    },
-    {
-      "title": "The 1-to-6 Guide to Video Editing for YouTube",
-      "url": "https://medium.com/@mo8366001/the-1-to-6-guide-to-video-editing-for-youtube-57ad50528059?source=rss------video_editing-5",
-      "why": "YouTube 剪辑的 1→6 阶段进阶路径，适合用来给自己的剪辑节奏与结构补课。",
-      "id": "586f6a5d30f7785f"
-    },
-    {
-      "title": "How to Import and Edit an SRT File in DaVinci Resolve",
-      "url": "https://medium.com/@wangchuangji903/how-to-import-and-edit-an-srt-file-in-davinci-resolve-48a3ad0c9845?source=rss------post_production-5",
-      "why": "Resolve 里导入与精修 SRT 字幕的具体操作，出片收尾必备的硬技能。",
-      "id": "d85cb9e85341e40a"
-    },
-    {
-      "title": "How to Add NanoBanana Image Editing to Claude Code with MCP",
-      "url": "https://dev.to/germey/how-to-add-nanobanana-image-editing-to-claude-code-with-mcp-i7e",
-      "why": "用 MCP 把 NanoBanana 接进 Claude Code，把改图变成可复用的 AI 剪辑/修图工作流。",
-      "id": "19b9690173a18fa0"
     },
     {
       "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
       "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "Seedance 2.5 分镜工作流：把一句概念拆成逐镜计划，是 AI 视频前期最缺的一环。",
+      "why": "Seedance 2.5 分镜工作流示范如何把一句概念拆成可执行的逐镜清单，适合直接套用。",
       "id": "6f5f39903e351a2c"
     },
     {
-      "title": "Stop Wasting ChatGPT Prompts: The 5-Part Formula for Perfect Image Generation",
-      "url": "https://medium.com/@shadowchaser99at/stop-wasting-chatgpt-prompts-the-5-part-formula-for-perfect-image-generation-9747404424ab?source=rss------prompt_engineering-5",
-      "why": "五段式提示词公式，生成图像时可直接套用的结构模板，比堆关键词稳定得多。",
-      "id": "33a748052b1f3c00"
+      "title": "How to Create a 12-Minute Film with AI: A Step-by-Step AI Director Guide",
+      "url": "https://reevera.medium.com/how-to-create-a-12-minute-film-with-ai-a-step-by-step-ai-director-guide-91d45582e4b7?source=rss------video_production-5",
+      "why": "用 AI 做 12 分钟短片的导演级分步指南，讲清每段该由谁决策、AI 该负责什么。",
+      "id": "9c9aae7f9ff89fa5"
     },
     {
-      "title": "用Seedance2.5肉疼？4个技巧提高出片率",
-      "url": "https://www.youtube.com/watch?v=OFwFMKR45IE",
-      "why": "中文分享提高 Seedance 2.5 出片率的 4 个技巧，直击抽卡成本痛点。",
-      "id": "00cf201d788c7fed"
+      "title": "从“看见文字”到“读懂画面”：AI MediaKit 如何实现视频字幕无痕擦除",
+      "url": "https://www.infoq.cn/article/Vqhz90IcQjPlqNXIbfAk?utm_source=rss&utm_medium=article",
+      "why": "拆解 AI MediaKit 做视频字幕无痕擦除，后期去字、换字的实操思路可迁移。",
+      "id": "6a1f777ab28afe2c"
     },
     {
-      "title": "全网首发！不用任何LoRA！krea2+MiniMax H3电影感画面一键生成全流程！电影风格模板开源！",
-      "url": "https://www.youtube.com/watch?v=wF2OlAeZ1bk",
-      "why": "不用 LoRA，用 krea2+MiniMax 走一遍电影感画面全流程，并附可复用风格模板。",
-      "id": "674d2f1d85831ebc"
+      "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
+      "url": "https://www.qbitai.com/2026/09/492973.html",
+      "why": "剪映把 AI 生视频和 AI 剪辑接成一条链，值得先摸清它对剪辑节奏和素材管理的影响。",
+      "id": "11b048bade71c795"
     },
     {
-      "title": "How to Make Your AI Images Look Handcrafted",
-      "url": "https://medium.com/@ttrimm/how-to-make-your-ai-images-look-handcrafted-617a0e52a3b6?source=rss------ai_art-5",
-      "why": "讲怎么让 AI 图摆脱塑料感、做出手作质感，调性与细节处理可直接迁移到封面与成片。",
-      "id": "1459e37531f898bb"
+      "title": "The Useful Discipline of Cutting a Video Before You Share It",
+      "url": "https://medium.com/@1351447654/the-useful-discipline-of-cutting-a-video-before-you-share-it-498da0df6e15?source=rss------video_editing-5",
+      "why": "讲发布前先自己剪一刀的取舍纪律，是提升成片节奏最便宜的一课。",
+      "id": "35e8feca7563fbbd"
+    },
+    {
+      "title": "Why your prompt quality determines everything",
+      "url": "https://briefs.aiadvances.org/why-your-prompt-quality-determines-everything-cc828d91c21e?source=rss------prompt_engineering-5",
+      "why": "论证提示词质量决定一切，帮你把精力从换工具挪回打磨输入。",
+      "id": "8ade60679c3d9303"
+    },
+    {
+      "title": "一份来自大厂内部的《AI 原生实践避坑指南》",
+      "url": "https://www.woshipm.com/ai/6467189.html",
+      "why": "大厂内部视角的 AI 原生落地避坑清单，做创作工作流时能少踩流程坑。",
+      "id": "569cb8e33f5483c2"
+    },
+    {
+      "title": "GPT Image 2.5 Is Free Now — Here’s How to Not Waste It",
+      "url": "https://medium.com/@shadowchaser99at/gpt-image-2-5-is-free-now-heres-how-to-not-waste-it-e3aeea65e45d?source=rss------ai_art-5",
+      "why": "GPT Image 2.5 免费后的正确用法，教你把免费额度花在关键镜头上。",
+      "id": "9df98827bfed5fcf"
+    },
+    {
+      "title": "【影视级AI漫剧完整链路教程】剧本人设 + 分镜渲染 + 动态成片 + 配音剪辑从0到1！AI短剧手把手教学",
+      "url": "https://www.youtube.com/watch?v=ZDygCiiwo-E",
+      "why": "影视级 AI 漫剧从剧本人设到分镜渲染、配音剪辑的完整链路，可当流程模板。",
+      "id": "fc4974ebc5a285cc"
     }
   ]
 }
