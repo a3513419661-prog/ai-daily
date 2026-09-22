@@ -3164,7 +3164,7 @@
     "extra": "今日 +736 · JavaScript",
     "category": "tools",
     "tags": [],
-    "score": 26.81,
+    "score": 26.8,
     "id": "ee6c68beddbc478a",
     "first_seen": "2026-09-16"
   },
@@ -3328,7 +3328,7 @@
     "tags": [
       "剪辑"
     ],
-    "score": 39.48,
+    "score": 39.47,
     "id": "d941cdc9a6e3a84c",
     "first_seen": "2026-09-16"
   },
@@ -3350,7 +3350,7 @@
       "剧本",
       "成片"
     ],
-    "score": 38.65,
+    "score": 38.64,
     "id": "767dbc3f1add41da",
     "first_seen": "2026-09-16"
   },
@@ -3390,7 +3390,7 @@
     "tags": [
       "workflow"
     ],
-    "score": 35.13,
+    "score": 35.12,
     "id": "16e11b90ef8df779",
     "first_seen": "2026-09-16"
   },
@@ -3408,7 +3408,7 @@
     "extra": "★ 264,759",
     "category": "tools",
     "tags": [],
-    "score": 44.2,
+    "score": 44.19,
     "id": "3eb178ba4cd74e58",
     "first_seen": "2026-09-16"
   },
@@ -3447,7 +3447,7 @@
     "extra": "★ 45,951",
     "category": "tools",
     "tags": [],
-    "score": 34.2,
+    "score": 34.19,
     "id": "9bda2e5da9e8aad0",
     "first_seen": "2026-09-16"
   },
@@ -7614,7 +7614,7 @@
     "extra": "今日 +2,428 · JavaScript",
     "category": "tools",
     "tags": [],
-    "score": 26.11,
+    "score": 26.1,
     "id": "57e1609901b3d67c",
     "first_seen": "2026-09-17"
   },
@@ -7670,7 +7670,7 @@
     "extra": "今日 +419 · TypeScript",
     "category": "tools",
     "tags": [],
-    "score": 26.11,
+    "score": 26.1,
     "id": "020aa1c48a7d2b88",
     "first_seen": "2026-09-17"
   },
@@ -11042,7 +11042,7 @@
     "extra": "今日 +465 · Jupyter Notebook",
     "category": "tools",
     "tags": [],
-    "score": 22.4,
+    "score": 22.39,
     "id": "82fbdee85dac71e6",
     "first_seen": "2026-09-20"
   },
@@ -11081,7 +11081,7 @@
       "提示词",
       "cli"
     ],
-    "score": 46.36,
+    "score": 46.35,
     "id": "8aaf18138b1ba540",
     "first_seen": "2026-09-20"
   },
@@ -11258,9 +11258,10 @@
       "storyboard",
       "plugin"
     ],
-    "score": 16.31,
+    "score": 16.3,
     "id": "7e7a89a1ccabe03a",
-    "first_seen": "2026-09-21"
+    "first_seen": "2026-09-21",
+    "zh": "用亲身流程说明动效前先画分镜能省下多少返工，附取舍经验可借鉴。"
   },
   "c05dc2c93b3340c1": {
     "title": "The Editorial Wood and Other Places Where Nobody Has Invited Me Anywhere",
@@ -11278,7 +11279,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 14.01,
+    "score": 14.0,
     "id": "c05dc2c93b3340c1",
     "first_seen": "2026-09-21"
   },
@@ -11320,7 +11321,7 @@
     "tags": [
       "how to"
     ],
-    "score": 12.59,
+    "score": 12.58,
     "id": "9df98827bfed5fcf",
     "first_seen": "2026-09-21"
   },
@@ -11640,7 +11641,7 @@
       "how to",
       "cli"
     ],
-    "score": 20.24,
+    "score": 20.23,
     "id": "c4627ad1dc7e2767",
     "first_seen": "2026-09-21"
   },
@@ -11660,7 +11661,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 13.82,
+    "score": 13.81,
     "id": "d5089d3e99f22e11",
     "first_seen": "2026-09-21"
   },
@@ -11683,7 +11684,7 @@
       "prompt",
       "workflow"
     ],
-    "score": 16.17,
+    "score": 16.16,
     "id": "3aca56d8088342da",
     "first_seen": "2026-09-21"
   },
@@ -11812,7 +11813,8 @@
     ],
     "score": 13.5,
     "id": "6a1f777ab28afe2c",
-    "first_seen": "2026-09-21"
+    "first_seen": "2026-09-21",
+    "zh": "讲视频字幕无痕擦除的实现思路与适用场景，做二创或素材整理时可参考。"
   },
   "59d047793acca342": {
     "title": "70强会师杭州，世界人工智能开源大赛（GOAI）总决赛即将启幕",
@@ -11876,7 +11878,8 @@
     ],
     "score": 15.0,
     "id": "11b048bade71c795",
-    "first_seen": "2026-09-21"
+    "first_seen": "2026-09-21",
+    "zh": "同一次剪映 AI 发布，看点是把 AI 生视频与剪辑串成一条工作流，而非单点功能。"
   },
   "64e6384867b86fdd": {
     "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
@@ -11962,7 +11965,7 @@
       "避坑",
       "指南"
     ],
-    "score": 18.05,
+    "score": 18.04,
     "id": "569cb8e33f5483c2",
     "first_seen": "2026-09-21"
   },
@@ -12075,7 +12078,8 @@
     ],
     "score": 14.9,
     "id": "6600b8f385547887",
-    "first_seen": "2026-09-21"
+    "first_seen": "2026-09-21",
+    "zh": "剪映官方发布稿，与上一条为同一事件，仅作能力清单速览，不重复推荐。"
   },
   "358cd82dda241dbc": {
     "title": "沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级、个人应用双榜第一",
@@ -12381,7 +12385,7 @@
     "extra": "今日 +607 · TypeScript",
     "category": "tools",
     "tags": [],
-    "score": 43.64,
+    "score": 43.63,
     "id": "f32c515c307f1225",
     "first_seen": "2026-09-21"
   },
@@ -12405,9 +12409,10 @@
       "capcut",
       "how to"
     ],
-    "score": 27.46,
+    "score": 27.45,
     "id": "f547ee60a34fdd9c",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "讲剪映剪辑做减法的思路：砍掉多余特效与转场，用节奏和留白让画面不显杂乱，可直接照做。"
   },
   "0587ca71848e541b": {
     "title": "Framing the Narrative: Mastering Shot Sizes in AI Filmmaking",
@@ -12428,9 +12433,10 @@
       "filmmaking",
       "how to"
     ],
-    "score": 25.06,
+    "score": 25.05,
     "id": "0587ca71848e541b",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "系统讲景别怎么服务叙事，落到 AI 生成时如何用景别控制情绪与信息量。"
   },
   "2366d73e58b98dfa": {
     "title": "Motion Picture Film: Exploring ORWO Film Stocks for Professional Filmmaking",
@@ -12452,7 +12458,8 @@
     ],
     "score": 22.84,
     "id": "2366d73e58b98dfa",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "介绍 ORWO 胶片的色彩与颗粒特性，想模仿胶片质感可当作调色参考。"
   },
   "8ab70b7d6ad8ef5b": {
     "title": "How to Make AI Videos Look Cinematic — Part 1: Camera & Lighting",
@@ -12495,9 +12502,10 @@
     "tags": [
       "editing"
     ],
-    "score": 26.74,
+    "score": 26.73,
     "id": "b0f83c43e5976b1c",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "印度线下剪辑培训机构的招生广告，没有可学的方法，建议跳过。"
   },
   "7298788d0f452362": {
     "title": "Premiere Pro Looks Complicated Until You Understand What You’re Actually Doing",
@@ -12519,9 +12527,10 @@
       "premiere pro",
       "guide"
     ],
-    "score": 27.46,
+    "score": 27.45,
     "id": "7298788d0f452362",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "拆解 Premiere Pro 的核心操作逻辑，搞清每步在干什么再学快捷键，降低上手门槛。"
   },
   "1f6e0a224da78488": {
     "title": "Best AI Storyboard Tools for People Who Can’t Draw",
@@ -12541,9 +12550,10 @@
     "tags": [
       "storyboard"
     ],
-    "score": 25.84,
+    "score": 25.83,
     "id": "1f6e0a224da78488",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "不会画画也能出分镜：盘点 AI 分镜工具并给出怎么挑、怎么用的判断标准。"
   },
   "f9b9c7b43257d4c5": {
     "title": "Best Camera for Music Videos Under $500",
@@ -12565,7 +12575,8 @@
     ],
     "score": 22.72,
     "id": "f9b9c7b43257d4c5",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "五百美元以内拍 MV 的器材清单，偏选购向，预算紧的可按需速览。"
   },
   "cd31e2e04ed2ee37": {
     "title": "Blackmagic PYXIS 6K Prices Are Climbing Again After the Recent Price Cut",
@@ -12583,9 +12594,10 @@
     "craft_source": true,
     "category": "directing",
     "tags": [],
-    "score": 23.77,
+    "score": 23.76,
     "id": "cd31e2e04ed2ee37",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "Blackmagic 机型的涨跌价新闻，属器材资讯，无创作方法可学，可略过。"
   },
   "68950c8cdc3d1408": {
     "title": "A New Kind of Model for AI Decision-Making?",
@@ -12623,7 +12635,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 26.58,
+    "score": 26.57,
     "id": "efe931bab6d0e632",
     "first_seen": "2026-09-22"
   },
@@ -12668,9 +12680,10 @@
       "filmmaking",
       "learn"
     ],
-    "score": 36.72,
+    "score": 36.71,
     "id": "add08f1125b18d9a",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "AI 拍片练习第一课：把完整叙事压进一个镜头，练镜头内的调度与信息安排。"
   },
   "bf37bb5737bca46b": {
     "title": "Why Viewers Forgive AI Film Glitches in Horror but Not Romance",
@@ -12688,7 +12701,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 28.15,
+    "score": 28.14,
     "id": "bf37bb5737bca46b",
     "first_seen": "2026-09-22"
   },
@@ -12708,7 +12721,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 27.28,
+    "score": 27.27,
     "id": "6c8c37a47478dac9",
     "first_seen": "2026-09-22"
   },
@@ -12728,7 +12741,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 19.42,
+    "score": 19.41,
     "id": "d0fdede2a4c6943d",
     "first_seen": "2026-09-22"
   },
@@ -12748,7 +12761,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 30.91,
+    "score": 30.9,
     "id": "d30b7ab56a3a73fa",
     "first_seen": "2026-09-22"
   },
@@ -12788,7 +12801,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 27.57,
+    "score": 27.56,
     "id": "f0d4f09f8177526c",
     "first_seen": "2026-09-22"
   },
@@ -12808,7 +12821,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 25.44,
+    "score": 25.43,
     "id": "7198a4d4d0956cc7",
     "first_seen": "2026-09-22"
   },
@@ -12828,7 +12841,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 21.61,
+    "score": 21.6,
     "id": "3150fbc42bebfe59",
     "first_seen": "2026-09-22"
   },
@@ -12892,9 +12905,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 37.09,
+    "score": 37.08,
     "id": "88d5c4dcefc0d110",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "讲 vibe coding 原型失控后怎么排查，用「提示词考古」复盘每一步改动。"
   },
   "c02721e9f7ef3e40": {
     "title": "Local LLMs Meet Unreal MCP Part 2",
@@ -12912,9 +12926,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 37.11,
+    "score": 37.1,
     "id": "c02721e9f7ef3e40",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "本地大模型接入 Unreal MCP 的实操第二篇，讲通连接与调用怎么落地。"
   },
   "e84d65f328b6260c": {
     "title": "Stop Prompting AI. Start Giving It Context.",
@@ -12936,9 +12951,10 @@
       "prompting",
       "how to"
     ],
-    "score": 41.0,
+    "score": 40.99,
     "id": "e84d65f328b6260c",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "劝你少堆提示词、多给上下文：讲怎么补背景信息让模型输出更稳定可控。"
   },
   "f880b095fd994c11": {
     "title": "Marking Every Rule in SKILL.md Is the Same as Marking None",
@@ -12956,7 +12972,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 34.03,
+    "score": 34.02,
     "id": "f880b095fd994c11",
     "first_seen": "2026-09-22"
   },
@@ -12978,9 +12994,10 @@
     "tags": [
       "prompt"
     ],
-    "score": 34.27,
+    "score": 34.26,
     "id": "c8b00eb1be99a868",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "系统梳理提示工程的基础手法，不训练模型也能让输出更贴合预期。"
   },
   "45efe57e33f83459": {
     "title": "Aprender lógica de programación en español en la era de la IA",
@@ -12998,7 +13015,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 31.96,
+    "score": 31.95,
     "id": "45efe57e33f83459",
     "first_seen": "2026-09-22"
   },
@@ -13020,9 +13037,10 @@
     "tags": [
       "prompting"
     ],
-    "score": 36.81,
+    "score": 36.8,
     "id": "ceb6452984442243",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "从写提示词进阶到设计智能体：讲任务拆解、工具调用与流程编排的差别。"
   },
   "e1f911d57acb20be": {
     "title": "Selling Prompt Packs on Gumroad: How One Extra License Tier Turns $7 Into $350 a Month",
@@ -13042,9 +13060,10 @@
     "tags": [
       "prompt"
     ],
-    "score": 34.12,
+    "score": 34.11,
     "id": "e1f911d57acb20be",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "用提示词包在 Gumroad 的定价案例，讲多一档授权如何抬高客单价。"
   },
   "4aa7672e858ea8af": {
     "title": "The Roadmap to Mastering LLM Inference Optimization",
@@ -13084,9 +13103,10 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 34.39,
+    "score": 34.38,
     "id": "8289ae82c2b1b12b",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "讲怎么基于 DeepSeek 做懂代码语法的检查器，附开发中的取舍与踩坑。"
   },
   "92c4f4f1363f80a8": {
     "title": "I Made 30 Faceless Short Videos Without Paying Per Minute — My Offline Batch Workflow",
@@ -13106,9 +13126,10 @@
     "tags": [
       "workflow"
     ],
-    "score": 35.25,
+    "score": 35.24,
     "id": "92c4f4f1363f80a8",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "离线批量生产无脸短视频的完整流程，避开按分钟计费，可整套照搬。"
   },
   "52bdd47c69c61054": {
     "title": "Jev, Codex and the Art of Spending Intelligence Wisely",
@@ -13126,9 +13147,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 35.99,
+    "score": 35.98,
     "id": "52bdd47c69c61054",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "讨论怎么把 AI 算力花在刀刃上，涉及任务分配与成本取舍的判断。"
   },
   "807599867c76c454": {
     "title": "The End of Education as a Safe Bet",
@@ -13146,9 +13168,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 34.9,
+    "score": 34.89,
     "id": "807599867c76c454",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "观点文，谈 AI 时代教育作为稳妥选择为何失效，属趋势思考非实操。"
   },
   "42cbda824b68e194": {
     "title": "I Stopped Making Slides. Now I Ask ChatGPT to Build Interactive Presentations Instead.",
@@ -13170,7 +13193,8 @@
     ],
     "score": 36.92,
     "id": "42cbda824b68e194",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "用 ChatGPT 生成可交互演示替代静态幻灯片，附可复用的提示与结构思路。"
   },
   "f5c412e94c58d1f8": {
     "title": "Forget ChatGPT: Why TypeSafe’s New “System One” AI Just Changed Software Forever",
@@ -13190,7 +13214,8 @@
     "tags": [],
     "score": 35.51,
     "id": "f5c412e94c58d1f8",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "偏产品宣传与概念造势，想了解「决策模型」这一说法可快速浏览。"
   },
   "62de4cefab4b4cf1": {
     "title": "Claude Code Costs 2x Pi. Longer Tasks Don’t Fix it.",
@@ -13208,9 +13233,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 35.65,
+    "score": 35.64,
     "id": "62de4cefab4b4cf1",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "实测对比不同编码模型的成本与长任务表现，结论是长任务未必更划算。"
   },
   "d8ecfbee52670ee6": {
     "title": "Will AI Replace Game Developers? Can AI Build a Complete Game?",
@@ -13228,7 +13254,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 32.83,
+    "score": 32.82,
     "id": "d8ecfbee52670ee6",
     "first_seen": "2026-09-22"
   },
@@ -13248,7 +13274,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 31.8,
+    "score": 31.79,
     "id": "0b952e902abfbf38",
     "first_seen": "2026-09-22"
   },
@@ -13268,7 +13294,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 32.48,
+    "score": 32.47,
     "id": "518b21e0d1e1c046",
     "first_seen": "2026-09-22"
   },
@@ -13288,9 +13314,10 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 36.02,
+    "score": 36.01,
     "id": "2fdf92a8b4e42ce2",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "介绍被称为 System One 的决策模型形态，理解它与生成式模型的定位差异。"
   },
   "ee597d4ffd04e9bf": {
     "title": "Cloudflare Python Workers are now generally available",
@@ -13308,9 +13335,10 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 33.97,
+    "score": 33.96,
     "id": "ee597d4ffd04e9bf",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "Cloudflare Python Workers 正式可用，做 Python 后端的可了解这个部署新选项。"
   },
   "f8e144c8b02bd492": {
     "title": "MCP was always a bad idea?",
@@ -13328,7 +13356,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 13.35,
+    "score": 13.34,
     "id": "f8e144c8b02bd492",
     "first_seen": "2026-09-22"
   },
@@ -13348,7 +13376,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 26.65,
+    "score": 26.64,
     "id": "981fee95cc2a0c9b",
     "first_seen": "2026-09-22"
   },
@@ -13368,7 +13396,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 14.28,
+    "score": 14.27,
     "id": "2ba70404ffa8b71c",
     "first_seen": "2026-09-22"
   },
@@ -13388,7 +13416,7 @@
     "craft_source": false,
     "category": "trend",
     "tags": [],
-    "score": 24.08,
+    "score": 24.07,
     "id": "5b91c38bee856227",
     "first_seen": "2026-09-22"
   },
@@ -13453,7 +13481,7 @@
       "开源",
       "analysis"
     ],
-    "score": 36.77,
+    "score": 36.76,
     "id": "f6c353744a496b75",
     "first_seen": "2026-09-22"
   },
@@ -13474,7 +13502,7 @@
     "tags": [
       "开源"
     ],
-    "score": 18.31,
+    "score": 18.3,
     "id": "16fae1ee6d0ffcf6",
     "first_seen": "2026-09-22"
   },
@@ -13496,7 +13524,7 @@
       "观察",
       "市场"
     ],
-    "score": 25.15,
+    "score": 25.14,
     "id": "12cef868c6c9a100",
     "first_seen": "2026-09-22"
   },
@@ -13520,7 +13548,7 @@
       "框架",
       "政策"
     ],
-    "score": 41.8,
+    "score": 41.79,
     "id": "ef6c3b452e2456cc",
     "first_seen": "2026-09-22"
   },
@@ -13564,9 +13592,10 @@
       "指南",
       "笔记"
     ],
-    "score": 35.44,
+    "score": 35.43,
     "id": "b0f24d723f7013a1",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "辨析 Agent 技能库与工具调用的区别，讲技能自演进与动态加载怎么设计。"
   },
   "e66a7aac5fb498a2": {
     "title": "我的代码审查 Prompt：从“能跑”到“可维护”",
@@ -13608,7 +13637,8 @@
     ],
     "score": 38.41,
     "id": "1ff906334b02c4f9",
-    "first_seen": "2026-09-22"
+    "first_seen": "2026-09-22",
+    "zh": "拆解 AI 副业常见的收费与拉人头套路，帮你在选方向时先避开割韭菜。"
   },
   "e82253149fe572e6": {
     "title": "深度｜豌豆荚往事：中国互联网最体面的「失败者」，如何成为AI时代的黄埔军校",
@@ -13629,7 +13659,7 @@
       "深度",
       "市场"
     ],
-    "score": 32.04,
+    "score": 32.03,
     "id": "e82253149fe572e6",
     "first_seen": "2026-09-22"
   },
@@ -13651,7 +13681,7 @@
       "自动化",
       "github"
     ],
-    "score": 28.72,
+    "score": 28.71,
     "id": "c6891fc3d4ce8ae4",
     "first_seen": "2026-09-22"
   },
@@ -13674,7 +13704,7 @@
       "提效",
       "一键"
     ],
-    "score": 26.85,
+    "score": 26.84,
     "id": "2a9c716684ae4a88",
     "first_seen": "2026-09-22"
   },
@@ -13695,7 +13725,7 @@
     "tags": [
       "拆解"
     ],
-    "score": 23.77,
+    "score": 23.76,
     "id": "3c6178b48ec963bd",
     "first_seen": "2026-09-22"
   },
@@ -13719,7 +13749,7 @@
       "开源",
       "sdk"
     ],
-    "score": 28.07,
+    "score": 28.06,
     "id": "75262a268e8790fe",
     "first_seen": "2026-09-22"
   },
@@ -13742,7 +13772,7 @@
       "sdk",
       "cli"
     ],
-    "score": 26.3,
+    "score": 26.29,
     "id": "b9a92b64d8a9e1c5",
     "first_seen": "2026-09-22"
   },
@@ -13763,7 +13793,7 @@
     "tags": [
       "开源"
     ],
-    "score": 21.92,
+    "score": 21.91,
     "id": "507ab0f2e8e1269d",
     "first_seen": "2026-09-22"
   },
@@ -13784,7 +13814,7 @@
     "tags": [
       "开源"
     ],
-    "score": 21.05,
+    "score": 21.04,
     "id": "d2c84c35a68d5216",
     "first_seen": "2026-09-22"
   },
@@ -13830,7 +13860,7 @@
     "tags": [
       "战略"
     ],
-    "score": 37.93,
+    "score": 37.92,
     "id": "c173347aef3e2008",
     "first_seen": "2026-09-22"
   },
@@ -13849,7 +13879,7 @@
     "default_category": null,
     "category": "trend",
     "tags": [],
-    "score": 34.96,
+    "score": 34.95,
     "id": "49d92ccfeabd1621",
     "first_seen": "2026-09-22"
   },
@@ -13870,7 +13900,7 @@
     "tags": [
       "开源"
     ],
-    "score": 34.75,
+    "score": 34.74,
     "id": "eae6ea4cdab2c44f",
     "first_seen": "2026-09-22"
   },
@@ -13912,7 +13942,7 @@
     "tags": [
       "观察"
     ],
-    "score": 31.9,
+    "score": 31.89,
     "id": "17d43b9900ea8a6a",
     "first_seen": "2026-09-22"
   },
@@ -13933,7 +13963,7 @@
     "tags": [
       "观察"
     ],
-    "score": 31.86,
+    "score": 31.85,
     "id": "50b360f21c9b9e01",
     "first_seen": "2026-09-22"
   },
@@ -13954,7 +13984,7 @@
     "tags": [
       "观察"
     ],
-    "score": 31.82,
+    "score": 31.81,
     "id": "abf145485490a526",
     "first_seen": "2026-09-22"
   },
@@ -13975,7 +14005,7 @@
     "tags": [
       "报告"
     ],
-    "score": 32.19,
+    "score": 32.18,
     "id": "c544b19298977a47",
     "first_seen": "2026-09-22"
   },
@@ -13994,7 +14024,7 @@
     "default_category": null,
     "category": "trend",
     "tags": [],
-    "score": 27.19,
+    "score": 27.18,
     "id": "3e6006d1f98def69",
     "first_seen": "2026-09-22"
   },
@@ -14015,7 +14045,7 @@
     "tags": [
       "报告"
     ],
-    "score": 23.55,
+    "score": 23.54,
     "id": "3c102008f750e393",
     "first_seen": "2026-09-22"
   },
@@ -14036,7 +14066,7 @@
     "tags": [
       "seedance"
     ],
-    "score": 26.77,
+    "score": 26.76,
     "id": "671f73c63c3c4765",
     "first_seen": "2026-09-22"
   },
@@ -14057,7 +14087,7 @@
     "tags": [
       "开源"
     ],
-    "score": 24.72,
+    "score": 24.71,
     "id": "08838fd450aafc08",
     "first_seen": "2026-09-22"
   },
@@ -14155,7 +14185,7 @@
     "extra": "今日 +394 · TypeScript",
     "category": "tools",
     "tags": [],
-    "score": 47.7,
+    "score": 47.69,
     "id": "1d07522d1b08785d",
     "first_seen": "2026-09-22"
   }

@@ -1,65 +1,65 @@
 {
-  "date": "2026-09-21",
-  "summary": "今天最值得学的是「构图优先的提示词思路」和「先分镜再动手」的工作流：导演、分镜、剪辑三条线都有可直接照做的拆解。剪辑侧能拿到字幕无痕擦除、剪映 AI 打通与「分享前先粗剪一遍」的节奏纪律，AI 侧则是提示词质量与漫剧全链路落地。",
+  "date": "2026-09-22",
+  "summary": "今天的内容集中在「少即是多」的剪辑思路与 AI 工作流打通：剪映把 AI 生视频与 AI 剪辑接成一条链，剪辑端则强调节奏控制与字幕无痕擦除这类可直接上手的技巧。导演与分镜方面，景别选择、构图式提示词、Seedance 分镜工作流都能直接套进你的 AI 短片流程。此外还有一条从小说到成片的 AI 漫剧全链路教程和一套免按分钟付费的批量成片工作流，适合系统补课。",
   "picks": [
     {
-      "title": "不要用加法思维写提示词，构图逻辑更重要",
-      "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "提醒写提示词别堆形容词，先把构图逻辑和画面关系定下来，出片率立刻不一样。",
-      "id": "9acc46cbdeb37daa"
-    },
-    {
-      "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
-      "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "Seedance 2.5 分镜工作流示范如何把一句概念拆成可执行的逐镜清单，适合直接套用。",
-      "id": "6f5f39903e351a2c"
-    },
-    {
-      "title": "How to Create a 12-Minute Film with AI: A Step-by-Step AI Director Guide",
-      "url": "https://reevera.medium.com/how-to-create-a-12-minute-film-with-ai-a-step-by-step-ai-director-guide-91d45582e4b7?source=rss------video_production-5",
-      "why": "用 AI 做 12 分钟短片的导演级分步指南，讲清每段该由谁决策、AI 该负责什么。",
-      "id": "9c9aae7f9ff89fa5"
+      "title": "Your CapCut Videos Look Busy Because You’re Editing Too Much",
+      "url": "https://medium.com/@alexandramandy/your-capcut-videos-look-busy-because-youre-editing-too-much-92fc2bf67a8a?source=rss------filmmaking-5",
+      "why": "用「剪太多」的典型反面案例讲剪辑节奏，告诉你什么时候该收手，剪映用户可直接对照自查。",
+      "id": "f547ee60a34fdd9c"
     },
     {
       "title": "从“看见文字”到“读懂画面”：AI MediaKit 如何实现视频字幕无痕擦除",
       "url": "https://www.infoq.cn/article/Vqhz90IcQjPlqNXIbfAk?utm_source=rss&utm_medium=article",
-      "why": "拆解 AI MediaKit 做视频字幕无痕擦除，后期去字、换字的实操思路可迁移。",
+      "why": "拆解 AI MediaKit 如何做到视频字幕无痕擦除，对需要清理素材水印/字幕的后期很实用。",
       "id": "6a1f777ab28afe2c"
     },
     {
       "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
       "url": "https://www.qbitai.com/2026/09/492973.html",
-      "why": "剪映把 AI 生视频和 AI 剪辑接成一条链，值得先摸清它对剪辑节奏和素材管理的影响。",
+      "why": "剪映把 AI 生视频与 AI 剪辑打通，中文讲解，直接关系到你下一支片子的制作链路。",
       "id": "11b048bade71c795"
     },
     {
-      "title": "The Useful Discipline of Cutting a Video Before You Share It",
-      "url": "https://medium.com/@1351447654/the-useful-discipline-of-cutting-a-video-before-you-share-it-498da0df6e15?source=rss------video_editing-5",
-      "why": "讲发布前先自己剪一刀的取舍纪律，是提升成片节奏最便宜的一课。",
-      "id": "35e8feca7563fbbd"
+      "title": "Framing the Narrative: Mastering Shot Sizes in AI Filmmaking",
+      "url": "https://medium.com/@bloggerswit_41630/framing-the-narrative-mastering-shot-sizes-in-ai-filmmaking-3268ba9915e1?source=rss------ai_video-5",
+      "why": "系统讲景别（shot sizes）如何在 AI 影像里承担叙事功能，是镜头语言的基本功补课。",
+      "id": "0587ca71848e541b"
     },
     {
-      "title": "Why your prompt quality determines everything",
-      "url": "https://briefs.aiadvances.org/why-your-prompt-quality-determines-everything-cc828d91c21e?source=rss------prompt_engineering-5",
-      "why": "论证提示词质量决定一切，帮你把精力从换工具挪回打磨输入。",
-      "id": "8ade60679c3d9303"
+      "title": "不要用加法思维写提示词，构图逻辑更重要",
+      "url": "https://www.digitaling.com/articles/1582727.html",
+      "why": "提醒别用加法思维堆提示词，把构图逻辑放在第一位，中文实操向，出图出片都能立刻改。",
+      "id": "9acc46cbdeb37daa"
     },
     {
-      "title": "一份来自大厂内部的《AI 原生实践避坑指南》",
-      "url": "https://www.woshipm.com/ai/6467189.html",
-      "why": "大厂内部视角的 AI 原生落地避坑清单，做创作工作流时能少踩流程坑。",
-      "id": "569cb8e33f5483c2"
+      "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
+      "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
+      "why": "Seedance 2.5 的逐镜分镜工作流，演示从一句概念拆成 shot-by-shot 计划的完整方法。",
+      "id": "6f5f39903e351a2c"
     },
     {
-      "title": "GPT Image 2.5 Is Free Now — Here’s How to Not Waste It",
-      "url": "https://medium.com/@shadowchaser99at/gpt-image-2-5-is-free-now-heres-how-to-not-waste-it-e3aeea65e45d?source=rss------ai_art-5",
-      "why": "GPT Image 2.5 免费后的正确用法，教你把免费额度花在关键镜头上。",
-      "id": "9df98827bfed5fcf"
+      "title": "Stop Prompting AI. Start Giving It Context.",
+      "url": "https://medium.com/@saif.rehman00002/stop-prompting-ai-start-giving-it-context-5d928c1da21a?source=rss------prompt_engineering-5",
+      "why": "把「写提示词」升级为「给上下文」，是提高 AI 产出稳定性的思路级转变。",
+      "id": "e84d65f328b6260c"
+    },
+    {
+      "title": "Prompt Engineering: Getting LLMs to Do What You Want Without Training Anything",
+      "url": "https://medium.com/@tabsalam120/prompt-engineering-getting-llms-to-do-what-you-want-without-training-anything-af19605fae27?source=rss------prompt_engineering-5",
+      "why": "不训练模型也能让 LLM 听话的提示工程方法清单，可迁移到剧本、分镜与文案生成。",
+      "id": "c8b00eb1be99a868"
+    },
+    {
+      "title": "I Made 30 Faceless Short Videos Without Paying Per Minute — My Offline Batch Workflow",
+      "url": "https://dev.to/tony_make_5eb96ab94641071/i-made-30-faceless-short-videos-without-paying-per-minute-my-offline-batch-workflow-412p",
+      "why": "离线批量生产 30 条无露脸短视频的工作流，重点是不按分钟付费的成本控制方案。",
+      "id": "92c4f4f1363f80a8"
     },
     {
       "title": "【影视级AI漫剧完整链路教程】剧本人设 + 分镜渲染 + 动态成片 + 配音剪辑从0到1！AI短剧手把手教学",
       "url": "https://www.youtube.com/watch?v=ZDygCiiwo-E",
-      "why": "影视级 AI 漫剧从剧本人设到分镜渲染、配音剪辑的完整链路，可当流程模板。",
+      "why": "中文全链路教程：剧本人设＋分镜渲染＋动态成片＋配音剪辑，AI 短剧从 0 到 1 一条龙。",
       "id": "fc4974ebc5a285cc"
     }
   ]
