@@ -3225,7 +3225,7 @@
       "veo",
       "kling"
     ],
-    "score": 51.72,
+    "score": 51.71,
     "id": "8e1745e015e50e9e",
     "first_seen": "2026-09-16"
   },
@@ -3250,7 +3250,7 @@
       "分镜",
       "开源"
     ],
-    "score": 46.3,
+    "score": 46.29,
     "id": "5ad371aea7505461",
     "first_seen": "2026-09-16"
   },
@@ -3350,7 +3350,7 @@
       "剧本",
       "成片"
     ],
-    "score": 38.28,
+    "score": 38.27,
     "id": "767dbc3f1add41da",
     "first_seen": "2026-09-16"
   },
@@ -3390,7 +3390,7 @@
     "tags": [
       "workflow"
     ],
-    "score": 47.19,
+    "score": 47.18,
     "id": "16e11b90ef8df779",
     "first_seen": "2026-09-16"
   },
@@ -3408,7 +3408,7 @@
     "extra": "★ 265,459",
     "category": "tools",
     "tags": [],
-    "score": 47.93,
+    "score": 47.92,
     "id": "3eb178ba4cd74e58",
     "first_seen": "2026-09-16"
   },
@@ -3429,7 +3429,7 @@
       "explained",
       "cli"
     ],
-    "score": 49.38,
+    "score": 49.37,
     "id": "79cd21bd93d525b2",
     "first_seen": "2026-09-16"
   },
@@ -12385,7 +12385,7 @@
     "extra": "今日 +607 · TypeScript",
     "category": "tools",
     "tags": [],
-    "score": 22.04,
+    "score": 22.03,
     "id": "f32c515c307f1225",
     "first_seen": "2026-09-21"
   },
@@ -12680,7 +12680,7 @@
       "filmmaking",
       "learn"
     ],
-    "score": 15.12,
+    "score": 15.11,
     "id": "add08f1125b18d9a",
     "first_seen": "2026-09-22",
     "zh": "AI 拍片练习第一课：把完整叙事压进一个镜头，练镜头内的调度与信息安排。"
@@ -12905,7 +12905,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 15.49,
+    "score": 15.48,
     "id": "88d5c4dcefc0d110",
     "first_seen": "2026-09-22",
     "zh": "讲 vibe coding 原型失控后怎么排查，用「提示词考古」复盘每一步改动。"
@@ -12972,7 +12972,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 12.43,
+    "score": 12.42,
     "id": "f880b095fd994c11",
     "first_seen": "2026-09-22"
   },
@@ -12994,7 +12994,7 @@
     "tags": [
       "prompt"
     ],
-    "score": 12.67,
+    "score": 12.66,
     "id": "c8b00eb1be99a868",
     "first_seen": "2026-09-22",
     "zh": "系统梳理提示工程的基础手法，不训练模型也能让输出更贴合预期。"
@@ -13103,7 +13103,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 12.79,
+    "score": 12.78,
     "id": "8289ae82c2b1b12b",
     "first_seen": "2026-09-22",
     "zh": "讲怎么基于 DeepSeek 做懂代码语法的检查器，附开发中的取舍与踩坑。"
@@ -13147,7 +13147,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 14.39,
+    "score": 14.38,
     "id": "52bdd47c69c61054",
     "first_seen": "2026-09-22",
     "zh": "讨论怎么把 AI 算力花在刀刃上，涉及任务分配与成本取舍的判断。"
@@ -13254,7 +13254,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 11.23,
+    "score": 11.22,
     "id": "d8ecfbee52670ee6",
     "first_seen": "2026-09-22"
   },
@@ -13314,7 +13314,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 14.42,
+    "score": 14.41,
     "id": "2fdf92a8b4e42ce2",
     "first_seen": "2026-09-22",
     "zh": "介绍被称为 System One 的决策模型形态，理解它与生成式模型的定位差异。"
@@ -13335,7 +13335,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 12.37,
+    "score": 12.36,
     "id": "ee597d4ffd04e9bf",
     "first_seen": "2026-09-22",
     "zh": "Cloudflare Python Workers 正式可用，做 Python 后端的可了解这个部署新选项。"
@@ -13459,7 +13459,7 @@
     "tags": [
       "部署"
     ],
-    "score": 14.11,
+    "score": 14.1,
     "id": "9d46a15b8ded4a24",
     "first_seen": "2026-09-22"
   },
@@ -13481,7 +13481,7 @@
       "开源",
       "analysis"
     ],
-    "score": 15.17,
+    "score": 15.16,
     "id": "f6c353744a496b75",
     "first_seen": "2026-09-22"
   },
@@ -13548,7 +13548,7 @@
       "框架",
       "政策"
     ],
-    "score": 20.2,
+    "score": 20.19,
     "id": "ef6c3b452e2456cc",
     "first_seen": "2026-09-22"
   },
@@ -13569,7 +13569,7 @@
     "tags": [
       "开源"
     ],
-    "score": 15.51,
+    "score": 15.5,
     "id": "bc900862faf3679c",
     "first_seen": "2026-09-22"
   },
@@ -13635,7 +13635,7 @@
     "tags": [
       "套路"
     ],
-    "score": 16.81,
+    "score": 16.8,
     "id": "1ff906334b02c4f9",
     "first_seen": "2026-09-22",
     "zh": "拆解 AI 副业常见的收费与拉人头套路，帮你在选方向时先避开割韭菜。"
@@ -14167,7 +14167,7 @@
     "extra": "今日 +167 · Rust",
     "category": "tools",
     "tags": [],
-    "score": 23.92,
+    "score": 23.91,
     "id": "662d54180e169071",
     "first_seen": "2026-09-22"
   },
@@ -14205,9 +14205,10 @@
     "craft_source": true,
     "category": "editing",
     "tags": [],
-    "score": 25.94,
+    "score": 25.93,
     "id": "c95e6ea6852a5da0",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "分析镜头一开就说不好的心理机制，并给出上镜表达与口播前的准备练习。"
   },
   "cde037630617cc01": {
     "title": "What My Dog Taught Me About Directing AI Video",
@@ -14229,7 +14230,8 @@
     ],
     "score": 27.46,
     "id": "cde037630617cc01",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "用训狗类比AI视频导演：怎么给模型清晰分步指令、及时反馈，并接受它的随机性。"
   },
   "74ead10455a5483b": {
     "title": "The Corporate Interview Filming Guide Nobody Gives You Before the Shoot Day",
@@ -14249,7 +14251,7 @@
     "tags": [
       "guide"
     ],
-    "score": 25.14,
+    "score": 25.13,
     "id": "74ead10455a5483b",
     "first_seen": "2026-09-23"
   },
@@ -14271,7 +14273,8 @@
     "tags": [],
     "score": 22.28,
     "id": "3ab87ae8c9728e36",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "讲B-roll如何补叙事、控节奏，附取材清单与插入时机的建议，让口播片不再干巴。"
   },
   "cbed307b49821ffe": {
     "title": "SceneCraft: From Story Idea to Screenplay, Storyboard, and Comic in One Creative Studio",
@@ -14293,7 +14296,8 @@
     ],
     "score": 23.58,
     "id": "cbed307b49821ffe",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "把一句想法直接变成剧本、分镜与漫画的一站式工具，可看它的分镜结构化思路并上手试用。"
   },
   "f5ee8bde187809d0": {
     "title": "How to Merge Two or More Videos Online",
@@ -14340,9 +14344,10 @@
       "after effects",
       "learn"
     ],
-    "score": 29.38,
+    "score": 29.37,
     "id": "63b06e4273d8b35b",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "以Premiere、AE、Filmora为例演示AI辅助剪辑与特效的做法，适合系统搭建后期工作流。"
   },
   "cf6f216828e910bc": {
     "title": "Miraiclip: an open-source engine for building video editors in the browser",
@@ -14364,7 +14369,8 @@
     ],
     "score": 20.49,
     "id": "cf6f216828e910bc",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "开源浏览器剪辑引擎，可读它的时间线与渲染接口设计，自建在线剪辑工具时能直接参考。"
   },
   "69bcec6b5d7756fb": {
     "title": "The $1,995 Blackmagic PYXIS 6K Deal Is Already Gone",
@@ -14404,9 +14410,10 @@
     "tags": [
       "directing"
     ],
-    "score": 24.9,
+    "score": 24.89,
     "id": "d185ae04a21db2fc",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "强调镜头运动要服务叙事，给出何时推、何时跟的判断标准与对应的提示词写法。"
   },
   "55b66b91db4ee80c": {
     "title": "Did your Claude prompt improve? Test it against a baseline",
@@ -14426,9 +14433,10 @@
     "tags": [
       "prompt"
     ],
-    "score": 39.36,
+    "score": 39.35,
     "id": "55b66b91db4ee80c",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "教你先设基线再对比测prompt，用可复现的方法判断改动到底有没有让输出变好。"
   },
   "67242e46f37d2ae8": {
     "title": "Your AI Agent Doesn’t Have a Prompt Injection Problem. It Has a 1973 Problem.",
@@ -14449,9 +14457,10 @@
       "prompt",
       "github"
     ],
-    "score": 40.21,
+    "score": 40.2,
     "id": "67242e46f37d2ae8",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "用70年代系统论重新解释Agent的注入问题，换个角度理解提示词与上下文的边界在哪。"
   },
   "eb5a881981b6d77a": {
     "title": "I Stopped Guessing With AI Prompts After Learning These 10 Techniques",
@@ -14469,9 +14478,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 34.46,
+    "score": 34.45,
     "id": "eb5a881981b6d77a",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "10个提示词技巧，帮你从瞎猜变成按结构写prompt，看完就能拿去练。"
   },
   "e4e7f871f64ba1ca": {
     "title": "Transform Your Photos Like a Pro: The 50 ChatGPT Prompts That Changed My Editing Workflow Forever",
@@ -14493,9 +14503,10 @@
       "color grading",
       "workflow"
     ],
-    "score": 35.94,
+    "score": 35.93,
     "id": "e4e7f871f64ba1ca",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "把50条修图提示词按调色、光影、质感等环节分类，可直接套进自己的后期流程里试。"
   },
   "9998781d731313b4": {
     "title": "RAG, Fine-Tuning, or Just a Better Prompt?",
@@ -14516,9 +14527,10 @@
       "prompt",
       "how to"
     ],
-    "score": 35.11,
+    "score": 35.1,
     "id": "9998781d731313b4",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "给出三选一的判断框架，教你先试提示词，再决定要不要上RAG或微调，避免过度工程。"
   },
   "db63eddba0753e5c": {
     "title": "AI Agents Have Power. The Real Question Is Who Controls It.",
@@ -14558,9 +14570,10 @@
     "tags": [
       "prompt"
     ],
-    "score": 33.57,
+    "score": 33.56,
     "id": "918aa2b2ac7094d9",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "从写提示词进阶到系统设计，串起RAG、记忆、工具、微调与评估的整体架构。"
   },
   "dc2c1838ba6779cb": {
     "title": "5 GPT Image 2.5 Mistakes That Make Your AI Images Look Obviously Fake",
@@ -14578,7 +14591,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 28.73,
+    "score": 28.72,
     "id": "dc2c1838ba6779cb",
     "first_seen": "2026-09-23"
   },
@@ -14598,9 +14611,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 34.55,
+    "score": 34.54,
     "id": "9f3def78c45acada",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "汇总生图提示词里好用的隐藏指令写法，能直接抄进自己的出图工作流。"
   },
   "fb5e74df65021610": {
     "title": "Guess Who",
@@ -14661,9 +14675,10 @@
       "editing",
       "guide"
     ],
-    "score": 26.56,
+    "score": 26.55,
     "id": "174b6907c01442ca",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "拆解80年代复古风的提示词写法，重点看它怎么描述色彩、颗粒与霓虹光，可套用到其他风格。"
   },
   "ccd9cb4be45f693a": {
     "title": "The Anatomy of a Strong Midjourney V8.2 Prompt",
@@ -14706,9 +14721,10 @@
       "filmmaking",
       "learn"
     ],
-    "score": 37.62,
+    "score": 37.61,
     "id": "b2fbfd53b539aca2",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "AI电影课第二讲，讲灯光、镜头与影调，教你把这些参数写进提示词控制画面气质。"
   },
   "bc287c571e8544eb": {
     "title": "AI Video Camera Movement Prompts: Choose the Right Shot",
@@ -14728,9 +14744,10 @@
     "tags": [
       "camera movement"
     ],
-    "score": 25.63,
+    "score": 25.62,
     "id": "bc287c571e8544eb",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "按镜头类型整理运镜提示词，教你把推拉摇移翻译成模型听得懂的描述，按需选镜。"
   },
   "18fecb20aa07747a": {
     "title": "Psychological Camera Angles: Controlling Audience Emotion",
@@ -14790,7 +14807,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 21.06,
+    "score": 21.05,
     "id": "b88f4de32b85e8aa",
     "first_seen": "2026-09-23"
   },
@@ -14812,7 +14829,8 @@
     "tags": [],
     "score": 37.04,
     "id": "18ca93b2ac0532db",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "讲企业级检索与grounding的工程做法，重点是让模型回答有据可查、效果可评估。"
   },
   "a1c6b5281d52ce88": {
     "title": "Why Action Creates Better AI Skills Than Information",
@@ -14832,7 +14850,8 @@
     "tags": [],
     "score": 35.59,
     "id": "a1c6b5281d52ce88",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "观点：动手做比囤信息更能练出AI能力，附一套可以马上执行的练习思路。"
   },
   "87118d39be25675d": {
     "title": "Qwen3.8-Flash-Next: Inside the Open Architecture Preview",
@@ -14852,7 +14871,8 @@
     "tags": [],
     "score": 33.09,
     "id": "87118d39be25675d",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "开放架构预览的技术拆解，可看模型在能力与部署上的设计取舍和适用场景。"
   },
   "42b4f130dc57c283": {
     "title": "Qwen3.8-Max-0902: The Upgrade Behind a Familiar API Name",
@@ -14870,9 +14890,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 33.09,
+    "score": 33.08,
     "id": "42b4f130dc57c283",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "解析API名字没变但底层升级了什么，选型和迁移时值得先看这一篇。"
   },
   "4ffc5a81419ab4a1": {
     "title": "When the AI Agent Becomes a Digital Baba",
@@ -14890,9 +14911,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 33.65,
+    "score": 33.64,
     "id": "4ffc5a81419ab4a1",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "借“数字阿爸”案例聊Agent的人设与陪伴场景，思考角色设定提示词该怎么写。"
   },
   "277502c0322db341": {
     "title": "Curiosity Is All You Need… Attention Is Just the Transformer’s Version!",
@@ -14952,7 +14974,8 @@
     "tags": [],
     "score": 28.59,
     "id": "825854de4f16c511",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "讲Premiere里穿透剪辑的用法，教你在时间线上快速对齐、复用片段，少做重复拖拽。"
   },
   "ec0c459064f477f0": {
     "title": "Lady Gaga’s “The Dead Dance” video shot with ZEISS Master Primes",
@@ -14970,9 +14993,10 @@
     "craft_source": true,
     "category": "editing",
     "tags": [],
-    "score": 24.74,
+    "score": 24.73,
     "id": "ec0c459064f477f0",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "借这支MV看定焦镜头的成像与运镜取舍，可留意光影质感如何服务舞蹈节奏。"
   },
   "82fb8494c43c2f7a": {
     "title": "Bravely AI Browsing with Leo",
@@ -14992,7 +15016,7 @@
     "tags": [
       "learn"
     ],
-    "score": 27.99,
+    "score": 27.98,
     "id": "82fb8494c43c2f7a",
     "first_seen": "2026-09-23"
   },
@@ -15012,7 +15036,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 26.19,
+    "score": 26.18,
     "id": "0c812236358d3918",
     "first_seen": "2026-09-23"
   },
@@ -15035,7 +15059,7 @@
       "how to",
       "learn"
     ],
-    "score": 27.59,
+    "score": 27.58,
     "id": "8cece2b2e6c8c782",
     "first_seen": "2026-09-23"
   },
@@ -15055,7 +15079,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 14.28,
+    "score": 14.27,
     "id": "8944cefce0c34ae2",
     "first_seen": "2026-09-23"
   },
@@ -15075,7 +15099,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 14.98,
+    "score": 14.97,
     "id": "3804f259ccb89981",
     "first_seen": "2026-09-23"
   },
@@ -15095,7 +15119,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 14.28,
+    "score": 14.27,
     "id": "11fb7697065b7169",
     "first_seen": "2026-09-23"
   },
@@ -15115,9 +15139,10 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 37.28,
+    "score": 37.27,
     "id": "1273a2aadca26ced",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "汇总几款新模型与降价动向，帮你判断接下来该用哪个、成本怎么变。"
   },
   "43210b7203f4b451": {
     "title": "llm 0.36",
@@ -15135,7 +15160,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 32.11,
+    "score": 32.1,
     "id": "43210b7203f4b451",
     "first_seen": "2026-09-23"
   },
@@ -15155,7 +15180,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 30.73,
+    "score": 30.72,
     "id": "94810a6b46b24257",
     "first_seen": "2026-09-23"
   },
@@ -15221,7 +15246,7 @@
       "github",
       "ollama"
     ],
-    "score": 39.71,
+    "score": 39.7,
     "id": "44aca05eef1263bb",
     "first_seen": "2026-09-23"
   },
@@ -15241,7 +15266,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 27.93,
+    "score": 27.92,
     "id": "8205c47c7cae6d7b",
     "first_seen": "2026-09-23"
   },
@@ -15264,7 +15289,7 @@
       "how to",
       "learn"
     ],
-    "score": 30.08,
+    "score": 30.07,
     "id": "b2828453a5aa7b1d",
     "first_seen": "2026-09-23"
   },
@@ -15284,7 +15309,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 25.23,
+    "score": 25.22,
     "id": "f1ddc1a5613709e2",
     "first_seen": "2026-09-23"
   },
@@ -15309,9 +15334,10 @@
       "guide",
       "how to"
     ],
-    "score": 41.18,
+    "score": 41.17,
     "id": "a143d572bebea2c4",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "教用任务API轮询异步生图结果，附请求与状态查询写法，适合接进批量出图流程。"
   },
   "906756fa62bb0896": {
     "title": "Muse AI: Meta's Personal AI Agent, Explained — Plus How to Claim 1 Billion Free Tokens With an Invite Code",
@@ -15332,9 +15358,10 @@
       "how to",
       "explained"
     ],
-    "score": 37.52,
+    "score": 37.51,
     "id": "906756fa62bb0896",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "介绍Meta个人Agent能做什么、边界在哪，附领取免费额度的方式，可顺手试用。"
   },
   "d7ac59ae0532d6e0": {
     "title": "Better prompt caching for GPT-6",
@@ -15354,9 +15381,10 @@
       "prompt",
       "learn"
     ],
-    "score": 36.38,
+    "score": 36.37,
     "id": "d7ac59ae0532d6e0",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "讲GPT-6提示词缓存的命中条件与结构技巧，帮长上下文场景降本提速。"
   },
   "5e22b8f66b05523a": {
     "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
@@ -15396,7 +15424,7 @@
     "tags": [
       "如何"
     ],
-    "score": 34.26,
+    "score": 34.25,
     "id": "b8957a17202ebf86",
     "first_seen": "2026-09-23"
   },
@@ -15417,7 +15445,7 @@
     "tags": [
       "开源"
     ],
-    "score": 29.06,
+    "score": 29.05,
     "id": "c2659f2cc53b3448",
     "first_seen": "2026-09-23"
   },
@@ -15438,7 +15466,7 @@
     "tags": [
       "如何"
     ],
-    "score": 28.94,
+    "score": 28.93,
     "id": "bb12ada544be358a",
     "first_seen": "2026-09-23"
   },
@@ -15483,7 +15511,7 @@
       "剪映",
       "如何"
     ],
-    "score": 48.78,
+    "score": 48.77,
     "id": "ba6cf8e1b87bcfaf",
     "first_seen": "2026-09-23"
   },
@@ -15509,7 +15537,7 @@
       "分镜",
       "一致性"
     ],
-    "score": 35.72,
+    "score": 35.71,
     "id": "a3b22213138c5d07",
     "first_seen": "2026-09-23"
   },
@@ -15535,7 +15563,7 @@
       "star",
       "分析"
     ],
-    "score": 33.29,
+    "score": 33.28,
     "id": "ceb01bf5f29fda69",
     "first_seen": "2026-09-23"
   },
@@ -15558,7 +15586,7 @@
       "框架",
       "监管"
     ],
-    "score": 28.35,
+    "score": 28.34,
     "id": "b334703f58b2cad5",
     "first_seen": "2026-09-23"
   },
@@ -15579,7 +15607,7 @@
     "tags": [
       "开源"
     ],
-    "score": 26.84,
+    "score": 26.83,
     "id": "b48b6bdf8193d8d1",
     "first_seen": "2026-09-23"
   },
@@ -15600,9 +15628,10 @@
     "tags": [
       "调度"
     ],
-    "score": 25.98,
+    "score": 25.97,
     "id": "1b3556e9110fc9c0",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "中文分享多模型调度与反馈闭环的搭建思路，可借鉴来做能持续自我迭代的Agent流程。"
   },
   "7304aad08e8c9e66": {
     "title": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检",
@@ -15624,7 +15653,7 @@
       "成片",
       "报告"
     ],
-    "score": 32.41,
+    "score": 32.4,
     "id": "7304aad08e8c9e66",
     "first_seen": "2026-09-23"
   },
@@ -15667,7 +15696,7 @@
     "tags": [
       "开源"
     ],
-    "score": 17.72,
+    "score": 17.71,
     "id": "7268374f15f52974",
     "first_seen": "2026-09-23"
   },
@@ -15713,7 +15742,7 @@
       "定价",
       "上市"
     ],
-    "score": 40.98,
+    "score": 40.97,
     "id": "e3930f31e5df4eca",
     "first_seen": "2026-09-23"
   },
@@ -15756,9 +15785,10 @@
     "tags": [
       "filmmaking"
     ],
-    "score": 20.37,
+    "score": 20.36,
     "id": "9e4ddc47ed5adcd8",
-    "first_seen": "2026-09-23"
+    "first_seen": "2026-09-23",
+    "zh": "借《奥德赛》讨论实拍的价值，可参考大场面里实景与CG该如何取舍。"
   },
   "352f3cc89f0455d3": {
     "title": "AI 唱歌MV太誇張?! 快/慢歌都能口型同步演唱，動作/表情/分鏡一次搞定，效果有點意外‼️｜Tunee AI 教程",
@@ -16058,7 +16088,7 @@
     "extra": "今日 +255 · TypeScript",
     "category": "tools",
     "tags": [],
-    "score": 47.7,
+    "score": 47.69,
     "id": "12221ab3bb240c36",
     "first_seen": "2026-09-23"
   },
@@ -16078,7 +16108,7 @@
     "tags": [
       "cli"
     ],
-    "score": 49.1,
+    "score": 49.09,
     "id": "8f13960f6071141b",
     "first_seen": "2026-09-23"
   },
@@ -16096,7 +16126,7 @@
     "extra": "今日 +230 · Python",
     "category": "tools",
     "tags": [],
-    "score": 41.18,
+    "score": 41.17,
     "id": "d083e89d922f5cc4",
     "first_seen": "2026-09-23"
   }

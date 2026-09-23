@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-22",
-  "summary": "今天的内容集中在「少即是多」的剪辑思路与 AI 工作流打通：剪映把 AI 生视频与 AI 剪辑接成一条链，剪辑端则强调节奏控制与字幕无痕擦除这类可直接上手的技巧。导演与分镜方面，景别选择、构图式提示词、Seedance 分镜工作流都能直接套进你的 AI 短片流程。此外还有一条从小说到成片的 AI 漫剧全链路教程和一套免按分钟付费的批量成片工作流，适合系统补课。",
+  "date": "2026-09-23",
+  "summary": "今天能学到的最实用的东西集中在三块：AI 剪辑与后期的工作流升级（剪映的一站式 AI 能力、Premiere 的透明转场、B-roll 的节奏作用），AI 视频的镜头语言与构图逻辑（运镜提示词、镜头景别、提示词别用加法思维），以及从分镜到成片的落地路径（Seedance 分镜工作流、Seedream 异步出图 API）。提示词技巧方面，两条可复用的通用方法与图像提示词隐藏指令值得今天就试。",
   "picks": [
-    {
-      "title": "Your CapCut Videos Look Busy Because You’re Editing Too Much",
-      "url": "https://medium.com/@alexandramandy/your-capcut-videos-look-busy-because-youre-editing-too-much-92fc2bf67a8a?source=rss------filmmaking-5",
-      "why": "用「剪太多」的典型反面案例讲剪辑节奏，告诉你什么时候该收手，剪映用户可直接对照自查。",
-      "id": "f547ee60a34fdd9c"
-    },
-    {
-      "title": "从“看见文字”到“读懂画面”：AI MediaKit 如何实现视频字幕无痕擦除",
-      "url": "https://www.infoq.cn/article/Vqhz90IcQjPlqNXIbfAk?utm_source=rss&utm_medium=article",
-      "why": "拆解 AI MediaKit 如何做到视频字幕无痕擦除，对需要清理素材水印/字幕的后期很实用。",
-      "id": "6a1f777ab28afe2c"
-    },
     {
       "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
       "url": "https://www.qbitai.com/2026/09/492973.html",
-      "why": "剪映把 AI 生视频与 AI 剪辑打通，中文讲解，直接关系到你下一支片子的制作链路。",
+      "why": "中文实操向，讲清 AI 生视频与 AI 剪辑打通后的一站式流程怎么用。",
       "id": "11b048bade71c795"
     },
     {
-      "title": "Framing the Narrative: Mastering Shot Sizes in AI Filmmaking",
-      "url": "https://medium.com/@bloggerswit_41630/framing-the-narrative-mastering-shot-sizes-in-ai-filmmaking-3268ba9915e1?source=rss------ai_video-5",
-      "why": "系统讲景别（shot sizes）如何在 AI 影像里承担叙事功能，是镜头语言的基本功补课。",
-      "id": "0587ca71848e541b"
+      "title": "Tool Tip Tuesday for Adobe Premiere: Show Through Edits",
+      "url": "https://www.provideocoalition.com/tool-tip-tuesday-for-adobe-premiere-show-through-edits/",
+      "why": "Premiere 里一个具体可复现的剪辑小技巧，今天就能上手试。",
+      "id": "825854de4f16c511"
+    },
+    {
+      "title": "How B-Roll Makes Videos More Engaging",
+      "url": "https://medium.com/@dishakulal0914/how-b-roll-makes-videos-more-engaging-70f78466bb7e?source=rss------video_production-5",
+      "why": "讲清 B-roll 如何服务节奏与信息，是剪辑叙事的基础功。",
+      "id": "3ab87ae8c9728e36"
+    },
+    {
+      "title": "AI Video Camera Movement Prompts: Choose the Right Shot",
+      "url": "https://medium.com/@sophiaxu0506/ai-video-camera-movement-prompts-choose-the-right-shot-50f1a2797cd7?source=rss------ai_video-5",
+      "why": "把运镜提示词按镜头类型拆开，直接对应 AI 视频的拍摄需求。",
+      "id": "bc287c571e8544eb"
     },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "提醒别用加法思维堆提示词，把构图逻辑放在第一位，中文实操向，出图出片都能立刻改。",
+      "why": "中文干货，点破提示词该用构图逻辑而非元素堆砌，思路可迁移。",
       "id": "9acc46cbdeb37daa"
+    },
+    {
+      "title": "Framing the Narrative: Mastering Shot Sizes in AI Filmmaking",
+      "url": "https://medium.com/@bloggerswit_41630/framing-the-narrative-mastering-shot-sizes-in-ai-filmmaking-3268ba9915e1?source=rss------cinematography-5",
+      "why": "景别选择是 AI 影像叙事最容易忽略的一环，这篇给了成体系的判断法。",
+      "id": "0587ca71848e541b"
+    },
+    {
+      "title": "I Stopped Guessing With AI Prompts After Learning These 10 Techniques",
+      "url": "https://medium.com/@tabibherb/i-stopped-guessing-with-ai-prompts-after-learning-these-10-techniques-a1c9e79c5e1a?source=rss------prompt_engineering-5",
+      "why": "10 个可复用的提示词技巧，胜在少猜多验证。",
+      "id": "eb5a881981b6d77a"
+    },
+    {
+      "title": "Secret Commands for ChatGPT Image Prompts",
+      "url": "https://medium.com/kinomoto-mag/secret-commands-for-chatgpt-image-prompts-7d4e6ab6cb09?source=rss------ai_art-5",
+      "why": "图像提示词里的隐藏指令，能直接提升出图可控性。",
+      "id": "9f3def78c45acada"
     },
     {
       "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
       "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "Seedance 2.5 的逐镜分镜工作流，演示从一句概念拆成 shot-by-shot 计划的完整方法。",
+      "why": "把创意一步步落成逐镜计划的完整分镜工作流，拿来即可套用。",
       "id": "6f5f39903e351a2c"
     },
     {
-      "title": "Stop Prompting AI. Start Giving It Context.",
-      "url": "https://medium.com/@saif.rehman00002/stop-prompting-ai-start-giving-it-context-5d928c1da21a?source=rss------prompt_engineering-5",
-      "why": "把「写提示词」升级为「给上下文」，是提高 AI 产出稳定性的思路级转变。",
-      "id": "e84d65f328b6260c"
-    },
-    {
-      "title": "Prompt Engineering: Getting LLMs to Do What You Want Without Training Anything",
-      "url": "https://medium.com/@tabsalam120/prompt-engineering-getting-llms-to-do-what-you-want-without-training-anything-af19605fae27?source=rss------prompt_engineering-5",
-      "why": "不训练模型也能让 LLM 听话的提示工程方法清单，可迁移到剧本、分镜与文案生成。",
-      "id": "c8b00eb1be99a868"
-    },
-    {
-      "title": "I Made 30 Faceless Short Videos Without Paying Per Minute — My Offline Batch Workflow",
-      "url": "https://dev.to/tony_make_5eb96ab94641071/i-made-30-faceless-short-videos-without-paying-per-minute-my-offline-batch-workflow-412p",
-      "why": "离线批量生产 30 条无露脸短视频的工作流，重点是不按分钟付费的成本控制方案。",
-      "id": "92c4f4f1363f80a8"
-    },
-    {
-      "title": "【影视级AI漫剧完整链路教程】剧本人设 + 分镜渲染 + 动态成片 + 配音剪辑从0到1！AI短剧手把手教学",
-      "url": "https://www.youtube.com/watch?v=ZDygCiiwo-E",
-      "why": "中文全链路教程：剧本人设＋分镜渲染＋动态成片＋配音剪辑，AI 短剧从 0 到 1 一条龙。",
-      "id": "fc4974ebc5a285cc"
+      "title": "How to Track Async Image Generation Jobs with the Seedream Tasks API",
+      "url": "https://dev.to/germey/how-to-track-async-image-generation-jobs-with-the-seedream-tasks-api-5go6",
+      "why": "异步出图任务的追踪方法，批量化 AI 素材生产必备。",
+      "id": "a143d572bebea2c4"
     }
   ]
 }
