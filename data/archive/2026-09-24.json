@@ -3225,7 +3225,7 @@
       "veo",
       "kling"
     ],
-    "score": 48.09,
+    "score": 48.08,
     "id": "8e1745e015e50e9e",
     "first_seen": "2026-09-16"
   },
@@ -3308,7 +3308,7 @@
     "tags": [
       "recipe"
     ],
-    "score": 44.1,
+    "score": 44.09,
     "id": "fc5d960bea3106db",
     "first_seen": "2026-09-16"
   },
@@ -3350,7 +3350,7 @@
       "剧本",
       "成片"
     ],
-    "score": 37.92,
+    "score": 37.91,
     "id": "767dbc3f1add41da",
     "first_seen": "2026-09-16"
   },
@@ -3390,7 +3390,7 @@
     "tags": [
       "workflow"
     ],
-    "score": 42.16,
+    "score": 42.15,
     "id": "16e11b90ef8df779",
     "first_seen": "2026-09-16"
   },
@@ -3408,7 +3408,7 @@
     "extra": "★ 266,196",
     "category": "tools",
     "tags": [],
-    "score": 26.33,
+    "score": 26.32,
     "id": "3eb178ba4cd74e58",
     "first_seen": "2026-09-16"
   },
@@ -3429,7 +3429,7 @@
       "explained",
       "cli"
     ],
-    "score": 47.36,
+    "score": 47.35,
     "id": "79cd21bd93d525b2",
     "first_seen": "2026-09-16"
   },
@@ -14433,7 +14433,7 @@
     "tags": [
       "prompt"
     ],
-    "score": 17.76,
+    "score": 17.75,
     "id": "55b66b91db4ee80c",
     "first_seen": "2026-09-23",
     "zh": "教你先设基线再对比测prompt，用可复现的方法判断改动到底有没有让输出变好。"
@@ -14457,7 +14457,7 @@
       "prompt",
       "github"
     ],
-    "score": 18.61,
+    "score": 18.6,
     "id": "67242e46f37d2ae8",
     "first_seen": "2026-09-23",
     "zh": "用70年代系统论重新解释Agent的注入问题，换个角度理解提示词与上下文的边界在哪。"
@@ -14478,7 +14478,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 12.86,
+    "score": 12.85,
     "id": "eb5a881981b6d77a",
     "first_seen": "2026-09-23",
     "zh": "10个提示词技巧，帮你从瞎猜变成按结构写prompt，看完就能拿去练。"
@@ -14721,7 +14721,7 @@
       "filmmaking",
       "learn"
     ],
-    "score": 16.02,
+    "score": 16.01,
     "id": "b2fbfd53b539aca2",
     "first_seen": "2026-09-23",
     "zh": "AI电影课第二讲，讲灯光、镜头与影调，教你把这些参数写进提示词控制画面气质。"
@@ -14827,7 +14827,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 15.44,
+    "score": 15.43,
     "id": "18ca93b2ac0532db",
     "first_seen": "2026-09-23",
     "zh": "讲企业级检索与grounding的工程做法，重点是让模型回答有据可查、效果可评估。"
@@ -14911,7 +14911,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 12.05,
+    "score": 12.04,
     "id": "4ffc5a81419ab4a1",
     "first_seen": "2026-09-23",
     "zh": "借“数字阿爸”案例聊Agent的人设与陪伴场景，思考角色设定提示词该怎么写。"
@@ -15139,7 +15139,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 15.68,
+    "score": 15.67,
     "id": "1273a2aadca26ced",
     "first_seen": "2026-09-23",
     "zh": "汇总几款新模型与降价动向，帮你判断接下来该用哪个、成本怎么变。"
@@ -15246,7 +15246,7 @@
       "github",
       "ollama"
     ],
-    "score": 18.11,
+    "score": 18.1,
     "id": "44aca05eef1263bb",
     "first_seen": "2026-09-23"
   },
@@ -15334,7 +15334,7 @@
       "guide",
       "how to"
     ],
-    "score": 19.58,
+    "score": 19.57,
     "id": "a143d572bebea2c4",
     "first_seen": "2026-09-23",
     "zh": "教用任务API轮询异步生图结果，附请求与状态查询写法，适合接进批量出图流程。"
@@ -15358,7 +15358,7 @@
       "how to",
       "explained"
     ],
-    "score": 15.92,
+    "score": 15.91,
     "id": "906756fa62bb0896",
     "first_seen": "2026-09-23",
     "zh": "介绍Meta个人Agent能做什么、边界在哪，附领取免费额度的方式，可顺手试用。"
@@ -15381,7 +15381,7 @@
       "prompt",
       "learn"
     ],
-    "score": 14.78,
+    "score": 14.77,
     "id": "d7ac59ae0532d6e0",
     "first_seen": "2026-09-23",
     "zh": "讲GPT-6提示词缓存的命中条件与结构技巧，帮长上下文场景降本提速。"
@@ -15742,7 +15742,7 @@
       "定价",
       "上市"
     ],
-    "score": 19.38,
+    "score": 19.37,
     "id": "e3930f31e5df4eca",
     "first_seen": "2026-09-23"
   },
@@ -16089,7 +16089,7 @@
     "extra": "今日 +1,142 · TypeScript",
     "category": "tools",
     "tags": [],
-    "score": 47.7,
+    "score": 47.69,
     "id": "12221ab3bb240c36",
     "first_seen": "2026-09-23"
   },
@@ -16109,7 +16109,7 @@
     "tags": [
       "cli"
     ],
-    "score": 49.1,
+    "score": 49.09,
     "id": "8f13960f6071141b",
     "first_seen": "2026-09-23"
   },
@@ -16127,7 +16127,7 @@
     "extra": "今日 +506 · Python",
     "category": "tools",
     "tags": [],
-    "score": 41.51,
+    "score": 41.5,
     "id": "d083e89d922f5cc4",
     "first_seen": "2026-09-23"
   },
@@ -16152,7 +16152,8 @@
     ],
     "score": 32.06,
     "id": "898e0003e3d7e1d2",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "零预算开频道的完整流程，用免费AI工具完成选题、剪辑与封面，适合新手起步。"
   },
   "88c79110d1d903c9": {
     "title": "What Career Opportunities Can You Explore After an AI Powered Video Editing Course in Telugu?",
@@ -16175,7 +16176,8 @@
     ],
     "score": 27.44,
     "id": "88c79110d1d903c9",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "介绍AI剪辑课程后的就业方向与岗位类型，适合评估是否入行，实操内容有限。"
   },
   "2cd9652d7800db29": {
     "title": "How to Turn One Long YouTube Video Into 10+ Pieces of Content",
@@ -16195,7 +16197,7 @@
     "tags": [
       "how to"
     ],
-    "score": 24.86,
+    "score": 24.85,
     "id": "2cd9652d7800db29",
     "first_seen": "2026-09-24"
   },
@@ -16219,9 +16221,10 @@
       "course",
       "learn"
     ],
-    "score": 25.87,
+    "score": 25.86,
     "id": "e66589de72e35921",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "课程宣传为主，可大致了解其模块划分，实操参考价值不高。"
   },
   "b6a84b11518bc026": {
     "title": "Professional Video Editing Ambala: A Practical Guide to Services, Pricing and Career Options",
@@ -16243,9 +16246,10 @@
       "editor",
       "guide"
     ],
-    "score": 22.9,
+    "score": 22.89,
     "id": "b6a84b11518bc026",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "梳理本地剪辑服务的报价结构与接单流程，适合想靠剪辑接活的人摸清行情。"
   },
   "3a2ab20caaf7dd3d": {
     "title": "Stop Prompting “Cinematic Lighting”: The Motivated Light Strategy",
@@ -16266,9 +16270,10 @@
       "prompting",
       "strategy"
     ],
-    "score": 37.25,
+    "score": 37.24,
     "id": "3a2ab20caaf7dd3d",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "别再无脑写“电影感灯光”，教你有动机布光：让每个光源在场景里都有来由。"
   },
   "3b7ee38ce91b2930": {
     "title": "BEHIND THE LENS: THE VISIONARY DIRECTOR OF SECOND CHANCE 11 “SARA”",
@@ -16290,7 +16295,8 @@
     ],
     "score": 31.76,
     "id": "3b7ee38ce91b2930",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "听导演讲现场调度与表演指导的具体做法，了解短片从剧本到成片的决策节点。"
   },
   "d67376b0e8ad7c74": {
     "title": "Why AI Video Editing Feels Choppy (Walter Murch's Fix)",
@@ -16310,9 +16316,10 @@
     "tags": [
       "editing"
     ],
-    "score": 23.75,
+    "score": 23.74,
     "id": "d67376b0e8ad7c74",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "借Walter Murch的剪辑理论解释AI成片为何生硬，教你在哪里加镜头、留呼吸感。"
   },
   "c4fc9cd0ed7c0e6a": {
     "title": "Your Story Deserves Better Than This Stock Footage",
@@ -16330,9 +16337,10 @@
     "craft_source": true,
     "category": "editing",
     "tags": [],
-    "score": 30.31,
+    "score": 30.3,
     "id": "c4fc9cd0ed7c0e6a",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "讲怎么用实拍或AI生成素材替代通用库画面，让每个镜头都真正服务故事，而不是凑时长。"
   },
   "ca737021ea29c020": {
     "title": "The Four Layers of AI Agent Engineering",
@@ -16353,9 +16361,10 @@
       "prompt",
       "explained"
     ],
-    "score": 40.97,
+    "score": 40.96,
     "id": "ca737021ea29c020",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "把Agent工程拆成四层，帮你判断该从哪一层入手，搭建可维护的智能体。"
   },
   "735ea386ac90c221": {
     "title": "Prompt Engineering for Developers: Getting Reliable Output from LLMs in Next.js",
@@ -16377,7 +16386,8 @@
     ],
     "score": 37.04,
     "id": "735ea386ac90c221",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "面向开发者的提示词实践，讲如何在Next.js里稳定拿到结构化输出并处理异常。"
   },
   "f1fa8cc52829e0d1": {
     "title": "Next.js vs React: What’s Actually Different",
@@ -16397,9 +16407,10 @@
     "tags": [
       "learn"
     ],
-    "score": 35.34,
+    "score": 35.33,
     "id": "f1fa8cc52829e0d1",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "厘清React与Next.js各自负责什么，帮你判断项目要不要上框架、该用哪一层能力。"
   },
   "4c9e6f857711dac4": {
     "title": "Prompt Engineering: How to Have Better Conversations with AI",
@@ -16420,9 +16431,10 @@
       "prompt",
       "how to"
     ],
-    "score": 38.01,
+    "score": 38.0,
     "id": "4c9e6f857711dac4",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "从提问结构、上下文到迭代方式，教你把与AI的对话变成可复用的工作流程。"
   },
   "f29e2ef4af0e3a96": {
     "title": "Build Your AI Identity: Teach ChatGPT How to Work With You",
@@ -16443,9 +16455,10 @@
       "prompt",
       "how to"
     ],
-    "score": 37.5,
+    "score": 37.49,
     "id": "f29e2ef4af0e3a96",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "教你把个人写作习惯、术语与标准写进AI设定，让它按你的方式协作而非每次重头解释。"
   },
   "b1eb099114d1c714": {
     "title": "5 ChatGPT Mega-Prompts That Will Save You Hours of Manual Work",
@@ -16465,7 +16478,8 @@
     "tags": [],
     "score": 32.43,
     "id": "b1eb099114d1c714",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "五个可直接套用的长提示词，覆盖写作与整理等重复劳动，替换变量就能上手。"
   },
   "9a44791136c0ecd4": {
     "title": "Website System Prompt Steps I Wish I Knew When I Started",
@@ -16487,7 +16501,8 @@
     ],
     "score": 33.62,
     "id": "9a44791136c0ecd4",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "分享搭建网站系统提示词的分步清单与常见坑，可直接照抄改成自己的模板。"
   },
   "08253daa2e1b4f94": {
     "title": "Prompt Engineering Lessons From Putting LLMs Into Real Products",
@@ -16507,9 +16522,10 @@
     "tags": [
       "prompt"
     ],
-    "score": 32.19,
+    "score": 32.18,
     "id": "08253daa2e1b4f94",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "从真实产品落地中总结的提示词经验，讲怎么对付幻觉、格式不稳等线上问题。"
   },
   "3e54f4b7e23e8dd6": {
     "title": "Why Do IT Engineers Stand Frozen Before the Linguistic Turn?",
@@ -16529,7 +16545,8 @@
     "tags": [],
     "score": 35.99,
     "id": "3e54f4b7e23e8dd6",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "讨论工程师在语言转向下的思维盲区，帮你重新理解“用自然语言编程”意味着什么。"
   },
   "364594f76b64287d": {
     "title": "Meet Jev: The AI That Refuses to Write a Single Word",
@@ -16547,9 +16564,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 34.53,
+    "score": 34.52,
     "id": "364594f76b64287d",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "一个拒绝写作的AI实验，反过来提示：给输出加约束，有时比放开生成更能逼出好内容。"
   },
   "03096dda966ae19c": {
     "title": "Nano Banana 2.5 and the “Spicy Mayo” Arena Blind Test: An In-Depth Technical Analysis",
@@ -16571,7 +16589,8 @@
     ],
     "score": 34.23,
     "id": "03096dda966ae19c",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "盲测对比图像模型的细节与风格表现，顺带教你设计自己的对照实验来选工具。"
   },
   "21275e82db7ca857": {
     "title": "AI Could Change Gaming for the Better… If We Don’t Use It to Replace What Makes Games Great",
@@ -16589,7 +16608,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 32.02,
+    "score": 32.01,
     "id": "21275e82db7ca857",
     "first_seen": "2026-09-24"
   },
@@ -16629,7 +16648,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 31.18,
+    "score": 31.17,
     "id": "84856e7fd0127e53",
     "first_seen": "2026-09-24"
   },
@@ -16671,7 +16690,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 30.49,
+    "score": 30.48,
     "id": "b7e5b6857d3a1140",
     "first_seen": "2026-09-24"
   },
@@ -16695,9 +16714,10 @@
       "blocking",
       "learn"
     ],
-    "score": 38.12,
+    "score": 38.11,
     "id": "16df762f58b5b891",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "AI电影课第三讲，讲怎么用提示词控制推拉摇移，让生成镜头真正“动”起来。"
   },
   "ed168bd49833c1ac": {
     "title": "MiniMax H3 Product Demo: Plan Three Shots With Stills, Motion Notes and a Review Pass",
@@ -16739,7 +16759,7 @@
     "tags": [
       "how to"
     ],
-    "score": 27.54,
+    "score": 27.53,
     "id": "75a45e849800436e",
     "first_seen": "2026-09-24"
   },
@@ -16799,7 +16819,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 27.49,
+    "score": 27.48,
     "id": "3d937cb3029fc2dd",
     "first_seen": "2026-09-24"
   },
@@ -16868,7 +16888,8 @@
     ],
     "score": 33.2,
     "id": "0321ad4f5ab2db72",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "用Warp与MjWarp加速机器人仿真的实操路径，适合想把训练环境真正跑起来的开发者。"
   },
   "bde568d7bc768a93": {
     "title": "Building a Crypto Signal Bot with AI APIs - 2026 Guide",
@@ -16890,7 +16911,8 @@
     ],
     "score": 38.25,
     "id": "bde568d7bc768a93",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "一步步用AI接口搭加密信号机器人，可学到API调用、定时任务到结果推送的完整链路。"
   },
   "27d60ced9f6669f0": {
     "title": "NovelAI Alternative in 2026: Browser-Based Anime AI with Tsubaki.3",
@@ -16911,9 +16933,10 @@
       "prompting",
       "learn"
     ],
-    "score": 32.35,
+    "score": 32.34,
     "id": "27d60ced9f6669f0",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "介绍浏览器端动漫AI绘画的出图流程与参数控制，便于对比自建模型的成本。"
   },
   "3f1cf406a0861b8b": {
     "title": "Design Without Rules: What Happens When AI Removes Traditional Technical Limitations?",
@@ -16951,7 +16974,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 26.34,
+    "score": 26.33,
     "id": "5c7a9db548e09247",
     "first_seen": "2026-09-24"
   },
@@ -16971,7 +16994,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 24.61,
+    "score": 24.6,
     "id": "4c8be91be2e233bb",
     "first_seen": "2026-09-24"
   },
@@ -17011,9 +17034,10 @@
     "craft_source": true,
     "category": "editing",
     "tags": [],
-    "score": 27.18,
+    "score": 27.17,
     "id": "457cf00181f4d87b",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "了解可扩展广播级无线音频的通道配置与现场布线思路，供多人拍摄收音方案参考。"
   },
   "36a782a896c16960": {
     "title": "Art of the Frame Podcast: Editors on Editing with “The End of Oak Street” Editor John Axelrad",
@@ -17036,7 +17060,8 @@
     ],
     "score": 28.62,
     "id": "36a782a896c16960",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "听资深剪辑师拆解长片剪辑的节奏把控与素材取舍，思路可直接迁移到自己的项目。"
   },
   "e597e13567a815af": {
     "title": "Gemini 3.8 TTS Playground",
@@ -17077,9 +17102,10 @@
       "prompt",
       "explained"
     ],
-    "score": 32.24,
+    "score": 32.23,
     "id": "0294a8f8a399e08a",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "用可运行的例子讲清Shadow DOM的封装边界，解决样式穿透与选择器失效的老问题。"
   },
   "1ed051041486ef23": {
     "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
@@ -17097,7 +17123,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 16.38,
+    "score": 16.37,
     "id": "1ed051041486ef23",
     "first_seen": "2026-09-24"
   },
@@ -17118,9 +17144,10 @@
     "tags": [
       "color grading"
     ],
-    "score": 26.18,
+    "score": 26.17,
     "id": "c618f60007d5aaf7",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "看AI如何把调色效率提升数倍，重点理解自动风格迁移后仍需人工校准的关键环节。"
   },
   "eb796705575fe808": {
     "title": "丰田命令员工训练人形机器人，否认会替代人类员工",
@@ -17181,7 +17208,7 @@
       "收购",
       "监管"
     ],
-    "score": 38.43,
+    "score": 38.42,
     "id": "9ef9ab4900ce31de",
     "first_seen": "2026-09-24"
   },
@@ -17200,7 +17227,7 @@
     "default_category": null,
     "category": "trend",
     "tags": [],
-    "score": 21.45,
+    "score": 21.44,
     "id": "5bc2a34235cf7616",
     "first_seen": "2026-09-24"
   },
@@ -17221,7 +17248,7 @@
     "tags": [
       "开源"
     ],
-    "score": 38.5,
+    "score": 38.49,
     "id": "5a8f18d493f259b2",
     "first_seen": "2026-09-24"
   },
@@ -17244,9 +17271,10 @@
       "指南",
       "笔记"
     ],
-    "score": 34.13,
+    "score": 34.12,
     "id": "41e494dc63e2f356",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "讲多Agent通信风暴与死锁的排查思路，给出生产环境的降级与容灾具体方案。"
   },
   "74a44f45ba8a6f68": {
     "title": "共享黑板模式（Blackboard）实战：多 Agent 如何并发协作而不冲突？",
@@ -17270,7 +17298,8 @@
     ],
     "score": 34.8,
     "id": "74a44f45ba8a6f68",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "用黑板模式让多个Agent并发读写而不打架，附实战思路，可直接改造自己的多智能体流程。"
   },
   "e1b419db25afe3b8": {
     "title": "AgentKit MCP 网关上手指南｜让企业存量服务快速接入 AI",
@@ -17290,7 +17319,7 @@
       "提效",
       "指南"
     ],
-    "score": 31.88,
+    "score": 31.87,
     "id": "e1b419db25afe3b8",
     "first_seen": "2026-09-24"
   },
@@ -17393,7 +17422,7 @@
     "tags": [
       "部署"
     ],
-    "score": 38.83,
+    "score": 38.82,
     "id": "2af8e7311b8720bf",
     "first_seen": "2026-09-24"
   },
@@ -17416,7 +17445,7 @@
       "开源",
       "仓库"
     ],
-    "score": 41.98,
+    "score": 41.97,
     "id": "a01b3c4607eec553",
     "first_seen": "2026-09-24"
   },
@@ -17442,7 +17471,7 @@
       "star",
       "部署"
     ],
-    "score": 35.06,
+    "score": 35.05,
     "id": "a872733de30e51c2",
     "first_seen": "2026-09-24"
   },
@@ -17464,7 +17493,7 @@
       "拆解",
       "商业化"
     ],
-    "score": 25.27,
+    "score": 25.26,
     "id": "71d08de127e4541f",
     "first_seen": "2026-09-24"
   },
@@ -17485,7 +17514,7 @@
     "tags": [
       "预测"
     ],
-    "score": 36.78,
+    "score": 36.77,
     "id": "62738703440c90ce",
     "first_seen": "2026-09-24"
   },
@@ -17506,7 +17535,7 @@
     "tags": [
       "提效"
     ],
-    "score": 20.54,
+    "score": 20.53,
     "id": "83a3743bd429b779",
     "first_seen": "2026-09-24"
   },
@@ -17529,7 +17558,7 @@
       "开源",
       "框架"
     ],
-    "score": 25.09,
+    "score": 25.08,
     "id": "a46f0b9959c6abd3",
     "first_seen": "2026-09-24"
   },
@@ -17552,9 +17581,10 @@
       "director",
       "filmmaking"
     ],
-    "score": 29.98,
+    "score": 29.97,
     "id": "16cb9c8421d68b8e",
-    "first_seen": "2026-09-24"
+    "first_seen": "2026-09-24",
+    "zh": "主创对谈拍摄手法与表演调度，可学到低成本类型片的现场执行经验。"
   },
   "d2fb02f6f003d43b": {
     "title": "The Most HILARIOUS K Pop Idols PT1 #kpop #funny #kpopdemonhunters",
@@ -17744,7 +17774,7 @@
     "tags": [
       "sdk"
     ],
-    "score": 47.03,
+    "score": 47.02,
     "id": "52d0845fc1bd4c1b",
     "first_seen": "2026-09-24"
   },
@@ -17764,7 +17794,7 @@
     "tags": [
       "cli"
     ],
-    "score": 49.1,
+    "score": 49.09,
     "id": "740be60563d19d0a",
     "first_seen": "2026-09-24"
   },
@@ -17782,7 +17812,7 @@
     "extra": "今日 +304 · JavaScript",
     "category": "tools",
     "tags": [],
-    "score": 47.7,
+    "score": 47.69,
     "id": "fa50ebc2e99687d3",
     "first_seen": "2026-09-24"
   },
@@ -17802,7 +17832,7 @@
     "tags": [
       "repo"
     ],
-    "score": 49.1,
+    "score": 49.09,
     "id": "8772957d6fedd9b7",
     "first_seen": "2026-09-24"
   },
