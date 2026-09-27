@@ -3268,7 +3268,7 @@
     "tags": [
       "editor"
     ],
-    "score": 27.33,
+    "score": 27.32,
     "id": "9a5900fa6a30722e",
     "first_seen": "2026-09-16"
   },
@@ -3370,7 +3370,7 @@
     "tags": [
       "workflow"
     ],
-    "score": 37.22,
+    "score": 37.21,
     "id": "16e11b90ef8df779",
     "first_seen": "2026-09-16"
   },
@@ -16069,7 +16069,7 @@
     "extra": "今日 +849 · TypeScript",
     "category": "tools",
     "tags": [],
-    "score": 47.7,
+    "score": 47.69,
     "id": "12221ab3bb240c36",
     "first_seen": "2026-09-23"
   },
@@ -17852,9 +17852,10 @@
     "craft_source": true,
     "category": "directing",
     "tags": [],
-    "score": 30.65,
+    "score": 30.64,
     "id": "a2be5e6dcc2dc652",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "解析这位摄影指导的控光理念与暗部处理，教你在低照度画面里保住层次与质感。"
   },
   "53e858ec579f2f1f": {
     "title": "Interview With Hayden Mclean",
@@ -17876,7 +17877,8 @@
     ],
     "score": 28.49,
     "id": "53e858ec579f2f1f",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "一线导演谈现场判断与创作取舍，能听到镜头决策背后的思路，而非泛泛的行业感想。"
   },
   "90aa01e4148a7dd2": {
     "title": "How I Edit TikTok Videos: My Complete Editing Setup",
@@ -17899,7 +17901,8 @@
     ],
     "score": 25.93,
     "id": "90aa01e4148a7dd2",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "完整展示一条短视频的剪辑台与流程设置，从素材整理到导出，可直接照搬优化自己的工序。"
   },
   "ccfb5cb1b2117d31": {
     "title": "Will AI Replace Film Directors? Chaplin Answered It in 1931",
@@ -17919,7 +17922,8 @@
     "tags": [],
     "score": 22.09,
     "id": "ccfb5cb1b2117d31",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "借卓别林时代的例子回看技术冲击，帮创作者想清楚哪些导演能力是工具替不掉的。"
   },
   "d00df82097055443": {
     "title": "How to Revise an AI-Generated Short Drama Script Before Production",
@@ -17966,7 +17970,8 @@
     ],
     "score": 27.71,
     "id": "f3fadcac5cbc290b",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "从一句故事创意自动生成剧本、分镜与漫画稿，适合快速验证想法并沉淀可视化的前期流程。"
   },
   "af8b91481f859b81": {
     "title": "How to Scout Real Filming Locations Without Leaving Your Script With SceneCraft AI",
@@ -18034,7 +18039,7 @@
       "filmmaking",
       "how to"
     ],
-    "score": 38.62,
+    "score": 38.61,
     "id": "31f0890d5ec4945a",
     "first_seen": "2026-09-27"
   },
@@ -18058,7 +18063,8 @@
     ],
     "score": 21.85,
     "id": "15c26c51a9000b31",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "用五镜头结构搭建 AI 影像的叙事连续性，给出可复用的镜头顺序模板，直接套用到自己的片子里。"
   },
   "7600eb979f5ab85c": {
     "title": "What Makes a Business Reel Look Premium? A Breakdown of Cinematography, Lighting, Audio and Editing",
@@ -18081,7 +18087,8 @@
     ],
     "score": 22.99,
     "id": "7600eb979f5ab85c",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "逐项拆解商业短片的高级感来自哪：布光、机位、声音与剪辑节奏如何配合，可对照自查。"
   },
   "9e3f88b1a84f3042": {
     "title": "A Product Video Shot List: Turn Features Into Actions",
@@ -18103,7 +18110,8 @@
     ],
     "score": 20.86,
     "id": "9e3f88b1a84f3042",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "把产品功能翻译成可拍的动作镜头清单，让分镜阶段就锁定卖点，拍起来不遗漏重点。"
   },
   "c26e3f1217572110": {
     "title": "Best Free Video Editing Software for Beginners (2026).",
@@ -18123,9 +18131,10 @@
     "tags": [
       "editing"
     ],
-    "score": 36.64,
+    "score": 36.63,
     "id": "c26e3f1217572110",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "从零起步选剪辑软件，对照免费工具的功能边界，避开新手常见踩坑，快速搭起自己的第一套工作流。"
   },
   "1ab1660065dc8f2f": {
     "title": "Adobe Premiere Pro Alternatives in 2026: An Honest Comparison (From Someone Who Builds One)",
@@ -18148,9 +18157,10 @@
       "final cut",
       "capcut"
     ],
-    "score": 31.67,
+    "score": 31.66,
     "id": "1ab1660065dc8f2f",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "由开发竞品的人亲述各家剪辑软件取舍，帮你按预算、协作与插件生态判断该换还是该留。"
   },
   "8a3a184d7072da5e": {
     "title": "What makes your editing unique?",
@@ -18173,7 +18183,8 @@
     ],
     "score": 27.95,
     "id": "8a3a184d7072da5e",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "拆解剪辑个人风格的来源：节奏、转场、声音处理的选择，帮你找到可重复的辨识度做法。"
   },
   "4b8789d2a75d6627": {
     "title": "I Stopped Editing AI Videos by Hand. Remotion Became the Missing Layer.",
@@ -18193,9 +18204,10 @@
     "tags": [
       "editing"
     ],
-    "score": 25.72,
+    "score": 25.71,
     "id": "4b8789d2a75d6627",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "用代码化方案接管 AI 视频的重复剪辑环节，适合想把批量出片流程自动化的创作者参考。"
   },
   "ea4698a12bd52a17": {
     "title": "Video Editing, Graphic Animation, UI/UX & Web Development: The Skills Powering Digital Careers…",
@@ -18217,7 +18229,8 @@
     ],
     "score": 21.99,
     "id": "ea4698a12bd52a17",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "梳理剪辑、动效、界面与前端技能的交叉点，帮你判断该补哪一块以拓宽接活范围。"
   },
   "3374484456849742": {
     "title": "From Raw Footage to Professional Videos: Why Video Editing Is a Skill Worth Learning",
@@ -18239,7 +18252,8 @@
     ],
     "score": 20.85,
     "id": "3374484456849742",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "从素材到成片的完整链路讲解，说明规范化剪辑习惯为什么比软件技巧更决定出片质量。"
   },
   "0c4d76eef2fb1323": {
     "title": "Why Chunking Matters in RAG",
@@ -18259,7 +18273,8 @@
     "tags": [],
     "score": 34.75,
     "id": "0c4d76eef2fb1323",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "说明文本切分方式如何影响检索命中率，给出可按文档类型调整的分块思路，直接改善问答质量。"
   },
   "0ce395d49fb03aca": {
     "title": "RAG Isn’t Just Vector Search Anymore",
@@ -18277,9 +18292,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 34.04,
+    "score": 34.03,
     "id": "0ce395d49fb03aca",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "讲检索增强已不止向量搜索，混合多种召回手段的架构思路，帮你的知识库答得更准。"
   },
   "6237f9a5e9f91818": {
     "title": "Vibe Code Without the Plumbing",
@@ -18299,9 +18315,10 @@
     "tags": [
       "how to"
     ],
-    "score": 33.5,
+    "score": 33.49,
     "id": "6237f9a5e9f91818",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "跳过环境搭建直接写功能，介绍省去底层配置的开发方式，适合想快速做出可用小工具的人。"
   },
   "33304fd8b5441396": {
     "title": "What Can AI Do — and What Can It Not Do?",
@@ -18321,7 +18338,8 @@
     "tags": [],
     "score": 32.52,
     "id": "33304fd8b5441396",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "划清当下 AI 能做什么、在哪儿会出错，帮你判断哪些环节可以交给模型、哪些必须人工把关。"
   },
   "3346d3e197850f1c": {
     "title": "Streaming LLM Responses Explained: How ChatGPT-Style Answers Reach Your UI Token by Token",
@@ -18341,9 +18359,10 @@
     "tags": [
       "explained"
     ],
-    "score": 31.27,
+    "score": 31.26,
     "id": "3346d3e197850f1c",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "用逐字返回的过程讲清流式输出原理，帮做 AI 产品的人优化等待体验与前端呈现。"
   },
   "f2551f7fa2d00349": {
     "title": "AI Visibility Is the New Layer of Digital Discovery",
@@ -18384,7 +18403,7 @@
       "guide",
       "course"
     ],
-    "score": 28.13,
+    "score": 28.12,
     "id": "34bd169d77be2dbd",
     "first_seen": "2026-09-27"
   },
@@ -18426,7 +18445,8 @@
     "tags": [],
     "score": 36.14,
     "id": "045d0e788a64e502",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "讲清结构化内容块的概念与用法，帮做 AI 界面的人理顺消息与组件的设计与拼装方式。"
   },
   "cebbadb00b98da5b": {
     "title": "DeepSeek V4.1",
@@ -18446,7 +18466,8 @@
     "tags": [],
     "score": 31.02,
     "id": "cebbadb00b98da5b",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "介绍该模型版本的能力变化与适用场景，便于判断是否值得换到自己的生成或推理流程里。"
   },
   "d9690fbd9e7e84d8": {
     "title": "Engineering VoxSphere (Part 3): Master Integration Blueprint, Prompt Architecture, and Automated…",
@@ -18468,7 +18489,8 @@
     ],
     "score": 32.64,
     "id": "d9690fbd9e7e84d8",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "完整给出多模块系统的集成蓝图与提示词分层结构，可当模板改造自己的 AI 应用架构。"
   },
   "e172c847c6318720": {
     "title": "Copywriter Ai Operating System",
@@ -18488,9 +18510,10 @@
     "tags": [
       "editor"
     ],
-    "score": 31.76,
+    "score": 31.75,
     "id": "e172c847c6318720",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "把文案写作拆成可复用的提示词系统，用固定流程稳定产出，适合日常投稿与商单量产。"
   },
   "620d66633ae3c932": {
     "title": "Beyond the Prompt: What It Actually Takes to Build an AI Skill",
@@ -18512,7 +18535,8 @@
     ],
     "score": 31.36,
     "id": "620d66633ae3c932",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "讲做一个 AI 技能包真正的难点：数据、边界与评测，别只停在写几句提示词上。"
   },
   "794cb73b8c6059f0": {
     "title": "Prompt Engineering in 2026: The Skill That Could Change How We Work",
@@ -18533,9 +18557,10 @@
       "prompt",
       "how to"
     ],
-    "score": 31.97,
+    "score": 31.96,
     "id": "794cb73b8c6059f0",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "梳理 2026 年提示词能力的变化方向，说明哪些写法还有效、哪些正在被模型自身能力替代。"
   },
   "b1111a5b9629361a": {
     "title": "6 High-Performance Prompts for Real-World AI Work",
@@ -18557,7 +18582,8 @@
     ],
     "score": 29.62,
     "id": "b1111a5b9629361a",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "给出六条可直接套用的高性能提示词，覆盖写作、分析与整理等日常任务，拿来改改就能用。"
   },
   "9234decec0407b89": {
     "title": "AI Explained Simply #15: Why Your AI Is Too Boring (or Too Chaotic): Temperature and Sampling",
@@ -18577,7 +18603,7 @@
     "tags": [
       "explained"
     ],
-    "score": 27.99,
+    "score": 27.98,
     "id": "9234decec0407b89",
     "first_seen": "2026-09-27"
   },
@@ -18617,7 +18643,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 17.87,
+    "score": 17.86,
     "id": "a76bdd2e76ff7149",
     "first_seen": "2026-09-27"
   },
@@ -18642,9 +18668,10 @@
       "prompt",
       "learn"
     ],
-    "score": 18.62,
+    "score": 18.61,
     "id": "7cbb408ba5ddf5f0",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "把剪辑思路挪进提示词里完成，讲清如何用文字控制镜头顺序与节奏，适合 AI 影像练手。"
   },
   "111d7bf2efb51ece": {
     "title": "1. 한눈에 보는 핵심 요약 (Executive Summary)",
@@ -18899,7 +18926,8 @@
     ],
     "score": 29.08,
     "id": "dc74ff1ed8c22f28",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "免费 RAW 修图加 AI 指导，边调边得到反馈，适合想练调色又不想付订阅费的人上手。"
   },
   "226d724c16e67e9d": {
     "title": "Retouch4me Lab Video: get a cinematic look in a few clicks",
@@ -18988,9 +19016,10 @@
       "how to",
       "notes"
     ],
-    "score": 40.48,
+    "score": 40.47,
     "id": "dfcda58758044ed4",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "手把手把短链工具接进 Claude Code，演示 MCP 的配置思路，可照此接入自己的常用服务。"
   },
   "e40eb9b0c8b93ff9": {
     "title": "Ai Voice Analysis",
@@ -19010,9 +19039,10 @@
     "tags": [
       "analysis"
     ],
-    "score": 36.69,
+    "score": 36.68,
     "id": "e40eb9b0c8b93ff9",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "演示用 AI 做声音特征分析的方法，适合给配音、角色声线或播客素材做快速比对。"
   },
   "d3d9871ce783eff2": {
     "title": "AI Slop Is Already in Your Training Dataset. I Tested Three Ways to Spot It.",
@@ -19050,7 +19080,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 24.78,
+    "score": 24.77,
     "id": "59f7f99c66a9bde6",
     "first_seen": "2026-09-27"
   },
@@ -19178,7 +19208,7 @@
     "tags": [
       "star"
     ],
-    "score": 36.47,
+    "score": 36.46,
     "id": "e5eebd46a0d55342",
     "first_seen": "2026-09-27"
   },
@@ -19385,7 +19415,7 @@
     "tags": [
       "开源"
     ],
-    "score": 30.68,
+    "score": 30.67,
     "id": "58fbf86526787a9a",
     "first_seen": "2026-09-27"
   },
@@ -19494,7 +19524,7 @@
       "开源项目",
       "star"
     ],
-    "score": 27.58,
+    "score": 27.57,
     "id": "bb820faeb41eb373",
     "first_seen": "2026-09-27"
   },
@@ -19562,7 +19592,7 @@
     "tags": [
       "趋势"
     ],
-    "score": 28.32,
+    "score": 28.31,
     "id": "925af25e14821d29",
     "first_seen": "2026-09-27"
   },
@@ -19583,7 +19613,7 @@
     "tags": [
       "分析"
     ],
-    "score": 27.37,
+    "score": 27.36,
     "id": "209a04c02b7b8fb5",
     "first_seen": "2026-09-27"
   },
@@ -19778,7 +19808,7 @@
       "市场",
       "融资"
     ],
-    "score": 19.98,
+    "score": 19.97,
     "id": "ab456ea70c5a7770",
     "first_seen": "2026-09-27"
   },
@@ -20280,7 +20310,7 @@
     "extra": "今日 +2,147 · Python",
     "category": "tools",
     "tags": [],
-    "score": 47.7,
+    "score": 47.69,
     "id": "6f58dec877a50ae8",
     "first_seen": "2026-09-27"
   },
@@ -20298,7 +20328,7 @@
     "extra": "今日 +357 · Python",
     "category": "tools",
     "tags": [],
-    "score": 42.87,
+    "score": 42.86,
     "id": "6b1b5878dec84826",
     "first_seen": "2026-09-27"
   },
@@ -20318,7 +20348,7 @@
     "tags": [
       "learn"
     ],
-    "score": 49.1,
+    "score": 49.09,
     "id": "647b067e74f72ecf",
     "first_seen": "2026-09-27"
   },
@@ -20336,7 +20366,7 @@
     "extra": "今日 +361 · PowerShell",
     "category": "tools",
     "tags": [],
-    "score": 49.1,
+    "score": 49.09,
     "id": "ae6f547d87eb9d4a",
     "first_seen": "2026-09-27"
   },
@@ -20356,7 +20386,7 @@
     "tags": [
       "github"
     ],
-    "score": 47.16,
+    "score": 47.15,
     "id": "bee16ef8e7d07f94",
     "first_seen": "2026-09-27"
   },

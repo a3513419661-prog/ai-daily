@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-24",
-  "summary": "今天的主线是“先想清楚再生成”：剪辑端讲节奏为什么卡顿、调色怎么用 AI 提速；导演端把提示词从堆形容词转向动机光、构图逻辑与运镜设计；分镜端给出概念到逐镜计划的完整工作流。另有 AI 产品广告 brief 与提示词工程方法论，适合直接套用到自己的项目。",
+  "date": "2026-09-27",
+  "summary": "今天最值得学的是「把镜头语言写进提示词」：从构图逻辑、有动机的光线到 AI 运镜，再到分镜与剪辑层面的自动化工作流。同时补上提示词实操与 AI 短剧脚本修改，形成从创意到成片的可复用链路。",
   "picks": [
     {
-      "title": "Why AI Video Editing Feels Choppy (Walter Murch's Fix)",
-      "url": "https://hellobusinessdynamite.medium.com/why-ai-video-editing-feels-choppy-walter-murchs-fix-e056fd8d3df1?source=rss------filmmaking-5",
-      "why": "用 Walter Murch 的剪辑理论解释 AI 视频为什么“卡顿”，给出可直接套用的节奏修正思路。",
-      "id": "d67376b0e8ad7c74"
+      "title": "What Makes a Business Reel Look Premium? A Breakdown of Cinematography, Lighting, Audio and Editing",
+      "url": "https://medium.com/@priyankap09425165/what-makes-a-business-reel-look-premium-a-breakdown-of-cinematography-lighting-audio-and-editing-7c95535b6fd5?source=rss------video_production-5",
+      "why": "拆解高质感商业短片的摄影、布光、声音与剪辑，可直接对照拍剪。",
+      "id": "7600eb979f5ab85c"
     },
     {
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "why": "拆解 AI 辅助调色的落地流程，看颜色匹配与分级效率是怎么被真正提上去的。",
-      "id": "c618f60007d5aaf7"
+      "title": "I Stopped Editing AI Videos by Hand. Remotion Became the Missing Layer.",
+      "url": "https://medium.com/futura-creative/i-stopped-editing-ai-videos-by-hand-remotion-became-the-missing-layer-7f3f81db0f8d?source=rss------ai_video-5",
+      "why": "用 Remotion 把 AI 视频剪辑自动化，给出可复用的后期工作流思路。",
+      "id": "4b8789d2a75d6627"
+    },
+    {
+      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
+      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
+      "why": "在提示词层面完成剪辑节奏与转场，属于新的 AI 后期方法论。",
+      "id": "7cbb408ba5ddf5f0"
     },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文实操：提示词别做加法堆元素，先把构图逻辑定下来画面才立得住。",
+      "why": "中文讲构图逻辑优先于堆词，直接提升 AI 视频的画面控制力。",
       "id": "9acc46cbdeb37daa"
     },
     {
       "title": "Stop Prompting “Cinematic Lighting”: The Motivated Light Strategy",
       "url": "https://medium.com/@bloggerswit_41630/stop-prompting-cinematic-lighting-the-motivated-light-strategy-1a7a77d34d49?source=rss------filmmaking-5",
-      "why": "把“cinematic lighting”这种空词换成有动机的光线设计，生成画面立刻可控。",
+      "why": "用有动机的光代替“cinematic lighting”空词，AI 打光更可控。",
       "id": "3a2ab20caaf7dd3d"
     },
     {
       "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
-      "why": "AI 电影课里专门讲运镜的一节，从静止镜头跨到有动机的摄影机运动。",
+      "why": "系统讲 AI 运镜，镜头语言入门，适合边学边套用。",
       "id": "16df762f58b5b891"
-    },
-    {
-      "title": "Framing the Narrative: Mastering Shot Sizes in AI Filmmaking",
-      "url": "https://medium.com/@bloggerswit_41630/framing-the-narrative-mastering-shot-sizes-in-ai-filmmaking-3268ba9915e1?source=rss------cinematography-5",
-      "why": "系统梳理景别在 AI 影像叙事中的用法，补上“该给什么镜头”的判断力。",
-      "id": "0587ca71848e541b"
     },
     {
       "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
       "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "Seedance 2.5 的分镜工作流，把一句概念拆成可执行的逐镜计划。",
+      "why": "从概念到逐镜计划的 Seedance 分镜流程，可直接迁移到自己的项目。",
       "id": "6f5f39903e351a2c"
     },
     {
-      "title": "Prompt Engineering: How to Have Better Conversations with AI",
-      "url": "https://medium.com/@manumathew28.94/prompt-engineering-how-to-have-better-conversations-with-ai-672ede5936f2?source=rss------prompt_engineering-5",
-      "why": "提示词工程回到对话本身，教你怎么问、怎么追问才能拿到可用输出。",
-      "id": "4c9e6f857711dac4"
+      "title": "How to Revise an AI-Generated Short Drama Script Before Production",
+      "url": "https://dramapilot.medium.com/how-to-revise-an-ai-generated-short-drama-script-before-production-236bda95dd60?source=rss------video_production-5",
+      "why": "AI 短剧脚本进入制作前的修改方法，实操性强，能减少返工。",
+      "id": "d00df82097055443"
     },
     {
-      "title": "Prompt Engineering Lessons From Putting LLMs Into Real Products",
-      "url": "https://arslan-arjumand.medium.com/prompt-engineering-lessons-from-putting-llms-into-real-products-193a09c6bbbe?source=rss------prompt_engineering-5",
-      "why": "从真实产品落地反推的提示词经验，比通用模板更贴近实际生成稳定性问题。",
-      "id": "08253daa2e1b4f94"
+      "title": "6 High-Performance Prompts for Real-World AI Work",
+      "url": "https://medium.com/@MrAdil/6-high-performance-prompts-for-real-world-ai-work-6642a0840129?source=rss------prompt_engineering-5",
+      "why": "6 个可复用高性能提示词，覆盖真实 AI 工作场景。",
+      "id": "b1111a5b9629361a"
     },
     {
-      "title": "How to brief an AI product commercial without losing product accuracy",
-      "url": "https://medium.com/@shotmodo/how-to-brief-an-ai-product-commercial-without-losing-product-accuracy-9caf08572fe4?source=rss------ai_video-5",
-      "why": "AI 产品广告 brief 的写法，解决“创意有了但产品细节被生成跑偏”的老问题。",
-      "id": "75a45e849800436e"
+      "title": "Prompt Engineering in 2026: The Skill That Could Change How We Work",
+      "url": "https://medium.com/@z27543247/prompt-engineering-in-2026-the-skill-that-could-change-how-we-work-1c4cc11ef684?source=rss------prompt_engineering-5",
+      "why": "提示词工程在 2026 的定位与技能演进，帮你看清该练什么。",
+      "id": "794cb73b8c6059f0"
     }
   ]
 }
