@@ -3288,7 +3288,7 @@
     "tags": [
       "recipe"
     ],
-    "score": 32.3,
+    "score": 32.29,
     "id": "fc5d960bea3106db",
     "first_seen": "2026-09-16"
   },
@@ -3308,7 +3308,7 @@
     "tags": [
       "剪辑"
     ],
-    "score": 32.76,
+    "score": 32.75,
     "id": "d941cdc9a6e3a84c",
     "first_seen": "2026-09-16"
   },
@@ -3409,7 +3409,7 @@
       "explained",
       "cli"
     ],
-    "score": 48.5,
+    "score": 48.49,
     "id": "79cd21bd93d525b2",
     "first_seen": "2026-09-16"
   },
@@ -3543,7 +3543,7 @@
     "extra": "★ 44,816",
     "category": "tools",
     "tags": [],
-    "score": 46.84,
+    "score": 46.83,
     "id": "badb0e3c83b528bf",
     "first_seen": "2026-09-16"
   },
@@ -16069,7 +16069,7 @@
     "extra": "今日 +895 · TypeScript",
     "category": "tools",
     "tags": [],
-    "score": 47.7,
+    "score": 47.69,
     "id": "12221ab3bb240c36",
     "first_seen": "2026-09-23"
   },
@@ -18131,7 +18131,7 @@
     "tags": [
       "editing"
     ],
-    "score": 15.02,
+    "score": 15.01,
     "id": "c26e3f1217572110",
     "first_seen": "2026-09-27",
     "zh": "从零起步选剪辑软件，对照免费工具的功能边界，避开新手常见踩坑，快速搭起自己的第一套工作流。"
@@ -18292,7 +18292,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 12.42,
+    "score": 12.41,
     "id": "0ce395d49fb03aca",
     "first_seen": "2026-09-27",
     "zh": "讲检索增强已不止向量搜索，混合多种召回手段的架构思路，帮你的知识库答得更准。"
@@ -18315,7 +18315,7 @@
     "tags": [
       "how to"
     ],
-    "score": 11.88,
+    "score": 11.87,
     "id": "6237f9a5e9f91818",
     "first_seen": "2026-09-27",
     "zh": "跳过环境搭建直接写功能，介绍省去底层配置的开发方式，适合想快速做出可用小工具的人。"
@@ -18336,7 +18336,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 10.9,
+    "score": 10.89,
     "id": "33304fd8b5441396",
     "first_seen": "2026-09-27",
     "zh": "划清当下 AI 能做什么、在哪儿会出错，帮你判断哪些环节可以交给模型、哪些必须人工把关。"
@@ -19016,7 +19016,7 @@
       "how to",
       "notes"
     ],
-    "score": 18.86,
+    "score": 18.85,
     "id": "dfcda58758044ed4",
     "first_seen": "2026-09-27",
     "zh": "手把手把短链工具接进 Claude Code，演示 MCP 的配置思路，可照此接入自己的常用服务。"
@@ -19039,7 +19039,7 @@
     "tags": [
       "analysis"
     ],
-    "score": 15.07,
+    "score": 15.06,
     "id": "e40eb9b0c8b93ff9",
     "first_seen": "2026-09-27",
     "zh": "演示用 AI 做声音特征分析的方法，适合给配音、角色声线或播客素材做快速比对。"
@@ -19208,7 +19208,7 @@
     "tags": [
       "star"
     ],
-    "score": 14.85,
+    "score": 14.84,
     "id": "e5eebd46a0d55342",
     "first_seen": "2026-09-27"
   },
@@ -20311,7 +20311,7 @@
     "extra": "今日 +4,520 · Python",
     "category": "tools",
     "tags": [],
-    "score": 47.7,
+    "score": 47.69,
     "id": "6f58dec877a50ae8",
     "first_seen": "2026-09-27"
   },
@@ -20329,7 +20329,7 @@
     "extra": "今日 +357 · Python",
     "category": "tools",
     "tags": [],
-    "score": 21.25,
+    "score": 21.24,
     "id": "6b1b5878dec84826",
     "first_seen": "2026-09-27"
   },
@@ -20349,7 +20349,7 @@
     "tags": [
       "learn"
     ],
-    "score": 49.1,
+    "score": 49.09,
     "id": "647b067e74f72ecf",
     "first_seen": "2026-09-27"
   },
@@ -20367,7 +20367,7 @@
     "extra": "今日 +361 · PowerShell",
     "category": "tools",
     "tags": [],
-    "score": 27.48,
+    "score": 27.47,
     "id": "ae6f547d87eb9d4a",
     "first_seen": "2026-09-27"
   },
@@ -20387,7 +20387,7 @@
     "tags": [
       "github"
     ],
-    "score": 25.54,
+    "score": 25.53,
     "id": "bee16ef8e7d07f94",
     "first_seen": "2026-09-27"
   },
@@ -20428,7 +20428,7 @@
       "editing",
       "how to"
     ],
-    "score": 31.16,
+    "score": 31.15,
     "id": "a9ecba354440c514",
     "first_seen": "2026-09-28"
   },
@@ -20472,7 +20472,7 @@
     "tags": [
       "editing"
     ],
-    "score": 21.92,
+    "score": 21.91,
     "id": "2d483de107e69a79",
     "first_seen": "2026-09-28"
   },
@@ -20554,7 +20554,7 @@
     "craft_source": true,
     "category": "directing",
     "tags": [],
-    "score": 29.35,
+    "score": 29.34,
     "id": "20e2135f8ed3e7bb",
     "first_seen": "2026-09-28"
   },
@@ -20574,7 +20574,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 24.76,
+    "score": 24.75,
     "id": "2f77f346d9f91b63",
     "first_seen": "2026-09-28"
   },
@@ -20636,7 +20636,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 33.28,
+    "score": 33.27,
     "id": "d2fc84fe691a69d6",
     "first_seen": "2026-09-28"
   },
@@ -20720,7 +20720,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 28.84,
+    "score": 28.83,
     "id": "b8dc88dc726b028d",
     "first_seen": "2026-09-28"
   },
@@ -20742,7 +20742,7 @@
     "tags": [
       "how to"
     ],
-    "score": 30.5,
+    "score": 30.49,
     "id": "280e8944fdbbcc6b",
     "first_seen": "2026-09-28"
   },
@@ -20765,7 +20765,7 @@
       "workflow",
       "guide"
     ],
-    "score": 38.39,
+    "score": 38.38,
     "id": "5dfd7ac1c055f702",
     "first_seen": "2026-09-28"
   },
@@ -20808,7 +20808,7 @@
       "tutorial",
       "guide"
     ],
-    "score": 38.66,
+    "score": 38.65,
     "id": "e0773a6cc5f82cc4",
     "first_seen": "2026-09-28"
   },
@@ -20828,7 +20828,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 34.45,
+    "score": 34.44,
     "id": "8d5e978eba91e538",
     "first_seen": "2026-09-28"
   },
@@ -20868,7 +20868,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 32.67,
+    "score": 32.66,
     "id": "adb42569e178c9a3",
     "first_seen": "2026-09-28"
   },
@@ -20888,7 +20888,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 32.49,
+    "score": 32.48,
     "id": "e227f9e053d7bce5",
     "first_seen": "2026-09-28"
   },
@@ -20928,7 +20928,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 30.37,
+    "score": 30.36,
     "id": "c95072d1b4ad245a",
     "first_seen": "2026-09-28"
   },
@@ -20948,7 +20948,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 29.99,
+    "score": 29.98,
     "id": "61b2734017987fc0",
     "first_seen": "2026-09-28"
   },
@@ -20989,7 +20989,7 @@
     "tags": [
       "how to"
     ],
-    "score": 37.0,
+    "score": 36.99,
     "id": "3de97ed771277374",
     "first_seen": "2026-09-28"
   },
@@ -21093,7 +21093,7 @@
     "tags": [
       "prompt"
     ],
-    "score": 26.11,
+    "score": 26.1,
     "id": "d212b2dec4412985",
     "first_seen": "2026-09-28"
   },
@@ -21115,7 +21115,7 @@
     "tags": [
       "prompt"
     ],
-    "score": 20.33,
+    "score": 20.32,
     "id": "d9ac1ce7020de945",
     "first_seen": "2026-09-28"
   },
@@ -21137,7 +21137,7 @@
     "tags": [
       "how to"
     ],
-    "score": 21.52,
+    "score": 21.51,
     "id": "769f95c434feafb1",
     "first_seen": "2026-09-28"
   },
@@ -21179,7 +21179,7 @@
     "tags": [
       "趋势"
     ],
-    "score": 36.44,
+    "score": 36.43,
     "id": "6b5a22bbb006957b",
     "first_seen": "2026-09-28"
   },
@@ -21229,7 +21229,7 @@
       "开源",
       "开源项目"
     ],
-    "score": 45.86,
+    "score": 45.85,
     "id": "524c8e0e12c5dce6",
     "first_seen": "2026-09-28"
   },
@@ -21250,7 +21250,7 @@
     "tags": [
       "市场"
     ],
-    "score": 26.11,
+    "score": 26.1,
     "id": "adf7fab50c15b6f2",
     "first_seen": "2026-09-28"
   },
@@ -21276,7 +21276,7 @@
       "导演",
       "director"
     ],
-    "score": 30.21,
+    "score": 30.2,
     "id": "e8ec3cef150f2ab9",
     "first_seen": "2026-09-28"
   },
@@ -21298,7 +21298,7 @@
     "tags": [
       "filmmaking"
     ],
-    "score": 21.04,
+    "score": 21.03,
     "id": "bd9aa9140360b4f5",
     "first_seen": "2026-09-28"
   },
