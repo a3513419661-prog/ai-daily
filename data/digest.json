@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-28",
-  "summary": "今天最值得学的是「提示词即导演语言」这条主线：构图逻辑、镜头运动、光影与景别都能在提示词里被精确调度，而不是靠堆形容词。剪辑侧有 B-roll 复刻思路和「在提示词里完成剪辑」的工作流，分镜侧有 Seedance 与产品视频镜头表的落地方法。另有场景一致性保姆级教程与 Midjourney SREF 风格库，可直接抄作业。",
+  "date": "2026-09-29",
+  "summary": "今天的实操内容集中在三条主线：用复刻法做 AI B-roll、把提示词从“堆形容词”转向构图与动机光、以及用分镜表把概念拆成镜头。剪辑侧还有 CapCut 草稿直接导 SRT、AI 音乐视频等省力工作流，学习区则解决 AI 角色换脸这个高频痛点。",
   "picks": [
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "用「先复刻再创作」的方式倒推 AI B-roll 该拆成哪些镜头，中文实操思路清晰。",
+      "why": "中文实战：从复刻现成好 B-roll 入手，反推 AI 素材怎么做到可用的画面质感。",
       "id": "524c8e0e12c5dce6"
     },
     {
-      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
-      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "把剪辑动作前置到提示词里完成，讲清 AI 视频「边生成边剪」的节奏控制。",
-      "id": "7cbb408ba5ddf5f0"
+      "title": "Stop Retyping Captions: How to Extract Clean SRT Subtitles Directly from CapCut Draft Files",
+      "url": "https://medium.com/@zrr6062/stop-retyping-captions-how-to-extract-clean-srt-subtitles-directly-from-capcut-draft-files-c731019d44c1?source=rss------video_editing-5",
+      "why": "直接从 CapCut 草稿文件里提取干净 SRT，省掉重复敲字幕的体力活。",
+      "id": "aea22442238fa933"
+    },
+    {
+      "title": "How to Turn Your Song Into an AI Music Video (Without Learning Video Editing)",
+      "url": "https://alternativemario.medium.com/how-to-turn-your-song-into-an-ai-music-video-without-learning-video-editing-95454d27e855?source=rss------ai_video-5",
+      "why": "不懂剪辑也能把自己的歌变成成片 MV，适合当 AI 视频全流程入门模板。",
+      "id": "1462fbf581a97905"
     },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "点破提示词加法误区，用构图逻辑而非形容词堆叠来组织画面信息。",
+      "why": "中文提示词心法：别做加法堆词，先想清楚构图逻辑再写。",
       "id": "9acc46cbdeb37daa"
+    },
+    {
+      "title": "Stop Prompting “Cinematic Lighting”: The Motivated Light Strategy",
+      "url": "https://medium.com/@bloggerswit_41630/stop-prompting-cinematic-lighting-the-motivated-light-strategy-1a7a77d34d49?source=rss------filmmaking-5",
+      "why": "用“动机光”替代万能 cinematic lighting，让画面光有来源、有叙事理由。",
+      "id": "3a2ab20caaf7dd3d"
     },
     {
       "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
-      "why": "AI 电影课第三讲专讲运镜，把推拉摇移转成可执行的运动提示词。",
+      "why": "AI 电影课第 3 天专讲运镜，把镜头运动当成可拆解的指令而非形容词。",
       "id": "16df762f58b5b891"
-    },
-    {
-      "title": "Lighting, Color, and Type of Shots: In Roma by Alfonso Cuarón",
-      "url": "https://medium.com/@lupacheco325/lighting-color-and-type-of-shots-in-roma-by-alfonso-cuar%C3%B3n-5e69cdf4295d?source=rss------film_making-5",
-      "why": "拆解《罗马》的光线、色彩与景别选择，是镜头语言最扎实的拉片范例。",
-      "id": "c9d7fc6a24b1325b"
     },
     {
       "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
       "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "Seedance 2.5 分镜工作流，演示从一个概念拆到逐镜计划的全过程。",
+      "why": "Seedance 2.5 的分镜工作流，示范如何从一句话概念生成逐镜方案。",
       "id": "6f5f39903e351a2c"
     },
     {
-      "title": "A Product Video Shot List: Turn Features Into Actions",
-      "url": "https://medium.com/@shotmodo/a-product-video-shot-list-turn-features-into-actions-8ba5bb354bd4?source=rss------video_production-5",
-      "why": "把产品功能翻译成动作的分镜表模板，拍商业短片可直接套用。",
-      "id": "9e3f88b1a84f3042"
+      "title": "I Kept Improving the Prompt. The Real Problem Was the Context.",
+      "url": "https://medium.com/@think-data/i-kept-improving-the-prompt-the-real-problem-was-the-context-adce94e2181a?source=rss------prompt_engineering-5",
+      "why": "反复改提示词没用时，问题多半在上下文——这篇给出换思路的诊断法。",
+      "id": "3027b819b419ec83"
     },
     {
-      "title": "The English Compiler: Why Prompt Engineering Isn’t Just Fancy Googling",
-      "url": "https://medium.com/@satyearth/the-english-compiler-why-prompt-engineering-isnt-just-fancy-googling-67f20f48d912?source=rss------prompt_engineering-5",
-      "why": "把提示词写作类比成编译原理，解释为什么它不是「高级搜索」。",
-      "id": "1e5125e0830a68b7"
+      "title": "3 prompt patterns that actually work, with copy-paste examples",
+      "url": "https://dev.to/dextheking1/3-prompt-patterns-that-actually-work-with-copy-paste-examples-10e2",
+      "why": "三个可直接复制粘贴的提示词结构，拿来就能替换自己常用的模板。",
+      "id": "5a43ea5976b3a747"
     },
     {
-      "title": "31 New Descriptive Midjourney SREFs for October 2026",
-      "url": "https://medium.com/enthusiastically-midjourney/31-new-descriptive-midjourney-srefs-for-october-2026-a2e2ac030cd5?source=rss------ai_art-5",
-      "why": "一批新 SREF 风格参考，用来快速锁定画面调性、省去反复试错。",
-      "id": "31a27d8f928b8756"
-    },
-    {
-      "title": "【视频附送提示词】【AI教学技巧之 - 场景一致性】AI生图场景一致性不会控？保姆级教程教会你新手如何保持场景一致性",
-      "url": "https://www.youtube.com/watch?v=i9g-uz4vf5c",
-      "why": "中文保姆级场景一致性教程并附赠提示词，新手控不住画面前后统一时的急救包。",
-      "id": "522a7f2e198fb5ba"
+      "title": "The Same Face in Every Shot: How to Stop Your AI Video Characters From Shape-Shifting",
+      "url": "https://medium.com/@nathanli200011/the-same-face-in-every-shot-how-to-stop-your-ai-video-characters-from-shape-shifting-7683a9cfe416?source=rss------ai_video-5",
+      "why": "专治 AI 视频角色每镜换脸，是连载类内容最该先解决的一致性问题。",
+      "id": "054b7eea7f84ae19"
     }
   ]
 }

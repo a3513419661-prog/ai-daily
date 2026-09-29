@@ -3185,7 +3185,7 @@
       "veo",
       "kling"
     ],
-    "score": 53.27,
+    "score": 53.26,
     "id": "8e1745e015e50e9e",
     "first_seen": "2026-09-16"
   },
@@ -3268,7 +3268,7 @@
     "tags": [
       "recipe"
     ],
-    "score": 40.94,
+    "score": 40.93,
     "id": "fc5d960bea3106db",
     "first_seen": "2026-09-16"
   },
@@ -3350,7 +3350,7 @@
     "tags": [
       "workflow"
     ],
-    "score": 34.38,
+    "score": 34.37,
     "id": "16e11b90ef8df779",
     "first_seen": "2026-09-16"
   },
@@ -3368,7 +3368,7 @@
     "extra": "★ 269,004",
     "category": "tools",
     "tags": [],
-    "score": 37.35,
+    "score": 37.34,
     "id": "3eb178ba4cd74e58",
     "first_seen": "2026-09-16"
   },
@@ -3389,7 +3389,7 @@
       "explained",
       "cli"
     ],
-    "score": 37.49,
+    "score": 37.48,
     "id": "79cd21bd93d525b2",
     "first_seen": "2026-09-16"
   },
@@ -16049,7 +16049,7 @@
     "extra": "今日 +1,099 · TypeScript",
     "category": "tools",
     "tags": [],
-    "score": 47.7,
+    "score": 47.69,
     "id": "12221ab3bb240c36",
     "first_seen": "2026-09-23"
   },
@@ -18716,7 +18716,8 @@
     ],
     "score": 14.0,
     "id": "0d496054f85d542f",
-    "first_seen": "2026-09-27"
+    "first_seen": "2026-09-27",
+    "zh": "AI 电影教学第四天，聚焦如何让生成角色真正「演」起来，含情绪与动作的处理方法。"
   },
   "415e4c18e5362faa": {
     "title": "MCP Explained in 5 Minutes",
@@ -20291,7 +20292,7 @@
     "extra": "今日 +4,561 · Python",
     "category": "tools",
     "tags": [],
-    "score": 47.7,
+    "score": 47.69,
     "id": "6f58dec877a50ae8",
     "first_seen": "2026-09-27"
   },
@@ -20596,7 +20597,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 12.97,
+    "score": 12.96,
     "id": "08faf0a2c1d5eeec",
     "first_seen": "2026-09-28"
   },
@@ -20788,7 +20789,7 @@
       "tutorial",
       "guide"
     ],
-    "score": 17.06,
+    "score": 17.05,
     "id": "e0773a6cc5f82cc4",
     "first_seen": "2026-09-28"
   },
@@ -20828,7 +20829,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 13.54,
+    "score": 13.53,
     "id": "ddde7046c98f15eb",
     "first_seen": "2026-09-28"
   },
@@ -20948,7 +20949,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 13.67,
+    "score": 13.66,
     "id": "b7bed11d16f84e4f",
     "first_seen": "2026-09-28"
   },
@@ -20969,7 +20970,7 @@
     "tags": [
       "how to"
     ],
-    "score": 15.4,
+    "score": 15.39,
     "id": "3de97ed771277374",
     "first_seen": "2026-09-28"
   },
@@ -20989,7 +20990,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 14.37,
+    "score": 14.36,
     "id": "31a27d8f928b8756",
     "first_seen": "2026-09-28"
   },
@@ -21211,7 +21212,8 @@
     ],
     "score": 24.25,
     "id": "524c8e0e12c5dce6",
-    "first_seen": "2026-09-28"
+    "first_seen": "2026-09-28",
+    "zh": "用「先复刻再创作」的方法练 AI B-roll，拆解镜头元素逐步替换，适合新手建立手感。"
   },
   "adf7fab50c15b6f2": {
     "title": "微软 CEO 最新谈 AI agent 时代：比云计算大几个数量级的机会正在到来",
@@ -21384,9 +21386,10 @@
     "tags": [
       "kling"
     ],
-    "score": 36.49,
+    "score": 36.48,
     "id": "5b78a2511e335319",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "借新模型上线，讲创作者该拿它做什么类型镜头、怎么控一致性，而非只看参数。"
   },
   "02f17094d14e2a65": {
     "title": "Stop Buying Lightroom Presets. Do This Instead.",
@@ -21406,9 +21409,10 @@
     "tags": [
       "how to"
     ],
-    "score": 32.02,
+    "score": 32.01,
     "id": "02f17094d14e2a65",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "讲清预设背后的调色参数逻辑，学会自己搭一套可复用的风格，比反复买预设更省事。"
   },
   "a46ab80fc26d5d91": {
     "title": "What I Tell Creative Teams When Google Drive Can’t Keep Up With Their Footage",
@@ -21428,7 +21432,8 @@
     "tags": [],
     "score": 26.7,
     "id": "a46ab80fc26d5d91",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "针对大体量素材的协作混乱，给出团队共享与版本管理的替代思路，适合小团队落地。"
   },
   "61f874669e640752": {
     "title": "Gemini Omni: 7 Free AI Prompts That Replace CapCut and Premiere Pro",
@@ -21451,7 +21456,8 @@
     ],
     "score": 28.86,
     "id": "61f874669e640752",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "7 个可直接复制的提示词，覆盖剪辑、字幕、调色等环节，替代常见剪辑软件的基础操作。"
   },
   "8a27d6879b35002d": {
     "title": "10 Questions to Ask Before Hiring a Video Editing Agency",
@@ -21473,7 +21479,8 @@
     ],
     "score": 25.74,
     "id": "8a27d6879b35002d",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "一份外包前的提问清单，帮你在报价、交付节奏和版权归属上少踩坑。"
   },
   "27cdd856170d151d": {
     "title": "Video Editing Course in Jalandhar",
@@ -21496,7 +21503,8 @@
     ],
     "score": 22.22,
     "id": "27cdd856170d151d",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "一则本地剪辑课程招生信息，可了解基础课的模块设置，参考价值有限。"
   },
   "819d2794f24b9fd0": {
     "title": "Why I Learned Video Editing: More Than Just a Creative Skill",
@@ -21518,7 +21526,8 @@
     ],
     "score": 20.17,
     "id": "819d2794f24b9fd0",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "作者复盘学剪辑带来的思维转变，适合犹豫要不要入门的读者做心理建设。"
   },
   "aea22442238fa933": {
     "title": "Stop Retyping Captions: How to Extract Clean SRT Subtitles Directly from CapCut Draft Files",
@@ -21542,7 +21551,8 @@
     ],
     "score": 19.19,
     "id": "aea22442238fa933",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "直接读取 CapCut 草稿文件导出干净 SRT，省去逐句重打字幕的重复劳动，附操作步骤。"
   },
   "4bbcb430a4468a2e": {
     "title": "Audio-Only Feels Safer. For a Business Podcast, It Might Be the Riskier Choice.",
@@ -21560,9 +21570,10 @@
     "craft_source": true,
     "category": "editing",
     "tags": [],
-    "score": 27.59,
+    "score": 27.58,
     "id": "4bbcb430a4468a2e",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "从商业传播角度对比纯音频与视频播客的风险，帮你在开播前想清楚形式选择。"
   },
   "65ebecab3d2f40bd": {
     "title": "How to Work With Terabytes of Footage on a 256 GB MacBook Air",
@@ -21602,7 +21613,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 22.44,
+    "score": 22.43,
     "id": "5c6d6f03ebff3db5",
     "first_seen": "2026-09-29"
   },
@@ -21626,7 +21637,8 @@
     ],
     "score": 38.38,
     "id": "3027b819b419ec83",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "用真实调试过程说明：输出不稳往往不是提示词问题，而是上下文组织方式不对。"
   },
   "9dfa788ce373f808": {
     "title": "The Prompting Formula I Use to Get Better Results From AI",
@@ -21648,7 +21660,8 @@
     ],
     "score": 35.24,
     "id": "9dfa788ce373f808",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "分享作者常用的提示词公式，拆解角色、任务、约束的排列方式，便于套用到自己的场景。"
   },
   "9267e26846f3567d": {
     "title": "How to Use AI Prompts to Beat Writer’s Block on Any Deadline",
@@ -21670,7 +21683,8 @@
     ],
     "score": 34.35,
     "id": "9267e26846f3567d",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "针对截稿压力的写作卡壳，给出几组提示词用来逼出初稿，强调先写后改。"
   },
   "b7ffaea1f133077d": {
     "title": "AI Writing Prompts for Students Who Hate Writing Introductions",
@@ -21690,9 +21704,10 @@
     "tags": [
       "essay"
     ],
-    "score": 34.3,
+    "score": 34.29,
     "id": "b7ffaea1f133077d",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "针对写不出开头的痛点，给出一组可直接用的提示词，帮学生快速破题。"
   },
   "798408dfbb49f042": {
     "title": "5 AI Prompts for Turning a Messy Outline Into a Finished Essay",
@@ -21714,7 +21729,8 @@
     ],
     "score": 34.27,
     "id": "798408dfbb49f042",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "5 个提示词把零散大纲扩成完整文章，重点在结构补全与段落衔接的指令写法。"
   },
   "f984b1d1f60e47f7": {
     "title": "10 AI Essay Prompts That Actually Get You Past a Blank Page",
@@ -21734,9 +21750,10 @@
     "tags": [
       "essay"
     ],
-    "score": 34.22,
+    "score": 34.21,
     "id": "f984b1d1f60e47f7",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "10 个论文向提示词，专治面对空白页无从下笔，可按需替换主题直接使用。"
   },
   "a42e9c2a1432d42c": {
     "title": "I Stopped Letting My Coding Agents Remember Everything.",
@@ -21754,9 +21771,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 33.08,
+    "score": 33.07,
     "id": "a42e9c2a1432d42c",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "作者反思让编码 Agent 记住全部上下文的代价，给出更省 token 也更稳的记忆策略。"
   },
   "1d04efa674933c93": {
     "title": "Why AI Agents Need Boundaries, Not Unlimited Freedom",
@@ -21794,7 +21812,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 27.26,
+    "score": 27.25,
     "id": "b0d0aa4cf7312167",
     "first_seen": "2026-09-29"
   },
@@ -21814,9 +21832,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 34.35,
+    "score": 34.34,
     "id": "08f726732c2a98a9",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "西班牙语长文，用七层框架梳理 AI 从传统逻辑走向通用智能的路径，偏理论。"
   },
   "d0a79a7a65128185": {
     "title": "Detecting AI Writing Based On Narrative Choices",
@@ -21838,7 +21857,8 @@
     ],
     "score": 34.87,
     "id": "d0a79a7a65128185",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "从叙事取舍的痕迹判断文本是否出自 AI，对做内容审核和写作自查都有用。"
   },
   "707fed7fa0006a3a": {
     "title": "Why Claude Opus 5.5 Uses Fewer Tokens Per Task (and Why That Beats a Lower Price)",
@@ -21980,7 +22000,7 @@
     "tags": [
       "how to"
     ],
-    "score": 28.66,
+    "score": 28.65,
     "id": "7b9b9001cda07f0a",
     "first_seen": "2026-09-29"
   },
@@ -22000,7 +22020,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 25.21,
+    "score": 25.2,
     "id": "e235f0fcde09a370",
     "first_seen": "2026-09-29"
   },
@@ -22048,9 +22068,10 @@
       "editing",
       "how to"
     ],
-    "score": 34.59,
+    "score": 34.58,
     "id": "1462fbf581a97905",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "跟着这套流程，零剪辑基础也能把成品歌直接转成 AI 音乐视频，重点在素材与节奏的对位逻辑。"
   },
   "054b7eea7f84ae19": {
     "title": "The Same Face in Every Shot: How to Stop Your AI Video Characters From Shape-Shifting",
@@ -22070,7 +22091,7 @@
     "tags": [
       "how to"
     ],
-    "score": 29.43,
+    "score": 29.42,
     "id": "054b7eea7f84ae19",
     "first_seen": "2026-09-29"
   },
@@ -22092,7 +22113,7 @@
     "tags": [
       "comfyui"
     ],
-    "score": 25.7,
+    "score": 25.69,
     "id": "852bed5feced14cc",
     "first_seen": "2026-09-29"
   },
@@ -22112,7 +22133,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 24.0,
+    "score": 23.99,
     "id": "4cbb43d54879d6b1",
     "first_seen": "2026-09-29"
   },
@@ -22132,7 +22153,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 16.82,
+    "score": 16.81,
     "id": "02e87b8637e6ac77",
     "first_seen": "2026-09-29"
   },
@@ -22154,7 +22175,8 @@
     "tags": [],
     "score": 36.09,
     "id": "29ddc7d386e53062",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "探讨 AI 艺术作品如何反过来启发创作者，偏思考向，可作灵感读物。"
   },
   "54ebb8a3c1321ca8": {
     "title": "Hey, Boys. This Guy Thinks I’m a Divider.",
@@ -22176,7 +22198,8 @@
     ],
     "score": 35.28,
     "id": "54ebb8a3c1321ca8",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "一篇个人观点随笔，与创作技巧关联不大，可跳过。"
   },
   "074336d2a2c9f1a5": {
     "title": "All Art Is Theft",
@@ -22194,9 +22217,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 33.07,
+    "score": 33.06,
     "id": "074336d2a2c9f1a5",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "围绕「一切艺术皆挪用」展开的观点文，适合思考原创与参考的边界。"
   },
   "fb755eaecb758553": {
     "title": "From Craft to Curation — What Does an Artist Do When the Machine Can Make Almost Anything?",
@@ -22281,7 +22305,8 @@
     ],
     "score": 29.9,
     "id": "088af1f7c51211d2",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "几位从业者圆桌讨论 AI 对拍摄流程与岗位的影响，适合建立行业判断。"
   },
   "4116861d7140bdbe": {
     "title": "Holo4: powering generalist computer-use agents",
@@ -22299,7 +22324,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 23.02,
+    "score": 23.01,
     "id": "4116861d7140bdbe",
     "first_seen": "2026-09-29"
   },
@@ -22361,7 +22386,8 @@
     "tags": [],
     "score": 34.37,
     "id": "c132fb4ea415c6b0",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "新模型发布信息，可了解能力变化，但缺少可直接上手的操作内容。"
   },
   "3746ac874242d79c": {
     "title": "Quoting @joedaroo",
@@ -22399,7 +22425,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 18.78,
+    "score": 18.77,
     "id": "05fd81a017db8f47",
     "first_seen": "2026-09-29"
   },
@@ -22421,7 +22447,7 @@
     "tags": [
       "future"
     ],
-    "score": 14.4,
+    "score": 14.39,
     "id": "e44d571652b01740",
     "first_seen": "2026-09-29"
   },
@@ -22461,9 +22487,10 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 34.76,
+    "score": 34.75,
     "id": "bd76ca6833be488b",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "用 Claude 改 WordPress 导航菜单并在预览环境验证，不改动线上 header 的安全做法。"
   },
   "5a43ea5976b3a747": {
     "title": "3 prompt patterns that actually work, with copy-paste examples",
@@ -22483,9 +22510,10 @@
     "tags": [
       "prompt"
     ],
-    "score": 36.04,
+    "score": 36.03,
     "id": "5a43ea5976b3a747",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "给出三种经得起验证的提示词结构，每个都配可复制示例，拿来即可改。"
   },
   "e9b75c1911759cb5": {
     "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
@@ -22504,7 +22532,7 @@
     "tags": [
       "future"
     ],
-    "score": 31.26,
+    "score": 31.25,
     "id": "e9b75c1911759cb5",
     "first_seen": "2026-09-29"
   },
@@ -22525,7 +22553,7 @@
     "tags": [
       "仓库"
     ],
-    "score": 23.41,
+    "score": 23.4,
     "id": "4fbed2013ec4e576",
     "first_seen": "2026-09-29"
   },
@@ -22638,7 +22666,8 @@
     ],
     "score": 36.53,
     "id": "ca49b27f34239ebd",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "一则社区活动报道意外走红，反映普通人面对 AI 的焦虑，可作选题参考。"
   },
   "56bb11e3354d2fd3": {
     "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
@@ -22680,7 +22709,8 @@
     ],
     "score": 27.53,
     "id": "24d3b261e2047f28",
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-09-29",
+    "zh": "梳理豆包从对话走向执行任务的演进，理解 AI 助手接入工具后的能力边界与用法变化。"
   },
   "b655065a3a2046b9": {
     "title": "我所了解的机器视觉检测产品应用（6）：深度学习还是传统算法？先别比准确率，算三笔账",
@@ -22763,7 +22793,7 @@
       "短剧",
       "ai短剧"
     ],
-    "score": 40.86,
+    "score": 40.85,
     "id": "d846297b23452bfd",
     "first_seen": "2026-09-29"
   },
@@ -22788,7 +22818,7 @@
       "政策",
       "就业"
     ],
-    "score": 41.66,
+    "score": 41.65,
     "id": "c94ec49dc001dcbf",
     "first_seen": "2026-09-29"
   },
@@ -22852,7 +22882,7 @@
     "tags": [
       "数字人"
     ],
-    "score": 25.95,
+    "score": 25.94,
     "id": "98a99f398150be30",
     "first_seen": "2026-09-29"
   },
@@ -22874,7 +22904,7 @@
       "github",
       "开源"
     ],
-    "score": 26.44,
+    "score": 26.43,
     "id": "72348e00c5ca72b2",
     "first_seen": "2026-09-29"
   },
@@ -22918,7 +22948,7 @@
       "分屏",
       "开源"
     ],
-    "score": 21.38,
+    "score": 21.37,
     "id": "afe40b68de33ee21",
     "first_seen": "2026-09-29"
   },
@@ -22939,7 +22969,7 @@
     "tags": [
       "部署"
     ],
-    "score": 16.22,
+    "score": 16.21,
     "id": "f08a74a65d0301f0",
     "first_seen": "2026-09-29"
   },
@@ -23061,7 +23091,7 @@
     "tags": [
       "prompting"
     ],
-    "score": 21.16,
+    "score": 21.15,
     "id": "2217174734e46fe6",
     "first_seen": "2026-09-29"
   },
@@ -23083,7 +23113,7 @@
       "指南",
       "guide"
     ],
-    "score": 51.9,
+    "score": 51.89,
     "id": "bb00f58cdd9c5a45",
     "first_seen": "2026-09-29"
   }
