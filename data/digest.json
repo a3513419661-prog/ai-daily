@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-30",
-  "summary": "今天最值得上手的是「先想清楚再生成」这条主线：用构图逻辑和动机光替代堆砌形容词的提示词，把分镜和镜头运动提前定死，再把剪辑判断交给节奏而非画面密度。剪辑端可以学 AI B-roll 的复刻方法和在提示词内部完成剪辑的思路，Agent 类教程则帮把重复流程自动化。",
+  "date": "2026-10-01",
+  "summary": "今天的实操内容集中在两头：写提示词别做加法，先想构图、动机光和镜头尺寸，让画面有视线落点；剪辑端则强调留白与节奏，B-roll 从复刻高手作品练起。分镜与工作流方向可以看 Seedance 的逐镜规划，以及用 Flux MCP 在 Claude Code 里直接生成和改写图像，把提示词到成片的链路串起来。",
   "picks": [
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "中文实操：从复刻现成 B-roll 入手，学会让 AI 生成能真正剪得进去的素材。",
+      "why": "中文实战：用「复刻」拆解优秀 B-roll 的镜头与节奏，是能直接照做的方法论。",
       "id": "524c8e0e12c5dce6"
     },
     {
-      "title": "Good Video Editing Isn’t About Making a Video Look Busy",
-      "url": "https://medium.com/@digitalmetamonk/good-video-editing-isnt-about-making-a-video-look-busy-7df25874c42a?source=rss------video_editing-5",
-      "why": "讲清楚剪辑节奏的判断标准——好剪辑不是把画面塞满，而是知道什么时候留白。",
-      "id": "9ff8a1520cabb5e3"
+      "title": "The Cut Is Where the Silence Lives",
+      "url": "https://medium.com/@felipedrg02/the-cut-is-where-the-silence-lives-c58e4b8c4210?source=rss------video_editing-5",
+      "why": "讲剪辑里静默与停顿的作用，帮你在时间线上建立真正的节奏感而非堆镜头。",
+      "id": "1aef45da82ff0df3"
     },
     {
       "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "把剪辑决策前置到提示词里，减少后期返工，适合做 AI 短片的工作流参考。",
+      "why": "把剪辑思维前置到提示词里，教你在生成阶段就完成分切与节奏设计。",
       "id": "7cbb408ba5ddf5f0"
     },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文干货：提示词别做加法，先定构图逻辑再谈画面元素，直接提升成片质感。",
+      "why": "中文干货：提示词不是元素堆砌，先定构图逻辑再谈画面细节。",
       "id": "9acc46cbdeb37daa"
     },
     {
       "title": "Stop Prompting “Cinematic Lighting”: The Motivated Light Strategy",
       "url": "https://medium.com/@bloggerswit_41630/stop-prompting-cinematic-lighting-the-motivated-light-strategy-1a7a77d34d49?source=rss------filmmaking-5",
-      "why": "用「动机光」替代「电影感灯光」这类空词，让光有来源、有叙事理由。",
+      "why": "用有动机的光源替代「电影感打光」这类空词，光照提示词立刻可落地。",
       "id": "3a2ab20caaf7dd3d"
     },
     {
-      "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
-      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
-      "why": "AI 影视化第 3 天专讲运镜，是镜头语言里最难用文字描述、也最值得练的一环。",
-      "id": "16df762f58b5b891"
+      "title": "Framing the Narrative: Mastering Shot Sizes in AI Filmmaking",
+      "url": "https://medium.com/@bloggerswit_41630/framing-the-narrative-mastering-shot-sizes-in-ai-filmmaking-3268ba9915e1?source=rss------cinematography-5",
+      "why": "系统梳理景别如何服务叙事，AI 生成时选对景别比加形容词更管用。",
+      "id": "0587ca71848e541b"
     },
     {
-      "title": "Stop Prompting Like a Poet: The 5-Part Syntax for Production-Ready AI Images",
-      "url": "https://medium.com/@shadowchaser99at/stop-prompting-like-a-poet-the-5-part-syntax-for-production-ready-ai-images-1e9003b2dfcb?source=rss------prompt_engineering-5",
-      "why": "一套五段式提示词语法，把出图从碰运气变成可复现的生产流程。",
-      "id": "9ea3a0f75d384f31"
+      "title": "Your AI Prompts Are Too Complicated. Try This Instead",
+      "url": "https://ai.plainenglish.io/your-ai-prompts-are-too-complicated-try-this-instead-b23a40c4b494?source=rss------prompt_engineering-5",
+      "why": "提示词写太复杂反而失控，给出简化思路，适合日常反复套用。",
+      "id": "70e32dc4fef9f1d9"
     },
     {
-      "title": "Autonomous agents: give it a job, not a prompt",
-      "url": "https://dev.to/jackhamr/autonomous-agents-give-it-a-job-not-a-prompt-1ngp",
-      "why": "把「给提示词」换成「给任务」，是搭建自动化创作流程的思路转变。",
-      "id": "1ee03c1f73cc9ea7"
+      "title": "Your Prompt Isn’t a Set of Instructions. It’s a Translation.",
+      "url": "https://medium.com/@nagatomopedro05/your-prompt-isnt-a-set-of-instructions-it-s-a-translation-b67867bbf16f?source=rss------prompt_engineering-5",
+      "why": "把提示词理解为「翻译」而非指令，能改变你描述画面和意图的方式。",
+      "id": "8344e66265d2e424"
     },
     {
       "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
       "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "Seedance 2.5 的分镜工作流，示范如何把一句概念拆成逐镜拍摄计划。",
+      "why": "从概念到逐镜表的完整分镜流程，可直接迁移到自己的 AI 短片项目。",
       "id": "6f5f39903e351a2c"
     },
     {
-      "title": "Stop writing your own agent loop: a hands-on tutorial for OpenAI's Agents API",
-      "url": "https://dev.to/aifrontierpost/stop-writing-your-own-agent-loop-a-hands-on-tutorial-for-openais-agents-api-20de",
-      "why": "手把手教程，用现成 Agents API 替掉自己写的 agent 循环，省下大量胶水代码。",
-      "id": "328bc3ed2a6db0ac"
+      "title": "How to Generate and Edit Images from Claude Code with Flux MCP",
+      "url": "https://dev.to/germey/how-to-generate-and-edit-images-from-claude-code-with-flux-mcp-1hl3",
+      "why": "手把手教在 Claude Code 里接 Flux MCP 生成与编辑图像，打通提示词到出图的工作流。",
+      "id": "47e8ecd0571028e0"
     }
   ]
 }
