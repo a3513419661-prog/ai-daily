@@ -1,66 +1,60 @@
 {
-  "date": "2026-10-01",
-  "summary": "今天的实操内容集中在两头：写提示词别做加法，先想构图、动机光和镜头尺寸，让画面有视线落点；剪辑端则强调留白与节奏，B-roll 从复刻高手作品练起。分镜与工作流方向可以看 Seedance 的逐镜规划，以及用 Flux MCP 在 Claude Code 里直接生成和改写图像，把提示词到成片的链路串起来。",
+  "date": "2026-10-02",
+  "summary": "今天能学到一条完整的 AI 影像链路：从提示词的构图与布光思路，到分镜拆解与镜头尺寸设计，再落到剪辑台上的节奏与一致性测试。中文实操内容集中在「用复刻法做 B-roll」和「用构图逻辑写提示词」，英文侧则偏工作流方法论，适合直接照着练。",
   "picks": [
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "中文实战：用「复刻」拆解优秀 B-roll 的镜头与节奏，是能直接照做的方法论。",
+      "why": "中文实操，用「先复刻再原创」的方法练 AI B-roll，可直接套进日常剪辑素材补拍。",
       "id": "524c8e0e12c5dce6"
     },
     {
-      "title": "The Cut Is Where the Silence Lives",
-      "url": "https://medium.com/@felipedrg02/the-cut-is-where-the-silence-lives-c58e4b8c4210?source=rss------video_editing-5",
-      "why": "讲剪辑里静默与停顿的作用，帮你在时间线上建立真正的节奏感而非堆镜头。",
-      "id": "1aef45da82ff0df3"
-    },
-    {
-      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
-      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "把剪辑思维前置到提示词里，教你在生成阶段就完成分切与节奏设计。",
-      "id": "7cbb408ba5ddf5f0"
+      "title": "One Character, Two Formats: Testing AI Video Consistency Across POV and Third-Person Shots",
+      "url": "https://medium.com/@lawwork04/one-character-two-formats-testing-ai-video-consistency-across-pov-and-third-person-shots-525a37753765?source=rss------video_production-5",
+      "why": "同一角色在 POV 与第三人称间切换的一致性测试，正是 AI 短片多镜头拼接最容易翻车的地方。",
+      "id": "314af4789fd4959b"
     },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文干货：提示词不是元素堆砌，先定构图逻辑再谈画面细节。",
+      "why": "中文干货，讲透提示词不是堆词而是先定构图逻辑，直接提升出片可导演性。",
       "id": "9acc46cbdeb37daa"
-    },
-    {
-      "title": "Stop Prompting “Cinematic Lighting”: The Motivated Light Strategy",
-      "url": "https://medium.com/@bloggerswit_41630/stop-prompting-cinematic-lighting-the-motivated-light-strategy-1a7a77d34d49?source=rss------filmmaking-5",
-      "why": "用有动机的光源替代「电影感打光」这类空词，光照提示词立刻可落地。",
-      "id": "3a2ab20caaf7dd3d"
     },
     {
       "title": "Framing the Narrative: Mastering Shot Sizes in AI Filmmaking",
       "url": "https://medium.com/@bloggerswit_41630/framing-the-narrative-mastering-shot-sizes-in-ai-filmmaking-3268ba9915e1?source=rss------cinematography-5",
-      "why": "系统梳理景别如何服务叙事，AI 生成时选对景别比加形容词更管用。",
+      "why": "系统梳理 AI 影像中的景别语言，帮助你把镜头尺寸当成叙事工具而非装饰。",
       "id": "0587ca71848e541b"
-    },
-    {
-      "title": "Your AI Prompts Are Too Complicated. Try This Instead",
-      "url": "https://ai.plainenglish.io/your-ai-prompts-are-too-complicated-try-this-instead-b23a40c4b494?source=rss------prompt_engineering-5",
-      "why": "提示词写太复杂反而失控，给出简化思路，适合日常反复套用。",
-      "id": "70e32dc4fef9f1d9"
-    },
-    {
-      "title": "Your Prompt Isn’t a Set of Instructions. It’s a Translation.",
-      "url": "https://medium.com/@nagatomopedro05/your-prompt-isnt-a-set-of-instructions-it-s-a-translation-b67867bbf16f?source=rss------prompt_engineering-5",
-      "why": "把提示词理解为「翻译」而非指令，能改变你描述画面和意图的方式。",
-      "id": "8344e66265d2e424"
     },
     {
       "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
       "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "从概念到逐镜表的完整分镜流程，可直接迁移到自己的 AI 短片项目。",
+      "why": "Seedance 2.5 分镜工作流，演示如何把一句概念拆成可执行的逐镜方案。",
       "id": "6f5f39903e351a2c"
     },
     {
-      "title": "How to Generate and Edit Images from Claude Code with Flux MCP",
-      "url": "https://dev.to/germey/how-to-generate-and-edit-images-from-claude-code-with-flux-mcp-1hl3",
-      "why": "手把手教在 Claude Code 里接 Flux MCP 生成与编辑图像，打通提示词到出图的工作流。",
-      "id": "47e8ecd0571028e0"
+      "title": "A Product Video Shot List: Turn Features Into Actions",
+      "url": "https://medium.com/@shotmodo/a-product-video-shot-list-turn-features-into-actions-8ba5bb354bd4?source=rss------video_production-5",
+      "why": "把产品功能翻译成动作的分镜清单法，拍商业短片时能直接当模板用。",
+      "id": "9e3f88b1a84f3042"
+    },
+    {
+      "title": "How to Reverse-Engineer Any Video to Prompt (Without Wasting All Your GPU Credits)",
+      "url": "https://medium.com/@bilalchopra_75756/how-to-reverse-engineer-any-video-to-prompt-without-wasting-all-your-gpu-credits-0e1e9b7602a4?source=rss------prompt_engineering-5",
+      "why": "反向工程任意视频还原成提示词，还教你怎么省 GPU 额度，练提示词效率极高。",
+      "id": "439e3be91571d6e0"
+    },
+    {
+      "title": "I measured what makes a prompt reusable: 246 named inputs across 152 prompts",
+      "url": "https://dev.to/monkeyrun/i-measured-what-makes-a-prompt-reusable-246-named-inputs-across-152-prompts-580b",
+      "why": "用 152 条提示词、246 个具名输入量化「什么提示词可复用」，把玄学变成结构。",
+      "id": "1e6e2ee0f7f8a01b"
+    },
+    {
+      "title": "Studio Ghibli Style AI Prompts: How to Write Them (Without It Looking Like a Cheap Filter)",
+      "url": "https://medium.com/@tumi428/studio-ghibli-style-ai-prompts-how-to-write-them-without-it-looking-like-a-cheap-filter-d85a19c3e32c?source=rss------ai_art-5",
+      "why": "吉卜力风格提示词写法，重点在避免廉价滤镜感，风格化学习的好范例。",
+      "id": "d8bb9553054c854b"
     }
   ]
 }
