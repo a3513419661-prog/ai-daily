@@ -3145,7 +3145,7 @@
       "cli",
       "toolkit"
     ],
-    "score": 30.31,
+    "score": 30.3,
     "id": "48b28923bbeb952e",
     "first_seen": "2026-09-16"
   },
@@ -3368,7 +3368,7 @@
     "extra": "★ 271,362",
     "category": "tools",
     "tags": [],
-    "score": 28.87,
+    "score": 28.86,
     "id": "3eb178ba4cd74e58",
     "first_seen": "2026-09-16"
   },
@@ -3389,7 +3389,7 @@
       "explained",
       "cli"
     ],
-    "score": 49.83,
+    "score": 49.82,
     "id": "79cd21bd93d525b2",
     "first_seen": "2026-09-16"
   },
@@ -3407,7 +3407,7 @@
     "extra": "★ 47,375",
     "category": "tools",
     "tags": [],
-    "score": 24.49,
+    "score": 24.48,
     "id": "9bda2e5da9e8aad0",
     "first_seen": "2026-09-16"
   },
@@ -3485,7 +3485,7 @@
     "tags": [
       "cli"
     ],
-    "score": 33.07,
+    "score": 33.06,
     "id": "cc3eda66509ea21b",
     "first_seen": "2026-09-16"
   },
@@ -3505,7 +3505,7 @@
     "tags": [
       "cli"
     ],
-    "score": 39.31,
+    "score": 39.3,
     "id": "b43cfacc12a5a525",
     "first_seen": "2026-09-16"
   },
@@ -3523,7 +3523,7 @@
     "extra": "★ 45,630",
     "category": "tools",
     "tags": [],
-    "score": 31.09,
+    "score": 31.08,
     "id": "badb0e3c83b528bf",
     "first_seen": "2026-09-16"
   },
@@ -17772,7 +17772,7 @@
     "extra": "今日 +722 · JavaScript",
     "category": "tools",
     "tags": [],
-    "score": 47.7,
+    "score": 47.69,
     "id": "fa50ebc2e99687d3",
     "first_seen": "2026-09-24"
   },
@@ -24764,7 +24764,7 @@
     "extra": "今日 +594 · Rust",
     "category": "tools",
     "tags": [],
-    "score": 48.4,
+    "score": 48.39,
     "id": "59d1be1fc8d5efd1",
     "first_seen": "2026-09-30"
   },
@@ -26420,7 +26420,7 @@
     "extra": "今日 +282 · TypeScript",
     "category": "tools",
     "tags": [],
-    "score": 48.4,
+    "score": 48.39,
     "id": "3c5996df3e8c2ac2",
     "first_seen": "2026-10-01"
   },
@@ -26438,7 +26438,7 @@
     "extra": "今日 +1,435 · JavaScript",
     "category": "tools",
     "tags": [],
-    "score": 48.4,
+    "score": 48.39,
     "id": "fbf3b1d6655d8b60",
     "first_seen": "2026-10-01"
   },
@@ -26515,7 +26515,7 @@
     "extra": "今日 +98 · C",
     "category": "tools",
     "tags": [],
-    "score": 51.2,
+    "score": 51.19,
     "id": "4012fee7db343705",
     "first_seen": "2026-10-01"
   },
@@ -26741,7 +26741,7 @@
     "tags": [
       "prompt"
     ],
-    "score": 17.67,
+    "score": 17.66,
     "id": "05d8a1d264708124",
     "first_seen": "2026-10-02",
     "zh": "汇总 7 个免费提示词平台各自的特点与检索方式，方便按题材快速找到可复用模板。"
@@ -26762,7 +26762,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 14.48,
+    "score": 14.47,
     "id": "92e9948d5931b7ed",
     "first_seen": "2026-10-02",
     "zh": "解释 vibe coding 是什么，并示范从零把一个应用搭起来的基本流程与常见坑。"
@@ -26785,7 +26785,7 @@
     "tags": [
       "prompt"
     ],
-    "score": 13.67,
+    "score": 13.66,
     "id": "ea841cf588ce3495",
     "first_seen": "2026-10-02",
     "zh": "针对「只改一个元素仍要保持画面一致」的难题，给出可操作的提示词与流程思路。"
@@ -26809,7 +26809,7 @@
       "prompt",
       "how to"
     ],
-    "score": 15.37,
+    "score": 15.36,
     "id": "439e3be91571d6e0",
     "first_seen": "2026-10-02",
     "zh": "教你从成片反推出提示词，并给出省额度、少试错的做法，避免积分白烧。"
@@ -26914,7 +26914,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 13.04,
+    "score": 13.03,
     "id": "dc77ff631aeb7f36",
     "first_seen": "2026-10-02",
     "zh": "列举几项低门槛数字技能如何衔接线上机会，适合当作入门方向与自我盘点参考。"
@@ -26956,7 +26956,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 12.02,
+    "score": 12.01,
     "id": "2057afea0972d1ee",
     "first_seen": "2026-10-02",
     "zh": "在 Databricks 上搭生产级 RAG 平台的架构与落地步骤，偏数据工程，与创作关联小。"
@@ -26979,7 +26979,7 @@
     "tags": [
       "future"
     ],
-    "score": 13.21,
+    "score": 13.2,
     "id": "a8c840ff3fb9457a",
     "first_seen": "2026-10-02",
     "zh": "关于 AI 评测未来走向的实践视角，可了解自动化打分这套方法适用到哪、边界在哪。"
@@ -27002,7 +27002,7 @@
     "tags": [
       "walkthrough"
     ],
-    "score": 12.25,
+    "score": 12.24,
     "id": "8e27e400f2c58abc",
     "first_seen": "2026-10-02",
     "zh": "用 Claude 把一张照片转成日历条目，可学到图像转结构化数据的通用做法。"
@@ -27132,7 +27132,7 @@
       "how to",
       "cli"
     ],
-    "score": 20.93,
+    "score": 20.92,
     "id": "0604594bc7f21052",
     "first_seen": "2026-10-02",
     "zh": "演示在 Cursor 里接入 NanoBanana MCP，把局部改图、批量修图接进编辑器，可照步骤复现。"
@@ -27176,7 +27176,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 13.79,
+    "score": 13.78,
     "id": "545a242eec91cba3",
     "first_seen": "2026-10-02",
     "zh": "讲 AI 艺术二维码的原理、还能不能扫、什么场景值得做，附设计与投放取舍。"
@@ -27473,7 +27473,7 @@
     "default_category": null,
     "category": "trend",
     "tags": [],
-    "score": 15.43,
+    "score": 15.42,
     "id": "0ecdce28cd3f8128",
     "first_seen": "2026-10-02"
   },
@@ -27792,7 +27792,7 @@
     "extra": "今日 +163 · Python",
     "category": "tools",
     "tags": [],
-    "score": 24.22,
+    "score": 24.21,
     "id": "1594b84291b8ae77",
     "first_seen": "2026-10-02"
   },
@@ -27814,9 +27814,10 @@
     "tags": [
       "editing"
     ],
-    "score": 24.86,
+    "score": 24.85,
     "id": "b29fcd151c0c17cc",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "Fiverr 上 10 美元接纪录片与视频论文剪辑的接单帖，可参考其服务描述与定价写法。"
   },
   "8c6dbd168b154da0": {
     "title": "Picking a Top 10 from a long recording: a selection method before you open any editor",
@@ -27837,9 +27838,10 @@
       "editing",
       "editor"
     ],
-    "score": 29.34,
+    "score": 29.33,
     "id": "8c6dbd168b154da0",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "教你在打开剪辑软件前，先从长录制里按标准筛出十佳片段，省下大量无效回看时间。"
   },
   "f1dc3057cb82f536": {
     "title": "Reviewing captions with a client in Word: a workflow that avoids sending them an .srt",
@@ -27862,7 +27864,8 @@
     ],
     "score": 29.06,
     "id": "f1dc3057cb82f536",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "字幕审校不必来回传 .srt，把带时间码的文本放进 Word 让客户直接批注，流程更省事。"
   },
   "e37427e3dae03b2d": {
     "title": "Kapwing Alternatives in 2026: An Honest Comparison (From Someone Who Builds One)",
@@ -27884,7 +27887,8 @@
     ],
     "score": 24.63,
     "id": "e37427e3dae03b2d",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "由同类工具开发者做的 Kapwing 替代品横向对比，帮你按团队需求挑在线剪辑方案。"
   },
   "9c820e5fc97148b0": {
     "title": "NEED YOUR VIDEO EDITED? DON’T WAIT—LET'S START TODAY!",
@@ -27904,9 +27908,10 @@
     "tags": [
       "editing"
     ],
-    "score": 21.04,
+    "score": 21.03,
     "id": "9c820e5fc97148b0",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "剪辑接单推广帖，看它如何包装交付范围与卖点，适合需要外包或自己接单的人参考。"
   },
   "bbaf1453a302de57": {
     "title": "What Does a Director Actually Do? The Truth About the Role of a Director",
@@ -27926,9 +27931,10 @@
     "tags": [
       "director"
     ],
-    "score": 33.48,
+    "score": 33.47,
     "id": "bbaf1453a302de57",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "说清导演在片场真正负责什么，适合想理解岗位分工或准备自己执导的人打底。"
   },
   "1f6632c063d968f8": {
     "title": "10 Hollywood Movies That Failed at the Box Office But Helped Invent Modern Filmmaking",
@@ -27951,7 +27957,8 @@
     ],
     "score": 31.36,
     "id": "1f6632c063d968f8",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "盘点票房惨败却推动电影语言革新的好莱坞作品，从失败案例里学镜头与叙事创新。"
   },
   "59fc0f79662c0f4a": {
     "title": "The Role of Film Awards in Celebrating Creative Storytelling",
@@ -27972,9 +27979,10 @@
       "filmmaking",
       "storytelling"
     ],
-    "score": 24.85,
+    "score": 24.84,
     "id": "59fc0f79662c0f4a",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "讨论电影奖项对创作与叙事的推动与局限，偏行业观察，可了解评奖生态。"
   },
   "423027a9468b3685": {
     "title": "Lado Okhotnikov and Nolan’s The Odyssey: Reflections",
@@ -27996,7 +28004,8 @@
     ],
     "score": 22.7,
     "id": "423027a9468b3685",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "围绕诺兰《奥德赛》的个人随想，偏观感评论，适合对导演创作动机感兴趣的人。"
   },
   "0b69877893a41da2": {
     "title": "[Part 1] Why I Released “protocol-engineering-spec” Now",
@@ -28016,7 +28025,8 @@
     "tags": [],
     "score": 35.09,
     "id": "0b69877893a41da2",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "作者发布 protocol-engineering-spec 的动机说明，可了解这套协议化提示框架的设计思路。"
   },
   "47a138cdbe4d9d87": {
     "title": "20 ChatGPT Astra Prompts Every Business Owner Should Try",
@@ -28034,9 +28044,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 32.32,
+    "score": 32.31,
     "id": "47a138cdbe4d9d87",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "汇总 20 条面向商业经营的提示词，覆盖营销、运营等常见场景，可挑着改。"
   },
   "c5061c64dcff9801": {
     "title": "The AI Coding Harness I Reuse on Every Project (4 Files + Skills)",
@@ -28056,9 +28067,10 @@
     "tags": [
       "prompt"
     ],
-    "score": 34.74,
+    "score": 34.73,
     "id": "c5061c64dcff9801",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "分享一套跨项目复用的 AI 编程脚手架，4 个文件加技能配置，可直接照搬到自己的仓库。"
   },
   "186988271d9b97cd": {
     "title": "Mastering the Prompt: From Basic Text to Autonomous AI Agents",
@@ -28080,7 +28092,8 @@
     ],
     "score": 33.73,
     "id": "186988271d9b97cd",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "从基础文本提示讲到自主 Agent，梳理提示词能力升级的路径与关键节点。"
   },
   "5938548914a2ec16": {
     "title": "Prompt Engineering Is Dead. Here Is the New AI Skill You Actually Need to Survive.",
@@ -28102,9 +28115,10 @@
       "how to",
       "learn"
     ],
-    "score": 36.47,
+    "score": 36.46,
     "id": "5938548914a2ec16",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "提出提示词之后的新核心能力，并说明为什么只堆提示词已经不够用。"
   },
   "dd71cb9efd32c0b8": {
     "title": "One line in the system prompt stops your agent from inventing data when a tool silently fails",
@@ -28125,9 +28139,10 @@
       "prompt",
       "report"
     ],
-    "score": 34.31,
+    "score": 34.3,
     "id": "dd71cb9efd32c0b8",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "给系统提示词加一行约束，就能让 Agent 在工具静默失败时不再凭空编造数据。"
   },
   "6b2f7af00dd4f5a1": {
     "title": "How to Make AI Images Look Real: 6 Prompt Fixes That Kill the AI Look",
@@ -28148,9 +28163,10 @@
       "prompt",
       "how to"
     ],
-    "score": 32.98,
+    "score": 32.97,
     "id": "6b2f7af00dd4f5a1",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "六个可直接套用的提示词改法，专治 AI 图像那股塑料味，让出图更接近真实摄影。"
   },
   "5b886372ab223714": {
     "title": "Where the Agent Development Lifecycle Fits",
@@ -28168,7 +28184,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 25.65,
+    "score": 25.64,
     "id": "5b886372ab223714",
     "first_seen": "2026-10-03"
   },
@@ -28190,7 +28206,7 @@
     "tags": [
       "how to"
     ],
-    "score": 25.95,
+    "score": 25.94,
     "id": "83fade99cf9e24e7",
     "first_seen": "2026-10-03"
   },
@@ -28215,7 +28231,7 @@
       "prompt",
       "how to"
     ],
-    "score": 46.94,
+    "score": 46.93,
     "id": "0afcb4d706d7c9de",
     "first_seen": "2026-10-03"
   },
@@ -28239,7 +28255,8 @@
     ],
     "score": 36.9,
     "id": "e8c187eb3eaa5d5a",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "讲解语音 AI 遭遇限流时的处理思路与缓存策略，降低延迟和调用成本。"
   },
   "dc01030b29b87d0d": {
     "title": "[ Video ] How To Set Up Local AI on a 16GB MacBook",
@@ -28259,9 +28276,10 @@
     "tags": [
       "how to"
     ],
-    "score": 36.23,
+    "score": 36.22,
     "id": "dc01030b29b87d0d",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "视频演示如何在 16GB MacBook 上跑本地大模型，含环境配置与显存占用的实用建议。"
   },
   "2f23929159a99ee9": {
     "title": "Turn Any URL into Clean Markdown for RAG (API Guide)",
@@ -28284,7 +28302,8 @@
     ],
     "score": 38.73,
     "id": "2f23929159a99ee9",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "教你把任意网页转成干净 Markdown 并接入 RAG，提升知识库抓取与向量化质量。"
   },
   "67826ab5f67d554d": {
     "title": "Add Web Search to Your AI Agent with MCP (2026 Guide)",
@@ -28304,9 +28323,10 @@
     "tags": [
       "guide"
     ],
-    "score": 37.17,
+    "score": 37.16,
     "id": "67826ab5f67d554d",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "手把手用 MCP 给 AI Agent 接上联网搜索，跟着做就能让智能体查最新资料。"
   },
   "d8cd4f00506f3ad8": {
     "title": "Python Foundations for Engineering: A KDnuggets Cheat Sheet",
@@ -28347,7 +28367,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 26.55,
+    "score": 26.54,
     "id": "a6ca76b655f57243",
     "first_seen": "2026-10-03"
   },
@@ -28369,7 +28389,7 @@
     "tags": [
       "prompt"
     ],
-    "score": 26.85,
+    "score": 26.84,
     "id": "a7cfcd5fd88bc05a",
     "first_seen": "2026-10-03"
   },
@@ -28391,7 +28411,8 @@
     "tags": [],
     "score": 35.47,
     "id": "e287c1c062f5f81a",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "从编剧角度拆解“一场戏”的构成要素，帮你判断场景该在哪里开始、哪里结束。"
   },
   "1a3cb91e4fd6d646": {
     "title": "The Context Persistence Dilemma in GenAI: Caching vs India’s DPDP Act",
@@ -28409,9 +28430,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 33.32,
+    "score": 33.31,
     "id": "1a3cb91e4fd6d646",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "讨论生成式 AI 上下文缓存的取舍，以及印度数据保护法对持久化记忆的约束。"
   },
   "2fd8d5f67f4bc916": {
     "title": "Claude Fable 5: aplicações, benefícios e cuidados",
@@ -28429,9 +28451,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 33.21,
+    "score": 33.2,
     "id": "2fd8d5f67f4bc916",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "葡萄牙语文章，介绍 Claude 相关能力的应用场景、收益与使用注意事项。"
   },
   "a02710c796111dc5": {
     "title": "How to Make a Song with AI from One Sentence: A Suno and Udio Alternative",
@@ -28451,9 +28474,10 @@
     "tags": [
       "how to"
     ],
-    "score": 34.28,
+    "score": 34.27,
     "id": "a02710c796111dc5",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "一句话生成整首歌的实操教程，作为 Suno、Udio 的替代路线可对比试用。"
   },
   "3ff4f7c192d7636e": {
     "title": "香港金融当局が生成AIサンドボックスの選定企業を発表(2026年10月3日公開)",
@@ -28471,9 +28495,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 31.97,
+    "score": 31.96,
     "id": "3ff4f7c192d7636e",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "香港金融监管部门公布生成式 AI 沙盒入选企业名单，属政策动态，了解合规风向。"
   },
   "b35c6440c77bc212": {
     "title": "Five Layers, One Strategy: Generative AI and Agents for Leaders",
@@ -28493,9 +28518,10 @@
     "tags": [
       "strategy"
     ],
-    "score": 32.05,
+    "score": 32.04,
     "id": "b35c6440c77bc212",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "面向管理者的生成式 AI 与 Agent 五层框架，帮你把零散工具整理成落地策略。"
   },
   "e41aaee99be56f24": {
     "title": "Beyond the Chatbot: Understanding Generative AI the Right Way",
@@ -28536,9 +28562,10 @@
       "walkthrough",
       "report"
     ],
-    "score": 31.75,
+    "score": 31.74,
     "id": "dfe9acde0facb798",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "给出三项核查动作，避免被错误或口径不明的 AI 成本报告带偏预算判断。"
   },
   "84af7a9b32095085": {
     "title": "The AI Blind Spot: Why Language Models Confuse Elixir Lists with Arrays",
@@ -28555,7 +28582,7 @@
     "default_category": null,
     "category": "trend",
     "tags": [],
-    "score": 35.34,
+    "score": 35.33,
     "id": "84af7a9b32095085",
     "first_seen": "2026-10-03"
   },
@@ -28580,7 +28607,8 @@
     ],
     "score": 25.76,
     "id": "1c99bdc3627a9f3d",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "用 OpenArt Director 讲长视频中保持角色一致的方法，解决 AI 视频越生成越走形的问题。"
   },
   "6e4fc6f4dcc567d5": {
     "title": "A Landing Page, a Community Skills, and AI Video Generation — Automating Project Implementation and…",
@@ -28598,7 +28626,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 21.22,
+    "score": 21.21,
     "id": "6e4fc6f4dcc567d5",
     "first_seen": "2026-10-03"
   },
@@ -28640,7 +28668,7 @@
     "tags": [
       "report"
     ],
-    "score": 29.45,
+    "score": 29.44,
     "id": "adf59d7f8a6853b0",
     "first_seen": "2026-10-03"
   },
@@ -28700,7 +28728,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 16.12,
+    "score": 16.11,
     "id": "f6a5c2e0658b090f",
     "first_seen": "2026-10-03"
   },
@@ -28722,9 +28750,10 @@
       "guide",
       "learn"
     ],
-    "score": 31.38,
+    "score": 31.37,
     "id": "0f7d6588fba8324f",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "梳理 GPT-6 系列各型号的定位与适用场景，方便按任务和预算选模型。"
   },
   "e532cea6e6e32d1a": {
     "title": "How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev",
@@ -28767,7 +28796,7 @@
     "tags": [
       "how to"
     ],
-    "score": 25.02,
+    "score": 25.01,
     "id": "14264f45e74b002b",
     "first_seen": "2026-10-03"
   },
@@ -28789,9 +28818,10 @@
     "tags": [
       "how to"
     ],
-    "score": 29.74,
+    "score": 29.73,
     "id": "1cf98d0d60b155ea",
-    "first_seen": "2026-10-03"
+    "first_seen": "2026-10-03",
+    "zh": "介绍 Inanimate 正在做的项目与跟进方式，偏团队动态，适合关注其后续工具的人。"
   },
   "f41f65cfa78f1deb": {
     "title": "Anthropic 拟斥资 1 亿美元培训万名工程师，破解企业 AI 落地“人才荒”",
@@ -28811,7 +28841,7 @@
       "如何",
       "部署"
     ],
-    "score": 36.71,
+    "score": 36.7,
     "id": "f41f65cfa78f1deb",
     "first_seen": "2026-10-03"
   },
@@ -28853,7 +28883,7 @@
     "tags": [
       "github"
     ],
-    "score": 27.05,
+    "score": 27.04,
     "id": "bd8d3d88049a88ae",
     "first_seen": "2026-10-03"
   },
@@ -29029,7 +29059,7 @@
       "toolkit",
       "analysis"
     ],
-    "score": 13.5,
+    "score": 13.49,
     "id": "84d1e563d5eb856d",
     "first_seen": "2026-10-03"
   },
@@ -29050,7 +29080,7 @@
       "github",
       "cli"
     ],
-    "score": 51.2,
+    "score": 51.19,
     "id": "eb44cfde43a2e9ba",
     "first_seen": "2026-10-03"
   },
@@ -29068,7 +29098,7 @@
     "extra": "今日 +140 · JavaScript",
     "category": "tools",
     "tags": [],
-    "score": 48.4,
+    "score": 48.39,
     "id": "b4eaadaf7149ca92",
     "first_seen": "2026-10-03"
   },
@@ -29086,7 +29116,7 @@
     "extra": "今日 +39 · Python",
     "category": "tools",
     "tags": [],
-    "score": 47.7,
+    "score": 47.69,
     "id": "6955b23f62487636",
     "first_seen": "2026-10-03"
   },

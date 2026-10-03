@@ -1,60 +1,66 @@
 {
-  "date": "2026-10-02",
-  "summary": "今天能学到一条完整的 AI 影像链路：从提示词的构图与布光思路，到分镜拆解与镜头尺寸设计，再落到剪辑台上的节奏与一致性测试。中文实操内容集中在「用复刻法做 B-roll」和「用构图逻辑写提示词」，英文侧则偏工作流方法论，适合直接照着练。",
+  "date": "2026-10-03",
+  "summary": "今天的内容集中在可落地的影像工作流：剪辑端有「动剪前先选片」的方法与中文 AI B-roll 复刻实操，导演端讲构图逻辑、景别叙事和长片角色一致性，分镜端给出可照做的逐镜表流程。AI 创作侧聚焦去掉画面「AI 味」的提示词修法与提示词进阶路径。中文内容优先，整体适合按流程逐条动手练。",
   "picks": [
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "中文实操，用「先复刻再原创」的方法练 AI B-roll，可直接套进日常剪辑素材补拍。",
+      "why": "中文实战：用「先复刻再创作」的思路拆解优秀 B-roll，让 AI 空镜真正贴合剪辑节奏。",
       "id": "524c8e0e12c5dce6"
     },
     {
-      "title": "One Character, Two Formats: Testing AI Video Consistency Across POV and Third-Person Shots",
-      "url": "https://medium.com/@lawwork04/one-character-two-formats-testing-ai-video-consistency-across-pov-and-third-person-shots-525a37753765?source=rss------video_production-5",
-      "why": "同一角色在 POV 与第三人称间切换的一致性测试，正是 AI 短片多镜头拼接最容易翻车的地方。",
-      "id": "314af4789fd4959b"
+      "title": "Picking a Top 10 from a long recording: a selection method before you open any editor",
+      "url": "https://medium.com/@hello_43044/picking-a-top-10-from-a-long-recording-a-selection-method-before-you-open-any-editor-e10cff7fedb3?source=rss------video_editing-5",
+      "why": "动剪刀前先定选片标准，长素材里挑 Top 10 的判断方法可直接套用到自己项目。",
+      "id": "8c6dbd168b154da0"
+    },
+    {
+      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
+      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
+      "why": "把剪辑决策写进提示词，在生成阶段就完成节奏与转场设计，而非后期补救。",
+      "id": "7cbb408ba5ddf5f0"
     },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文干货，讲透提示词不是堆词而是先定构图逻辑，直接提升出片可导演性。",
+      "why": "中文提示词思维课：别用加法堆形容词，用构图逻辑驱动画面更有效。",
       "id": "9acc46cbdeb37daa"
     },
     {
       "title": "Framing the Narrative: Mastering Shot Sizes in AI Filmmaking",
       "url": "https://medium.com/@bloggerswit_41630/framing-the-narrative-mastering-shot-sizes-in-ai-filmmaking-3268ba9915e1?source=rss------cinematography-5",
-      "why": "系统梳理 AI 影像中的景别语言，帮助你把镜头尺寸当成叙事工具而非装饰。",
+      "why": "景别怎么选、怎么排，讲清 AI 影片里用景别叙事的导演基本功。",
       "id": "0587ca71848e541b"
+    },
+    {
+      "title": "How to Keep Characters Consistent in Longer AI Videos (OpenArt Director)",
+      "url": "https://medium.com/@Authority_Edge/how-to-keep-characters-consistent-in-longer-ai-videos-openart-director-bb278df7e16e?source=rss------ai_video-5",
+      "why": "针对长片 AI 视频的角色一致性方案，解决多镜头之间人物跑脸的问题。",
+      "id": "1c99bdc3627a9f3d"
     },
     {
       "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
       "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "Seedance 2.5 分镜工作流，演示如何把一句概念拆成可执行的逐镜方案。",
+      "why": "从概念到逐镜表，Seedance 2.5 的分镜工作流可以照着做一遍。",
       "id": "6f5f39903e351a2c"
     },
     {
-      "title": "A Product Video Shot List: Turn Features Into Actions",
-      "url": "https://medium.com/@shotmodo/a-product-video-shot-list-turn-features-into-actions-8ba5bb354bd4?source=rss------video_production-5",
-      "why": "把产品功能翻译成动作的分镜清单法，拍商业短片时能直接当模板用。",
-      "id": "9e3f88b1a84f3042"
+      "title": "How to Make AI Images Look Real: 6 Prompt Fixes That Kill the AI Look",
+      "url": "https://medium.com/@tumi428/how-to-make-ai-images-look-real-6-prompt-fixes-that-kill-the-ai-look-bd656ff280d9?source=rss------prompt_engineering-5",
+      "why": "六个提示词修正点，专门用来去掉图像那股一眼假的「AI 味」。",
+      "id": "6b2f7af00dd4f5a1"
     },
     {
-      "title": "How to Reverse-Engineer Any Video to Prompt (Without Wasting All Your GPU Credits)",
-      "url": "https://medium.com/@bilalchopra_75756/how-to-reverse-engineer-any-video-to-prompt-without-wasting-all-your-gpu-credits-0e1e9b7602a4?source=rss------prompt_engineering-5",
-      "why": "反向工程任意视频还原成提示词，还教你怎么省 GPU 额度，练提示词效率极高。",
-      "id": "439e3be91571d6e0"
+      "title": "Mastering the Prompt: From Basic Text to Autonomous AI Agents",
+      "url": "https://medium.com/@koushanichoudhuryarmy/mastering-the-prompt-from-basic-text-to-autonomous-ai-agents-d1067b9fd2dd?source=rss------prompt_engineering-5",
+      "why": "提示词进阶路径：从基础文本一路写到能自主执行的 Agent 提示。",
+      "id": "186988271d9b97cd"
     },
     {
-      "title": "I measured what makes a prompt reusable: 246 named inputs across 152 prompts",
-      "url": "https://dev.to/monkeyrun/i-measured-what-makes-a-prompt-reusable-246-named-inputs-across-152-prompts-580b",
-      "why": "用 152 条提示词、246 个具名输入量化「什么提示词可复用」，把玄学变成结构。",
-      "id": "1e6e2ee0f7f8a01b"
-    },
-    {
-      "title": "Studio Ghibli Style AI Prompts: How to Write Them (Without It Looking Like a Cheap Filter)",
-      "url": "https://medium.com/@tumi428/studio-ghibli-style-ai-prompts-how-to-write-them-without-it-looking-like-a-cheap-filter-d85a19c3e32c?source=rss------ai_art-5",
-      "why": "吉卜力风格提示词写法，重点在避免廉价滤镜感，风格化学习的好范例。",
-      "id": "d8bb9553054c854b"
+      "title": "How to Make a Song with AI from One Sentence: A Suno and Udio Alternative",
+      "url": "https://rimlauf.medium.com/how-to-make-a-song-with-ai-from-one-sentence-a-suno-and-udio-alternative-b3fbf4db0099?source=rss------generative_ai-5",
+      "why": "一句话生成整首歌的实操流程，顺带了解 Suno/Udio 之外的替代玩法。",
+      "id": "a02710c796111dc5"
     }
   ]
 }
