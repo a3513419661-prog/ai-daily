@@ -3124,7 +3124,7 @@
     "extra": "今日 +252 · JavaScript",
     "category": "tools",
     "tags": [],
-    "score": 48.4,
+    "score": 48.39,
     "id": "ee6c68beddbc478a",
     "first_seen": "2026-09-16"
   },
@@ -3145,7 +3145,7 @@
       "cli",
       "toolkit"
     ],
-    "score": 51.9,
+    "score": 51.89,
     "id": "48b28923bbeb952e",
     "first_seen": "2026-09-16"
   },
@@ -3350,7 +3350,7 @@
     "tags": [
       "workflow"
     ],
-    "score": 32.17,
+    "score": 32.16,
     "id": "16e11b90ef8df779",
     "first_seen": "2026-09-16"
   },
@@ -3505,7 +3505,7 @@
     "tags": [
       "cli"
     ],
-    "score": 33.61,
+    "score": 33.6,
     "id": "b43cfacc12a5a525",
     "first_seen": "2026-09-16"
   },
@@ -7630,7 +7630,7 @@
     "extra": "今日 +128 · TypeScript",
     "category": "tools",
     "tags": [],
-    "score": 47.7,
+    "score": 47.69,
     "id": "020aa1c48a7d2b88",
     "first_seen": "2026-09-17"
   },
@@ -17772,7 +17772,7 @@
     "extra": "今日 +699 · JavaScript",
     "category": "tools",
     "tags": [],
-    "score": 47.7,
+    "score": 47.69,
     "id": "fa50ebc2e99687d3",
     "first_seen": "2026-09-24"
   },
@@ -21187,7 +21187,8 @@
     ],
     "score": 18.2,
     "id": "271b3ac33b739028",
-    "first_seen": "2026-09-28"
+    "first_seen": "2026-09-28",
+    "zh": "豆包工作在国内办公场景的实操用法，适合中文团队落地参考。"
   },
   "524c8e0e12c5dce6": {
     "title": "让 AI 做好 B-roll，我决定先从复刻开始",
@@ -24764,7 +24765,7 @@
     "extra": "今日 +594 · Rust",
     "category": "tools",
     "tags": [],
-    "score": 24.31,
+    "score": 24.3,
     "id": "59d1be1fc8d5efd1",
     "first_seen": "2026-09-30"
   },
@@ -26400,7 +26401,7 @@
     "extra": "今日 +256 · TypeScript",
     "category": "tools",
     "tags": [],
-    "score": 48.4,
+    "score": 48.39,
     "id": "3c5996df3e8c2ac2",
     "first_seen": "2026-10-01"
   },
@@ -26418,7 +26419,7 @@
     "extra": "今日 +1,281 · JavaScript",
     "category": "tools",
     "tags": [],
-    "score": 48.4,
+    "score": 48.39,
     "id": "fbf3b1d6655d8b60",
     "first_seen": "2026-10-01"
   },
@@ -26495,7 +26496,7 @@
     "extra": "今日 +98 · C",
     "category": "tools",
     "tags": [],
-    "score": 27.11,
+    "score": 27.1,
     "id": "4012fee7db343705",
     "first_seen": "2026-10-01"
   },
@@ -28211,7 +28212,7 @@
       "prompt",
       "how to"
     ],
-    "score": 22.85,
+    "score": 22.84,
     "id": "0afcb4d706d7c9de",
     "first_seen": "2026-10-03"
   },
@@ -28256,7 +28257,7 @@
     "tags": [
       "how to"
     ],
-    "score": 12.14,
+    "score": 12.13,
     "id": "dc01030b29b87d0d",
     "first_seen": "2026-10-03",
     "zh": "视频演示如何在 16GB MacBook 上跑本地大模型，含环境配置与显存占用的实用建议。"
@@ -28303,7 +28304,7 @@
     "tags": [
       "guide"
     ],
-    "score": 13.08,
+    "score": 13.07,
     "id": "67826ab5f67d554d",
     "first_seen": "2026-10-03",
     "zh": "手把手用 MCP 给 AI Agent 接上联网搜索，跟着做就能让智能体查最新资料。"
@@ -28562,7 +28563,7 @@
     "default_category": null,
     "category": "trend",
     "tags": [],
-    "score": 11.25,
+    "score": 11.24,
     "id": "84af7a9b32095085",
     "first_seen": "2026-10-03"
   },
@@ -29060,7 +29061,7 @@
       "github",
       "cli"
     ],
-    "score": 51.2,
+    "score": 51.19,
     "id": "eb44cfde43a2e9ba",
     "first_seen": "2026-10-03"
   },
@@ -29078,7 +29079,7 @@
     "extra": "今日 +140 · JavaScript",
     "category": "tools",
     "tags": [],
-    "score": 24.31,
+    "score": 24.3,
     "id": "b4eaadaf7149ca92",
     "first_seen": "2026-10-03"
   },
@@ -29096,7 +29097,7 @@
     "extra": "今日 +39 · Python",
     "category": "tools",
     "tags": [],
-    "score": 23.61,
+    "score": 23.6,
     "id": "6955b23f62487636",
     "first_seen": "2026-10-03"
   },
@@ -29121,7 +29122,7 @@
       "分镜",
       "storyboard"
     ],
-    "score": 37.66,
+    "score": 37.65,
     "id": "96ff9385ea3db5b7",
     "first_seen": "2026-10-03"
   },
@@ -29171,9 +29172,10 @@
       "guide",
       "how to"
     ],
-    "score": 30.05,
+    "score": 30.04,
     "id": "429c8b8163394e94",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "把课程目录当自学路线图，了解剪辑要练的工具、周期与从业方向。"
   },
   "c90676e1ca74cbec": {
     "title": "Why Professional Video Editing Matters More Than Ever in 2026",
@@ -29195,7 +29197,8 @@
     ],
     "score": 21.41,
     "id": "c90676e1ca74cbec",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "从叙事节奏角度理解剪辑为何不可替代，帮你建立成片价值判断。"
   },
   "01ae491633ca149e": {
     "title": "AI Video-to-Sound Effects: Check Sync Before Export",
@@ -29215,7 +29218,8 @@
     "tags": [],
     "score": 17.18,
     "id": "01ae491633ca149e",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "导出前逐段核对音画同步，避免AI音效对不上口型和动作。"
   },
   "3c83cfebc0f12ab5": {
     "title": "The Future of Video Editing with AI",
@@ -29238,9 +29242,10 @@
       "learn",
       "future"
     ],
-    "score": 20.94,
+    "score": 20.93,
     "id": "3c83cfebc0f12ab5",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "梳理AI已能接手剪辑的哪些环节，判断自己工作流该交给机器哪一步。"
   },
   "c1572c2ee6358cb1": {
     "title": "What Saul Bass Knew About Previs That Every AI Storyboard Tool Is Getting Wrong",
@@ -29260,9 +29265,10 @@
     "tags": [
       "storyboard"
     ],
-    "score": 20.92,
+    "score": 20.91,
     "id": "c1572c2ee6358cb1",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "用Saul Bass的预演思路，检验AI分镜工具丢失了哪些信息层级。"
   },
   "5b3ef1911fa48cb7": {
     "title": "The Revenant Analysis: Alejandro Gonzalez Inarritu and the Brutality of Nature",
@@ -29285,7 +29291,8 @@
     ],
     "score": 23.58,
     "id": "5b3ef1911fa48cb7",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "拆解《荒野猎人》的长镜头与自然光调度，学用镜头传达残酷感。"
   },
   "c4b9d534faccd63d": {
     "title": "Primetime and Color Grading in modern film",
@@ -29305,9 +29312,10 @@
     "tags": [
       "color grading"
     ],
-    "score": 30.79,
+    "score": 30.78,
     "id": "c4b9d534faccd63d",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "看黄金时段光线如何配合调色，学会按时段选光并统一整片色调。"
   },
   "7801f095ef9cb241": {
     "title": "Filmmaker Bohdan Borysov Takes Viewers On The Edge With His Feature Directorial Debut “Your Turn”",
@@ -29329,7 +29337,8 @@
     ],
     "score": 28.55,
     "id": "7801f095ef9cb241",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "借导演处女作访谈，看长片开拍前的调度取舍与现场执行经验。"
   },
   "ad9bc045885a1fa4": {
     "title": "Opus 5.5 Video Prompts That Escape the Default Look",
@@ -29349,9 +29358,10 @@
     "tags": [
       "prompt"
     ],
-    "score": 36.2,
+    "score": 36.19,
     "id": "ad9bc045885a1fa4",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "给出能直接套用的视频提示词写法，摆脱AI画面的默认质感。"
   },
   "b56e5661491cafa8": {
     "title": "How Beginners Can Start Building Digital Assets With AI",
@@ -29371,7 +29381,8 @@
     "tags": [],
     "score": 32.62,
     "id": "b56e5661491cafa8",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "新手用AI做数字资产的起步步骤与可落地的变现方向。"
   },
   "92e8b6f9faf01467": {
     "title": "Remotion + Claude Code: Type a Sentence, Get a Video",
@@ -29391,7 +29402,8 @@
     "tags": [],
     "score": 33.21,
     "id": "92e8b6f9faf01467",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "一句话让Claude Code写Remotion代码出片，走通自动化视频流程。"
   },
   "ecf0610dea236980": {
     "title": "MENTAT: Teaching RAG Systems When to Retrieve, Connect, and Investigate",
@@ -29409,9 +29421,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 30.58,
+    "score": 30.57,
     "id": "ecf0610dea236980",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "让RAG学会判断何时检索、串联与深挖，偏工程但思路可借鉴。"
   },
   "f82249c306a60197": {
     "title": "What Does AI Actually Give You When You Ask for a “Reusable Prompt”?",
@@ -29431,9 +29444,10 @@
     "tags": [
       "prompt"
     ],
-    "score": 31.04,
+    "score": 31.03,
     "id": "f82249c306a60197",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "看清AI给的“可复用提示词”到底复用了什么，避免直接照搬踩坑。"
   },
   "a4f1faeacc43385c": {
     "title": "AI ile Code Review: Öneriden Kanıta Giden Bir İnceleme Süreci",
@@ -29451,7 +29465,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 25.93,
+    "score": 25.92,
     "id": "a4f1faeacc43385c",
     "first_seen": "2026-10-04"
   },
@@ -29519,7 +29533,8 @@
     ],
     "score": 38.16,
     "id": "d11f39d0facde681",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "拆开提示词的组成部分，弄清每部分作用后再动笔，写作更可控。"
   },
   "e720eb6c096bf4d5": {
     "title": "I Used the Same AI Art Style for Everything. Then It Stopped Working.",
@@ -29541,7 +29556,8 @@
     ],
     "score": 36.77,
     "id": "e720eb6c096bf4d5",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "风格全盘复用为何会失效，以及如何做出差异化和新鲜感。"
   },
   "7ba84ed3af535303": {
     "title": "How to Test GPT-6 Astra Without Mistaking a Demo for Evidence",
@@ -29562,9 +29578,10 @@
       "how to",
       "analysis"
     ],
-    "score": 37.54,
+    "score": 37.53,
     "id": "7ba84ed3af535303",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "教你怎么做可复现测试，别把炫酷demo当成模型真实能力的证据。"
   },
   "3ee7446a86d41c5f": {
     "title": "Can AI Turn an Image Into a Truly Reusable Prompt Template?",
@@ -29586,7 +29603,8 @@
     ],
     "score": 31.97,
     "id": "3ee7446a86d41c5f",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "把一张参考图反推成可复用提示词模板，并检验它是否真的通用。"
   },
   "b060da304f08368a": {
     "title": "The 4 Things Every Good AI Prompt Has (With a Before and After)",
@@ -29606,9 +29624,10 @@
     "tags": [
       "prompt"
     ],
-    "score": 33.59,
+    "score": 33.58,
     "id": "b060da304f08368a",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "好提示词必备的四个要素，配前后对比看清差距出在哪。"
   },
   "41e39f6f3676ef51": {
     "title": "The Quiet Reason Your AI Answers Got Worse Halfway Through a Chat",
@@ -29626,7 +29645,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 27.95,
+    "score": 27.94,
     "id": "41e39f6f3676ef51",
     "first_seen": "2026-10-04"
   },
@@ -29646,9 +29665,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 35.53,
+    "score": 35.52,
     "id": "d9c513ef1b368227",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "用反常规的“丑”提示词打破审美套路，让画面更有记忆点。"
   },
   "c816c2abe8edbb53": {
     "title": "From Paint Tubes to Artificial Intelligence: How Technology Changes Art",
@@ -29666,7 +29686,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 26.88,
+    "score": 26.87,
     "id": "c816c2abe8edbb53",
     "first_seen": "2026-10-04"
   },
@@ -29691,7 +29711,8 @@
     ],
     "score": 30.72,
     "id": "029c230f7da4df55",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "照片转涂鸦手账的提示词写法，关键是让原照片保持不变形。"
   },
   "f9af75aa6f5fb5b5": {
     "title": "Measuring the Creativity Potential of LLM Agents",
@@ -29709,9 +29730,10 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 24.06,
+    "score": 24.05,
     "id": "f9af75aa6f5fb5b5",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "介绍衡量LLM Agent创造力的评测方法，可借指标自查创作效果。"
   },
   "36d8d6f6686bc96f": {
     "title": "How to Build an Airdrop Monitor with AI",
@@ -29732,7 +29754,8 @@
     ],
     "score": 36.94,
     "id": "36d8d6f6686bc96f",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "用AI搭建空投监控的完整步骤，适合当自动化脚本练手项目。"
   },
   "3f76ed1f85851741": {
     "title": "Adaptive Intelligence: Why the Next Generation of AI Systems Will Learn From Change",
@@ -29751,7 +29774,7 @@
     "tags": [
       "learn"
     ],
-    "score": 36.7,
+    "score": 36.69,
     "id": "3f76ed1f85851741",
     "first_seen": "2026-10-04"
   },
@@ -29774,7 +29797,8 @@
     ],
     "score": 36.66,
     "id": "99c4c56e95e14c22",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "把Claude Code从写代码扩展成日常事务助手的配置与用法。"
   },
   "dafdb2cac5cf3b91": {
     "title": "The Agent Said It Was Done. The Database Disagreed.",
@@ -29794,7 +29818,8 @@
     "tags": [],
     "score": 33.11,
     "id": "dafdb2cac5cf3b91",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "Agent自称完成但数据对不上，讲清如何补验证与兜底机制。"
   },
   "619718782dfada5c": {
     "title": "We're going to need default hard budget caps on pretty much everything",
@@ -29812,9 +29837,10 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 32.47,
+    "score": 32.46,
     "id": "619718782dfada5c",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "说明为何要给AI默认设硬预算上限，以及具体怎么落地。"
   },
   "03c408f847cb2741": {
     "title": "September sponsors-only newsletter",
@@ -29832,9 +29858,10 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 31.07,
+    "score": 31.06,
     "id": "03c408f847cb2741",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "赞助者通讯合集，可当近期工具与话题的索引快速翻一遍。"
   },
   "acc6678f59a60f96": {
     "title": "Rex's Dino Store",
@@ -29877,7 +29904,8 @@
     ],
     "score": 19.08,
     "id": "d82bafd072160790",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "走一遍Google Flow从文本到成片的操作流程，适合零基础试手。"
   },
   "6aedd0c57f2577e2": {
     "title": "Run DeepSeek V4 on Your Own Hardware With DwarfStar, the Redis Creator's New Inference Engine",
@@ -29897,7 +29925,7 @@
     "tags": [
       "repo"
     ],
-    "score": 36.93,
+    "score": 36.92,
     "id": "6aedd0c57f2577e2",
     "first_seen": "2026-10-04"
   },
@@ -29922,7 +29950,8 @@
     ],
     "score": 37.94,
     "id": "9722e93ecc39881e",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "在支付层而非提示词里设预算上限，从机制上防住Agent超支。"
   },
   "8862f72fe791225d": {
     "title": "Rent a Cloud GPU with Hermes Agent or OpenClaw",
@@ -29940,9 +29969,10 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 34.9,
+    "score": 34.89,
     "id": "8862f72fe791225d",
-    "first_seen": "2026-10-04"
+    "first_seen": "2026-10-04",
+    "zh": "用Agent自动租用云GPU，跑训练推理时省去手动开机的麻烦。"
   },
   "1aed5c06f4bcda61": {
     "title": "AI 视频榜全球第二，藏着一家新影视公司的野心",
@@ -30006,7 +30036,7 @@
       "调研",
       "市场"
     ],
-    "score": 23.96,
+    "score": 23.95,
     "id": "f3c67c09739032de",
     "first_seen": "2026-10-04"
   },
@@ -30046,7 +30076,7 @@
     "tags": [
       "部署"
     ],
-    "score": 34.67,
+    "score": 34.66,
     "id": "61e168a82edd2448",
     "first_seen": "2026-10-04"
   },
@@ -30086,7 +30116,7 @@
     "tags": [
       "open source"
     ],
-    "score": 11.34,
+    "score": 11.33,
     "id": "2f978f3dea828fc4",
     "first_seen": "2026-10-04"
   },
@@ -30106,7 +30136,7 @@
     "tags": [
       "future"
     ],
-    "score": 50.5,
+    "score": 50.49,
     "id": "5005c3abb8cb9e6f",
     "first_seen": "2026-10-04"
   },
@@ -30124,7 +30154,7 @@
     "extra": "今日 +85 · TypeScript",
     "category": "tools",
     "tags": [],
-    "score": 46.77,
+    "score": 46.76,
     "id": "f32aeccc0a1e1c0b",
     "first_seen": "2026-10-04"
   },
@@ -30145,7 +30175,7 @@
       "course",
       "github"
     ],
-    "score": 48.78,
+    "score": 48.77,
     "id": "ee7c12da1aa16cb9",
     "first_seen": "2026-10-04"
   }

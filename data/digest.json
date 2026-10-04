@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-03",
-  "summary": "今天的内容集中在可落地的影像工作流：剪辑端有「动剪前先选片」的方法与中文 AI B-roll 复刻实操，导演端讲构图逻辑、景别叙事和长片角色一致性，分镜端给出可照做的逐镜表流程。AI 创作侧聚焦去掉画面「AI 味」的提示词修法与提示词进阶路径。中文内容优先，整体适合按流程逐条动手练。",
+  "date": "2026-10-04",
+  "summary": "今天的内容主线很清楚：把 AI 当创作工具而不是许愿池——从提示词的构图逻辑、镜头移动与景别设计，到剪辑里的 B-roll 复刻、调色和「在提示词内完成剪辑」。同时有一条可复用的分镜工作流和一条把 Claude Code 变成执行助理的实操思路，适合按顺序跟着练。",
   "picks": [
-    {
-      "title": "让 AI 做好 B-roll，我决定先从复刻开始",
-      "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "中文实战：用「先复刻再创作」的思路拆解优秀 B-roll，让 AI 空镜真正贴合剪辑节奏。",
-      "id": "524c8e0e12c5dce6"
-    },
-    {
-      "title": "Picking a Top 10 from a long recording: a selection method before you open any editor",
-      "url": "https://medium.com/@hello_43044/picking-a-top-10-from-a-long-recording-a-selection-method-before-you-open-any-editor-e10cff7fedb3?source=rss------video_editing-5",
-      "why": "动剪刀前先定选片标准，长素材里挑 Top 10 的判断方法可直接套用到自己项目。",
-      "id": "8c6dbd168b154da0"
-    },
-    {
-      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
-      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "把剪辑决策写进提示词，在生成阶段就完成节奏与转场设计，而非后期补救。",
-      "id": "7cbb408ba5ddf5f0"
-    },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文提示词思维课：别用加法堆形容词，用构图逻辑驱动画面更有效。",
+      "why": "讲清提示词不是堆关键词，先定构图逻辑再写描述，能直接改掉「加法思维」的坏习惯。",
       "id": "9acc46cbdeb37daa"
+    },
+    {
+      "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
+      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
+      "why": "AI 电影课第 3 天专讲运镜，把推拉摇移拆成可下指令的动作，边看边试即可上手。",
+      "id": "16df762f58b5b891"
     },
     {
       "title": "Framing the Narrative: Mastering Shot Sizes in AI Filmmaking",
       "url": "https://medium.com/@bloggerswit_41630/framing-the-narrative-mastering-shot-sizes-in-ai-filmmaking-3268ba9915e1?source=rss------cinematography-5",
-      "why": "景别怎么选、怎么排，讲清 AI 影片里用景别叙事的导演基本功。",
+      "why": "系统梳理景别如何服务叙事，解决 AI 生成镜头总是「中景到底」的问题。",
       "id": "0587ca71848e541b"
     },
     {
-      "title": "How to Keep Characters Consistent in Longer AI Videos (OpenArt Director)",
-      "url": "https://medium.com/@Authority_Edge/how-to-keep-characters-consistent-in-longer-ai-videos-openart-director-bb278df7e16e?source=rss------ai_video-5",
-      "why": "针对长片 AI 视频的角色一致性方案，解决多镜头之间人物跑脸的问题。",
-      "id": "1c99bdc3627a9f3d"
+      "title": "让 AI 做好 B-roll，我决定先从复刻开始",
+      "url": "https://www.woshipm.com/ai/6470298.html",
+      "why": "中文实操：用「复刻」的方式让 AI 生成能用的 B-roll，思路比结果更值得抄。",
+      "id": "524c8e0e12c5dce6"
+    },
+    {
+      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
+      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
+      "why": "提出「在提示词里完成剪辑」的工作方式，帮你在生成阶段就控制节奏与镜头衔接。",
+      "id": "7cbb408ba5ddf5f0"
+    },
+    {
+      "title": "Primetime and Color Grading in modern film",
+      "url": "https://medium.com/@macadamianut25/primetime-and-color-grading-in-modern-film-b2cfdaa1e823?source=rss------filmmaking-5",
+      "why": "从电影工业的调色与时段感入手，补上 AI 视频最容易被忽略的影调环节。",
+      "id": "c4b9d534faccd63d"
+    },
+    {
+      "title": "Opus 5.5 Video Prompts That Escape the Default Look",
+      "url": "https://medium.com/@jonathaneverleigh/opus-5-5-video-prompts-that-escape-the-default-look-55a1d018ac46?source=rss------prompt_engineering-5",
+      "why": "针对视频提示词给出的写法，专门用来摆脱 AI 生成的千篇一律默认质感。",
+      "id": "ad9bc045885a1fa4"
+    },
+    {
+      "title": "Remotion + Claude Code: Type a Sentence, Get a Video",
+      "url": "https://medium.com/@heyambujsingh/remotion-claude-code-type-a-sentence-get-a-video-17927f45e55d?source=rss------generative_ai-5",
+      "why": "Remotion + Claude Code 一句话出片的流程，是把 AI 接进真实剪辑管线的参考样本。",
+      "id": "92e8b6f9faf01467"
     },
     {
       "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
       "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "从概念到逐镜表，Seedance 2.5 的分镜工作流可以照着做一遍。",
+      "why": "从一句概念拆到逐镜方案的完整分镜工作流，可直接套用到自己的项目上。",
       "id": "6f5f39903e351a2c"
     },
     {
-      "title": "How to Make AI Images Look Real: 6 Prompt Fixes That Kill the AI Look",
-      "url": "https://medium.com/@tumi428/how-to-make-ai-images-look-real-6-prompt-fixes-that-kill-the-ai-look-bd656ff280d9?source=rss------prompt_engineering-5",
-      "why": "六个提示词修正点，专门用来去掉图像那股一眼假的「AI 味」。",
-      "id": "6b2f7af00dd4f5a1"
-    },
-    {
-      "title": "Mastering the Prompt: From Basic Text to Autonomous AI Agents",
-      "url": "https://medium.com/@koushanichoudhuryarmy/mastering-the-prompt-from-basic-text-to-autonomous-ai-agents-d1067b9fd2dd?source=rss------prompt_engineering-5",
-      "why": "提示词进阶路径：从基础文本一路写到能自主执行的 Agent 提示。",
-      "id": "186988271d9b97cd"
-    },
-    {
-      "title": "How to Make a Song with AI from One Sentence: A Suno and Udio Alternative",
-      "url": "https://rimlauf.medium.com/how-to-make-a-song-with-ai-from-one-sentence-a-suno-and-udio-alternative-b3fbf4db0099?source=rss------generative_ai-5",
-      "why": "一句话生成整首歌的实操流程，顺带了解 Suno/Udio 之外的替代玩法。",
-      "id": "a02710c796111dc5"
+      "title": "Claude Code is a great engineer. Here is how to make it your Chief of Staff.",
+      "url": "https://dev.to/backshift/claude-code-is-a-great-engineer-here-is-how-to-make-it-your-chief-of-staff-36m6",
+      "why": "把 Claude Code 从写代码工具变成项目执行助理的方法论，适合作为学习与协作流程模板。",
+      "id": "99c4c56e95e14c22"
     }
   ]
 }
