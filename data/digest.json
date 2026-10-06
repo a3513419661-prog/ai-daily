@@ -1,72 +1,66 @@
 {
-  "date": "2026-10-05",
-  "summary": "今天的内容主线是「把 AI 当成可控的创作工具」：剪辑侧从复刻 B-roll 和在提示词里完成剪辑，到用 MCP 把改图流程自动化；导演侧讲构图先于堆词、机位运动与「有动机的光」；分镜侧给出从概念到逐镜表的可执行工作流。整体可直接照做的实操占比高，适合按「先搭结构、再调细节」的顺序练习。",
+  "date": "2026-10-06",
+  "summary": "今天的重点在“能直接上手的流程”：剪辑侧有 DaVinci 里给不同模型生成的 AI 素材做统一调色，以及用“复刻”法喂出可用的 AI B-roll；导演侧讲清构图逻辑、动机光与运镜三个最容易被提示词糊弄过去的环节。分镜与提示词管理各有一篇偏实操的方法论，适合今天边看边改自己的工程文件。",
   "picks": [
+    {
+      "title": "Grading AI Footage in DaVinci Resolve: Fixing Mismatched Shots From Different Models",
+      "url": "https://medium.com/@info_13818/grading-ai-footage-in-davinci-resolve-fixing-mismatched-shots-from-different-models-5c1322f17c8d?source=rss------video_production-5",
+      "why": "手把手教你在 DaVinci 里把不同模型生成的镜头调成同一套色彩，AI 剪辑最刚需的收尾技能。",
+      "id": "d741eb8aa2ab9fac"
+    },
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "用「复刻优秀 B-roll」当训练法，把节奏、景别和信息量拆开练，是上手 AI 素材剪辑最笨也最快的路。",
+      "why": "中文实操：先复刻参考片再谈原创，是让 AI 生成可用 B-roll 最快的上手路径。",
       "id": "524c8e0e12c5dce6"
     },
     {
       "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "讲清在提示词阶段就完成剪辑决策（镜头顺序、时长感、转场动机），减少后期返工。",
+      "why": "把剪辑思维前移到提示词里，讲清“在提示词内完成剪辑”的具体做法。",
       "id": "7cbb408ba5ddf5f0"
-    },
-    {
-      "title": "How to Use NanoBanana MCP in Cursor for Practical Image Editing Workflows",
-      "url": "https://dev.to/germey/how-to-use-nanobanana-mcp-in-cursor-for-practical-image-editing-workflows-3fdc",
-      "why": "NanoBanana MCP 接进 Cursor 的实战改图流程，可直接抄成批量修图/去瑕疵的自动化管线。",
-      "id": "0604594bc7f21052"
     },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "提醒别用加法堆提示词，先定构图逻辑再描述内容，是画面质量提升性价比最高的一步。",
+      "why": "中文作者点破提示词加法误区，用构图逻辑替代堆砌形容词，直接可套用。",
       "id": "9acc46cbdeb37daa"
-    },
-    {
-      "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
-      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
-      "why": "专门讲 AI 视频里的机位运动，推、摇、跟、升降各自该在什么叙事节点用，可直接套进分镜。",
-      "id": "16df762f58b5b891"
     },
     {
       "title": "Stop Prompting “Cinematic Lighting”: The Motivated Light Strategy",
       "url": "https://medium.com/@bloggerswit_41630/stop-prompting-cinematic-lighting-the-motivated-light-strategy-1a7a77d34d49?source=rss------filmmaking-5",
-      "why": "用「有动机的光」替代空泛的 cinematic lighting，让光影服务剧情而不是只做质感。",
+      "why": "别再写 cinematic lighting，用动机光思维描述光源来由，画面立刻有叙事感。",
       "id": "3a2ab20caaf7dd3d"
+    },
+    {
+      "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
+      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
+      "why": "AI 电影系列里最实用的一课，把推拉摇移拆成可被模型理解的运镜指令。",
+      "id": "16df762f58b5b891"
+    },
+    {
+      "title": "How to Keep an AI Style Library From Becoming a Prompt Graveyard",
+      "url": "https://medium.com/chatgpt-beyond/how-to-keep-an-ai-style-library-from-becoming-a-prompt-graveyard-86ef76709c8a?source=rss------ai_art-5",
+      "why": "教你把风格库维护成活的工作流，而不是越攒越乱的提示词坟场。",
+      "id": "29cad01ebd77014f"
+    },
+    {
+      "title": "Every Prompt Rule We Added Made Our LLM Agent Worse",
+      "url": "https://levelup.gitconnected.com/every-prompt-rule-we-added-made-our-llm-agent-worse-da8c51093bcb?source=rss------prompt_engineering-5",
+      "why": "反直觉经验：每条新增的提示词规则都可能让 Agent 变差，值得对照自己的提示词做减法。",
+      "id": "59776069229b5f8d"
     },
     {
       "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
       "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "给出从概念到逐镜表的完整 Seedance 分镜流程，适合当作自己工作流的模板改造。",
+      "why": "Seedance 2.5 的逐镜规划流程，从一句概念落到可执行的分镜表，可直接照搬。",
       "id": "6f5f39903e351a2c"
     },
     {
-      "title": "A Product Video Shot List: Turn Features Into Actions",
-      "url": "https://medium.com/@shotmodo/a-product-video-shot-list-turn-features-into-actions-8ba5bb354bd4?source=rss------video_production-5",
-      "why": "把产品功能翻译成动作的镜头清单法，拍产品/短剧前写 shot list 的实用范例。",
-      "id": "9e3f88b1a84f3042"
-    },
-    {
-      "title": "Prompting Loops: The Practical Guide to Reliable AI Outputs",
-      "url": "https://medium.com/ai-simplified-in-plain-english/prompting-loops-the-practical-guide-to-reliable-ai-outputs-9e3051991588?source=rss------prompt_engineering-5",
-      "why": "Prompting Loops 讲的是让输出稳定可复现的循环式提问法，比一次性长提示词更靠谱。",
-      "id": "f8b0b8660a47e36b"
-    },
-    {
-      "title": "Stop Blaming the Model: The 4-Step Prompt Upgrade Engine for Sky-High Output",
-      "url": "https://medium.com/data-science-collective/stop-blaming-the-model-the-4-step-prompt-upgrade-engine-for-sky-high-output-caf2715cd474?source=rss------prompt_engineering-5",
-      "why": "四步提示词升级引擎，遇到烂结果先改提示结构而不是换模型，省时省钱。",
-      "id": "e1cbc4727b30d6e5"
-    },
-    {
-      "title": "Create an AI Dubbing Tool for Video Content",
-      "url": "https://dev.to/voice_developer/create-an-ai-dubbing-tool-for-video-content-4g9j",
-      "why": "手把手做一个视频 AI 配音工具，想给成片加多语配音或出海版本的可以直接动手。",
-      "id": "3a261acd30dabaec"
+      "title": "How to Make Longer AI Videos with Gemini Omni Flash Extend",
+      "url": "https://medium.com/alex-tucker-digital/how-to-make-longer-ai-videos-with-gemini-omni-flash-extend-955b6caf9c05?source=rss------ai_video-5",
+      "why": "用 Gemini Omni Flash 的 Extend 做更长 AI 视频的具体操作，解决时长不够的老问题。",
+      "id": "b65df974e1ecc0a1"
     }
   ]
 }
