@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-06",
-  "summary": "今天的重点在“能直接上手的流程”：剪辑侧有 DaVinci 里给不同模型生成的 AI 素材做统一调色，以及用“复刻”法喂出可用的 AI B-roll；导演侧讲清构图逻辑、动机光与运镜三个最容易被提示词糊弄过去的环节。分镜与提示词管理各有一篇偏实操的方法论，适合今天边看边改自己的工程文件。",
+  "date": "2026-10-07",
+  "summary": "今天的内容集中在「用提示词驱动镜头」这条主线上：从构图逻辑、景别选择到运镜，把导演语言翻译成可复用的提示词写法；剪辑侧有中文 B-roll 复刻实操和用 Claude Code 一条提示词跑完全片流程的案例；分镜和 AI 绘画则补上了 Storyboard 工作流与画面纵深的做法。整体偏实操，适合边看边动手试。",
   "picks": [
-    {
-      "title": "Grading AI Footage in DaVinci Resolve: Fixing Mismatched Shots From Different Models",
-      "url": "https://medium.com/@info_13818/grading-ai-footage-in-davinci-resolve-fixing-mismatched-shots-from-different-models-5c1322f17c8d?source=rss------video_production-5",
-      "why": "手把手教你在 DaVinci 里把不同模型生成的镜头调成同一套色彩，AI 剪辑最刚需的收尾技能。",
-      "id": "d741eb8aa2ab9fac"
-    },
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "中文实操：先复刻参考片再谈原创，是让 AI 生成可用 B-roll 最快的上手路径。",
+      "why": "中文实操：从复刻现成片子入手，一步步把 AI B-roll 做到能剪进成片的质感。",
       "id": "524c8e0e12c5dce6"
     },
     {
-      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
-      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "把剪辑思维前移到提示词里，讲清“在提示词内完成剪辑”的具体做法。",
-      "id": "7cbb408ba5ddf5f0"
+      "title": "No Editing Software, One Prompt: Producing a Full Video Entirely Through Claude Code",
+      "url": "https://medium.com/ai-mindset/no-editing-software-one-prompt-producing-a-full-video-entirely-through-claude-code-41a070622e26?source=rss------video_production-5",
+      "why": "不开剪辑软件、只用一条提示词走完整个视频生产流程，值得拆解它的分工与提示词结构。",
+      "id": "735cc3fd90179fab"
     },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文作者点破提示词加法误区，用构图逻辑替代堆砌形容词，直接可套用。",
+      "why": "中文干货：写提示词别堆元素做加法，先定构图逻辑，画面才立得住。",
       "id": "9acc46cbdeb37daa"
     },
     {
-      "title": "Stop Prompting “Cinematic Lighting”: The Motivated Light Strategy",
-      "url": "https://medium.com/@bloggerswit_41630/stop-prompting-cinematic-lighting-the-motivated-light-strategy-1a7a77d34d49?source=rss------filmmaking-5",
-      "why": "别再写 cinematic lighting，用动机光思维描述光源来由，画面立刻有叙事感。",
-      "id": "3a2ab20caaf7dd3d"
+      "title": "Framing the Narrative: Mastering Shot Sizes in AI Filmmaking",
+      "url": "https://medium.com/@bloggerswit_41630/framing-the-narrative-mastering-shot-sizes-in-ai-filmmaking-3268ba9915e1?source=rss------cinematography-5",
+      "why": "系统讲景别在 AI 影片里的叙事作用，可直接转成景别提示词清单。",
+      "id": "0587ca71848e541b"
     },
     {
       "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
-      "why": "AI 电影系列里最实用的一课，把推拉摇移拆成可被模型理解的运镜指令。",
+      "why": "AI 电影学习系列第 3 天专讲运镜，把推拉摇移落到具体提示词写法。",
       "id": "16df762f58b5b891"
     },
     {
-      "title": "How to Keep an AI Style Library From Becoming a Prompt Graveyard",
-      "url": "https://medium.com/chatgpt-beyond/how-to-keep-an-ai-style-library-from-becoming-a-prompt-graveyard-86ef76709c8a?source=rss------ai_art-5",
-      "why": "教你把风格库维护成活的工作流，而不是越攒越乱的提示词坟场。",
-      "id": "29cad01ebd77014f"
+      "title": "Stop Telling Claude to “Think Carefully”: A Better Way to Prompt Opus 5.5",
+      "url": "https://medium.com/@highsongs2020/stop-telling-claude-to-think-carefully-a-better-way-to-prompt-opus-5-5-a32b82091545?source=rss------prompt_engineering-5",
+      "why": "别再写「仔细想想」，这篇给出更有效的推理型提示词写法，马上能改自己的工作流。",
+      "id": "2549b0984d6f6e6a"
     },
     {
-      "title": "Every Prompt Rule We Added Made Our LLM Agent Worse",
-      "url": "https://levelup.gitconnected.com/every-prompt-rule-we-added-made-our-llm-agent-worse-da8c51093bcb?source=rss------prompt_engineering-5",
-      "why": "反直觉经验：每条新增的提示词规则都可能让 Agent 变差，值得对照自己的提示词做减法。",
-      "id": "59776069229b5f8d"
+      "title": "Stop Guessing: Why Smart AI Users Are Switching to Evolutionary Prompt Engineering",
+      "url": "https://medium.com/@nileshmshirke/stop-guessing-why-smart-ai-users-are-switching-to-evolutionary-prompt-engineering-389ca421569b?source=rss------prompt_engineering-5",
+      "why": "把提示词当迭代进化来打磨的方法论，适合长期做系列的创作者。",
+      "id": "ed2002f695cbfbc8"
     },
     {
       "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
       "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "Seedance 2.5 的逐镜规划流程，从一句概念落到可执行的分镜表，可直接照搬。",
+      "why": "Seedance 2.5 的分镜工作流：从一句概念拆到逐镜头的拍摄计划。",
       "id": "6f5f39903e351a2c"
     },
     {
-      "title": "How to Make Longer AI Videos with Gemini Omni Flash Extend",
-      "url": "https://medium.com/alex-tucker-digital/how-to-make-longer-ai-videos-with-gemini-omni-flash-extend-955b6caf9c05?source=rss------ai_video-5",
-      "why": "用 Gemini Omni Flash 的 Extend 做更长 AI 视频的具体操作，解决时长不够的老问题。",
-      "id": "b65df974e1ecc0a1"
+      "title": "Make a 20-second animatic from inside your AI chat with one MCP connector",
+      "url": "https://dev.to/kleoai/make-a-20-second-animatic-from-inside-your-ai-chat-with-one-mcp-connector-52kd",
+      "why": "在 AI 对话里用一个 MCP 连接器直接生成 20 秒 animatic，做动态分镜很省事。",
+      "id": "88bce4f01a5b8460"
+    },
+    {
+      "title": "How to Create Depth in AI Art Without Blurring Everything",
+      "url": "https://medium.com/tanda-ai-art-library/how-to-create-depth-in-ai-art-without-blurring-everything-0455d321de9b?source=rss------generative_ai-5",
+      "why": "讲怎么在不糊掉整张画面的前提下做出空间纵深，AI 出图的通用基本功。",
+      "id": "78bea583831c22de"
     }
   ]
 }
