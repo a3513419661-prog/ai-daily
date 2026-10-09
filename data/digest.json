@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-08",
-  "summary": "今天的学习重点集中在两条线上：一是用分镜、镜头运动和景别把 AI 视频从“能生成”推进到“会讲故事”，二是剪辑侧的品牌级实操与 B-roll 复刻方法。提示词方面也有可直接套用的措辞技巧，适合马上拿去改自己的提示词。",
+  "date": "2026-10-09",
+  "summary": "今天最值得学的是「先想清楚再生成」这条主线：从构图逻辑、动机光、镜头移动这些导演语言入手，再把它翻译成 AI 提示词与分镜表，AI B-roll 的复刻练习和提示词避坑清单则负责把画面落到成品。剪辑侧重点在提示词内完成剪辑决策，以及用分镜/镜头清单前置减少返工。",
   "picks": [
-    {
-      "title": "Brandon Li on The Silent Witness: How Editing and Directing Became One Creative Vision",
-      "url": "https://kkingme2003-99752.medium.com/brandon-li-on-the-silent-witness-how-editing-and-directing-became-one-creative-vision-3d7051a3cf14?source=rss------film_making-5",
-      "why": "Brandon Li 亲自拆解剪辑与导演如何融为一体，是难得的成片级节奏与叙事视角参考。",
-      "id": "7b0bb114e91a8c0a"
-    },
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "中文实操：从“复刻”入手把 AI B-roll 做到可用，思路可直接迁移到自己的素材流程。",
+      "why": "中文实操：用「复刻」拆解 AI B-roll 的镜头构成与质感，是可立即照做的练习法。",
       "id": "524c8e0e12c5dce6"
     },
     {
       "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "把剪辑思维前移到提示词里写，讲清 AI 影像中“剪辑在提示词内完成”的具体做法。",
+      "why": "把剪辑判断写进提示词里，讲清 AI 影像里「剪辑思维前置」的具体做法。",
       "id": "7cbb408ba5ddf5f0"
     },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文干货：别用加法思维堆提示词，先解决构图逻辑，画面对了再谈细节。",
+      "why": "中文干货：提示词别做加法堆砌，先定构图逻辑，画面才有主次与视点。",
       "id": "9acc46cbdeb37daa"
+    },
+    {
+      "title": "Stop Prompting “Cinematic Lighting”: The Motivated Light Strategy",
+      "url": "https://medium.com/@bloggerswit_41630/stop-prompting-cinematic-lighting-the-motivated-light-strategy-1a7a77d34d49?source=rss------filmmaking-5",
+      "why": "用动机光替代万能的「cinematic lighting」，让光线有来源、有叙事理由。",
+      "id": "3a2ab20caaf7dd3d"
     },
     {
       "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
-      "why": "AI 电影课第 3 天专讲运镜，把“镜头怎么动”拆成可执行的提示与调度方法。",
+      "why": "AI 电影课第 3 天专讲镜头运动，把推拉摇移变成可执行的提示词动作。",
       "id": "16df762f58b5b891"
     },
     {
-      "title": "Framing the Narrative: Mastering Shot Sizes in AI Filmmaking",
-      "url": "https://medium.com/@bloggerswit_41630/framing-the-narrative-mastering-shot-sizes-in-ai-filmmaking-3268ba9915e1?source=rss------cinematography-5",
-      "why": "系统梳理景别如何服务叙事，补上 AI 创作里最容易被忽略的镜头语言基础。",
-      "id": "0587ca71848e541b"
+      "title": "10 Things You Keep Typing Into ChatGPT That Guarantee a Generic Answer",
+      "url": "https://medium.com/ai-tomorrow/10-things-you-keep-typing-into-chatgpt-that-guarantee-a-generic-answer-894f000c406d?source=rss------prompt_engineering-5",
+      "why": "列出十种必然得到平庸回答的提问方式，是提示词自查清单。",
+      "id": "ccd2d3bf6d64f893"
+    },
+    {
+      "title": "Codex + 可视化大屏工作流实践：15 个行业场景的设计产出合集",
+      "url": "https://juejin.cn/post/7694150823396163625",
+      "why": "中文实践：Codex 配合可视化产出的完整工作流，15 个场景可直接借鉴结构。",
+      "id": "cc0a974675cce3d1"
+    },
+    {
+      "title": "How to Write a Shot List for an AI Video Model",
+      "url": "https://medium.com/@hytonexu/how-to-write-a-shot-list-for-an-ai-video-model-7e0cc67565b5?source=rss------ai_video-5",
+      "why": "教你把想法写成 AI 视频模型能用的镜头清单，是分镜到生成的关键一环。",
+      "id": "f08d2875189be053"
     },
     {
       "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
       "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "Seedance 2.5 分镜工作流，演示从一句概念拆成逐镜方案，可直接当作分镜模板。",
+      "why": "Seedance 2.5 分镜工作流，从概念拆到逐镜头的可执行方案。",
       "id": "6f5f39903e351a2c"
     },
     {
-      "title": "12 Claude & ChatGPT Power Words That Turn Any Topic Into Stunning Visuals",
-      "url": "https://medium.com/lets-code-future/12-claude-chatgpt-power-words-that-turn-any-topic-into-stunning-visuals-64a9d6759008?source=rss------prompt_engineering-5",
-      "why": "12 个能把普通主题变成画面的高能措辞，拿来替换自己提示词里的形容词即可。",
-      "id": "326b6a479330af71"
-    },
-    {
-      "title": "The Exact Prompt Lines I Use So ChatGPT Stops Making Things Up",
-      "url": "https://medium.com/@robert.j.breen/the-exact-prompt-lines-i-use-so-chatgpt-stops-making-things-up-0afdf473a678?source=rss------prompt_engineering-5",
-      "why": "作者给出去掉模型胡编的具体提示句，适合立刻用来收紧脚本与设定类提问。",
-      "id": "30aa1c17906bd080"
-    },
-    {
-      "title": "My Voice Agent Replied in 8 Seconds. Two Settings, Not the Model.",
-      "url": "https://dev.to/kenmazaika/my-voice-agent-replied-in-8-seconds-two-settings-not-the-model-485e",
-      "why": "语音助手 8 秒延迟其实不是模型问题，两个设置就能提速，排查思路值得借用。",
-      "id": "6316cf6105056100"
+      "title": "How to Write AI Video Prompts for Luxury Products (Without the Chaos)",
+      "url": "https://medium.com/@a1329164747/how-to-write-ai-video-prompts-for-luxury-products-without-the-chaos-23b3759063fd?source=rss------video_production-5",
+      "why": "奢侈品 AI 视频提示词写法，控制材质、光感与节奏，避免生成失控。",
+      "id": "16143180a7c9d0e9"
     }
   ]
 }
