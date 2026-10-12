@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-10",
-  "summary": "今天最值得学的是「把镜头语言写进提示词」这条主线：构图逻辑、运镜、动机光、镜头尺寸与角度，都有可照做的拆解。辅以 B-roll 复刻、AI 对白、提示词模板、分镜到镜头清单的实操工作流，以及一条 Google Flow 入门教程。剪辑与导演各有多条可直接跟练，适合边看边做。",
+  "date": "2026-10-12",
+  "summary": "今天的内容主线是「提示词即导演」：用构图逻辑、动机光和镜头运动替代形容词堆砌。剪辑端有三条可直接照搬的实操线——AI B-roll 复刻、AE 无关键帧批处理、在提示词内完成剪辑。分镜与长视频延展则给出可执行的镜头表和单片段拉长流程。",
   "picks": [
-    {
-      "title": "不要用加法思维写提示词，构图逻辑更重要",
-      "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文实操：讲清提示词里构图逻辑优先于堆砌元素，AI 出图/出片最该先补的一课。",
-      "id": "9acc46cbdeb37daa"
-    },
-    {
-      "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
-      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
-      "why": "AI 电影系列第 3 课专讲运镜，把「动起来」拆成可复用的镜头指令。",
-      "id": "16df762f58b5b891"
-    },
-    {
-      "title": "Stop Prompting “Cinematic Lighting”: The Motivated Light Strategy",
-      "url": "https://medium.com/@bloggerswit_41630/stop-prompting-cinematic-lighting-the-motivated-light-strategy-1a7a77d34d49?source=rss------filmmaking-5",
-      "why": "别再写「cinematic lighting」，动机光策略让光线有来源、有叙事理由。",
-      "id": "3a2ab20caaf7dd3d"
-    },
-    {
-      "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
-      "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "按真实摄影意图搭 AI 镜头清单：景别、角度、运动一次讲全。",
-      "id": "c0ce3898519a2a2c"
-    },
-    {
-      "title": "Script to Storyboard in Minutes: A 7-Step AI Workflow Your Crew Can Actually Shoot From",
-      "url": "https://studiovity.medium.com/script-to-storyboard-in-minutes-a-7-step-ai-workflow-your-crew-can-actually-shoot-from-85a55d5b5ff0?source=rss------filmmaking-5",
-      "why": "剧本到分镜的 7 步 AI 工作流，产出的是剧组真能照着拍的东西。",
-      "id": "847a1d628889da53"
-    },
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "中文复盘：用「复刻」的方法把 AI B-roll 做稳，思路可直接搬用。",
+      "why": "中文实操，用「复刻」拆解 AI B-roll 的取镜与节奏，比谈审美更可复制。",
       "id": "524c8e0e12c5dce6"
+    },
+    {
+      "title": "I Animated 3,000 Files in After Effects with ZERO Keyframes",
+      "url": "https://medium.com/@mdmontaha2019/i-animated-3-000-files-in-after-effects-with-zero-keyframes-8f7fc3234faa?source=rss------motion_design-5",
+      "why": "在 AE 里用零关键帧批量动画 3000 个文件，是能直接偷的效率技巧。",
+      "id": "e6b11c17ee912ee0"
     },
     {
       "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "把剪辑判断前置到提示词阶段，换个角度理解 AI 剪辑流程。",
+      "why": "把剪辑决策写进提示词，是 AI 影像「提示词内剪辑」的入门一课。",
       "id": "7cbb408ba5ddf5f0"
     },
     {
-      "title": "How to Use an AI Image Prompt Template Without Filling Every Blank",
-      "url": "https://medium.com/chatgpt-beyond/how-to-use-an-ai-image-prompt-template-without-filling-every-blank-248c8077791d?source=rss------ai_art-5",
-      "why": "提示词模板不必填满每个空，讲清了哪些空格该留白、哪些必须写。",
-      "id": "6a164e20ec684dd1"
+      "title": "不要用加法思维写提示词，构图逻辑更重要",
+      "url": "https://www.digitaling.com/articles/1582727.html",
+      "why": "中文，讲构图逻辑替代加法式提示词，最能立刻改写自己的写法。",
+      "id": "9acc46cbdeb37daa"
     },
     {
-      "title": "Making AI Dialogue Sound Like Someone Is Actually Talking",
-      "url": "https://medium.com/@hytonexu/making-ai-dialogue-sound-like-someone-is-actually-talking-8e89eec1d635?source=rss------ai_video-5",
-      "why": "让 AI 对白听起来像真人在说话，短剧与配音环节立刻能用。",
-      "id": "1dc20c95eed53b48"
+      "title": "Stop Prompting “Cinematic Lighting”: The Motivated Light Strategy",
+      "url": "https://medium.com/@bloggerswit_41630/stop-prompting-cinematic-lighting-the-motivated-light-strategy-1a7a77d34d49?source=rss------filmmaking-5",
+      "why": "用「动机光」取代万能的 cinematic lighting，让光线有叙事依据。",
+      "id": "3a2ab20caaf7dd3d"
     },
     {
-      "title": "Flow AI Video: How to Make Your First Video With Google Flow (Free Guide for 2026)",
-      "url": "https://medium.com/@Danielwoze/flow-ai-video-how-to-make-your-first-video-with-google-flow-free-guide-for-2026-bd0c035efdc6?source=rss------ai_video-5",
-      "why": "Google Flow 零基础出片指南，适合当作 AI 视频工作流的第一站。",
-      "id": "0e372a3a0efca8d2"
+      "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
+      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
+      "why": "AI 电影课第 3 天，专讲怎么在提示词里调度摄影机运动。",
+      "id": "16df762f58b5b891"
+    },
+    {
+      "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
+      "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
+      "why": "按真实镜头意图（景别/角度/运动）搭 AI shot list，可直接套用。",
+      "id": "c0ce3898519a2a2c"
+    },
+    {
+      "title": "From 30 Seconds to 3 Minutes: How I Extend a Single AI Video Generation into a Longer Sequence",
+      "url": "https://dev.to/henry_jin_a3907f08d5b371e/from-30-seconds-to-3-minutes-how-i-extend-a-single-ai-video-generation-into-a-longer-sequence-2ec",
+      "why": "把单次生成的 30 秒延展成 3 分钟，正面解决 AI 视频最痛的时长问题。",
+      "id": "bcee53120053ad68"
+    },
+    {
+      "title": "Negative Prompts for Anime AI Art: What Actually Helps with Tsubaki.3?",
+      "url": "https://medium.com/@merl98509/negative-prompts-for-anime-ai-art-what-actually-helps-with-tsubaki-3-f6922d4dfbfa?source=rss------ai_art-5",
+      "why": "负面提示词到底哪些有用，给动漫风格 AI 出图做一次减法。",
+      "id": "70e681175ecaeebb"
+    },
+    {
+      "title": "Students Use AI as a Cheat Sheet. 9 Prompts That Turn It Into a Tutor Instead.",
+      "url": "https://sarathm09.medium.com/students-use-ai-as-a-cheat-sheet-9-prompts-that-turn-it-into-a-tutor-instead-4612ccc44022?source=rss------prompt_engineering-5",
+      "why": "9 个提示词把 AI 从作弊工具变成私人导师，学习场景可直接复用。",
+      "id": "77b2bc499cd8a5da"
     }
   ]
 }
