@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-12",
-  "summary": "今天的内容主线是「提示词即导演」：用构图逻辑、动机光和镜头运动替代形容词堆砌。剪辑端有三条可直接照搬的实操线——AI B-roll 复刻、AE 无关键帧批处理、在提示词内完成剪辑。分镜与长视频延展则给出可执行的镜头表和单片段拉长流程。",
+  "date": "2026-10-13",
+  "summary": "今天的内容主线是「把 AI 生成拉回电影语法」：先用构图和镜头运动意图写好提示词，再把它落成分镜与镜头表；剪辑侧则聚焦 AI B-roll 的复刻方法、提示词内的剪辑节奏和成片片段的重剪优化。另有提示词工程进阶与「让不可能的场景显得物理真实」两篇，适合作为工作流的底层补课。",
   "picks": [
-    {
-      "title": "让 AI 做好 B-roll，我决定先从复刻开始",
-      "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "中文实操，用「复刻」拆解 AI B-roll 的取镜与节奏，比谈审美更可复制。",
-      "id": "524c8e0e12c5dce6"
-    },
-    {
-      "title": "I Animated 3,000 Files in After Effects with ZERO Keyframes",
-      "url": "https://medium.com/@mdmontaha2019/i-animated-3-000-files-in-after-effects-with-zero-keyframes-8f7fc3234faa?source=rss------motion_design-5",
-      "why": "在 AE 里用零关键帧批量动画 3000 个文件，是能直接偷的效率技巧。",
-      "id": "e6b11c17ee912ee0"
-    },
-    {
-      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
-      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "把剪辑决策写进提示词，是 AI 影像「提示词内剪辑」的入门一课。",
-      "id": "7cbb408ba5ddf5f0"
-    },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文，讲构图逻辑替代加法式提示词，最能立刻改写自己的写法。",
+      "why": "中文实操：用构图逻辑而非堆词来写提示词，直接提升出片可控度。",
       "id": "9acc46cbdeb37daa"
-    },
-    {
-      "title": "Stop Prompting “Cinematic Lighting”: The Motivated Light Strategy",
-      "url": "https://medium.com/@bloggerswit_41630/stop-prompting-cinematic-lighting-the-motivated-light-strategy-1a7a77d34d49?source=rss------filmmaking-5",
-      "why": "用「动机光」取代万能的 cinematic lighting，让光线有叙事依据。",
-      "id": "3a2ab20caaf7dd3d"
     },
     {
       "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
-      "why": "AI 电影课第 3 天，专讲怎么在提示词里调度摄影机运动。",
+      "why": "AI 电影系列第 3 天专讲「让摄影机动起来」，把运镜变成提示词语言。",
       "id": "16df762f58b5b891"
+    },
+    {
+      "title": "Deconstructing Amélie: Complementary Color Theory, Wide-Angle Geometry, and Modern Whimsy",
+      "url": "https://medium.com/@walter.ckli/deconstructing-am%C3%A9lie-complementary-color-theory-wide-angle-geometry-and-modern-whimsy-61d3b336c825?source=rss------cinematography-5",
+      "why": "拆解《天使爱美丽》的互补色配色与广角几何，学可复用的色彩+镜头风格配方。",
+      "id": "78ca22c81942eb30"
     },
     {
       "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
       "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "按真实镜头意图（景别/角度/运动）搭 AI shot list，可直接套用。",
+      "why": "教你按真实摄影意图（景别/角度/运动）搭建 AI 镜头表，分镜到提示词一步到位。",
       "id": "c0ce3898519a2a2c"
     },
     {
-      "title": "From 30 Seconds to 3 Minutes: How I Extend a Single AI Video Generation into a Longer Sequence",
-      "url": "https://dev.to/henry_jin_a3907f08d5b371e/from-30-seconds-to-3-minutes-how-i-extend-a-single-ai-video-generation-into-a-longer-sequence-2ec",
-      "why": "把单次生成的 30 秒延展成 3 分钟，正面解决 AI 视频最痛的时长问题。",
-      "id": "bcee53120053ad68"
+      "title": "让 AI 做好 B-roll，我决定先从复刻开始",
+      "url": "https://www.woshipm.com/ai/6470298.html",
+      "why": "中文实操：从「复刻」入手做好 AI B-roll，给出可跟着做的拆解方法。",
+      "id": "524c8e0e12c5dce6"
     },
     {
-      "title": "Negative Prompts for Anime AI Art: What Actually Helps with Tsubaki.3?",
-      "url": "https://medium.com/@merl98509/negative-prompts-for-anime-ai-art-what-actually-helps-with-tsubaki-3-f6922d4dfbfa?source=rss------ai_art-5",
-      "why": "负面提示词到底哪些有用，给动漫风格 AI 出图做一次减法。",
-      "id": "70e681175ecaeebb"
+      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
+      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
+      "why": "把剪辑思维搬进提示词里，讲节奏与剪辑点如何在生成阶段就被控制。",
+      "id": "7cbb408ba5ddf5f0"
     },
     {
-      "title": "Students Use AI as a Cheat Sheet. 9 Prompts That Turn It Into a Tutor Instead.",
-      "url": "https://sarathm09.medium.com/students-use-ai-as-a-cheat-sheet-9-prompts-that-turn-it-into-a-tutor-instead-4612ccc44022?source=rss------prompt_engineering-5",
-      "why": "9 个提示词把 AI 从作弊工具变成私人导师，学习场景可直接复用。",
-      "id": "77b2bc499cd8a5da"
+      "title": "Why Your Podcast Clips Get Skipped and How to Edit Them Better",
+      "url": "https://medium.com/@unnatibamania8/why-your-podcast-clips-get-skipped-and-how-to-edit-them-better-773f3081f73d?source=rss------video_production-5",
+      "why": "播客切片为什么被划走——从节奏与剪辑点层面给出可直接改进的剪法。",
+      "id": "72ead908863a5625"
+    },
+    {
+      "title": "10 Advanced Prompt Engineering Techniques",
+      "url": "https://medium.com/@rasheedmasih791/10-advanced-prompt-engineering-techniques-8793c3b6723c?source=rss------prompt_engineering-5",
+      "why": "10 个进阶提示词技巧清单，适合逐条对照优化现有工作流。",
+      "id": "bc7c1d4f9eeba41e"
+    },
+    {
+      "title": "GEPA: The Next Evolution in Prompt Engineering — Let AI Optimize Its Own Prompts",
+      "url": "https://dharmarajdhanapal.medium.com/gepa-the-next-evolution-in-prompt-engineering-let-ai-optimize-its-own-prompts-e3cdc87ec828?source=rss------prompt_engineering-5",
+      "why": "GEPA 让 AI 自己迭代优化提示词，是值得试的提示词工程新范式。",
+      "id": "6e89c68581541fd5"
+    },
+    {
+      "title": "How to Make Impossible Scenes Feel Physically Real",
+      "url": "https://medium.com/prompt-odyssey/how-to-make-impossible-scenes-feel-physically-real-65bb4905a573?source=rss------ai_art-5",
+      "why": "讲「不可能的场面」如何做出物理真实感，对 AI 视频的可信度提升很实用。",
+      "id": "de0031fe856a2e7a"
     }
   ]
 }
