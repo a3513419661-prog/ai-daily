@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-14",
-  "summary": "今天的内容主线是「把镜头语言翻译成 AI 能执行的指令」：从构图逻辑、运镜、打光调色，到分镜与镜头清单的写法，都能直接迁移到 AI 视频工作流里。剪辑侧侧重提示词内部的节奏控制与免费全流程实践，另有把成品画面反推成可复用风格提示词的技巧。",
+  "date": "2026-10-16",
+  "summary": "今天的实操内容集中在三件事：用提示词控制构图与运镜（而不是堆形容词）、把脚本转成可执行的镜头表、以及把剪辑思路前置到生成环节。中文内容里，AI B-roll 的“复刻式”练法和“构图逻辑优先”的提示词写法最值得直接上手；英文侧则补足了镜头语言、分镜表和 AI 导演全流程的框架。",
   "picks": [
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "从复刻优秀 B-roll 入手拆解 AI 素材的节奏与画面逻辑，是能马上照做的练习路径。",
+      "why": "中文实操：从复刻优秀 B-roll 入手，给出让 AI 生成可用空镜的拆解思路。",
       "id": "524c8e0e12c5dce6"
     },
     {
       "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "把剪辑思维搬进提示词里，讲清楚在生成阶段就控制节奏与转场的方法。",
+      "why": "把剪辑节奏、转场和镜头衔接写进生成提示词，剪辑思路前移到出片环节。",
       "id": "7cbb408ba5ddf5f0"
-    },
-    {
-      "title": "How to Make a Full AI Film for Free With Whisk, Grok, ElevenLabs and CapCut",
-      "url": "https://medium.com/@Authority_Edge/how-to-make-a-full-ai-film-for-free-with-whisk-grok-elevenlabs-and-capcut-f5ea415c9086?source=rss------ai_video-5",
-      "why": "用 Whisk、Grok、ElevenLabs、CapCut 串起零成本 AI 短片全流程，可直接照着做一遍。",
-      "id": "e82394a8663e69a4"
     },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文长文，指出提示词不该靠堆词，而要先建立构图逻辑，思路很值钱。",
+      "why": "中文提示词方法论：别用加法堆词，先定构图逻辑再谈风格，直接改变出片质感。",
       "id": "9acc46cbdeb37daa"
     },
     {
       "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
-      "why": "专门讲怎么让 AI 镜头「动起来」，运镜指令的写法拆得很细。",
+      "why": "AI 电影学习系列第 3 天，专讲如何用提示词让镜头真正“动”起来。",
       "id": "16df762f58b5b891"
     },
     {
-      "title": "The Geometry of Dust: Silhouette Lighting and Color Space in Blade Runner 2049 (2017)",
-      "url": "https://medium.com/@CodeAIHQ/the-geometry-of-dust-silhouette-lighting-and-color-space-in-blade-runner-2049-2017-26cd4025d61b?source=rss------film_making-5",
-      "why": "借《银翼杀手 2049》拆剪影打光与色彩空间，学视觉风格可直接用。",
-      "id": "70859c6b1b75bd50"
-    },
-    {
-      "title": "How I Turn an Image Into a Reusable AI Art Style Prompt",
-      "url": "https://medium.com/prompt-odyssey/how-i-turn-an-image-into-a-reusable-ai-art-style-prompt-67861483e184?source=rss------ai_art-5",
-      "why": "把一张喜欢的图反推成可复用的风格提示词，解决风格不稳定问题。",
-      "id": "5a49b9740f3fdc12"
-    },
-    {
-      "title": "Why 90% of Creators Fail at AI Prompting (And How to Master It on a Smartphone)",
-      "url": "https://medium.com/@qavahdemy/why-90-of-creators-fail-at-ai-prompting-and-how-to-master-it-on-a-smartphone-c4b03c0724ae?source=rss------prompt_engineering-5",
-      "why": "直击大多数人在提示词上的失败原因，手机端也能练的实操方法。",
-      "id": "6d72cb3acfb93d0a"
+      "title": "How to Create a 12-Minute Film with AI: A Step-by-Step AI Director Guide",
+      "url": "https://reevera.medium.com/how-to-create-a-12-minute-film-with-ai-a-step-by-step-ai-director-guide-91d45582e4b7?source=rss------video_production-5",
+      "why": "从概念到成片的 AI 导演分步指南，适合当长片项目的流程模板。",
+      "id": "9c9aae7f9ff89fa5"
     },
     {
       "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
       "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "按真实摄影意图写镜头清单：景别、角度、运动三要素讲得最有操作性。",
+      "why": "按景别、角度、运动三要素搭 AI 镜头表，让生成结果带上真实摄影意图。",
       "id": "c0ce3898519a2a2c"
     },
     {
-      "title": "How to Write Better AI Video Prompts: Think Like a Filmmaker",
-      "url": "https://medium.com/@hy1ege1/how-to-write-better-ai-video-prompts-think-like-a-filmmaker-b30d3e06cdc4?source=rss------prompt_engineering-5",
-      "why": "教你把导演思维用于 AI 视频提示词，是上面几条技巧的底层心法。",
-      "id": "fd0176aa521573cd"
+      "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
+      "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
+      "why": "Seedance 2.5 分镜工作流，演示把一个概念拆成逐镜方案的全过程。",
+      "id": "6f5f39903e351a2c"
+    },
+    {
+      "title": "Zombie UI: Why Every AI-Built Screen Looks the Same",
+      "url": "https://medium.com/design-bootcamp/zombie-ui-why-every-ai-built-screen-looks-the-same-8a2cb7d3f916?source=rss------generative_ai-5",
+      "why": "拆解 AI 生成画面为何千篇一律，反向提醒创作时该在哪些维度做差异化。",
+      "id": "bf05d21d369646b3"
+    },
+    {
+      "title": "Before You Ask AI, Ask Yourself Why",
+      "url": "https://medium.com/@fmi_a/before-you-ask-ai-ask-yourself-why-528e51ef0ce2?source=rss------generative_ai-5",
+      "why": "动手写提示词前先问自己“为什么”，是低成本提升输出质量的思维习惯。",
+      "id": "5f0e55d25f7aa2c1"
+    },
+    {
+      "title": "深度慢思考时代：为什么“教 AI 一步步做”正在成为最大的负优化？",
+      "url": "https://juejin.cn/post/7696745314632892431",
+      "why": "论证“教 AI 一步步做”在慢思考模型上反而是负优化，帮你调整提示词粒度。",
+      "id": "ad243c475b292485"
     }
   ]
 }
