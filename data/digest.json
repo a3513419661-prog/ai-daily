@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-18",
-  "summary": "今天的条目集中在「怎么把想法变成可拍的镜头」：先用构图逻辑和动机光替代堆砌形容词的提示词，再把分镜拆成带景别、角度、运镜的镜头表，最后在提示词内部完成剪辑与节奏控制。剪辑侧还能学到 B-roll 复刻方法和字幕节奏对留存的影响，都是能直接照做的练习。",
+  "date": "2026-10-19",
+  "summary": "今天的内容集中在「把镜头语言落到可执行的操作上」：先用构图逻辑和运镜方式确定画面意图，再把意图写成 AI 分镜与镜头清单；剪辑侧重点在 AI B-roll 的复刻方法与提示词内部的节奏控制，提示词侧则提供可直接照抄的结构化模板。适合按分镜 → 生成 → 剪辑的顺序连着看一遍。",
   "picks": [
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "讲提示词别用加法堆词，而要按真实摄影的构图逻辑组织画面元素，可直接改写你现有的提示词模板。",
+      "why": "讲清构图逻辑优先于堆提示词，是 AI 画面可控性的底层思路，可直接改写成自己的提示词模板。",
       "id": "9acc46cbdeb37daa"
     },
     {
-      "title": "Stop Prompting “Cinematic Lighting”: The Motivated Light Strategy",
-      "url": "https://medium.com/@bloggerswit_41630/stop-prompting-cinematic-lighting-the-motivated-light-strategy-1a7a77d34d49?source=rss------filmmaking-5",
-      "why": "用「动机光」替代「cinematic lighting」这类无效词，让光线有来源、有叙事理由，出片质感立刻不同。",
-      "id": "3a2ab20caaf7dd3d"
+      "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
+      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
+      "why": "AI 电影课运镜篇，示范如何用提示词驱动推拉摇移，补齐「镜头会动」这一最常见短板。",
+      "id": "16df762f58b5b891"
     },
     {
-      "title": "Master the Frame: The Complete Guide to Camera Angles and Framing in Cinematography",
-      "url": "https://medium.com/@palyadofficial/master-the-frame-the-complete-guide-to-camera-angles-and-framing-in-cinematography-84649bb83d53?source=rss------cinematography-5",
-      "why": "系统梳理机位角度与取景的完整指南，可作为镜头语言的常备查阅清单。",
-      "id": "8c8a4b0d49b09964"
+      "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
+      "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
+      "why": "把景别、机位、运动合成一份有真实摄影意图的 AI 镜头清单，分镜环节可直接套用。",
+      "id": "c0ce3898519a2a2c"
     },
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "中文实操：从复刻优秀 B-roll 入手建立 AI 素材的可控工作流，比直接生成更易上手。",
+      "why": "从复刻优秀 B-roll 入手练 AI 素材，给了可操作的拆解路径而非泛泛而谈。",
       "id": "524c8e0e12c5dce6"
     },
     {
       "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "把剪辑思路写进提示词内部（镜头内的节奏与切点），是 AI 影像区别于后期剪辑的关键技巧。",
+      "why": "提出「在提示词里完成剪辑」的思路，把节奏与转场前置到生成阶段，省掉后期返工。",
       "id": "7cbb408ba5ddf5f0"
     },
     {
-      "title": "I Tried Karaoke Captions for Short-Form Video. Here’s What Actually Keeps People Watching",
-      "url": "https://medium.com/@xttrra/i-tried-karaoke-captions-for-short-form-video-heres-what-actually-keeps-people-watching-dfd099dc9657?source=rss------video_editing-5",
-      "why": "实测卡拉 OK 式字幕对短视频留存的影响，给出了可直接套用的字幕节奏结论。",
-      "id": "459a56f030712fab"
+      "title": "The 5-Part Prompt Formula That Makes AI Answers Instantly Better",
+      "url": "https://medium.com/@mshahbazgg6/the-5-part-prompt-formula-that-makes-ai-answers-instantly-better-888e5f209c13?source=rss------prompt_engineering-5",
+      "why": "五段式提示词公式结构清晰，任何模型都能立刻套用，适合做基础模板。",
+      "id": "22bbef4ea84eb137"
     },
     {
-      "title": "The Anatomy of a Claude Code Video Prompt",
-      "url": "https://medium.com/@i.gourabchatterjee/the-anatomy-of-a-claude-code-video-prompt-93cf51e30ffd?source=rss------video_production-5",
-      "why": "拆解一条高质量视频提示词的组成结构，可按模块复用到自己的生成流程里。",
-      "id": "c796e0aebb8a03f2"
+      "title": "技术方案怎么用AI写？四段Prompt链加3个可抄模板",
+      "url": "https://juejin.cn/post/7697952294365298742",
+      "why": "四段 Prompt 链加可抄模板，中文语境下的结构化写法，适合处理长文档类任务。",
+      "id": "ef370c2ab8edff8d"
     },
     {
-      "title": "Before You Spend More NightCafe Credits, Diagnose the Image",
-      "url": "https://medium.com/tanda-ai-art-library/before-you-spend-more-nightcafe-credits-diagnose-the-image-4c2477ab6cf1?source=rss------generative_ai-5",
-      "why": "出图不对时先诊断再重试，提供了一套替代盲目消耗额度的排查思路。",
-      "id": "f34e82f18a1ff3ae"
+      "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
+      "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
+      "why": "Seedance 2.5 从概念到逐个镜头的完整分镜流程，属于可直接复现的工作流。",
+      "id": "6f5f39903e351a2c"
     },
     {
-      "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
-      "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "把景别、角度、运镜落成 AI 可执行的镜头表，是从「描述画面」到「导演调度」的桥梁。",
-      "id": "c0ce3898519a2a2c"
+      "title": "A Silent Clip Is Not Missing Sound, It Is Missing a Room",
+      "url": "https://medium.com/@himuge/a-silent-clip-is-not-missing-sound-it-is-missing-a-room-6d0501a71493?source=rss------film_making-5",
+      "why": "提醒「静音镜头缺的是空间感不是声音」，对做氛围与声场设计的导演思维很有启发。",
+      "id": "9df2454b1b7c9654"
     },
     {
-      "title": "context-mode 拆解：98% 是怎么算出来的，装进 Claude Code 实际省多少",
-      "url": "https://juejin.cn/post/7697463227077296162",
-      "why": "中文拆解 context-mode 的省 token 原理与实际收益，帮你判断值不值得装进工作流。",
-      "id": "8b5c670664683dc0"
+      "title": "Cinematic AI Art: How to Create Stunning AI Images With Camera Language and Lighting",
+      "url": "https://medium.com/@bkhemant2001/cinematic-ai-art-how-to-create-stunning-ai-images-with-camera-language-and-lighting-59c90dc91801?source=rss------ai_art-5",
+      "why": "用摄影机语言与光线描述来写图像提示词，是把影像审美迁移到 AI 生成的关键一课。",
+      "id": "7dcea36786033099"
     }
   ]
 }
