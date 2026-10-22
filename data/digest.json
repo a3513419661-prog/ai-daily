@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-20",
-  "summary": "今天可学的重点集中在实操链路：AI B-roll 复刻、Premiere 对白音频处理、镜头运动与构图语言、AI 分镜/镜头清单，以及光线与手部修正提示词。还补了一条长视频 AI 切片方法，适合把素材复用做稳。整体少看发布新闻，多拆工作流。",
+  "date": "2026-10-22",
+  "summary": "今天的内容主要围绕「把镜头语言说清楚」展开：中文 AI 视频的字幕和文字模糊有具体修法，用复刻的方式做出稳定的 B-roll，提示词遵循构图逻辑而非堆砌形容词，摄影机运动、景别和角度都能写进 AI 分镜。此外，电影拉片（逐镜头分析）与提示词链、图像机位控制则补足了导演视角与实操细节。",
   "picks": [
+    {
+      "title": "為什麼 AI 做的影片，中文字總是糊掉？",
+      "url": "https://medium.com/@launchflim693/%E7%82%BA%E4%BB%80%E9%BA%BC-ai-%E5%81%9A%E7%9A%84%E5%BD%B1%E7%89%87-%E4%B8%AD%E6%96%87%E5%AD%97%E7%B8%BD%E6%98%AF%E7%B3%8A%E6%8E%89-b20b40681dc2?source=rss------motion_design-5",
+      "why": "从字体、分辨率到模型渲染机制讲清 AI 视频中文字糊掉的成因与规避做法，直接能用在成片里。",
+      "id": "807d8a274d7ba97a"
+    },
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "用“复刻”方法拆解 AI B-roll 的生成与剪辑，适合直接照着做素材。",
+      "why": "以“复刻”为方法拆解 AI B-roll 的镜头与质感，给出可照做的练习路径，而不是空谈提示词。",
       "id": "524c8e0e12c5dce6"
     },
     {
-      "title": "Stem Separation Moves Into the Edit: What Enhance Audio Changes for Dialogue Workflows in Premiere (Beta)",
-      "url": "https://www.provideocoalition.com/stem-separation-moves-into-the-edit-what-enhance-audio-changes-for-dialogue-workflows-in-premiere-beta/",
-      "why": "Premiere Beta 的 stem separation 如何改变对白剪辑流程，能直接用于音频后期。",
-      "id": "3c9a66805dbbb144"
+      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
+      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
+      "why": "把剪辑思维前移到提示词阶段，讲清“在提示词里做剪辑”如何决定最终节奏与镜头衔接。",
+      "id": "7cbb408ba5ddf5f0"
     },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文讲构图逻辑优先于堆提示词，适合镜头设计与 AI 出图/视频提示。",
+      "why": "指出堆叠关键词的加法式提示词会失败，改用构图逻辑组织画面元素，是今天最实用的观念纠正。",
       "id": "9acc46cbdeb37daa"
     },
     {
       "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
-      "why": "专门讲 AI 电影中的运镜，能补足镜头运动语言。",
+      "why": "AI 电影课第三天专注摄影机运动，讲清运镜指令怎么写才不像贴图平移。",
       "id": "16df762f58b5b891"
     },
     {
-      "title": "Master the Frame: The Complete Guide to Camera Angles and Framing in Cinematography",
-      "url": "https://medium.com/@palyadofficial/master-the-frame-the-complete-guide-to-camera-angles-and-framing-in-cinematography-84649bb83d53?source=rss------cinematography-5",
-      "why": "系统梳理机位、角度与构图，适合作为镜头语言基础。",
-      "id": "8c8a4b0d49b09964"
+      "title": "How John Carpenter Shot the Halloween Opening Scene, Four Minutes Through the Killer’s Eyes",
+      "url": "https://filmdaft.com/halloween-opening-scene/",
+      "why": "逐镜头拆解《月光光心慌慌》开场四分钟的主观视角，是可直接借鉴的悬念调度范本。",
+      "id": "082d29a557537237"
+    },
+    {
+      "title": "Prompt Chaining for Beginners: How to Get Better AI Results With Step-by-Step Prompts",
+      "url": "https://medium.com/@isaacpowell.agents/prompt-chaining-for-beginners-how-to-get-better-ai-results-with-step-by-step-prompts-fc6f12282978?source=rss------prompt_engineering-5",
+      "why": "提示词链入门：把复杂任务拆成串行步骤，每步只解决一件事，稳定提升输出质量。",
+      "id": "3081ebe483c2c689"
+    },
+    {
+      "title": "A Practical Prompt Framework for Consistent Halloween Photo-to-Video Results",
+      "url": "https://dev.to/xiaoer_wang_1c459701b8e50/a-practical-prompt-framework-for-consistent-halloween-photo-to-video-results-1fj",
+      "why": "给出图生视频保持角色与画面一致性的提示词框架，模板化结构可迁移到任何主题。",
+      "id": "498d7d4798b20be5"
     },
     {
       "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
       "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "把景别、角度、运动转成 AI 可执行的镜头清单，分镜到生成衔接实用。",
+      "why": "把景别、角度、运动转成 AI 能识别的分镜字段，让镜头表真正带着摄影意图。",
       "id": "c0ce3898519a2a2c"
     },
     {
-      "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
-      "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "从概念到逐镜计划的 Seedance 工作流，适合做完整分镜预演。",
-      "id": "6f5f39903e351a2c"
-    },
-    {
-      "title": "How to Prompt Light in Midjourney V8.2 Like a Photographer",
-      "url": "https://medium.com/@alex9328_99959/how-to-prompt-light-in-midjourney-v8-2-like-a-photographer-54e19a88f54e?source=rss------ai_art-5",
-      "why": "用摄影师思路写光线提示词，能提升 Midjourney 画面质感。",
-      "id": "23421b6b2b7fcb2a"
-    },
-    {
-      "title": "Why AI keeps ruining your hands, guys, and the prompt words that fix them",
-      "url": "https://medium.com/@better_shots_prompts/why-ai-keeps-ruining-your-hands-guys-and-the-prompt-words-that-fix-them-498249a5c01c?source=rss------prompt_engineering-5",
-      "why": "针对手部崩坏的实用提示词修正，属于可立即套用的生成技巧。",
-      "id": "fb236c1cdc48941a"
-    },
-    {
-      "title": "AI Video Clipping: How to Repurpose Long Videos Without Losing Their Meaning",
-      "url": "https://medium.com/@mohib-writes/ai-video-clipping-how-to-repurpose-long-videos-without-losing-their-meaning-0df81eb63a9c?source=rss------ai_video-5",
-      "why": "长视频 AI 切片与语义保留方法，适合二次剪辑和内容复用。",
-      "id": "930bd518af1ab7ee"
+      "title": "How to Control Camera Angles, Framing, and Viewpoint in AI Images",
+      "url": "https://medium.com/tanda-ai-art-library/how-to-control-camera-angles-framing-and-viewpoint-in-ai-images-756c2e215db8?source=rss------ai_art-5",
+      "why": "系统讲 AI 图像中机位、取景与视角的控制说法，是分镜与出图之间的关键衔接。",
+      "id": "141bb524cb8d5d50"
     }
   ]
 }
