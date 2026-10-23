@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-22",
-  "summary": "今天的内容主要围绕「把镜头语言说清楚」展开：中文 AI 视频的字幕和文字模糊有具体修法，用复刻的方式做出稳定的 B-roll，提示词遵循构图逻辑而非堆砌形容词，摄影机运动、景别和角度都能写进 AI 分镜。此外，电影拉片（逐镜头分析）与提示词链、图像机位控制则补足了导演视角与实操细节。",
+  "date": "2026-10-23",
+  "summary": "今天的条目整体偏「从想法到成片」的实操链：先用构图逻辑而不是堆提示词，再用镜头运动、机位与景别把意图写成可执行的镜头清单，最后在提示词内部完成剪辑与 B-roll 复刻。另有可直接抄用的角色设定图提示词合集，以及针对特定题材（如日式纹样）的提示词纠错思路。",
   "picks": [
-    {
-      "title": "為什麼 AI 做的影片，中文字總是糊掉？",
-      "url": "https://medium.com/@launchflim693/%E7%82%BA%E4%BB%80%E9%BA%BC-ai-%E5%81%9A%E7%9A%84%E5%BD%B1%E7%89%87-%E4%B8%AD%E6%96%87%E5%AD%97%E7%B8%BD%E6%98%AF%E7%B3%8A%E6%8E%89-b20b40681dc2?source=rss------motion_design-5",
-      "why": "从字体、分辨率到模型渲染机制讲清 AI 视频中文字糊掉的成因与规避做法，直接能用在成片里。",
-      "id": "807d8a274d7ba97a"
-    },
-    {
-      "title": "让 AI 做好 B-roll，我决定先从复刻开始",
-      "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "以“复刻”为方法拆解 AI B-roll 的镜头与质感，给出可照做的练习路径，而不是空谈提示词。",
-      "id": "524c8e0e12c5dce6"
-    },
-    {
-      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
-      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "把剪辑思维前移到提示词阶段，讲清“在提示词里做剪辑”如何决定最终节奏与镜头衔接。",
-      "id": "7cbb408ba5ddf5f0"
-    },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "指出堆叠关键词的加法式提示词会失败，改用构图逻辑组织画面元素，是今天最实用的观念纠正。",
+      "why": "讲解提示词里的构图思维：与其不断叠加形容词，不如先定机位、景别和画面重心；用减法写，画面反而更稳。",
       "id": "9acc46cbdeb37daa"
     },
     {
       "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
-      "why": "AI 电影课第三天专注摄影机运动，讲清运镜指令怎么写才不像贴图平移。",
+      "why": "AI 影视制作系列第三天专讲「让摄影机动起来」：运镜指令怎么写、如何避免画面漂移，属于能直接照着做的步骤。",
       "id": "16df762f58b5b891"
     },
     {
-      "title": "How John Carpenter Shot the Halloween Opening Scene, Four Minutes Through the Killer’s Eyes",
-      "url": "https://filmdaft.com/halloween-opening-scene/",
-      "why": "逐镜头拆解《月光光心慌慌》开场四分钟的主观视角，是可直接借鉴的悬念调度范本。",
-      "id": "082d29a557537237"
+      "title": "How Barry Jenkins Shot the Moonlight Swimming Scene in 90 Minutes Before a Storm",
+      "url": "https://filmdaft.com/moonlight-swimming-scene/",
+      "why": "复盘《月光男孩》泳池戏如何在暴风雨前 90 分钟拍完，讲的是现场调度与情绪节奏，真人导演手艺可直接迁移。",
+      "id": "63041221ff5d5590"
     },
     {
-      "title": "Prompt Chaining for Beginners: How to Get Better AI Results With Step-by-Step Prompts",
-      "url": "https://medium.com/@isaacpowell.agents/prompt-chaining-for-beginners-how-to-get-better-ai-results-with-step-by-step-prompts-fc6f12282978?source=rss------prompt_engineering-5",
-      "why": "提示词链入门：把复杂任务拆成串行步骤，每步只解决一件事，稳定提升输出质量。",
-      "id": "3081ebe483c2c689"
+      "title": "让 AI 做好 B-roll，我决定先从复刻开始",
+      "url": "https://www.woshipm.com/ai/6470298.html",
+      "why": "中文实操记录：想用 AI 做好 B-roll，先从逐帧复刻优秀素材开始，给出可复用的练习路径而不是空谈工具。",
+      "id": "524c8e0e12c5dce6"
     },
     {
-      "title": "A Practical Prompt Framework for Consistent Halloween Photo-to-Video Results",
-      "url": "https://dev.to/xiaoer_wang_1c459701b8e50/a-practical-prompt-framework-for-consistent-halloween-photo-to-video-results-1fj",
-      "why": "给出图生视频保持角色与画面一致性的提示词框架，模板化结构可迁移到任何主题。",
-      "id": "498d7d4798b20be5"
+      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
+      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
+      "why": "「在提示词里剪辑」的思路：把转场、节奏和镜头衔接写进 prompt，而不是等生成完再进时间线补。",
+      "id": "7cbb408ba5ddf5f0"
     },
     {
       "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
       "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "把景别、角度、运动转成 AI 能识别的分镜字段，让镜头表真正带着摄影意图。",
+      "why": "把景别、角度、运动还原成真实摄影意图来搭 AI 镜头表，避免生成出一堆没有叙事关系的漂亮空镜。",
       "id": "c0ce3898519a2a2c"
     },
     {
-      "title": "How to Control Camera Angles, Framing, and Viewpoint in AI Images",
-      "url": "https://medium.com/tanda-ai-art-library/how-to-control-camera-angles-framing-and-viewpoint-in-ai-images-756c2e215db8?source=rss------ai_art-5",
-      "why": "系统讲 AI 图像中机位、取景与视角的控制说法，是分镜与出图之间的关键衔接。",
-      "id": "141bb524cb8d5d50"
+      "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
+      "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
+      "why": "Seedance 2.5 的分镜工作流：从一个概念拆到逐镜计划，适合当作可复制的项目模板。",
+      "id": "6f5f39903e351a2c"
+    },
+    {
+      "title": "角色设定图提示词合集分享！码住随时用。",
+      "url": "https://www.woshipm.com/ai/6482980.html",
+      "why": "角色设定图提示词合集，中文可直接抄改，解决人物一致性里最费时间的第一步。",
+      "id": "8041bf5055fab056"
+    },
+    {
+      "title": "Why AI Gets Japanese Patterns Wrong — and the Prompts That Fix Them",
+      "url": "https://medium.com/@ai.art.wakitaitai/why-ai-gets-japanese-patterns-wrong-and-the-prompts-that-fix-them-fcea59b633ad?source=rss------ai_art-5",
+      "why": "拆解 AI 画不对日式纹样的原因并给出修正提示词，是「发现问题→改提示词」的通用方法论示范。",
+      "id": "603750c0b7227c0d"
+    },
+    {
+      "title": "How to Use AI at Work in 2026: From Everyday Prompts to Smarter Leadership",
+      "url": "https://medium.com/@barronqasem/how-to-use-ai-at-work-in-2026-from-everyday-prompts-to-smarter-leadership-3f018d971c3e?source=rss------prompt_engineering-5",
+      "why": "从日常提示词到更复杂协作的 AI 工作方法梳理，适合作为个人工作流的自查清单。",
+      "id": "483d34855c166f96"
     }
   ]
 }
