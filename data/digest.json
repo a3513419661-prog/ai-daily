@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-23",
-  "summary": "今天的条目整体偏「从想法到成片」的实操链：先用构图逻辑而不是堆提示词，再用镜头运动、机位与景别把意图写成可执行的镜头清单，最后在提示词内部完成剪辑与 B-roll 复刻。另有可直接抄用的角色设定图提示词合集，以及针对特定题材（如日式纹样）的提示词纠错思路。",
+  "date": "2026-10-24",
+  "summary": "今天的可学内容集中在「从策划到成片」的完整链路：先学用一条素材规划出多种格式的剪辑与发布思路，再学在提示词阶段就确定构图与镜头运动，把导演意图前置到生成环节。分镜部分给出把景别、角度、运动写进 AI 镜头清单的方法，教程侧则解决提示词复用与「不直接展示动作也能讲故事」的视觉叙事技巧。",
   "picks": [
+    {
+      "title": "让 AI 做好 B-roll，我决定先从复刻开始",
+      "url": "https://www.woshipm.com/ai/6470298.html",
+      "why": "中文实操帖，用「复刻」拆解 AI B-roll 的生成与落剪思路，可直接照做。",
+      "id": "524c8e0e12c5dce6"
+    },
+    {
+      "title": "One story, five formats: plan a short film so it becomes a trailer, Shorts, an ad and a dubbed cut",
+      "url": "https://medium.com/@mmomaker25/one-story-five-formats-plan-a-short-film-so-it-becomes-a-trailer-shorts-an-ad-and-a-dubbed-cut-4bea8ba3e4e6?source=rss------video_editing-5",
+      "why": "教你在开拍前就按预告片、短视频版、广告版、配音版规划同一素材，一次拍摄产出四种成片。",
+      "id": "a4de100ff892e73d"
+    },
+    {
+      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
+      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
+      "why": "把剪辑思路写进提示词里，讲清哪些节奏与转场该在生成阶段解决、哪些留给后期。",
+      "id": "7cbb408ba5ddf5f0"
+    },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "讲解提示词里的构图思维：与其不断叠加形容词，不如先定机位、景别和画面重心；用减法写，画面反而更稳。",
+      "why": "中文提示词方法论：放弃堆砌形容词，改用构图逻辑组织画面描述。",
       "id": "9acc46cbdeb37daa"
     },
     {
       "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
-      "why": "AI 影视制作系列第三天专讲「让摄影机动起来」：运镜指令怎么写、如何避免画面漂移，属于能直接照着做的步骤。",
+      "why": "AI 电影制作第 3 天专讲镜头运动，是提示词里最难写对的运镜部分。",
       "id": "16df762f58b5b891"
-    },
-    {
-      "title": "How Barry Jenkins Shot the Moonlight Swimming Scene in 90 Minutes Before a Storm",
-      "url": "https://filmdaft.com/moonlight-swimming-scene/",
-      "why": "复盘《月光男孩》泳池戏如何在暴风雨前 90 分钟拍完，讲的是现场调度与情绪节奏，真人导演手艺可直接迁移。",
-      "id": "63041221ff5d5590"
-    },
-    {
-      "title": "让 AI 做好 B-roll，我决定先从复刻开始",
-      "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "中文实操记录：想用 AI 做好 B-roll，先从逐帧复刻优秀素材开始，给出可复用的练习路径而不是空谈工具。",
-      "id": "524c8e0e12c5dce6"
-    },
-    {
-      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
-      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "「在提示词里剪辑」的思路：把转场、节奏和镜头衔接写进 prompt，而不是等生成完再进时间线补。",
-      "id": "7cbb408ba5ddf5f0"
     },
     {
       "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
       "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "把景别、角度、运动还原成真实摄影意图来搭 AI 镜头表，避免生成出一堆没有叙事关系的漂亮空镜。",
+      "why": "教你把景别、角度、运动写成带真实摄影意图的 AI 镜头清单，分镜落地性最强。",
       "id": "c0ce3898519a2a2c"
     },
     {
-      "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
-      "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "Seedance 2.5 的分镜工作流：从一个概念拆到逐镜计划，适合当作可复制的项目模板。",
-      "id": "6f5f39903e351a2c"
+      "title": "One Prompt, Different NightCafe Models: What Actually Changes?",
+      "url": "https://medium.com/chatgpt-beyond/one-prompt-different-nightcafe-models-what-actually-changes-e10a9f5f5ecc?source=rss------ai_art-5",
+      "why": "同一提示词横向对比多个模型，帮你判断差异来自提示词还是模型本身。",
+      "id": "17531842566d2c13"
     },
     {
-      "title": "角色设定图提示词合集分享！码住随时用。",
-      "url": "https://www.woshipm.com/ai/6482980.html",
-      "why": "角色设定图提示词合集，中文可直接抄改，解决人物一致性里最费时间的第一步。",
-      "id": "8041bf5055fab056"
+      "title": "The Hidden Cost of Making AI Videos Too Quickly",
+      "url": "https://medium.com/@facelessbrain2/the-hidden-cost-of-making-ai-videos-too-quickly-8767a9552a91?source=rss------ai_video-5",
+      "why": "讲 AI 视频求快带来的隐性代价，提醒你在工作流里该在哪里放慢。",
+      "id": "fc9a05668d829883"
     },
     {
-      "title": "Why AI Gets Japanese Patterns Wrong — and the Prompts That Fix Them",
-      "url": "https://medium.com/@ai.art.wakitaitai/why-ai-gets-japanese-patterns-wrong-and-the-prompts-that-fix-them-fcea59b633ad?source=rss------ai_art-5",
-      "why": "拆解 AI 画不对日式纹样的原因并给出修正提示词，是「发现问题→改提示词」的通用方法论示范。",
-      "id": "603750c0b7227c0d"
+      "title": "How to Save and Reuse Your Best AI Prompts Without Starting From Scratch",
+      "url": "https://medium.com/@johnlarson461/how-to-save-and-reuse-your-best-ai-prompts-without-starting-from-scratch-aafd63f265dd?source=rss------prompt_engineering-5",
+      "why": "教你建立可复用的提示词库，避免每次从零开始写。",
+      "id": "9c29d841e83ce5e6"
     },
     {
-      "title": "How to Use AI at Work in 2026: From Everyday Prompts to Smarter Leadership",
-      "url": "https://medium.com/@barronqasem/how-to-use-ai-at-work-in-2026-from-everyday-prompts-to-smarter-leadership-3f018d971c3e?source=rss------prompt_engineering-5",
-      "why": "从日常提示词到更复杂协作的 AI 工作方法梳理，适合作为个人工作流的自查清单。",
-      "id": "483d34855c166f96"
+      "title": "How to Suggest a Story in an AI Image Without Showing the Action",
+      "url": "https://medium.com/prompt-odyssey/how-to-suggest-a-story-in-an-ai-image-without-showing-the-action-82f52123c49d?source=rss------ai_art-5",
+      "why": "用暗示而非直给动作来讲述画面故事，是构图叙事很实用的一课。",
+      "id": "3e4ea4d4b31f7309"
     }
   ]
 }
