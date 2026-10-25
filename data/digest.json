@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-24",
-  "summary": "今天的可学内容集中在「从策划到成片」的完整链路：先学用一条素材规划出多种格式的剪辑与发布思路，再学在提示词阶段就确定构图与镜头运动，把导演意图前置到生成环节。分镜部分给出把景别、角度、运动写进 AI 镜头清单的方法，教程侧则解决提示词复用与「不直接展示动作也能讲故事」的视觉叙事技巧。",
+  "date": "2026-10-25",
+  "summary": "今天的条目集中在「把想法变成能拍的镜头」这条主线上：先用构图逻辑和镜头运动确立画面意图，再把提示词写成含摄影机、时间线、声音的结构化指令，最后落到剪辑节奏与 B-roll 复刻。几条实操教程还给出了提示词失败时的排查顺序和分镜清单的写法，可以直接照着改自己的工作流。",
   "picks": [
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "中文实操帖，用「复刻」拆解 AI B-roll 的生成与落剪思路，可直接照做。",
+      "why": "中文实操：用「复刻」拆解优秀 B-roll，反推 AI 生成 B-roll 的镜头与质感，可直接套用到成片补镜。",
       "id": "524c8e0e12c5dce6"
     },
     {
-      "title": "One story, five formats: plan a short film so it becomes a trailer, Shorts, an ad and a dubbed cut",
-      "url": "https://medium.com/@mmomaker25/one-story-five-formats-plan-a-short-film-so-it-becomes-a-trailer-shorts-an-ad-and-a-dubbed-cut-4bea8ba3e4e6?source=rss------video_editing-5",
-      "why": "教你在开拍前就按预告片、短视频版、广告版、配音版规划同一素材，一次拍摄产出四种成片。",
-      "id": "a4de100ff892e73d"
+      "title": "How AI Video Is Made: From Prompt to Final Cut",
+      "url": "https://medium.com/@theresearchdeskofficial/how-ai-video-is-made-from-prompt-to-final-cut-af0b85881b60?source=rss------ai_video-5",
+      "why": "完整走一遍从提示词到终剪的 AI 视频链路，适合用来梳理自己的产线卡点。",
+      "id": "33340b1b2e735d0d"
     },
     {
       "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "把剪辑思路写进提示词里，讲清哪些节奏与转场该在生成阶段解决、哪些留给后期。",
+      "why": "把「剪辑」前移到提示词里做的思路，教你在生成阶段就控制节奏和镜头衔接，少返工。",
       "id": "7cbb408ba5ddf5f0"
-    },
-    {
-      "title": "不要用加法思维写提示词，构图逻辑更重要",
-      "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文提示词方法论：放弃堆砌形容词，改用构图逻辑组织画面描述。",
-      "id": "9acc46cbdeb37daa"
     },
     {
       "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
-      "why": "AI 电影制作第 3 天专讲镜头运动，是提示词里最难写对的运镜部分。",
+      "why": "专门讲 AI 影像里的摄影机运动，是提示词里最难写对、也最出效果的一环。",
       "id": "16df762f58b5b891"
+    },
+    {
+      "title": "不要用加法思维写提示词，构图逻辑更重要",
+      "url": "https://www.digitaling.com/articles/1582727.html",
+      "why": "中文短文点破关键：提示词别堆元素，先想构图逻辑，画面立刻稳。",
+      "id": "9acc46cbdeb37daa"
+    },
+    {
+      "title": "A Beautiful Shot Can Be the Wrong Cut",
+      "url": "https://medium.com/@partners_12121/a-beautiful-shot-can-be-the-wrong-cut-3870dea36d7f?source=rss------film_making-5",
+      "why": "讲「好镜头也可能是错的剪辑点」，训练你按叙事需要选镜头，而不是按好看选。",
+      "id": "d2a81d25791bb29a"
     },
     {
       "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
       "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "教你把景别、角度、运动写成带真实摄影意图的 AI 镜头清单，分镜落地性最强。",
+      "why": "按真实摄影意图写景别、角度、运动的镜头清单，是分镜到可执行提示词的桥梁。",
       "id": "c0ce3898519a2a2c"
     },
     {
-      "title": "One Prompt, Different NightCafe Models: What Actually Changes?",
-      "url": "https://medium.com/chatgpt-beyond/one-prompt-different-nightcafe-models-what-actually-changes-e10a9f5f5ecc?source=rss------ai_art-5",
-      "why": "同一提示词横向对比多个模型，帮你判断差异来自提示词还是模型本身。",
-      "id": "17531842566d2c13"
+      "title": "Why AI Video Prompts Fail: Camera, Timeline and Sound as Prompt Structure",
+      "url": "https://medium.com/@andysginorio886/why-ai-video-prompts-fail-camera-timeline-and-sound-as-prompt-structure-9b211465412f?source=rss------video_production-5",
+      "why": "把摄影机、时间线、声音当作提示词结构，正面解释 AI 视频提示词为什么失败。",
+      "id": "5b8c8b4ef942c0c7"
     },
     {
-      "title": "The Hidden Cost of Making AI Videos Too Quickly",
-      "url": "https://medium.com/@facelessbrain2/the-hidden-cost-of-making-ai-videos-too-quickly-8767a9552a91?source=rss------ai_video-5",
-      "why": "讲 AI 视频求快带来的隐性代价，提醒你在工作流里该在哪里放慢。",
-      "id": "fc9a05668d829883"
+      "title": "When an AI Arm Looks Wrong, Trace the Pose Before Rewriting the Prompt",
+      "url": "https://medium.com/prompt-odyssey/when-an-ai-arm-looks-wrong-trace-the-pose-before-rewriting-the-prompt-107ecaa7b59b?source=rss------ai_art-5",
+      "why": "给出具体排查顺序：先追姿态再改提示词，能省掉大量无效重写。",
+      "id": "8b3d6c5e50f4c110"
     },
     {
-      "title": "How to Save and Reuse Your Best AI Prompts Without Starting From Scratch",
-      "url": "https://medium.com/@johnlarson461/how-to-save-and-reuse-your-best-ai-prompts-without-starting-from-scratch-aafd63f265dd?source=rss------prompt_engineering-5",
-      "why": "教你建立可复用的提示词库，避免每次从零开始写。",
-      "id": "9c29d841e83ce5e6"
-    },
-    {
-      "title": "How to Suggest a Story in an AI Image Without Showing the Action",
-      "url": "https://medium.com/prompt-odyssey/how-to-suggest-a-story-in-an-ai-image-without-showing-the-action-82f52123c49d?source=rss------ai_art-5",
-      "why": "用暗示而非直给动作来讲述画面故事，是构图叙事很实用的一课。",
-      "id": "3e4ea4d4b31f7309"
+      "title": "The 12 prompting tips come from Anthropic’s Opus 5.5 prompting guide.",
+      "url": "https://vinod-baste.medium.com/the-12-prompting-tips-come-from-anthropics-opus-5-5-prompting-guide-58e145b126b1?source=rss------prompt_engineering-5",
+      "why": "12 条可直接抄用的提示词技巧，适合当日常写提示词的检查表。",
+      "id": "0690d3efc752301d"
     }
   ]
 }
