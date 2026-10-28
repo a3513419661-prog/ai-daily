@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-27",
-  "summary": "今天的实操主线很清晰：先在提示词里搭好构图与运镜（而不是堆形容词），再用分镜表把想法锁成可拍的镜头清单，最后回到剪辑台处理 B-roll、调色和字幕同步。AI 侧的重点是把画面当成有摄影意图的镜头来设计，而不是让模型自由发挥；同时补上结构化提示词和 Midjourney Raw 模式这类能立刻上手的工具技巧。",
+  "date": "2026-10-28",
+  "summary": "今天的条目整体偏「能直接上手」，从提示词里的构图逻辑、AI 分镜与镜头清单的写法，到剪辑台上的 B-roll 复刻和提示词内部完成剪辑，形成一条从构思到成片的完整链路。可以先从中文的两条入手：用构图逻辑替代「堆词」，用复刻方式练 B-roll；再配合 Seedance 工作流和真实运镜意图的镜头清单，把想法拆成可拍的画面。角色一致性、图像改字和多方案取舍则补上 AI 创作里最容易出问题的三个环节。",
   "picks": [
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "讲清提示词里构图逻辑优先于元素堆叠，是可直接套用的画面控制思路。",
+      "why": "中文实操：讲清为什么该用构图逻辑而不是加词堆叠来写提示词，是画面控制的基础功。",
       "id": "9acc46cbdeb37daa"
-    },
-    {
-      "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
-      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
-      "why": "AI 电影化系列的第 3 天专讲运镜，把镜头运动拆成可在提示词里复现的动作。",
-      "id": "16df762f58b5b891"
     },
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "用“复刻”作为切入点练 AI B-roll，给出从参考片到可用素材的完整实操路径。",
+      "why": "中文经验帖：从复刻优秀 B-roll 入手，练 AI 素材的质感与剪辑衔接，路线可直接照做。",
       "id": "524c8e0e12c5dce6"
-    },
-    {
-      "title": "Why Most Fashion Reels Look Flat (and What I Change in After Effects)",
-      "url": "https://galibfashionedits.medium.com/why-most-fashion-reels-look-flat-and-what-i-change-in-after-effects-96aef56b1839?source=rss------video_editing-5",
-      "why": "针对画面发平的常见问题，给出 After Effects 里具体可改的调色与质感处理。",
-      "id": "af56a1265330301e"
     },
     {
       "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "把剪辑思维前置到提示词阶段，教你在生成端就完成节奏与转场的“预剪”。",
+      "why": "把「剪辑」前移到提示词里完成，讲清在生成阶段就决定节奏与镜头取舍的思路。",
       "id": "7cbb408ba5ddf5f0"
-    },
-    {
-      "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
-      "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "Seedance 2.5 的分镜工作流，演示如何从一句概念推演到逐镜头的拍摄计划。",
-      "id": "6f5f39903e351a2c"
     },
     {
       "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
       "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "用真实摄影机意图（景别、角度、运动）来写 AI 镜头清单，避免生成结果散乱。",
+      "why": "教你把景别、角度、运动写成带真实摄影意图的 AI 镜头清单，分镜落地最实用的一篇。",
       "id": "c0ce3898519a2a2c"
     },
     {
-      "title": "5-Part Claude Prompt: Role, Task, Context, Format, Constraints",
-      "url": "https://medium.com/@A.Rehman_/5-part-claude-prompt-role-task-context-format-constraints-06ee70d191f8?source=rss------prompt_engineering-5",
-      "why": "角色、任务、上下文、格式、约束五段式提示词模板，拿来就能改写成自己的版本。",
-      "id": "f9367e6b94ae02eb"
+      "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
+      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
+      "why": "AI 电影学习系列第三天的运镜课，系统讲生成模型下的机位与运动表达。",
+      "id": "16df762f58b5b891"
     },
     {
-      "title": "The Art of the Impossible Cutaway",
-      "url": "https://medium.com/prompt-odyssey/the-art-of-the-impossible-cutaway-bb0f9c03a372?source=rss------ai_art-5",
-      "why": "讲“不可能的切出镜头”这一 AI 独有叙事手法，是创意层面的技巧而非工具介绍。",
-      "id": "12c9ae80dbf2f29e"
+      "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
+      "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
+      "why": "Seedance 2.5 从概念到逐镜计划的完整拆解，可套用到自己的分镜流程。",
+      "id": "6f5f39903e351a2c"
     },
     {
-      "title": "ChatGPT Images and Nano Banana: The Complete Guide to Using Both Together",
-      "url": "https://medium.com/@sidrachaudhary321/chatgpt-images-and-nano-banana-the-complete-guide-to-using-both-together-c1c5109e6f4c?source=rss------ai_art-5",
-      "why": "把 ChatGPT 图像与 Nano Banana 组合使用的完整流程，适合当作图像工作流的起点。",
-      "id": "a787ac9f00b78950"
+      "title": "AI Gave Three Angles for One Idea. How Do You Choose?",
+      "url": "https://medium.com/@dorangao/ai-gave-three-angles-for-one-idea-how-do-you-choose-b724deef4a68?source=rss------prompt_engineering-5",
+      "why": "同一个创意出三个方案时怎么选，给出可复用的判断标准而非凭感觉。",
+      "id": "f05d547263d3cbff"
+    },
+    {
+      "title": "We Asked Three AI Models to Change Text in a Photo. What Happened to Everything Else?",
+      "url": "https://medium.com/@zhaoyuanjie/we-asked-three-ai-models-to-change-text-in-a-photo-what-happened-to-everything-else-efef0d4e50de?source=rss------generative_ai-5",
+      "why": "三个模型改图中文字的真实对比，帮你避开「改字毁全图」的常见坑。",
+      "id": "def6e11db051400d"
+    },
+    {
+      "title": "How to Create AI Art Characters That Stay Recognizable Across Different Scenes",
+      "url": "https://medium.com/chatgpt-beyond/how-to-create-ai-art-characters-that-stay-recognizable-across-different-scenes-b8fbd09b6e5a?source=rss------ai_art-5",
+      "why": "跨场景保持角色一致性的具体方法，是 AI 短剧与系列化创作最需补的一课。",
+      "id": "4a0c5d10164326f3"
+    },
+    {
+      "title": "Edit a Talking-Head Video With AI and Keep It Clear",
+      "url": "https://danielcolestudio.medium.com/edit-a-talking-head-video-with-ai-and-keep-it-clear-b86241a446bf?source=rss------video_editing-5",
+      "why": "口播类视频的 AI 剪辑流程，兼顾清晰度与节奏，适合知识类内容直接复用。",
+      "id": "498db6a34132b711"
     }
   ]
 }
