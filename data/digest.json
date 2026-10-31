@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-30",
-  "summary": "今天的内容集中在一件事上，就是让 AI 生成结果真正可控、可拍、可剪：用构图逻辑代替堆词，把提示词写成分镜与运镜指令，再让剪辑环节的 B-roll 与节奏服务于成片。剪辑侧强调复刻与精确修剪，教程侧给出可直接照抄的配音与图像提示词模板。",
+  "date": "2026-10-31",
+  "summary": "今天的内容主要围绕「怎么把想法变成能拍的镜头」：先用构图逻辑写提示词、再用真实镜头语言列出镜头表，然后进入 AI 分镜与逐段生成的完整流程。剪辑方面可以学到 AI B-roll 的复刻方法、在提示词里完成剪辑，以及区域光线下的调色思路。",
   "picks": [
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "讲清提示词里“构图逻辑优先于元素堆叠”，是 AI 出图出片最实用的一条思路纠正。",
+      "why": "讲提示词不要一味堆词，而应先想清楚画面构图逻辑，是今天最直接能用上的方法论。",
       "id": "9acc46cbdeb37daa"
     },
     {
       "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
-      "why": "AI 电影制作系列第三天专讲运镜，可直接照着做镜头运动练习。",
+      "why": "AI 电影制作第三天专讲运镜，把推、拉、移、环绕拆成可复用的提示词写法。",
       "id": "16df762f58b5b891"
     },
     {
-      "title": "让 AI 做好 B-roll，我决定先从复刻开始",
-      "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "中文实操：用“先复刻再变体”的方法让 AI 生成可用的 B-roll 素材。",
-      "id": "524c8e0e12c5dce6"
-    },
-    {
-      "title": "The Post-Production Playbook: Why Great Footage Still Fails (And How Precision Editing Rescues It)",
-      "url": "https://medium.com/@filmbyhimseo/the-post-production-playbook-why-great-footage-still-fails-and-how-precision-editing-rescues-it-0e1b727b944e?source=rss------post_production-5",
-      "why": "从成片失败案例反推精确修剪与节奏控制，是能立刻用上的后期判断标准。",
-      "id": "a715e799c597de78"
+      "title": "Why One-Shot prompts fail: the engineer’s guide to prompt chaining",
+      "url": "https://medium.com/google-cloud/why-one-shot-prompts-fail-the-engineers-guide-to-prompt-chaining-5ccb8d309ddf?source=rss------prompt_engineering-5",
+      "why": "解释一次成型的提示词为什么失败，并给出提示词链式拆分的工程化做法。",
+      "id": "7f3ade5930b6cc27"
     },
     {
       "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
       "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "把景别、角度、运动写进 AI 镜头清单，让生成结果带真实摄影意图。",
+      "why": "用一个镜头的大小、角度、运动来写 AI 分镜表，让生成模型明白真实摄影意图。",
       "id": "c0ce3898519a2a2c"
     },
     {
-      "title": "How to Storyboard a Reel: A Simple Shot-by-Shot Guide",
-      "url": "https://medium.com/@diana.vasyliuk98/how-to-storyboard-a-reel-a-simple-shot-by-shot-guide-13c7a8bd65a4?source=rss------storyboard-5",
-      "why": "逐镜头的 Reel 分镜模板，适合短视频与作品集快速出结构。",
-      "id": "7316acb3f0e2cc6e"
+      "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
+      "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
+      "why": "Seedance 2.5 从概念到逐镜分镜的完整工作流，适合直接照着做一遍。",
+      "id": "6f5f39903e351a2c"
     },
     {
-      "title": "如何把你的工作经验，萃取成AI能执行的规则【附AI教练提示词】",
-      "url": "https://www.woshipm.com/ai/6486525.html",
-      "why": "教你把自己的工作经验萃取成 AI 可执行规则，附教练式提示词可直接套用。",
-      "id": "271eedb7accd826c"
+      "title": "让 AI 做好 B-roll，我决定先从复刻开始",
+      "url": "https://www.woshipm.com/ai/6470298.html",
+      "why": "中文实操复盘：通过先复刻优秀 B-roll 来建立可迁移的 AI 素材生成套路。",
+      "id": "524c8e0e12c5dce6"
     },
     {
-      "title": "From Client Brief to Final Design: A 5-Step AI Workflow Every Designer Can Copy and Use",
-      "url": "https://medium.com/@sijompeter/from-client-brief-to-final-design-a-5-step-ai-workflow-every-designer-can-copy-and-use-b2add58bc0be?source=rss------prompt_engineering-5",
-      "why": "从客户 brief 到最终设计的五步 AI 工作流，可复制到日常商单。",
-      "id": "02bdbded7bdd55fd"
+      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
+      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
+      "why": "把剪辑前移到提示词阶段，讲清生成时就该决定节奏与镜头衔接的思路。",
+      "id": "7cbb408ba5ddf5f0"
     },
     {
-      "title": "妈妈都分不清的配音 ｜ VoiceStudio + VoxCPM 2 本地配音保姆级教程",
-      "url": "https://juejin.cn/post/7702296667303673897",
-      "why": "本地配音保姆级教程，含 VoiceStudio 与 VoxCPM 2 的完整操作路径。",
-      "id": "455ee02febee6628"
+      "title": "Kerala’s Colors Breakdown: Color Grading for Regional Lighting and Landscapes in DaVinci Resolve",
+      "url": "https://medium.com/@huemarketing.co/keralas-colors-breakdown-color-grading-for-regional-lighting-and-landscapes-in-davinci-resolve-4fd75ca6d669?source=rss------video_editing-5",
+      "why": "DaVinci 里针对地域光线与地貌的调色拆解，可迁移到自己的取景环境。",
+      "id": "a7b5ae76fd0e19c9"
     },
     {
-      "title": "Nano Banana Prompts That Actually Work: 6 Copy-Paste Templates From Google’s Own Guide",
-      "url": "https://medium.com/@rishikumardev/nano-banana-prompts-that-actually-work-6-copy-paste-templates-from-googles-own-guide-113189ddbef6?source=rss------ai_art-5",
-      "why": "6 个可直接复制的 Nano Banana 提示词模板，出图稳定性立竿见影。",
-      "id": "8c0377f5b968087b"
+      "title": "MiniMax H3 on an RTX 5090: Five Scenes and a 24-Second Film",
+      "url": "https://medium.com/@mkhomutskyi/minimax-h3-on-an-rtx-5090-five-scenes-and-a-24-second-film-dd75551effd4?source=rss------generative_ai-5",
+      "why": "用 RTX 5090 跑 MiniMax H3，五个场景拼成 24 秒短片的全过程记录，便于评估工作流瓶颈。",
+      "id": "6294506ccaf9892f"
+    },
+    {
+      "title": "How to Make AI Videos With Magica: A Beginner’s Guide From Still Images to Moving Scenes",
+      "url": "https://medium.com/@ttrimm/how-to-make-ai-videos-with-magica-a-beginners-guide-from-still-images-to-moving-scenes-b45eb890eb0a?source=rss------ai_video-5",
+      "why": "从静图到动态场景的新手向 AI 视频教程，适合作为第一次完整练手项目。",
+      "id": "7bc05c37c14e7387"
     }
   ]
 }
