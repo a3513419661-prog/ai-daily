@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-01",
-  "summary": "今天的内容重心在“把画面当语言来设计”：从构图逻辑与镜头运动，到分镜与镜头清单，都能直接照着做。剪辑侧有 AI B-roll 复刻思路和 DaVinci 地域光线调色两个实战；AI 创作侧则给出人像提示词拆解和复杂场景生成方法，另有一条用自定义种子去掉 AI 视频“塑料感”的质感技巧。",
+  "date": "2026-11-02",
+  "summary": "今天的可学内容集中在三块：一是把颜色、风格和 LUT 当成提示词工程的一部分来做，用复刻的方式让 AI 生成高质量 B-roll；二是回到镜头本身，用构图逻辑替代堆叠式提示词，并让摄影机运动成为叙事手段；三是把分镜和镜头清单做成 AI 可执行的格式，再用场景脚本把整条流程串起来。",
   "picks": [
+    {
+      "title": "Mastering Color and Cinematic Aesthetics: Prompted Looks, Style References, and LUT Finishing",
+      "url": "https://medium.com/@yogahema19/mastering-color-and-cinematic-aesthetics-prompted-looks-style-references-and-lut-finishing-d52529ab93ad?source=rss------video_production-5",
+      "why": "把调色拆成提示词外观、风格参考和 LUT 收尾三层，是少见的 AI 影像调色完整闭环，可以直接照做。",
+      "id": "6ce5f456ab35448d"
+    },
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "用“复刻”拆解优秀 B-roll，再让 AI 生成，是一条能马上动手练的剪辑素材工作流。",
+      "why": "用“先复刻再创作”的方法拆解优秀 B-roll，中文实操向，适合马上拿来练素材质感。",
       "id": "524c8e0e12c5dce6"
-    },
-    {
-      "title": "Kerala’s Colors Breakdown: Color Grading for Regional Lighting and Landscapes in DaVinci Resolve",
-      "url": "https://medium.com/@huemarketing.co/keralas-colors-breakdown-color-grading-for-regional-lighting-and-landscapes-in-davinci-resolve-4fd75ca6d669?source=rss------color_grading-5",
-      "why": "针对地区光线与地貌做 DaVinci 调色拆解，讲的是可迁移的色彩判断而非套 LUT。",
-      "id": "a7b5ae76fd0e19c9"
     },
     {
       "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "提出“在提示词里完成剪辑”的思路，帮你在生成阶段就规划节奏与转场。",
+      "why": "提出“在提示词内部完成剪辑”的思路，讲清 AI 影像里节奏点、镜头衔接该怎么在生成阶段就规划好。",
       "id": "7cbb408ba5ddf5f0"
     },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "强调用构图逻辑而非堆形容词写提示词，直接提升画面可控度。",
+      "why": "点破堆叠形容词的提示词误区，用构图逻辑（主体、层次、视角）替代，直接提升出片率。",
       "id": "9acc46cbdeb37daa"
     },
     {
       "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
-      "why": "AI 电影制作系列讲运镜的一集，说明模型能理解哪些摄影机运动指令。",
+      "why": "AI 电影制作系列里专门讲运镜的一课，把推拉摇移和情绪目的对应起来，可当镜头语言手册用。",
       "id": "16df762f58b5b891"
+    },
+    {
+      "title": "The Prompt Trick That Keeps Your Higgsfield Character the Same in Every Shot",
+      "url": "https://medium.com/@rahulrajanand7/the-prompt-trick-that-keeps-your-higgsfield-character-the-same-in-every-shot-810d3eaed279?source=rss------ai_video-5",
+      "why": "解决 AI 视频最痛的跨镜头角色不一致问题，提示词技巧可直接迁移到其他模型。",
+      "id": "b1805c68d873f8b3"
+    },
+    {
+      "title": "How Claude Makes Motion Graphics Without Generating a Single Pixel",
+      "url": "https://manulthanura.medium.com/how-claude-makes-motion-graphics-without-generating-a-single-pixel-103b453e6a83?source=rss------ai_video-5",
+      "why": "用代码和参数而非生成像素来做动态图形，提供了一个成本更低、可控性更强的动效思路。",
+      "id": "bcd780fbe0e24410"
     },
     {
       "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
       "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "用真实摄影意图（景别、角度、运动）搭建 AI 镜头清单，分镜与提示词一次打通。",
+      "why": "把景别、角度、运动写成模型能理解并有真实摄影意图的镜头清单，是从分镜到成片的关键环节。",
       "id": "c0ce3898519a2a2c"
     },
     {
       "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
       "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "Seedance 2.5 的分镜工作流，示范如何把概念拆成逐镜可执行的方案。",
+      "why": "Seedance 2.5 的分镜工作流，演示如何从一句概念推演到逐镜计划，流程清晰可复用。",
       "id": "6f5f39903e351a2c"
     },
     {
-      "title": "AI Portrait Prompts for Wardrobe, Light and Background",
-      "url": "https://generativeai.pub/ai-portrait-prompts-wardrobe-light-background-bbdd948db02c?source=rss------ai_art-5",
-      "why": "把服装、光线、背景拆成可复用的人像提示词模块，适合做角色一致性。",
-      "id": "3d91e4eb0c0626da"
-    },
-    {
-      "title": "How I Created an Impossible Underground City With AI",
-      "url": "https://medium.com/@ttrimm/how-i-created-an-impossible-underground-city-with-ai-a83dda63e55a?source=rss------ai_art-5",
-      "why": "完整复盘一个超现实大场景的生成过程，能学到层次与空间感的搭建方法。",
-      "id": "206dba56b9381238"
-    },
-    {
-      "title": "How to Texture AI Video Using Custom Seeds: Stop the Plastic Look",
-      "url": "https://medium.com/@thepineflick/how-to-texture-ai-video-using-custom-seeds-stop-the-plastic-look-3bafc5f74380?source=rss------video_production-5",
-      "why": "用自定义种子给 AI 视频加质感纹理，专治画面发亮发假的“塑料感”。",
-      "id": "aad44cda945338d4"
+      "title": "How to write AI video scenarios",
+      "url": "https://medium.com/@cubeberry/how-to-write-ai-video-scenarios-6d78fb8e5a91?source=rss------ai_video-5",
+      "why": "讲 AI 视频场景脚本的写法，补上从故事到分镜之间最容易被忽略的一环。",
+      "id": "9abc5938d346f949"
     }
   ]
 }
