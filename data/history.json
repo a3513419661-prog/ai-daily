@@ -3014,17 +3014,17 @@
     "title": "calesthio/OpenMontage",
     "url": "https://github.com/calesthio/OpenMontage",
     "summary": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-    "published": "2026-10-28T21:46:02Z",
+    "published": "2026-11-03T17:42:02Z",
     "source": "GitHub · AI 视频生成",
     "source_id": "github_search",
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 75529,
-    "extra": "★ 75,529",
+    "stars": 76120,
+    "extra": "★ 76,120",
     "category": "tools",
     "tags": [],
-    "score": 22.4,
+    "score": 36.05,
     "id": "aef8e4df52506b94",
     "first_seen": "2026-09-16"
   },
@@ -3032,21 +3032,21 @@
     "title": "Anil-matcha/Open-Generative-AI",
     "url": "https://github.com/Anil-matcha/Open-Generative-AI",
     "summary": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-    "published": "2026-11-01T10:09:15Z",
+    "published": "2026-11-03T08:58:14Z",
     "source": "GitHub · AI 视频生成",
     "source_id": "github_search",
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 32109,
-    "extra": "★ 32,109",
+    "stars": 32207,
+    "extra": "★ 32,207",
     "category": "drama",
     "tags": [
       "sora",
       "veo",
       "kling"
     ],
-    "score": 30.3,
+    "score": 36.09,
     "id": "8e1745e015e50e9e",
     "first_seen": "2026-09-16"
   },
@@ -3060,8 +3060,8 @@
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 20291,
-    "extra": "★ 20,291",
+    "stars": 20376,
+    "extra": "★ 20,376",
     "category": "drama",
     "tags": [
       "短剧",
@@ -3071,7 +3071,7 @@
       "分镜",
       "工作流"
     ],
-    "score": 44.36,
+    "score": 35.2,
     "id": "5ad371aea7505461",
     "first_seen": "2026-09-16"
   },
@@ -3103,13 +3103,13 @@
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 14676,
-    "extra": "★ 14,676",
+    "stars": 14680,
+    "extra": "★ 14,680",
     "category": "tools",
     "tags": [
       "editor"
     ],
-    "score": 37.13,
+    "score": 23.1,
     "id": "9a5900fa6a30722e",
     "first_seen": "2026-09-16"
   },
@@ -3123,8 +3123,8 @@
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 16297,
-    "extra": "★ 16,297",
+    "stars": 16702,
+    "extra": "★ 16,702",
     "category": "tools",
     "tags": [
       "capcut",
@@ -3201,19 +3201,19 @@
     "title": "hypit-ai/hypit",
     "url": "https://github.com/hypit-ai/hypit",
     "summary": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
-    "published": "2026-11-03T03:19:02Z",
+    "published": "2026-11-03T11:57:40Z",
     "source": "GitHub · AI 短剧/视频工具",
     "source_id": "github_search",
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 27637,
-    "extra": "★ 27,637",
+    "stars": 27838,
+    "extra": "★ 27,838",
     "category": "tools",
     "tags": [
       "workflow"
     ],
-    "score": 45.08,
+    "score": 31.58,
     "id": "16e11b90ef8df779",
     "first_seen": "2026-09-16"
   },
@@ -3227,11 +3227,11 @@
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 295916,
-    "extra": "★ 295,916",
+    "stars": 296727,
+    "extra": "★ 296,727",
     "category": "tools",
     "tags": [],
-    "score": 25.64,
+    "score": 23.8,
     "id": "3eb178ba4cd74e58",
     "first_seen": "2026-09-16"
   },
@@ -3239,20 +3239,20 @@
     "title": "Graphify-Labs/graphify",
     "url": "https://github.com/Graphify-Labs/graphify",
     "summary": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained,…",
-    "published": "2026-11-02T19:38:53Z",
+    "published": "2026-11-03T22:46:46Z",
     "source": "GitHub · Codex Skill",
     "source_id": "github_search",
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 141404,
-    "extra": "★ 141,404",
+    "stars": 141999,
+    "extra": "★ 141,999",
     "category": "tools",
     "tags": [
       "explained",
       "cli"
     ],
-    "score": 41.68,
+    "score": 44.82,
     "id": "79cd21bd93d525b2",
     "first_seen": "2026-09-16"
   },
@@ -3266,11 +3266,11 @@
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 55886,
-    "extra": "★ 55,886",
+    "stars": 56023,
+    "extra": "★ 56,023",
     "category": "tools",
     "tags": [],
-    "score": 28.25,
+    "score": 22.4,
     "id": "9bda2e5da9e8aad0",
     "first_seen": "2026-09-16"
   },
@@ -3284,13 +3284,13 @@
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 36785,
-    "extra": "★ 36,785",
+    "stars": 36829,
+    "extra": "★ 36,829",
     "category": "tools",
     "tags": [
       "cli"
     ],
-    "score": 30.8,
+    "score": 25.9,
     "id": "d43ec40bf2d10076",
     "first_seen": "2026-09-16"
   },
@@ -3318,17 +3318,17 @@
     "title": "Nutlope/hallmark",
     "url": "https://github.com/Nutlope/hallmark",
     "summary": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-    "published": "2026-10-29T16:50:04Z",
+    "published": "2026-11-03T09:01:00Z",
     "source": "GitHub · Codex Skill",
     "source_id": "github_search",
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 46283,
-    "extra": "★ 46,283",
+    "stars": 47244,
+    "extra": "★ 47,244",
     "category": "tools",
     "tags": [],
-    "score": 23.8,
+    "score": 29.63,
     "id": "004684cfd466280d",
     "first_seen": "2026-09-16"
   },
@@ -3342,8 +3342,8 @@
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 90062,
-    "extra": "★ 90,062",
+    "stars": 90382,
+    "extra": "★ 90,382",
     "category": "tools",
     "tags": [
       "cli"
@@ -3356,19 +3356,19 @@
     "title": "sickn33/agentic-awesome-skills",
     "url": "https://github.com/sickn33/agentic-awesome-skills",
     "summary": "2,884+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.",
-    "published": "2026-11-03T02:29:39Z",
+    "published": "2026-11-04T05:13:19Z",
     "source": "GitHub · Codex 生态",
     "source_id": "github_search",
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 49064,
-    "extra": "★ 49,064",
+    "stars": 49119,
+    "extra": "★ 49,119",
     "category": "tools",
     "tags": [
       "cli"
     ],
-    "score": 47.84,
+    "score": 50.62,
     "id": "b43cfacc12a5a525",
     "first_seen": "2026-09-16"
   },
@@ -3376,37 +3376,37 @@
     "title": "Yuan1z0825/nature-skills",
     "url": "https://github.com/Yuan1z0825/nature-skills",
     "summary": "符合nature论文学术表达和科研绘图的Skill",
-    "published": "2026-11-02T03:21:16Z",
+    "published": "2026-11-04T07:09:33Z",
     "source": "GitHub · Codex 生态",
     "source_id": "github_search",
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 51944,
-    "extra": "★ 51,944",
+    "stars": 52100,
+    "extra": "★ 52,100",
     "category": "tools",
     "tags": [],
-    "score": 21.41,
+    "score": 46.76,
     "id": "badb0e3c83b528bf",
     "first_seen": "2026-09-16"
   },
   "869009886d3a05ee": {
     "title": "alirezarezvani/claude-skills",
     "url": "https://github.com/alirezarezvani/claude-skills",
-    "summary": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketin…",
-    "published": "2026-11-03T07:32:01Z",
+    "summary": "410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing,…",
+    "published": "2026-11-03T17:59:48Z",
     "source": "GitHub · Codex 生态",
     "source_id": "github_search",
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 29193,
-    "extra": "★ 29,193",
+    "stars": 29257,
+    "extra": "★ 29,257",
     "category": "tools",
     "tags": [
       "cli"
     ],
-    "score": 51.68,
+    "score": 39.82,
     "id": "869009886d3a05ee",
     "first_seen": "2026-09-16"
   },
@@ -3420,13 +3420,13 @@
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 27227,
-    "extra": "★ 27,227",
+    "stars": 27256,
+    "extra": "★ 27,256",
     "category": "tools",
     "tags": [
       "github"
     ],
-    "score": 37.28,
+    "score": 22.4,
     "id": "43483c84438751e9",
     "first_seen": "2026-09-16"
   },
@@ -29994,14 +29994,14 @@
     "title": "thedotmack/claude-mem",
     "url": "https://github.com/thedotmack/claude-mem",
     "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, C…",
-    "published": "2026-11-03T07:46:46Z",
+    "published": "2026-11-04T07:25:13Z",
     "source": "GitHub Trending",
     "source_id": "github_trending",
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 111093,
-    "extra": "今日 +1,803 · TypeScript",
+    "stars": 112225,
+    "extra": "今日 +1,139 · TypeScript",
     "category": "tools",
     "tags": [
       "future"
@@ -31205,17 +31205,17 @@
     "title": "tt-a1i/archify",
     "url": "https://github.com/tt-a1i/archify",
     "summary": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-    "published": "2026-11-02T16:05:04Z",
+    "published": "2026-11-03T23:41:50Z",
     "source": "GitHub · Codex Skill",
     "source_id": "github_search",
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 92881,
-    "extra": "★ 92,881",
+    "stars": 93233,
+    "extra": "★ 93,233",
     "category": "tools",
     "tags": [],
-    "score": 34.97,
+    "score": 42.15,
     "id": "4c39e73047dd30a6",
     "first_seen": "2026-10-05"
   },
@@ -35818,8 +35818,8 @@
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 13311,
-    "extra": "★ 13,311",
+    "stars": 13471,
+    "extra": "★ 13,471",
     "category": "tools",
     "tags": [],
     "score": 21.7,
@@ -37454,17 +37454,17 @@
     "title": "yi1108/printfilm",
     "url": "https://github.com/yi1108/printfilm",
     "summary": "PRINTFILM: AI short-video marketing and AI short-drama creation platform",
-    "published": "2026-11-03T07:26:49Z",
+    "published": "2026-11-04T02:04:28Z",
     "source": "GitHub · AI 短剧/视频工具",
     "source_id": "github_search",
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 7401,
-    "extra": "★ 7,401",
+    "stars": 7416,
+    "extra": "★ 7,416",
     "category": "tools",
     "tags": [],
-    "score": 44.33,
+    "score": 39.83,
     "id": "6446b9e5b5fd10b4",
     "first_seen": "2026-10-09"
   },
@@ -58216,14 +58216,14 @@
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 11342,
-    "extra": "★ 11,342",
+    "stars": 11949,
+    "extra": "★ 11,949",
     "category": "tools",
     "tags": [
       "video model",
       "prompt"
     ],
-    "score": 25.46,
+    "score": 25.87,
     "id": "d8879aa04fa3b557",
     "first_seen": "2026-10-25"
   },
@@ -64945,7 +64945,7 @@
     "extra": "今日 +922 · TypeScript",
     "category": "tools",
     "tags": [],
-    "score": 25.11,
+    "score": 20.94,
     "id": "2a2ed58c0d05dc61",
     "first_seen": "2026-10-30"
   },
@@ -64963,7 +64963,7 @@
     "extra": "今日 +175 · TypeScript",
     "category": "tools",
     "tags": [],
-    "score": 25.05,
+    "score": 20.88,
     "id": "ab910b95a8e2673b",
     "first_seen": "2026-10-30"
   },
@@ -64971,14 +64971,14 @@
     "title": "Donchitos/Claude-Code-Game-Studios",
     "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
     "summary": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-    "published": "2026-11-03T07:46:46Z",
+    "published": "2026-11-04T07:25:13Z",
     "source": "GitHub Trending",
     "source_id": "github_trending",
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 33931,
-    "extra": "今日 +1,379 · Shell",
+    "stars": 34938,
+    "extra": "今日 +1,182 · Shell",
     "category": "tools",
     "tags": [
       "workflow"
@@ -66459,7 +66459,7 @@
     "extra": "今日 +825 · Zig",
     "category": "tools",
     "tags": [],
-    "score": 25.87,
+    "score": 21.7,
     "id": "532374c45383208d",
     "first_seen": "2026-10-31"
   },
@@ -68669,7 +68669,7 @@
     "craft_source": true,
     "category": "directing",
     "tags": [],
-    "score": 12.8,
+    "score": 10.7,
     "id": "e15306c681d8b290",
     "first_seen": "2026-11-02",
     "zh": "先写“呕吐初稿”再迭代的写作法，能把剧本和长文的启动成本压到最低。"
@@ -68823,7 +68823,7 @@
     "craft_source": true,
     "category": "editing",
     "tags": [],
-    "score": 13.83,
+    "score": 10.0,
     "id": "decd9a6d161ec401",
     "first_seen": "2026-11-02",
     "zh": "从 Reels 链接直接扒出高质量原始音频的实操方法，方便二次剪辑时不被压缩音质拖累。"
@@ -68896,7 +68896,7 @@
       "capcut",
       "trend"
     ],
-    "score": 18.1,
+    "score": 14.0,
     "id": "1f24f9058f5af4e3",
     "first_seen": "2026-11-02",
     "zh": "一张照片生成 TikTok / Reels 爆款模板的流程，重点在挑趋势与卡点节奏。"
@@ -68919,7 +68919,7 @@
     "tags": [
       "docker"
     ],
-    "score": 15.6,
+    "score": 12.1,
     "id": "ecf6ee8fc9fc1faa",
     "first_seen": "2026-11-02"
   },
@@ -68942,7 +68942,7 @@
       "prompt",
       "guide"
     ],
-    "score": 17.85,
+    "score": 14.9,
     "id": "8c8dbcc78a2b1b83",
     "first_seen": "2026-11-02",
     "zh": "给 AI 智能体划边界的工程思路，做自动化工作流时可用它防止越权操作。"
@@ -68963,7 +68963,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 13.33,
+    "score": 10.7,
     "id": "4251f9faad302d57",
     "first_seen": "2026-11-02",
     "zh": "讨论人在自动化流程外的位置，适合反思哪些判断不该交给 AI 代劳。"
@@ -68984,7 +68984,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 13.19,
+    "score": 10.7,
     "id": "d574cd39d5637470",
     "first_seen": "2026-11-02",
     "zh": "保险行业 AI 助手工具清单，跨行参考价值有限，可略过。"
@@ -69005,7 +69005,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 13.01,
+    "score": 10.7,
     "id": "0490bfda7eb9129b",
     "first_seen": "2026-11-02",
     "zh": "开发者用 AI 提效后对作品归属感的调查，涉及创作署名与心态问题。"
@@ -69026,7 +69026,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 12.22,
+    "score": 10.0,
     "id": "a1aba9d4a900d798",
     "first_seen": "2026-11-02",
     "zh": "腾讯混元开源交互式世界视频模型的技术解剖，看视频生成在可控性上的新思路。"
@@ -69047,7 +69047,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 11.69,
+    "score": 10.7,
     "id": "1c5643660e101d3c",
     "first_seen": "2026-11-02"
   },
@@ -69067,7 +69067,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 12.59,
+    "score": 11.2,
     "id": "1e93d183358979ab",
     "first_seen": "2026-11-02",
     "zh": "一则关于技能与模型演进的随笔，思辨为主，实操信息较少。"
@@ -69090,7 +69090,7 @@
     "tags": [
       "explained"
     ],
-    "score": 13.88,
+    "score": 13.3,
     "id": "967bde50960a37ad",
     "first_seen": "2026-11-02",
     "zh": "用温度参数解释输出为何忽稳忽飘，调提示词前先搞懂这个旋钮怎么影响结果。"
@@ -69271,7 +69271,7 @@
     "tags": [
       "github"
     ],
-    "score": 17.86,
+    "score": 13.9,
     "id": "970ece994287d0f7",
     "first_seen": "2026-11-02"
   },
@@ -69293,7 +69293,7 @@
     "tags": [
       "image-to-video"
     ],
-    "score": 18.05,
+    "score": 14.1,
     "id": "ff1cbf57847a7612",
     "first_seen": "2026-11-02"
   },
@@ -69315,7 +69315,7 @@
     "tags": [
       "how to"
     ],
-    "score": 14.8,
+    "score": 11.1,
     "id": "178490f0a891fb89",
     "first_seen": "2026-11-02",
     "zh": "给 WordPress 博客加 AI 旁白的落地步骤，含插件选择与配音自然度调整。"
@@ -69338,7 +69338,7 @@
     "tags": [
       "how to"
     ],
-    "score": 15.41,
+    "score": 11.8,
     "id": "fdca9aa16b5cbcfc",
     "first_seen": "2026-11-02",
     "zh": "用 Python 批量抓取 YouTube 字幕做 RAG 与摘要，附可复用的脚本思路。"
@@ -69361,7 +69361,7 @@
     "tags": [
       "how to"
     ],
-    "score": 16.25,
+    "score": 12.6,
     "id": "bcd780fbe0e24410",
     "first_seen": "2026-11-02",
     "zh": "让 Claude 用代码生成动效而完全不产像素，学一种可复现、可参数化的做法。"
@@ -69384,7 +69384,7 @@
     "tags": [
       "prompt"
     ],
-    "score": 14.96,
+    "score": 12.6,
     "id": "b1805c68d873f8b3",
     "first_seen": "2026-11-02",
     "zh": "Higgsfield 保持角色跨镜头一致的提示词写法，解决 AI 视频最容易穿帮的脸变问题。"
@@ -69407,7 +69407,7 @@
     "tags": [
       "how to"
     ],
-    "score": 13.21,
+    "score": 12.6,
     "id": "439235229fb5ae00",
     "first_seen": "2026-11-02",
     "zh": "一张照片做成万圣节变装视频，横向对比五款工具在形变与口型上的表现。"
@@ -69552,7 +69552,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 14.58,
+    "score": 10.7,
     "id": "6d2c2964978cbf5a",
     "first_seen": "2026-11-02",
     "zh": "卖 AI 装饰画的选品与上架流程拆解，可当作副业变现案例看而非教程。"
@@ -69577,7 +69577,7 @@
       "lora",
       "controlnet"
     ],
-    "score": 17.46,
+    "score": 14.9,
     "id": "a8fc4c1024cddca1",
     "first_seen": "2026-11-02",
     "zh": "在家用 ComfyUI + LoRA + ControlNet 画漫画的完整路线图，重点讲角色与构图如何可控。"
@@ -69678,7 +69678,7 @@
     "default_category": null,
     "category": "trend",
     "tags": [],
-    "score": 14.5,
+    "score": 11.2,
     "id": "0fa6036fde4f18d5",
     "first_seen": "2026-11-02"
   },
@@ -69701,7 +69701,7 @@
       "如何",
       "拆解"
     ],
-    "score": 18.65,
+    "score": 15.4,
     "id": "3e503d5bc8317377",
     "first_seen": "2026-11-02",
     "zh": "产品经理判断要不要做 AI 功能的决策框架，帮你分清真需求与技术自嗨。"
@@ -69723,7 +69723,7 @@
     "tags": [
       "漫剧"
     ],
-    "score": 20.02,
+    "score": 17.0,
     "id": "f19647abeadc609a",
     "first_seen": "2026-11-02"
   },
@@ -69745,7 +69745,7 @@
       "如何",
       "拆解"
     ],
-    "score": 15.47,
+    "score": 14.7,
     "id": "8ad27c652211faea",
     "first_seen": "2026-11-02",
     "zh": "从“佛得角”这个提问例子说明：提示词的上限取决于你自己的知识广度。"
@@ -69768,7 +69768,7 @@
       "调度",
       "商业化"
     ],
-    "score": 15.08,
+    "score": 12.7,
     "id": "af7c2de87bda297c",
     "first_seen": "2026-11-02"
   },
@@ -69830,7 +69830,7 @@
     "extra": "今日 +412 · Python",
     "category": "tools",
     "tags": [],
-    "score": 47.7,
+    "score": 26.42,
     "id": "64fec6e3f549a31a",
     "first_seen": "2026-11-02"
   },
@@ -69848,7 +69848,7 @@
     "extra": "今日 +446 · Python",
     "category": "tools",
     "tags": [],
-    "score": 23.56,
+    "score": 19.39,
     "id": "1cc8167e7bc5ba7c",
     "first_seen": "2026-11-02"
   },
@@ -69866,7 +69866,7 @@
     "extra": "今日 +1,191 · Jupyter Notebook",
     "category": "tools",
     "tags": [],
-    "score": 26.57,
+    "score": 22.4,
     "id": "e393d6dea6fa16e6",
     "first_seen": "2026-11-02"
   },
@@ -69889,9 +69889,10 @@
       "editing",
       "learn"
     ],
-    "score": 37.11,
+    "score": 15.83,
     "id": "a8b475fd426ba052",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "培训机构招生页，没有可跟练的步骤，建议跳过。"
   },
   "ed620cd5bca415b7": {
     "title": "Anyone Can Cut A Reel. Few Can Make People Watch Till the End.",
@@ -69909,9 +69910,10 @@
     "craft_source": true,
     "category": "editing",
     "tags": [],
-    "score": 33.11,
+    "score": 11.83,
     "id": "ed620cd5bca415b7",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "讲完播率的核心：开头几秒的钩子设计与节奏留人，做短视频可直接套用。"
   },
   "d0969f25dca24cec": {
     "title": "A Missing Shot Is Not a Blank Prompt",
@@ -69931,9 +69933,10 @@
     "tags": [
       "prompt"
     ],
-    "score": 34.98,
+    "score": 13.7,
     "id": "d0969f25dca24cec",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "缺一个镜头时别急着改提示词，学如何判断问题出在素材、提示还是流程。"
   },
   "a21a555a721dccd7": {
     "title": "When One Agent Leads: How Four AI Coding Tools Made a Three-Minute Video",
@@ -69951,9 +69954,10 @@
     "craft_source": true,
     "category": "editing",
     "tags": [],
-    "score": 34.49,
+    "score": 13.5,
     "id": "a21a555a721dccd7",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "四个 AI 编码工具接力完成一支三分钟短片，可看多智能体如何分工与串流程。"
   },
   "e3aa7702eaf8eecf": {
     "title": "Stop Reaching for the Keyboard: A Practical Guide to Premiere Pro Mouse Shortcuts on the Mouse You…",
@@ -69974,9 +69978,10 @@
       "premiere pro",
       "guide"
     ],
-    "score": 28.46,
+    "score": 12.8,
     "id": "e3aa7702eaf8eecf",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "Premiere 鼠标手势替代快捷键的实操清单，改键位前先试这套操作。"
   },
   "61ea15788d6711ac": {
     "title": "Before You Make an AI Film With Google Flow, Do This: A Professional Workflow for Consistent…",
@@ -69996,7 +70001,7 @@
     "tags": [
       "workflow"
     ],
-    "score": 23.46,
+    "score": 12.1,
     "id": "61ea15788d6711ac",
     "first_seen": "2026-11-03"
   },
@@ -70016,9 +70021,10 @@
     "craft_source": true,
     "category": "directing",
     "tags": [],
-    "score": 32.16,
+    "score": 10.88,
     "id": "5fa9a55b227090f6",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "一则命题写作练习，可当作导演/编剧的限时训练题目来用。"
   },
   "7ed83595b879ee05": {
     "title": "Why The Cycle’s Director Broke His Werewolf Transformation Into 18 Steps",
@@ -70038,9 +70044,10 @@
     "tags": [
       "director"
     ],
-    "score": 23.57,
+    "score": 12.4,
     "id": "7ed83595b879ee05",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "把狼人变身拆成 18 个步骤，学复杂特效镜头如何分解与排执行顺序。"
   },
   "840151b53a20426f": {
     "title": "One Credit Strategy Does Not Fit Every Video. Here Is How to Adapt It",
@@ -70061,7 +70068,7 @@
       "how to",
       "strategy"
     ],
-    "score": 21.41,
+    "score": 12.8,
     "id": "840151b53a20426f",
     "first_seen": "2026-11-03"
   },
@@ -70084,9 +70091,10 @@
       "guide",
       "how to"
     ],
-    "score": 39.34,
+    "score": 18.06,
     "id": "83d34d225f00bd29",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "Claude Artifacts 分步入门，能快速做出小工具原型验证想法。"
   },
   "625b83d91c70e458": {
     "title": "The Boundary Is the Prompt: Conway’s Law, Microservices, and the Agent That Can Only Hold So Much",
@@ -70106,9 +70114,10 @@
     "tags": [
       "prompt"
     ],
-    "score": 38.55,
+    "score": 17.27,
     "id": "625b83d91c70e458",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "借康威定律理解提示词的边界，帮你判断一个 Agent 该承担多少任务。"
   },
   "24614435e597cf23": {
     "title": "How Your AI Agent’s Context Breaks: 4 Failure Modes and How to Diagnose Them",
@@ -70128,9 +70137,10 @@
     "tags": [
       "how to"
     ],
-    "score": 38.14,
+    "score": 16.86,
     "id": "24614435e597cf23",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "上下文崩坏的四种失败模式与排查法，跑长任务前值得先看。"
   },
   "cbefbe6f83a91e67": {
     "title": "Food Advertising Design: 7 Techniques to Create Mouthwatering Visuals",
@@ -70148,9 +70158,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 34.98,
+    "score": 13.7,
     "id": "cbefbe6f83a91e67",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "美食视觉的七个质感与布光技巧，可直接用于产品与食物镜头。"
   },
   "c63a88e275f66bce": {
     "title": "Agent Skills: The Folder That Replaced Your Prompt Library",
@@ -70170,9 +70181,10 @@
     "tags": [
       "prompt"
     ],
-    "score": 38.31,
+    "score": 17.03,
     "id": "c63a88e275f66bce",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "用文件夹结构取代提示词库，学可复用、可维护的 Agent 技能组织法。"
   },
   "abfb4808edd02677": {
     "title": "Why We Do Not Recommend Midjourney’s “Weirdness” ( — w) for Architectural Visualization",
@@ -70190,9 +70202,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 34.48,
+    "score": 13.2,
     "id": "abfb4808edd02677",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "建筑可视化为何不该开 Midjourney 的 weirdness，参数误用避坑。"
   },
   "27df6e26f6b4a904": {
     "title": "Stylize in Midjourney V8.2: The Parameter Most People Still Misunderstand",
@@ -70210,9 +70223,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 34.21,
+    "score": 12.93,
     "id": "27df6e26f6b4a904",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "讲透 stylize 参数对风格强度的影响，调参前先看这篇再动手。"
   },
   "f3720f13f942ec25": {
     "title": "System Prompts",
@@ -70230,9 +70244,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 33.46,
+    "score": 12.18,
     "id": "f3720f13f942ec25",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "系统提示词的写法要点，用来提升 AI 输出的稳定性与可控性。"
   },
   "e5fec3b049a81648": {
     "title": "Leonardo or Midjourney? Don’t Pay for Either on Day One.",
@@ -70250,9 +70265,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 35.9,
+    "score": 14.63,
     "id": "e5fec3b049a81648",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "先别急着付费，用免费额度对比 Leonardo 与 Midjourney 的选型思路。"
   },
   "38c227a5aa928387": {
     "title": "The AI Model Was Approved. But Who Approved the Execution Environment?",
@@ -70270,7 +70286,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 32.43,
+    "score": 11.15,
     "id": "38c227a5aa928387",
     "first_seen": "2026-11-03"
   },
@@ -70290,7 +70306,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 31.06,
+    "score": 10.0,
     "id": "49f9c93519b4c207",
     "first_seen": "2026-11-03"
   },
@@ -70310,7 +70326,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 22.14,
+    "score": 10.0,
     "id": "8a07f660831b80dc",
     "first_seen": "2026-11-03"
   },
@@ -70330,7 +70346,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 22.15,
+    "score": 10.7,
     "id": "6ebef7dcd3b75854",
     "first_seen": "2026-11-03"
   },
@@ -70352,9 +70368,10 @@
     "tags": [
       "course"
     ],
-    "score": 37.99,
+    "score": 16.72,
     "id": "141b342f1dacff2a",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "泰卢固语课程，讲嵌入与语义检索的基本概念，适合零基础补原理。"
   },
   "047fc55232cd6663": {
     "title": "Plan first, render later: how we turn one sentence into a multi-shot AI ad video",
@@ -70374,9 +70391,10 @@
     "tags": [
       "text-to-video"
     ],
-    "score": 37.41,
+    "score": 16.13,
     "id": "047fc55232cd6663",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "一句话到多镜头 AI 广告：先规划分镜再逐个渲染的完整工作流。"
   },
   "e13fdc936dfc14d4": {
     "title": "How B2B SaaS Comparison and Alternatives Pages Earn AI Citations in 2027",
@@ -70394,9 +70412,10 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 35.33,
+    "score": 14.05,
     "id": "e13fdc936dfc14d4",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "讲 B2B 对比页如何被 AI 引用，属 SEO 话题，与影像创作无关。"
   },
   "8d6a377042a25849": {
     "title": "Behind the Scenes of an AI Chatbot: How AWS Bedrock Connects Your Application to AI Models",
@@ -70414,7 +70433,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 33.24,
+    "score": 11.96,
     "id": "8d6a377042a25849",
     "first_seen": "2026-11-03"
   },
@@ -70436,7 +70455,7 @@
     "tags": [
       "how to"
     ],
-    "score": 33.26,
+    "score": 12.1,
     "id": "0bf8d32350f5bcfc",
     "first_seen": "2026-11-03"
   },
@@ -70456,7 +70475,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 32.01,
+    "score": 11.4,
     "id": "408b76a5d2cb9ce7",
     "first_seen": "2026-11-03"
   },
@@ -70478,7 +70497,7 @@
     "tags": [
       "how to"
     ],
-    "score": 20.74,
+    "score": 12.1,
     "id": "b7c7762c5a47ca09",
     "first_seen": "2026-11-03"
   },
@@ -70500,7 +70519,7 @@
     "tags": [
       "learn"
     ],
-    "score": 20.09,
+    "score": 12.8,
     "id": "ec68eea6c2ec8960",
     "first_seen": "2026-11-03"
   },
@@ -70522,9 +70541,10 @@
     "tags": [
       "workflow"
     ],
-    "score": 34.07,
+    "score": 12.79,
     "id": "bdc0e38fac623674",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "一张照片生成节日舞蹈短片的简易流程，适合快速产出节点内容。"
   },
   "fcc133b14d1ad162": {
     "title": "How to Generate AI Video in One Workspace: A Runway, Pika and Sora Alternative",
@@ -70549,7 +70569,7 @@
       "workflow",
       "how to"
     ],
-    "score": 40.34,
+    "score": 24.0,
     "id": "fcc133b14d1ad162",
     "first_seen": "2026-11-03"
   },
@@ -70569,7 +70589,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 19.76,
+    "score": 11.2,
     "id": "5e00d500cc292ef6",
     "first_seen": "2026-11-03"
   },
@@ -70589,7 +70609,7 @@
     "craft_source": false,
     "category": "aicraft",
     "tags": [],
-    "score": 17.42,
+    "score": 11.2,
     "id": "195b4e2c4c11484c",
     "first_seen": "2026-11-03"
   },
@@ -70612,9 +70632,10 @@
       "filmmaking",
       "star"
     ],
-    "score": 39.04,
+    "score": 17.77,
     "id": "747331408fac13f1",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "AI 影展回顾，偏行业观察与版权讨论，可借鉴的创作方法不多。"
   },
   "28a49514eaed7e77": {
     "title": "Rough Cuts on a Freelancer’s Clock – Understanding Adobe Premiere’s AI tools",
@@ -70632,9 +70653,10 @@
     "craft_source": true,
     "category": "editing",
     "tags": [],
-    "score": 19.81,
+    "score": 10.7,
     "id": "28a49514eaed7e77",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "用 Premiere 的 AI 功能压缩粗剪时间，适合自由职业者的赶工流程。"
   },
   "ac2312e5f4a9fc03": {
     "title": "โมเดล AI ฟรอนเทียร์ปลายปี 2026: ทำไมอันดับบน Artificial Analysis เปลี่ยนทั้งกระดาน?",
@@ -70653,7 +70675,7 @@
     "tags": [
       "analysis"
     ],
-    "score": 36.86,
+    "score": 15.58,
     "id": "ac2312e5f4a9fc03",
     "first_seen": "2026-11-03"
   },
@@ -70674,9 +70696,10 @@
     "tags": [
       "guide"
     ],
-    "score": 37.55,
+    "score": 16.28,
     "id": "a7f642d198153981",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "RAG 与微调怎么选：给出判断标准与适用场景对照，方便决策。"
   },
   "2dfbf760c28b043d": {
     "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
@@ -70694,9 +70717,10 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 34.48,
+    "score": 13.2,
     "id": "2dfbf760c28b043d",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "用声音泄露位置的演示，趣味科普为主，与创作流程关系不大。"
   },
   "53edf1c70aa1af77": {
     "title": "October sponsors-only newsletter",
@@ -70714,9 +70738,10 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 34.43,
+    "score": 13.15,
     "id": "53edf1c70aa1af77",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "赞助者专属通讯，无公开可读内容，跳过即可。"
   },
   "3fef9c6c81204c8d": {
     "title": "llm 0.37",
@@ -70736,7 +70761,7 @@
     "tags": [
       "cli"
     ],
-    "score": 32.14,
+    "score": 13.3,
     "id": "3fef9c6c81204c8d",
     "first_seen": "2026-11-03"
   },
@@ -70756,7 +70781,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 20.77,
+    "score": 11.2,
     "id": "95540dac1c623dab",
     "first_seen": "2026-11-03"
   },
@@ -70776,7 +70801,7 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 29.99,
+    "score": 11.0,
     "id": "dd4cc698b53261c1",
     "first_seen": "2026-11-03"
   },
@@ -70799,9 +70824,10 @@
       "workflow",
       "guide"
     ],
-    "score": 38.9,
+    "score": 17.63,
     "id": "f63032c4842b4b5b",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "从零搭一个企业级 Agent 的分步指南，偏工程实现。"
   },
   "23d0d28f7c44f8c4": {
     "title": "Starting a New AI Coding Session Without Losing the Details",
@@ -70819,9 +70845,10 @@
     "craft_source": false,
     "category": "learning",
     "tags": [],
-    "score": 35.02,
+    "score": 13.74,
     "id": "23d0d28f7c44f8c4",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "换新会话不丢上下文：学怎么写交接笔记，让 AI 接着上次继续干。"
   },
   "7b481a51b5f50607": {
     "title": "从模型调用到任务交付：MaaS 如何走进 Agent 生产",
@@ -70840,9 +70867,10 @@
     "tags": [
       "如何"
     ],
-    "score": 38.1,
+    "score": 23.02,
     "id": "7b481a51b5f50607",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "从模型调用到任务交付，讲 MaaS 走进 Agent 生产的落地路径。"
   },
   "3b84ab6ebb80e896": {
     "title": "Anthropic团队零Rust经验起步，靠Claude完成核心API跨语言重构：CPU省40%，延迟降20%",
@@ -70859,7 +70887,7 @@
     "default_category": null,
     "category": "trend",
     "tags": [],
-    "score": 36.7,
+    "score": 19.99,
     "id": "3b84ab6ebb80e896",
     "first_seen": "2026-11-03"
   },
@@ -70880,7 +70908,7 @@
     "tags": [
       "提示词"
     ],
-    "score": 16.06,
+    "score": 11.8,
     "id": "f29c7cda2980c613",
     "first_seen": "2026-11-03"
   },
@@ -70901,7 +70929,7 @@
     "tags": [
       "部署"
     ],
-    "score": 36.48,
+    "score": 15.2,
     "id": "815bcc632835341c",
     "first_seen": "2026-11-03"
   },
@@ -70923,7 +70951,7 @@
       "github",
       "市场"
     ],
-    "score": 38.89,
+    "score": 17.62,
     "id": "8f2e20133b5faaa9",
     "first_seen": "2026-11-03"
   },
@@ -70944,7 +70972,7 @@
     "tags": [
       "插件"
     ],
-    "score": 37.03,
+    "score": 15.75,
     "id": "ef0808e2002c1396",
     "first_seen": "2026-11-03"
   },
@@ -70968,9 +70996,10 @@
       "如何",
       "分析"
     ],
-    "score": 43.66,
+    "score": 22.38,
     "id": "df2987be634d7f1d",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "金融智能体的场景设计与风险治理，与分镜视觉无关，可跳过。"
   },
   "446434e206593331": {
     "title": "帮你的 DeepSeek Harness 做出有设计感、没 AI 味的东西",
@@ -70989,7 +71018,7 @@
     "tags": [
       "插件"
     ],
-    "score": 39.86,
+    "score": 18.59,
     "id": "446434e206593331",
     "first_seen": "2026-11-03"
   },
@@ -71008,7 +71037,7 @@
     "default_category": null,
     "category": "trend",
     "tags": [],
-    "score": 36.32,
+    "score": 15.04,
     "id": "f5d860a980dcae56",
     "first_seen": "2026-11-03"
   },
@@ -71031,7 +71060,7 @@
       "github",
       "分析"
     ],
-    "score": 41.69,
+    "score": 20.41,
     "id": "89910975a2964307",
     "first_seen": "2026-11-03"
   },
@@ -71055,7 +71084,7 @@
       "报告",
       "市场"
     ],
-    "score": 44.44,
+    "score": 23.16,
     "id": "853b21ed86c8ae59",
     "first_seen": "2026-11-03"
   },
@@ -71077,7 +71106,7 @@
       "拆解",
       "竞争"
     ],
-    "score": 37.07,
+    "score": 15.79,
     "id": "50ada4c587d86e21",
     "first_seen": "2026-11-03"
   },
@@ -71100,7 +71129,7 @@
       "市场",
       "定价"
     ],
-    "score": 33.57,
+    "score": 13.9,
     "id": "d2e5de7a112a3cbf",
     "first_seen": "2026-11-03"
   },
@@ -71121,9 +71150,10 @@
     "tags": [
       "如何"
     ],
-    "score": 37.21,
+    "score": 15.93,
     "id": "21a76680aae0ade5",
-    "first_seen": "2026-11-03"
+    "first_seen": "2026-11-03",
+    "zh": "券商把 Gemini 用于投资场景的案例，偏宣传，方法可迁移性有限。"
   },
   "a7b38a083644f977": {
     "title": "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程",
@@ -71142,7 +71172,7 @@
     "tags": [
       "深度"
     ],
-    "score": 34.2,
+    "score": 13.6,
     "id": "a7b38a083644f977",
     "first_seen": "2026-11-03"
   },
@@ -71163,7 +71193,7 @@
     "tags": [
       "开源"
     ],
-    "score": 37.53,
+    "score": 16.26,
     "id": "7bd7269e271881b2",
     "first_seen": "2026-11-03"
   },
@@ -71186,7 +71216,7 @@
       "ai短剧",
       "视频生成"
     ],
-    "score": 40.27,
+    "score": 18.99,
     "id": "a12433a0841d11fb",
     "first_seen": "2026-11-03"
   },
@@ -71209,7 +71239,7 @@
       "调度",
       "提示词"
     ],
-    "score": 41.28,
+    "score": 20.0,
     "id": "01c0a840da5ce04d",
     "first_seen": "2026-11-03"
   },
@@ -71217,19 +71247,19 @@
     "title": "vercel-labs/agent-desktop",
     "url": "https://github.com/vercel-labs/agent-desktop",
     "summary": "Computer use CLI for AI agents",
-    "published": "2026-11-03T07:46:46Z",
+    "published": "2026-11-04T07:25:13Z",
     "source": "GitHub Trending",
     "source_id": "github_trending",
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 10918,
-    "extra": "今日 +2,275 · Rust",
+    "stars": 13464,
+    "extra": "今日 +3,791 · Rust",
     "category": "tools",
     "tags": [
       "cli"
     ],
-    "score": 49.07,
+    "score": 49.8,
     "id": "885299c2ed9802de",
     "first_seen": "2026-11-03"
   },
@@ -71237,19 +71267,19 @@
     "title": "max-sixty/worktrunk",
     "url": "https://github.com/max-sixty/worktrunk",
     "summary": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-    "published": "2026-11-03T07:46:46Z",
+    "published": "2026-11-04T07:25:13Z",
     "source": "GitHub Trending",
     "source_id": "github_trending",
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 10169,
-    "extra": "今日 +77 · Rust",
+    "stars": 10668,
+    "extra": "今日 +438 · Rust",
     "category": "tools",
     "tags": [
       "cli"
     ],
-    "score": 48.58,
+    "score": 48.91,
     "id": "5a4dedc905e2f041",
     "first_seen": "2026-11-03"
   },
@@ -71267,7 +71297,7 @@
     "extra": "今日 +321 · Python",
     "category": "tools",
     "tags": [],
-    "score": 47.7,
+    "score": 26.42,
     "id": "0c8d1e79c615e624",
     "first_seen": "2026-11-03"
   },
@@ -71281,12 +71311,1729 @@
     "lang": "en",
     "weight": 1.0,
     "kind": "repo",
-    "stars": 11284,
-    "extra": "★ 11,284",
+    "stars": 11301,
+    "extra": "★ 11,301",
     "category": "tools",
     "tags": [],
-    "score": 35.4,
+    "score": 20.53,
     "id": "9779ef64e5cb14b1",
     "first_seen": "2026-11-03"
+  },
+  "3ef5a25f9c4950d8": {
+    "title": "How to Finish an AI Fashion Video After Generation",
+    "url": "https://danielcolestudio.medium.com/finish-ai-fashion-video-after-generation-a0805cd01c09?source=rss------film_making-5",
+    "summary": "Treat generated footage as source material, then plan the edit, sound, rights, and final review. Continue reading on Medium »",
+    "published": "2026-11-04T01:55:06Z",
+    "source": "Medium · 影视制作",
+    "source_id": "medium_film_making",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "directing",
+    "craft_source": true,
+    "category": "learning",
+    "tags": [
+      "how to"
+    ],
+    "score": 33.14,
+    "id": "3ef5a25f9c4950d8",
+    "first_seen": "2026-11-04"
+  },
+  "44612bf883c633f6": {
+    "title": "How the Right Music Can Improve Your Video Quality and Audience Engagement",
+    "url": "https://medium.com/@tracknitsocial/how-the-right-music-can-improve-your-video-quality-and-audience-engagement-21509eadacde?source=rss------video_editing-5",
+    "summary": "Discover how royalty-free music, background soundtracks, and professional sound effects can transform ordinary videos into more engaging… Continue reading on Medium »",
+    "published": "2026-11-03T22:58:58Z",
+    "source": "Medium · 剪辑",
+    "source_id": "medium_editing",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "editing",
+    "craft_source": true,
+    "category": "editing",
+    "tags": [],
+    "score": 28.4,
+    "id": "44612bf883c633f6",
+    "first_seen": "2026-11-04"
+  },
+  "efe4cbb366545f82": {
+    "title": "Why Editing Can Change the Meaning of an AI-Generated Film",
+    "url": "https://medium.com/@articog.com/why-editing-can-change-the-meaning-of-an-ai-generated-film-fcc62d78b9df?source=rss------video_editing-5",
+    "summary": "The same AI generated shots can tell completely different stories. Editing determines what audiences notice, feel, and understand. Continue reading on Medium »",
+    "published": "2026-11-04T06:31:01Z",
+    "source": "Medium · 剪辑",
+    "source_id": "medium_editing",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "editing",
+    "craft_source": true,
+    "category": "editing",
+    "tags": [
+      "editing"
+    ],
+    "score": 37.28,
+    "id": "efe4cbb366545f82",
+    "first_seen": "2026-11-04"
+  },
+  "dd112fa25a4e46d2": {
+    "title": "Advanced Video Editing with AI: Learn Professional Editing Skills and Build a Creative Career",
+    "url": "https://medium.com/@balcour33/advanced-video-editing-with-ai-learn-professional-editing-skills-and-build-a-creative-career-706b41f5bce0?source=rss------video_editing-5",
+    "summary": "Video content has become one of the most powerful ways to communicate, entertain, educate, and promote businesses online. From YouTube… Continue reading on Medium »",
+    "published": "2026-11-04T04:51:00Z",
+    "source": "Medium · 剪辑",
+    "source_id": "medium_editing",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "editing",
+    "craft_source": true,
+    "category": "editing",
+    "tags": [
+      "editing",
+      "learn"
+    ],
+    "score": 37.18,
+    "id": "dd112fa25a4e46d2",
+    "first_seen": "2026-11-04"
+  },
+  "a6cc75c7bb586302": {
+    "title": "Advanced Video Editing Course with AI in Khanna — Learn Professional Video Editing and Build a…",
+    "url": "https://medium.com/@balcour33/advanced-video-editing-course-with-ai-in-khanna-learn-professional-video-editing-and-build-a-6d4374bc9cf3?source=rss------video_editing-5",
+    "summary": "Introduction Continue reading on Medium »",
+    "published": "2026-11-04T04:38:41Z",
+    "source": "Medium · 剪辑",
+    "source_id": "medium_editing",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "editing",
+    "craft_source": true,
+    "category": "editing",
+    "tags": [
+      "editing",
+      "course",
+      "learn"
+    ],
+    "score": 38.4,
+    "id": "a6cc75c7bb586302",
+    "first_seen": "2026-11-04"
+  },
+  "0515bb221575372f": {
+    "title": "A video editing brief that answers the questions editors actually need",
+    "url": "https://medium.com/@hello_99105/a-video-editing-brief-that-answers-the-questions-editors-actually-need-44a189414ce3?source=rss------video_editing-5",
+    "summary": "Most editing problems do not start in the editing software. They start with decisions nobody made before the footage was handed over. Continue reading on Medium »",
+    "published": "2026-11-03T17:11:34Z",
+    "source": "Medium · 剪辑",
+    "source_id": "medium_editing",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "editing",
+    "craft_source": true,
+    "category": "editing",
+    "tags": [
+      "editing"
+    ],
+    "score": 24.59,
+    "id": "0515bb221575372f",
+    "first_seen": "2026-11-04"
+  },
+  "b5df7a1bc12aea0a": {
+    "title": "Before you pay for a video editing course in Nepal, try these free steps",
+    "url": "https://medium.com/@saarathiacademy/before-you-pay-for-a-video-editing-course-in-nepal-try-these-free-steps-b971d607413e?source=rss------video_editing-5",
+    "summary": "You can learn the basics of video editing in Nepal for free, and you should try that before you pay for any course. Install the free… Continue reading on Medium »",
+    "published": "2026-11-03T15:03:07Z",
+    "source": "Medium · 剪辑",
+    "source_id": "medium_editing",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "editing",
+    "craft_source": true,
+    "category": "editing",
+    "tags": [
+      "editing",
+      "course",
+      "learn"
+    ],
+    "score": 25.46,
+    "id": "b5df7a1bc12aea0a",
+    "first_seen": "2026-11-04"
+  },
+  "c6a99458f0d27360": {
+    "title": "6 Video Editing API Options Compared by Where the Render Runs (2026)",
+    "url": "https://banuba.medium.com/video-editing-api-options-compared-79235c4e54fe?source=rss------video_editing-5",
+    "summary": "A video editing API either renders on a server you call, renders on the phone in your user’s hands, or hands you raw frames and expects… Continue reading on Medium »",
+    "published": "2026-11-03T13:47:26Z",
+    "source": "Medium · 剪辑",
+    "source_id": "medium_editing",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "editing",
+    "craft_source": true,
+    "category": "editing",
+    "tags": [
+      "editing"
+    ],
+    "score": 21.53,
+    "id": "c6a99458f0d27360",
+    "first_seen": "2026-11-04"
+  },
+  "29dc016d553105e1": {
+    "title": "I Vibe-Coded a Screenplay Editor for Myself. Then Real Users Made It Better Than the Paid Ones.",
+    "url": "https://medium.com/@kandarp.baghar_23986/i-vibe-coded-a-screenplay-editor-for-myself-then-real-users-made-it-better-than-the-paid-ones-424afefba46c?source=rss------screenwriting-5",
+    "summary": "What one weekend-project-turned-product says about where commercial off-the-shelf software is going. Continue reading on Medium »",
+    "published": "2026-11-03T08:07:45Z",
+    "source": "Medium · 编剧",
+    "source_id": "medium_screenwriting",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "directing",
+    "craft_source": true,
+    "category": "editing",
+    "tags": [
+      "editor"
+    ],
+    "score": 16.43,
+    "id": "29dc016d553105e1",
+    "first_seen": "2026-11-04"
+  },
+  "79697cb27167fed4": {
+    "title": "Nikon Promises to Release ZR Firmware 2.0 Before the End of 2026",
+    "url": "https://ymcinema.com/2026/11/04/nikon-zr-firmware-2-0-release-2026/",
+    "summary": "With less than two months remaining in 2026, Nikon has reaffirmed its commitment to releasing Firmware 2.0 for the ZR ($2,196.95 on Amazon) cinema camera before the end of the year. The upcoming update promises significant filmmaking improv…",
+    "published": "2026-11-04T05:12:28Z",
+    "source": "YM Cinema",
+    "source_id": "ymcinema",
+    "lang": "en",
+    "weight": 0.95,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "directing",
+    "craft_source": true,
+    "category": "directing",
+    "tags": [
+      "filmmaking"
+    ],
+    "score": 34.91,
+    "id": "79697cb27167fed4",
+    "first_seen": "2026-11-04"
+  },
+  "b66759da5dea2713": {
+    "title": "The Art of Seeing: Life Through the Lens of a Director of Photography",
+    "url": "https://medium.com/@mukeshcho8580/the-art-of-seeing-life-through-the-lens-of-a-director-of-photography-988553979ea2?source=rss------cinematography-5",
+    "summary": "Director of photography Continue reading on Medium »",
+    "published": "2026-11-03T10:45:16Z",
+    "source": "Medium · 摄影",
+    "source_id": "medium_cinematography",
+    "lang": "en",
+    "weight": 1.05,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "directing",
+    "craft_source": true,
+    "category": "directing",
+    "tags": [
+      "director"
+    ],
+    "score": 19.3,
+    "id": "b66759da5dea2713",
+    "first_seen": "2026-11-04"
+  },
+  "82b7f22d9d69c25c": {
+    "title": "ChatGPT Praises Everything? “Stop Praising Me” Isn’t the Fix. Give It a Standard and a Role",
+    "url": "https://medium.com/@teacherzawa/chatgpt-praises-everything-stop-praising-me-isnt-the-fix-give-it-a-standard-and-a-role-0378701f93fc?source=rss------prompt_engineering-5",
+    "summary": "A three-line prompt and a quick check to turn AI compliments into things you can actually fix. A beginner’s guide. Continue reading on Medium »",
+    "published": "2026-11-04T07:03:41Z",
+    "source": "Medium · 提示词",
+    "source_id": "medium_prompt_engineering",
+    "lang": "en",
+    "weight": 1.05,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "aicraft",
+    "tags": [
+      "prompt",
+      "guide"
+    ],
+    "score": 41.07,
+    "id": "82b7f22d9d69c25c",
+    "first_seen": "2026-11-04"
+  },
+  "a76c29a8b3008f29": {
+    "title": "Sneaker Design: 7 Creative Footwear Concepts for Different Sports",
+    "url": "https://medium.com/@xronxon25/sneaker-design-7-creative-footwear-concepts-for-different-sports-fafbd1e9a0d6?source=rss------prompt_engineering-5",
+    "summary": "Designing a great sneaker is about more than choosing attractive colors. Every type of footwear has a different purpose, structure, and… Continue reading on Medium »",
+    "published": "2026-11-04T06:41:17Z",
+    "source": "Medium · 提示词",
+    "source_id": "medium_prompt_engineering",
+    "lang": "en",
+    "weight": 1.05,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "aicraft",
+    "tags": [],
+    "score": 35.84,
+    "id": "a76c29a8b3008f29",
+    "first_seen": "2026-11-04"
+  },
+  "95b6ba7570d00155": {
+    "title": "Generative AI for Beginners: 6 Free Lessons on How ChatGPT Actually Works",
+    "url": "https://medium.com/@amitxaidev/generative-ai-for-beginners-6-free-lessons-on-how-chatgpt-actually-works-537867423843?source=rss------prompt_engineering-5",
+    "summary": "Tokens, embeddings, attention, model types, temperature and prompts, explained simply, with Python you can run. Continue reading on Medium »",
+    "published": "2026-11-04T06:18:03Z",
+    "source": "Medium · 提示词",
+    "source_id": "medium_prompt_engineering",
+    "lang": "en",
+    "weight": 1.05,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "aicraft",
+    "tags": [
+      "explained"
+    ],
+    "score": 38.29,
+    "id": "95b6ba7570d00155",
+    "first_seen": "2026-11-04"
+  },
+  "6591e4e7a316d90d": {
+    "title": "The Same Prompt Doesn’t Cost the Same Across LLM Providers",
+    "url": "https://medium.com/@milesk_33/the-same-prompt-doesnt-cost-the-same-across-llm-providers-0b2eb72922a8?source=rss------generative_ai-5",
+    "summary": "Last quarter I compared 2 models for a feature that reads long support tickets, and I made the decision the way most of us do. I opened… Continue reading on Medium »",
+    "published": "2026-11-04T05:43:39Z",
+    "source": "Medium · 生成式 AI",
+    "source_id": "medium_generative_ai",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "aicraft",
+    "tags": [
+      "prompt"
+    ],
+    "score": 37.27,
+    "id": "6591e4e7a316d90d",
+    "first_seen": "2026-11-04"
+  },
+  "5a389cfb57dcec30": {
+    "title": "Want to Start Your Career in AI & Software Development in Bangalore?",
+    "url": "https://medium.com/@lokeshwaranemexo/want-to-start-your-career-in-ai-software-development-in-bangalore-624f4ba9063f?source=rss------prompt_engineering-5",
+    "summary": "Artificial Intelligence is transforming the software development industry. From Generative AI to intelligent automation, modern developers… Continue reading on Medium »",
+    "published": "2026-11-04T05:12:30Z",
+    "source": "Medium · 提示词",
+    "source_id": "medium_prompt_engineering",
+    "lang": "en",
+    "weight": 1.05,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "aicraft",
+    "tags": [],
+    "score": 35.21,
+    "id": "5a389cfb57dcec30",
+    "first_seen": "2026-11-04"
+  },
+  "9b5b9dae18986ffa": {
+    "title": "How to Create a Reusable AI Prompt System for Client Projects",
+    "url": "https://medium.com/ai-made-practical/how-to-create-a-reusable-ai-prompt-system-for-client-projects-cb109033e0ef?source=rss------prompt_engineering-5",
+    "summary": "AI can help freelancers write articles, research keywords, prepare content briefs, develop marketing strategies, and organize client… Continue reading on AI Made Practical »",
+    "published": "2026-11-04T05:01:02Z",
+    "source": "Medium · 提示词",
+    "source_id": "medium_prompt_engineering",
+    "lang": "en",
+    "weight": 1.05,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "aicraft",
+    "tags": [
+      "prompt",
+      "how to"
+    ],
+    "score": 38.53,
+    "id": "9b5b9dae18986ffa",
+    "first_seen": "2026-11-04"
+  },
+  "173201f43f1ed357": {
+    "title": "Using AI as an Engineer: Speed Is Not the Same as Progress",
+    "url": "https://medium.com/@arjuman.mansuri/using-ai-as-an-engineer-speed-is-not-the-same-as-progress-caa37832c2d8?source=rss------prompt_engineering-5",
+    "summary": "AI can write the code, but engineers still own the outcome. Continue reading on Medium »",
+    "published": "2026-11-04T03:51:02Z",
+    "source": "Medium · 提示词",
+    "source_id": "medium_prompt_engineering",
+    "lang": "en",
+    "weight": 1.05,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "aicraft",
+    "tags": [],
+    "score": 33.98,
+    "id": "173201f43f1ed357",
+    "first_seen": "2026-11-04"
+  },
+  "c114caf0d96c8dbd": {
+    "title": "6 ChatGPT Habits That Make Smart People Get Surprisingly Generic Answers",
+    "url": "https://medium.com/@promptprofesor/6-chatgpt-habits-that-make-smart-people-get-surprisingly-generic-answers-2d58433588f9?source=rss------prompt_engineering-5",
+    "summary": "I used to think generic ChatGPT answers meant the model was not good enough. Continue reading on Medium »",
+    "published": "2026-11-04T03:18:57Z",
+    "source": "Medium · 提示词",
+    "source_id": "medium_prompt_engineering",
+    "lang": "en",
+    "weight": 1.05,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "aicraft",
+    "tags": [],
+    "score": 33.5,
+    "id": "c114caf0d96c8dbd",
+    "first_seen": "2026-11-04"
+  },
+  "33839a1bbc7eac9b": {
+    "title": "Second Life Built the Metaverse in 2003, Before Anyone Called It That",
+    "url": "https://medium.com/@bj_beyond/the-2003-virtual-world-that-let-people-build-their-own-reality-before-the-metaverse-had-a-name-7bc44127ea88?source=rss------generative_ai-5",
+    "summary": "Prims, Linden Dollars, and a user-built economy: how an early virtual world invented the creator economy we live in now. Continue reading on Medium »",
+    "published": "2026-11-04T06:20:02Z",
+    "source": "Medium · 生成式 AI",
+    "source_id": "medium_generative_ai",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "aicraft",
+    "tags": [],
+    "score": 35.02,
+    "id": "33839a1bbc7eac9b",
+    "first_seen": "2026-11-04"
+  },
+  "8007f221f4a23012": {
+    "title": "Why Are Generative AI Services Important for Business Growth?",
+    "url": "https://medium.com/@OpenClawBlog1/why-are-generative-ai-services-important-for-business-growth-34a9763ca54f?source=rss------generative_ai-5",
+    "summary": "How can businesses stay competitive in a market where customer expectations, technology, and competition are constantly changing? Can… Continue reading on Medium »",
+    "published": "2026-11-04T05:44:40Z",
+    "source": "Medium · 生成式 AI",
+    "source_id": "medium_generative_ai",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "aicraft",
+    "tags": [],
+    "score": 35.19,
+    "id": "8007f221f4a23012",
+    "first_seen": "2026-11-04"
+  },
+  "cc35d9c5328eb1bd": {
+    "title": "Generative AI Course: Complete Guide to Skills, Applications, Career Opportunities, and Future…",
+    "url": "https://medium.com/@vaibhavwatech/generative-ai-course-complete-guide-to-skills-applications-career-opportunities-and-future-de63a5d20358?source=rss------generative_ai-5",
+    "summary": "Artificial Intelligence is transforming the way businesses operate, create content, analyze information, and automate everyday tasks. Continue reading on Medium »",
+    "published": "2026-11-04T05:42:39Z",
+    "source": "Medium · 生成式 AI",
+    "source_id": "medium_generative_ai",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [
+      "guide",
+      "course",
+      "future"
+    ],
+    "score": 39.36,
+    "id": "cc35d9c5328eb1bd",
+    "first_seen": "2026-11-04"
+  },
+  "898736a377b47f31": {
+    "title": "Why AI Hallucinations Sound So Convincing and How to Spot Them",
+    "url": "https://medium.com/@buildbit.ai/why-ai-hallucinations-sound-so-convincing-and-how-to-spot-them-870b7a4a19e0?source=rss------generative_ai-5",
+    "summary": "Imagine you’re at the end of a slide. You ask the AI for one piece of data, and it gives you a report title, an author and a page number… Continue reading on Medium »",
+    "published": "2026-11-04T05:30:33Z",
+    "source": "Medium · 生成式 AI",
+    "source_id": "medium_generative_ai",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [
+      "how to",
+      "report"
+    ],
+    "score": 37.78,
+    "id": "898736a377b47f31",
+    "first_seen": "2026-11-04"
+  },
+  "72d555ac1a0e304d": {
+    "title": "What Is a Forward Deployed Engineer? The AI Engineering Career You Should Know About",
+    "url": "https://ai.plainenglish.io/what-is-a-forward-deployed-engineer-the-ai-engineering-career-you-should-know-about-ff808c9cb6bf?source=rss------generative_ai-5",
+    "summary": "Discover how engineers combine software development, artificial intelligence, system architecture, and customer collaboration to solve… Continue reading on Artificial Intelligence in Plain English »",
+    "published": "2026-11-04T04:52:30Z",
+    "source": "Medium · 生成式 AI",
+    "source_id": "medium_generative_ai",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "aicraft",
+    "tags": [],
+    "score": 34.41,
+    "id": "72d555ac1a0e304d",
+    "first_seen": "2026-11-04"
+  },
+  "dc990cf2b04851c9": {
+    "title": "Your AI POC Works. Now What?",
+    "url": "https://medium.com/@dave-patten/your-ai-poc-works-now-what-b06a3b4f1fe2?source=rss------generative_ai-5",
+    "summary": "AI Architecture Field Notes #02: Why a working prototype is only the beginning of enterprise AI architecture. Continue reading on Medium »",
+    "published": "2026-11-04T04:10:05Z",
+    "source": "Medium · 生成式 AI",
+    "source_id": "medium_generative_ai",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "aicraft",
+    "tags": [
+      "notes"
+    ],
+    "score": 35.17,
+    "id": "dc990cf2b04851c9",
+    "first_seen": "2026-11-04"
+  },
+  "631493ae9aa2a07c": {
+    "title": "How AI Search Engines Evaluate Source Authority: The End of Traditional PageRank",
+    "url": "https://medium.com/@shivam_76233/how-ai-search-engines-evaluate-source-authority-the-end-of-traditional-pagerank-0dd5fe02b967?source=rss------generative_ai-5",
+    "summary": "Google ranks web pages, but generative AI models evaluate claims. Here is the underlying architecture governing how ChatGPT, Perplexity… Continue reading on Medium »",
+    "published": "2026-11-04T04:01:02Z",
+    "source": "Medium · 生成式 AI",
+    "source_id": "medium_generative_ai",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "aicraft",
+    "tags": [],
+    "score": 34.33,
+    "id": "631493ae9aa2a07c",
+    "first_seen": "2026-11-04"
+  },
+  "1cecb09d039015df": {
+    "title": "How to Create Character Sheets for AI Art",
+    "url": "https://medium.com/@ttrimm/how-to-create-character-sheets-for-ai-art-493b7e8c36f8?source=rss------ai_art-5",
+    "summary": "From basic references to turnarounds, expressions, and wardrobe designs, learn which character sheets you need and how to evaluate them. Continue reading on Medium »",
+    "published": "2026-11-04T05:47:08Z",
+    "source": "Medium · AI 绘画",
+    "source_id": "medium_ai_art",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [
+      "how to",
+      "learn"
+    ],
+    "score": 38.03,
+    "id": "1cecb09d039015df",
+    "first_seen": "2026-11-04"
+  },
+  "265b5a3edd06ea57": {
+    "title": "Use Camera Positioning to Enhance Your AI Images",
+    "url": "https://medium.com/kinomoto-mag/use-camera-positioning-to-enhance-your-ai-images-f23724989ff7?source=rss------ai_art-5",
+    "summary": "Descriptions, Keywords, Sample Prompts and Images from Midjourney, Gemini, ChatGPT, and Grok Imagine Continue reading on Kinomoto AI »",
+    "published": "2026-11-03T23:09:59Z",
+    "source": "Medium · AI 绘画",
+    "source_id": "medium_ai_art",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "aicraft",
+    "tags": [],
+    "score": 32.07,
+    "id": "265b5a3edd06ea57",
+    "first_seen": "2026-11-04"
+  },
+  "6020b6c305e3c31a": {
+    "title": "How to Make AI Art for Beginners in 2026: Free Tools, Prompts, and Copyright Basics",
+    "url": "https://medium.com/@whaqlemfhs12/how-to-make-ai-art-for-beginners-in-2026-free-tools-prompts-and-copyright-basics-7c9d4fd63978?source=rss------ai_art-5",
+    "summary": "Making AI art means describing a scene in plain words and letting an image model draw it. Continue reading on Medium »",
+    "published": "2026-11-03T16:56:03Z",
+    "source": "Medium · AI 绘画",
+    "source_id": "medium_ai_art",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [
+      "how to"
+    ],
+    "score": 25.06,
+    "id": "6020b6c305e3c31a",
+    "first_seen": "2026-11-04"
+  },
+  "d7b01ed886cb4809": {
+    "title": "A Depth Hack for AI Art: Turn Flat Paintings into 3D Objects",
+    "url": "https://medium.com/real-ai-art/a-depth-hack-for-ai-art-turn-flat-paintings-into-3d-objects-8c93db3a678d?source=rss------ai_art-5",
+    "summary": "I tried putting paintings on pillows to explore how an unconventional canvas could give familiar artwork more depth and physical presence. Continue reading on AI Art Experiments: Real Depth and Optical Illusions »",
+    "published": "2026-11-03T16:08:53Z",
+    "source": "Medium · AI 绘画",
+    "source_id": "medium_ai_art",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "aicraft",
+    "tags": [],
+    "score": 22.95,
+    "id": "d7b01ed886cb4809",
+    "first_seen": "2026-11-04"
+  },
+  "ff7344e2acafb9b8": {
+    "title": "Cartoon Art Styles for AI Prompts: Kawaii to Pop Art (Part 4)",
+    "url": "https://medium.com/@korotkin/cartoon-art-styles-for-ai-prompts-kawaii-to-pop-art-part-4-7c78915d0dff?source=rss------ai_art-5",
+    "summary": "Kawaii, chibi, anime, pop art, claymation, pixel art and more: the words that define each playful style, and my portrait in every one. Continue reading on Medium »",
+    "published": "2026-11-03T14:56:42Z",
+    "source": "Medium · AI 绘画",
+    "source_id": "medium_ai_art",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "aicraft",
+    "tags": [],
+    "score": 21.87,
+    "id": "ff7344e2acafb9b8",
+    "first_seen": "2026-11-04"
+  },
+  "92d98733f0e16e4f": {
+    "title": "Separable",
+    "url": "https://doctorow.medium.com/https-pluralistic-net-2026-11-03-nobody-is-home-metabolizers-eb29c637921e?source=rss------ai_art-5",
+    "summary": "AI makes us deal with paintings without painters, words without writers and mathematics without mathematicians. Continue reading on Medium »",
+    "published": "2026-11-03T14:20:23Z",
+    "source": "Medium · AI 绘画",
+    "source_id": "medium_ai_art",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "aicraft",
+    "tags": [],
+    "score": 21.32,
+    "id": "92d98733f0e16e4f",
+    "first_seen": "2026-11-04"
+  },
+  "72b2efb23d56dee1": {
+    "title": "Automating Narrated Whiteboard Explainer Videos from Docs and Scripts with SpeedPainter & MCP",
+    "url": "https://dev.to/arkyu2077/automating-narrated-whiteboard-explainer-videos-from-docs-and-scripts-with-speedpainter-mcp-433p",
+    "summary": "Creating hand-drawn whiteboard explainer videos from technical documentation, product specs, or classroom notes usually requires hours of manual keyframing in desktop timeline editors. \n In this technical guide, we walk through how we built…",
+    "published": "2026-11-04T07:05:07Z",
+    "source": "DEV · 教程",
+    "source_id": "devto_tutorial",
+    "lang": "en",
+    "weight": 0.9,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "learning",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [
+      "guide",
+      "notes"
+    ],
+    "score": 38.19,
+    "id": "72b2efb23d56dee1",
+    "first_seen": "2026-11-04"
+  },
+  "c8f3cda8f22131f8": {
+    "title": "How I Clone My Own Voice on a Laptop With No GPU (Qwen3-TTS)",
+    "url": "https://dev.to/handsonaitools/how-i-clone-my-own-voice-on-a-laptop-with-no-gpu-qwen3-tts-3j10",
+    "summary": "Key takeaways \n \n A laptop with no GPU can run Qwen3-TTS voice cloning. Expect 3 to 6 seconds of computing per second of speech. \n Use reference clips of 7 to 15 seconds. About 30 seconds in total was enough for me. \n If your reference is c…",
+    "published": "2026-11-04T06:48:52Z",
+    "source": "DEV · 教程",
+    "source_id": "devto_tutorial",
+    "lang": "en",
+    "weight": 0.9,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "learning",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [],
+    "score": 35.15,
+    "id": "c8f3cda8f22131f8",
+    "first_seen": "2026-11-04"
+  },
+  "379be7d8b91cc481": {
+    "title": "I Built a RAG Assistant That Explains Your Electricity Bill — Without Letting the AI Invent Numbers",
+    "url": "https://dev.to/malikali777/i-built-a-rag-assistant-that-explains-your-electricity-bill-without-letting-the-ai-invent-numbers-5haf",
+    "summary": "Pakistani electricity bills are hard to read even when you're technical. The total jumps month to month, and the bill itself doesn't really explain why — slabs, categories, rates, and surcharges all blur together. Most people just pay it an…",
+    "published": "2026-11-04T06:43:47Z",
+    "source": "DEV · 教程",
+    "source_id": "devto_tutorial",
+    "lang": "en",
+    "weight": 0.9,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "learning",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [],
+    "score": 35.77,
+    "id": "379be7d8b91cc481",
+    "first_seen": "2026-11-04"
+  },
+  "b6b35e005b5f24d6": {
+    "title": "How to Build a Super-Agent Like DeepSeek's: Router, Workers and Triggers Explained",
+    "url": "https://dev.to/hassann/how-to-build-a-super-agent-like-deepseeks-router-workers-and-triggers-explained-5d18",
+    "summary": "To build a super-agent like the one DeepSeek Harness describes, split your agent into two layers: one long-lived Router session that talks to humans and dispatches work, and many isolated Worker sessions that each run one task with full too…",
+    "published": "2026-11-04T06:41:52Z",
+    "source": "DEV · 教程",
+    "source_id": "devto_tutorial",
+    "lang": "en",
+    "weight": 0.9,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "learning",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [
+      "how to",
+      "explained"
+    ],
+    "score": 38.55,
+    "id": "b6b35e005b5f24d6",
+    "first_seen": "2026-11-04"
+  },
+  "d77bedb3006fbbc1": {
+    "title": "Prompt Caching, Explained: How Claude Reuses Your Prompt Prefix — and When It Doesn't Pay Off",
+    "url": "https://dev.to/ton_thnhthy_ba110cce85/prompt-caching-explained-how-claude-reuses-your-prompt-prefix-and-when-it-doesnt-pay-off-21m1",
+    "summary": "If you build anything that talks to Claude more than once — a chatbot, a coding agent, a document Q&A tool — you are probably paying to process the same text over and over again. Every API request is stateless: the model re-reads your syste…",
+    "published": "2026-11-04T06:41:27Z",
+    "source": "DEV · 教程",
+    "source_id": "devto_tutorial",
+    "lang": "en",
+    "weight": 0.9,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "learning",
+    "craft_source": false,
+    "category": "aicraft",
+    "tags": [
+      "prompt",
+      "explained"
+    ],
+    "score": 39.24,
+    "id": "d77bedb3006fbbc1",
+    "first_seen": "2026-11-04"
+  },
+  "9a136469c658259d": {
+    "title": "Using LLM Summarization in Your Scikit-Learn Pipelines with Scikit-LLM",
+    "url": "https://www.kdnuggets.com/using-llm-summarization-in-your-scikit-learn-pipelines-with-scikit-llm",
+    "summary": "Learn how to build an architecture that blends Scikit-LLM estimators for text summarization with traditional scikit-learn methods into a single, unified pipeline for summarizing and classifying raw, messy text.",
+    "published": "2026-11-03T15:00:00Z",
+    "source": "KDnuggets",
+    "source_id": "kdnuggets",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "learning",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [
+      "how to",
+      "learn"
+    ],
+    "score": 24.72,
+    "id": "9a136469c658259d",
+    "first_seen": "2026-11-04"
+  },
+  "70af74a47009b4a7": {
+    "title": "8 LLM Inference Frameworks You Should Try in 2026",
+    "url": "https://www.kdnuggets.com/8-llm-inference-frameworks-you-should-try-in-2026",
+    "summary": "Compare LLM inference frameworks for production serving, request batching, KV cache management, and efficient deployment.",
+    "published": "2026-11-03T13:00:00Z",
+    "source": "KDnuggets",
+    "source_id": "kdnuggets",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "learning",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [],
+    "score": 20.12,
+    "id": "70af74a47009b4a7",
+    "first_seen": "2026-11-04"
+  },
+  "1d407e9bd94f7484": {
+    "title": "5 AI Certifications Worth Paying For in 2026 (And Which to Skip)",
+    "url": "https://www.kdnuggets.com/5-ai-certifications-worth-paying-for-in-2026-and-which-to-skip",
+    "summary": "A data-backed guide to the credentials that actually move the needle for data scientists and machine learning practitioners.",
+    "published": "2026-11-02T13:00:00Z",
+    "source": "KDnuggets",
+    "source_id": "kdnuggets",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "learning",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [
+      "guide"
+    ],
+    "score": 12.1,
+    "id": "1d407e9bd94f7484",
+    "first_seen": "2026-11-04"
+  },
+  "19cc2c9df0321594": {
+    "title": "Choosing an LLM Inference Optimization Technique: A Decision-Tree Approach",
+    "url": "https://machinelearningmastery.com/choosing-an-llm-inference-optimization-technique-a-decision-tree-approach/",
+    "summary": "In this article, you will learn how to match an LLM inference optimization technique to the actual bottleneck in your workload by working through a...",
+    "published": "2026-11-03T11:00:00Z",
+    "source": "ML Mastery",
+    "source_id": "machinelearningmastery",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "learning",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [
+      "how to",
+      "learn"
+    ],
+    "score": 21.12,
+    "id": "19cc2c9df0321594",
+    "first_seen": "2026-11-04"
+  },
+  "4503e6533d85ab5b": {
+    "title": "Our first official trailer is out!",
+    "url": "https://captainvonmiau.medium.com/our-first-official-trailer-is-out-35d3d8e849be?source=rss------ai_video-5",
+    "summary": "Watch the first full trailer of Captain von Miau pirate adventure series! Continue reading on Medium »",
+    "published": "2026-11-04T06:22:07Z",
+    "source": "Medium · AI 视频",
+    "source_id": "medium_ai_video",
+    "lang": "en",
+    "weight": 1.05,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "aicraft",
+    "tags": [],
+    "score": 35.55,
+    "id": "4503e6533d85ab5b",
+    "first_seen": "2026-11-04"
+  },
+  "0b19d7f4e6f88b77": {
+    "title": "How to Make the Bulin 47 Rap AI Video Trend With One Photo",
+    "url": "https://medium.com/@hollywai/how-to-make-the-bulin-47-rap-ai-video-trend-with-one-photo-eba620424b3e?source=rss------ai_video-5",
+    "summary": "A red-lit entrance at night, a crowd on the stairs, a speaker held up high and one rapper firing a fast freestyle straight into the phone… Continue reading on Medium »",
+    "published": "2026-11-04T02:53:40Z",
+    "source": "Medium · AI 视频",
+    "source_id": "medium_ai_video",
+    "lang": "en",
+    "weight": 1.05,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [
+      "how to",
+      "trend"
+    ],
+    "score": 35.92,
+    "id": "0b19d7f4e6f88b77",
+    "first_seen": "2026-11-04"
+  },
+  "6aca99b7b8117a0b": {
+    "title": "How to Make a No Scrubs AI Video With Your Friends (2026) | Put Me In",
+    "url": "https://medium.com/@put_me_in/how-to-make-a-no-scrubs-ai-video-with-your-friends-2026-put-me-in-e00c84b8b36c?source=rss------ai_video-5",
+    "summary": "A No Scrubs AI video puts the three people from your photos into a late-90s trio music video look. They dance on a shiny futuristic set in… Continue reading on Medium »",
+    "published": "2026-11-03T21:04:07Z",
+    "source": "Medium · AI 视频",
+    "source_id": "medium_ai_video",
+    "lang": "en",
+    "weight": 1.05,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [
+      "how to"
+    ],
+    "score": 29.28,
+    "id": "6aca99b7b8117a0b",
+    "first_seen": "2026-11-04"
+  },
+  "70e28e5fadd28af9": {
+    "title": "How to Make the Hotel Lobby AI Video (Two People, One Hanging Mic, 2026) | Put Me In",
+    "url": "https://medium.com/@put_me_in/how-to-make-the-hotel-lobby-ai-video-two-people-one-hanging-mic-2026-put-me-in-2dfb1aa44572?source=rss------ai_video-5",
+    "summary": "A Hotel Lobby AI video puts the two people from your photos into the Hotel Lobby bit: two people at one hanging microphone in an orange… Continue reading on Medium »",
+    "published": "2026-11-03T20:59:33Z",
+    "source": "Medium · AI 视频",
+    "source_id": "medium_ai_video",
+    "lang": "en",
+    "weight": 1.05,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [
+      "how to"
+    ],
+    "score": 29.21,
+    "id": "70e28e5fadd28af9",
+    "first_seen": "2026-11-04"
+  },
+  "e696cb2c64e91401": {
+    "title": "How to Make the ABCDEFG I Need Money AI Video (A to G, Then Ask, 2026) | Put Me In",
+    "url": "https://medium.com/@put_me_in/how-to-make-the-abcdefg-i-need-money-ai-video-a-to-g-then-ask-2026-put-me-in-097dca537e0d?source=rss------ai_video-5",
+    "summary": "An ABCDEFG I Need Money AI video makes the bit from one photo of you. The person in the photo pulls wild faces at the camera, counts off A… Continue reading on Medium »",
+    "published": "2026-11-03T20:57:35Z",
+    "source": "Medium · AI 视频",
+    "source_id": "medium_ai_video",
+    "lang": "en",
+    "weight": 1.05,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [
+      "how to"
+    ],
+    "score": 29.18,
+    "id": "e696cb2c64e91401",
+    "first_seen": "2026-11-04"
+  },
+  "21b9b301f2f66139": {
+    "title": "How to Make a PSY Entrance AI Video From One Photo (2026) | Put Me In",
+    "url": "https://medium.com/@put_me_in/how-to-make-a-psy-entrance-ai-video-from-one-photo-2026-put-me-in-575ba6e30a45?source=rss------ai_video-5",
+    "summary": "The PSY entrance is the stadium stage launch from a concert by PSY, the singer behind Gangnam Style. A PSY entrance AI video puts the… Continue reading on Medium »",
+    "published": "2026-11-03T20:56:13Z",
+    "source": "Medium · AI 视频",
+    "source_id": "medium_ai_video",
+    "lang": "en",
+    "weight": 1.05,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [
+      "how to"
+    ],
+    "score": 29.16,
+    "id": "21b9b301f2f66139",
+    "first_seen": "2026-11-04"
+  },
+  "41a6c9a744cb3080": {
+    "title": "How to Make a Tiny Desk AI Video From Your Photos (2026) | Put Me In",
+    "url": "https://medium.com/@put_me_in/how-to-make-a-tiny-desk-ai-video-from-your-photos-2026-put-me-in-ab7e4708a420?source=rss------ai_video-5",
+    "summary": "Tiny Desk is a small-concert clip: a band squeezed behind an office desk, with books and plants all around. A Tiny Desk AI video puts the… Continue reading on Medium »",
+    "published": "2026-11-03T20:52:57Z",
+    "source": "Medium · AI 视频",
+    "source_id": "medium_ai_video",
+    "lang": "en",
+    "weight": 1.05,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [
+      "how to"
+    ],
+    "score": 29.11,
+    "id": "41a6c9a744cb3080",
+    "first_seen": "2026-11-04"
+  },
+  "ffec522352e6ee57": {
+    "title": "Best AI UGC and Video Ad Generators for 2027: Arcads, Creatify, ElevenLabs, HeyGen, Higgsfield and…",
+    "url": "https://medium.com/@perry_98075/best-ai-ugc-and-video-ad-generators-for-2027-arcads-creatify-elevenlabs-heygen-higgsfield-and-48503b6bce81?source=rss------ai_video-5",
+    "summary": "Disclosure: I’m Nick Perry, founder and CEO of The Engine (Engine Labs Inc.), and The Engine is one of the six tools below. I didn’t run… Continue reading on Medium »",
+    "published": "2026-11-03T20:16:43Z",
+    "source": "Medium · AI 视频",
+    "source_id": "medium_ai_video",
+    "lang": "en",
+    "weight": 1.05,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "aicraft",
+    "craft_source": false,
+    "category": "aicraft",
+    "tags": [],
+    "score": 27.17,
+    "id": "ffec522352e6ee57",
+    "first_seen": "2026-11-04"
+  },
+  "da492f15d0c1d851": {
+    "title": "AI Will Do Your Job. That Should Be Good News.",
+    "url": "https://towardsdatascience.com/ai-will-do-your-job-that-should-be-good-news/",
+    "summary": "The case for paying people to play when machines do the work \n The post AI Will Do Your Job. That Should Be Good News. appeared first on Towards Data Science .",
+    "published": "2026-11-03T15:30:00Z",
+    "source": "Towards Data Science",
+    "source_id": "towardsdatascience",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "learning",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [],
+    "score": 22.37,
+    "id": "da492f15d0c1d851",
+    "first_seen": "2026-11-04"
+  },
+  "51ea5e9e5cd69dfb": {
+    "title": "Your Agent Works in the Demo. Now Make It Survive Monday.",
+    "url": "https://towardsdatascience.com/your-agent-works-in-the-demo-now-make-it-survive-monday/",
+    "summary": "The demo is the easy part \n The post Your Agent Works in the Demo. Now Make It Survive Monday. appeared first on Towards Data Science .",
+    "published": "2026-11-03T12:30:00Z",
+    "source": "Towards Data Science",
+    "source_id": "towardsdatascience",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "learning",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [],
+    "score": 19.67,
+    "id": "51ea5e9e5cd69dfb",
+    "first_seen": "2026-11-04"
+  },
+  "740e2c0cc8573aa1": {
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "url": "https://huggingface.co/blog/allenai/statebench",
+    "summary": "",
+    "published": "2026-11-03T17:15:21Z",
+    "source": "Hugging Face",
+    "source_id": "huggingface",
+    "lang": "en",
+    "weight": 1.1,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "learning",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [],
+    "score": 24.25,
+    "id": "740e2c0cc8573aa1",
+    "first_seen": "2026-11-04"
+  },
+  "c3cda67991a27d80": {
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "summary": "",
+    "published": "2026-11-03T16:35:36Z",
+    "source": "Hugging Face",
+    "source_id": "huggingface",
+    "lang": "en",
+    "weight": 1.1,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "learning",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [],
+    "score": 23.65,
+    "id": "c3cda67991a27d80",
+    "first_seen": "2026-11-04"
+  },
+  "e84a4f4e5923672d": {
+    "title": "CWE-bench v2: More coverage, quality, and transparency",
+    "url": "https://huggingface.co/blog/cwe-bench",
+    "summary": "",
+    "published": "2026-11-03T00:00:00Z",
+    "source": "Hugging Face",
+    "source_id": "huggingface",
+    "lang": "en",
+    "weight": 1.1,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "learning",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [],
+    "score": 11.0,
+    "id": "e84a4f4e5923672d",
+    "first_seen": "2026-11-04"
+  },
+  "f56ebfc7bc38f235": {
+    "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+    "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+    "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it…",
+    "published": "2026-11-03T16:29:48Z",
+    "source": "Simon Willison",
+    "source_id": "simonwillison",
+    "lang": "en",
+    "weight": 1.05,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": "learning",
+    "craft_source": false,
+    "category": "learning",
+    "tags": [],
+    "score": 23.77,
+    "id": "f56ebfc7bc38f235",
+    "first_seen": "2026-11-04"
+  },
+  "c24a8dc28d77c028": {
+    "title": "Beyond Chatbots: How to Build AI Agents That Actually Solve Problems",
+    "url": "https://dev.to/genesky/beyond-chatbots-how-to-build-ai-agents-that-actually-solve-problems-2p00",
+    "summary": "AI applications are evolving beyond simple question-and-answer interfaces. \n We're moving toward systems that can reason through tasks, interact with external tools, retrieve information, execute workflows, and evaluate their own results.…",
+    "published": "2026-11-04T07:14:08Z",
+    "source": "DEV · AI",
+    "source_id": "devto_ai",
+    "lang": "en",
+    "weight": 0.9,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": null,
+    "category": "learning",
+    "tags": [
+      "how to"
+    ],
+    "score": 36.93,
+    "id": "c24a8dc28d77c028",
+    "first_seen": "2026-11-04"
+  },
+  "7f69402359aa6755": {
+    "title": "One MCP server, three configs: Claude Code, Cursor and Codex",
+    "url": "https://dev.to/eliran_kotzero_e1781dc487/one-mcp-server-three-configs-claude-code-cursor-and-codex-1em0",
+    "summary": "Originally published on KitQuarry . Written by Eliran Kotzero for KitQuarry. \n In short: all three tools speak MCP, but each keeps its servers in a different file. Claude Code uses .mcp.json at the repo root, Cursor uses .cursor/mcp.json ,…",
+    "published": "2026-11-04T07:06:40Z",
+    "source": "DEV · AI",
+    "source_id": "devto_ai",
+    "lang": "en",
+    "weight": 0.9,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": null,
+    "category": "tools",
+    "tags": [
+      "repo"
+    ],
+    "score": 38.92,
+    "id": "7f69402359aa6755",
+    "first_seen": "2026-11-04"
+  },
+  "f74910cd8d9879d3": {
+    "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+    "url": "https://www.qbitai.com/2026/11/507507.html",
+    "summary": "AI接管调度运营，仓库越干越聪明",
+    "published": "2026-11-03T13:57:11Z",
+    "source": "量子位",
+    "source_id": "qbitai",
+    "lang": "zh",
+    "weight": 1.15,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": null,
+    "category": "tools",
+    "tags": [
+      "调度",
+      "仓库"
+    ],
+    "score": 25.98,
+    "id": "f74910cd8d9879d3",
+    "first_seen": "2026-11-04"
+  },
+  "2f33fb865b2ec552": {
+    "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
+    "url": "https://sspai.com/post/118317",
+    "summary": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。 查看全文",
+    "published": "2026-11-03T07:12:54Z",
+    "source": "少数派",
+    "source_id": "sspai",
+    "lang": "zh",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": null,
+    "category": "tools",
+    "tags": [
+      "开源",
+      "开源项目"
+    ],
+    "score": 17.71,
+    "id": "2f33fb865b2ec552",
+    "first_seen": "2026-11-04"
+  },
+  "1b487924aff5b1a7": {
+    "title": "借助 AI 铺路：开发者成功在微软 Win10 Mobile 15063 及更高版本运行 Android 应用，无需子系统",
+    "url": "https://www.ithome.com/1/022/161.htm",
+    "summary": "IT之家 11 月 4 日消息，开发者 Computershik 在 Claude 加持下打造了开源项目 Megler，旨在让 Windows 10 Mobile 1703（版本号 10.0.15063）及更高版本系统的手机直接运行 Android 应用。 据开发者介绍， 该项目无需模拟 Android 硬件，也不需要为系统添加 Android 子系统，而是通过在普通 Windows 应用中实现 Android 运行环境相关组件 ，让 Android 应用的 Java 代码和…",
+    "published": "2026-11-04T06:53:27Z",
+    "source": "IT之家",
+    "source_id": "ithome",
+    "lang": "zh",
+    "weight": 0.85,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": null,
+    "category": "tools",
+    "tags": [
+      "开源",
+      "开源项目"
+    ],
+    "score": 38.22,
+    "id": "1b487924aff5b1a7",
+    "first_seen": "2026-11-04"
+  },
+  "ed138fcf6f49cfc0": {
+    "title": "华为、阿里、腾讯、小米、百度、火山引擎等 20 家单位共同起草发布《智能体发展自律公约》，抵制利用智能体实施算法压榨、黑灰产等行为",
+    "url": "https://www.ithome.com/1/022/142.htm",
+    "summary": "IT之家 11 月 4 日消息，今日在世界互联网大会乌镇峰会“智能体互信互联互操作全球合作创新 —— 携手构建智能互联网论坛”上，《智能体发展自律公约》正式发布。 这一公约由中国信息通信研究院、华为、阿里、腾讯、小米、百度、火山引擎、蚂蚁、抖音等 20 家单位联合起草并发布，是中国网络社会组织联合会等组织下各方共同推动的成果。 中国信通院表示，该公约是落实《智能体规范应用与创新发展实施意见》中“强化行业自律”任务部署的具体举措，共提出八条自律措施，涵盖健全智能体信任体系、建设…",
+    "published": "2026-11-04T06:47:24Z",
+    "source": "IT之家",
+    "source_id": "ithome",
+    "lang": "zh",
+    "weight": 0.85,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": null,
+    "category": "tools",
+    "tags": [
+      "部署"
+    ],
+    "score": 36.03,
+    "id": "ed138fcf6f49cfc0",
+    "first_seen": "2026-11-04"
+  },
+  "03e2f51f9e31c692": {
+    "title": "苹果警告：AI 智能体行为或难以预测，恐引发诉讼、损害公司声誉",
+    "url": "https://www.ithome.com/1/022/137.htm",
+    "summary": "IT之家 11 月 4 日消息，11 月 3 日，苹果在年度财务报告中警告，AI 智能体可能做出 不符合预期、难以预测 的行为，给公司带来法律诉讼和声誉受损的风险，进而影响业务。 苹果的报告称：“AI 智能体及其他技术可以自主执行操作，例如与内部或外部系统交互，有时甚至会访问没有权限访问的系统，还可以运行或修改代码、发送消息及完成交易。智能体的行为也可能 违背预期或难以预测 ，甚至在没有收到要求、指令或授权的情况下自行采取行动。” 据IT之家了解，苹果发出警告之前，曾发生多起…",
+    "published": "2026-11-04T06:42:33Z",
+    "source": "IT之家",
+    "source_id": "ithome",
+    "lang": "zh",
+    "weight": 0.85,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": null,
+    "category": "trend",
+    "tags": [
+      "预测",
+      "报告"
+    ],
+    "score": 38.06,
+    "id": "03e2f51f9e31c692",
+    "first_seen": "2026-11-04"
+  },
+  "d5da2632624a4f01": {
+    "title": "印度人也爱刷微短剧，当地头部平台 EloElo 获 8000 万美元投资",
+    "url": "https://www.ithome.com/1/022/041.htm",
+    "summary": "IT之家 11 月 4 日消息，印度微短剧市场迅速升温，每月观看短剧的用户 超过 1.18 亿 。分析师数据显示，EloElo 旗下微短剧平台 Story TV 跻身当地头部应用，活跃用户超过 3300 万。 据外媒 TechCrunch 今天（4 日）午间报道，凭借庞大的用户规模，EloElo 在 C 轮融资中获得 Hornbill Capital 和 NBC 环球 8,000 万美元 （IT之家注：现汇率约合 5.35 亿元人民币） 投资，累计融资额达到 1.3 亿美元…",
+    "published": "2026-11-04T05:32:38Z",
+    "source": "IT之家",
+    "source_id": "ithome",
+    "lang": "zh",
+    "weight": 0.85,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": null,
+    "category": "drama",
+    "tags": [
+      "短剧",
+      "微短剧",
+      "分析",
+      "市场",
+      "融资"
+    ],
+    "score": 42.81,
+    "id": "d5da2632624a4f01",
+    "first_seen": "2026-11-04"
+  },
+  "9fad9af1ed4cc973": {
+    "title": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+    "url": "https://www.infoq.cn/article/bFKTeyCOlydWMYi91H4q?utm_source=rss&utm_medium=article",
+    "summary": "点击查看原文>",
+    "published": "2026-11-04T11:02:35Z",
+    "source": "InfoQ 中文",
+    "source_id": "infoq",
+    "lang": "zh",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": null,
+    "category": "aicraft",
+    "tags": [
+      "复盘"
+    ],
+    "score": 38.8,
+    "id": "9fad9af1ed4cc973",
+    "first_seen": "2026-11-04"
+  },
+  "bd6dd3c34a8b2919": {
+    "title": "2027 年最赚钱的 AI 创业方向",
+    "url": "https://juejin.cn/post/7704140653420888091",
+    "summary": "最赚钱的技能，一直都是吸引注意力。 原因很简单。 如果你的目标是赚更多钱，那么，无论你开发的软件有多好，无论你为了写一本书花了 3 年、推翻了多少稿，也无论你多么努力工作、提升自己以争取更多职业机会，",
+    "published": "2026-11-04T04:33:43Z",
+    "source": "掘金",
+    "source_id": "juejin",
+    "lang": "zh",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": null,
+    "category": "trend",
+    "tags": [],
+    "score": 34.12,
+    "id": "bd6dd3c34a8b2919",
+    "first_seen": "2026-11-04"
+  },
+  "2be7e8f0ac0e7be4": {
+    "title": "Postman 自动给 Claude Code、Codex、Cursor 装插件怎么查和卸载：本机实测 5 处痕迹（Postman 12.34）",
+    "url": "https://juejin.cn/post/7703850980559142946",
+    "summary": "Postman 桌面版升级时自动给 AI 编程工具装插件。实测 12.34 在本机留下 5 处痕迹，附只读自查脚本和 Claude Code、Codex、Cursor 卸载命令。",
+    "published": "2026-11-04T01:26:23Z",
+    "source": "掘金",
+    "source_id": "juejin",
+    "lang": "zh",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": null,
+    "category": "tools",
+    "tags": [
+      "插件"
+    ],
+    "score": 34.81,
+    "id": "2be7e8f0ac0e7be4",
+    "first_seen": "2026-11-04"
+  },
+  "48b2825410331362": {
+    "title": "读完 DeepSeek Harness 源码，我给自己画了一张「最小 CLI Agent」施工图",
+    "url": "https://juejin.cn/post/7703837325440696346",
+    "summary": "通读 DSH 源码之后，我给自己列了份施工清单：最小 CLI Agent 该做哪几件事、7 个关键决策怎么选、12 条不变量违反了会怎样、5 个能独立跑起来的里程碑，每条都标了源码出处。",
+    "published": "2026-11-03T17:41:11Z",
+    "source": "掘金",
+    "source_id": "juejin",
+    "lang": "zh",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": null,
+    "category": "tools",
+    "tags": [
+      "cli"
+    ],
+    "score": 26.44,
+    "id": "48b2825410331362",
+    "first_seen": "2026-11-04"
+  },
+  "8fcadf0423c24407": {
+    "title": "AI视频的下一场竞争",
+    "url": "https://www.tmtpost.com/8192972.html",
+    "summary": "生成容易，交付不易。",
+    "published": "2026-11-04T05:23:00Z",
+    "source": "钛媒体",
+    "source_id": "tmtpost",
+    "lang": "zh",
+    "weight": 0.9,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": null,
+    "category": "drama",
+    "tags": [
+      "ai视频",
+      "竞争"
+    ],
+    "score": 39.66,
+    "id": "8fcadf0423c24407",
+    "first_seen": "2026-11-04"
+  },
+  "66e4e491bace5b85": {
+    "title": "开源我这折腾了1年的「Agent自动化系统」，愿所有人都能感受Agent的魅力。",
+    "url": "https://www.woshipm.com/ai/6488877.html",
+    "summary": "那套折腾了一年的 Agent 自动化系统发出去后，收到最多的一句话是：能不能开源。作者重新梳理架构，借 Pi 的极简内核与 Extensions 设计，也借 DeepSeek Harness 一切皆插件的思路，把它抽成了一套轻量、可扩展的版本。 \n \n 周一发了一篇我的Agent自动化系统： 折腾了整整1年，毫无保留地分享一下我这套Agent自动化系统 。 \n 发之前真的战战兢兢，因为这其实就是我自己这段时间的探索，我自己用的确实很爽，但是我不确定，它对大家真的有用，同时也确…",
+    "published": "2026-11-04T07:00:10Z",
+    "source": "人人都是产品经理",
+    "source_id": "woshipm",
+    "lang": "zh",
+    "weight": 1.05,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": null,
+    "category": "aicraft",
+    "tags": [
+      "自动化",
+      "开源",
+      "插件"
+    ],
+    "score": 41.72,
+    "id": "66e4e491bace5b85",
+    "first_seen": "2026-11-04"
+  },
+  "6157201807d5f3d9": {
+    "title": "DeepSeek Harness 发布创造模式，需要什么插件，自己造。我也写了一个",
+    "url": "https://www.woshipm.com/ai/6488843.html",
+    "summary": "DeepSeek 在 X 上发了 99 秒视频，主角是 Harness 的创造模式：在对话框里说想要什么，它加载插件开发 Skill、读运行时、写文件、安装、热更新，同一个会话刷新就能用。作者顺手写了几个，其中一个专门统计 Token 消耗与成本。 \n \n DeepSeek V4.1 Flash 1017 最佳 Harness 易主，尽快拥抱 DeepSeek Harness！ \n 我数次想要拥抱 DSH，总是不知道拥抱哪里，刚好啊，昨晚 DeepSeek 在 X 上发了一条…",
+    "published": "2026-11-04T06:39:31Z",
+    "source": "人人都是产品经理",
+    "source_id": "woshipm",
+    "lang": "zh",
+    "weight": 1.05,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": null,
+    "category": "tools",
+    "tags": [
+      "插件"
+    ],
+    "score": 37.91,
+    "id": "6157201807d5f3d9",
+    "first_seen": "2026-11-04"
+  },
+  "506d881e17db6bf1": {
+    "title": "WebMCP 开发指南助力开发者构建 AI 智能体",
+    "url": "https://www.woshipm.com/ai/6488822.html",
+    "summary": "浏览器里的 Agent 常常要先抓 DOM、再猜哪个按钮能点，页面改一行文案就可能走错流程。WebMCP 换了个思路：让网站用 JavaScript 和 HTML 语义标注，把可调用的工具、输入 schema 和当前状态直接声明给 Agent。 \n \n 现在的浏览器 Agent 想帮用户订机票、提交表单或排查页面问题，通常要先抓取 DOM，再猜哪个按钮能点、哪个输入框该填。页面结构一变，按钮文案稍微调整，自动化就可能走错流程。 \n WebMCP 试图解决的正是这层不确定性：网…",
+    "published": "2026-11-04T06:37:39Z",
+    "source": "人人都是产品经理",
+    "source_id": "woshipm",
+    "lang": "zh",
+    "weight": 1.05,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": null,
+    "category": "learning",
+    "tags": [
+      "自动化",
+      "指南"
+    ],
+    "score": 41.38,
+    "id": "506d881e17db6bf1",
+    "first_seen": "2026-11-04"
+  },
+  "3313fc30db826b68": {
+    "title": "当10万个智能体已在运行，安全防线到底在哪？｜CNCC 2026专家激辩智能体安全挑战",
+    "url": "https://www.leiphone.com/category/ai/tT9FskgaSMm7y4Ao.html",
+    "summary": "2026年，智能体从概念走向了生产系统。 蚂蚁集团3万多名员工背后，已有10万余个智能体在运行。华为内部同样部署了成千上万个智能体，覆盖客服、办公、运维、研发各条业务线。放眼更广的产业图景，个人助手、AI for Science、网络安全自动化攻防、企业级工作流编排，智能体正在逐步接管人类过去亲力亲为的工作。 Gartner将智能体列入了2027年十大战略技术，安全圈里，非人类身份（NHI）成了RSAC大会上的新赛道。中国这边，国标、强标、最高法司法意见、三部委规范文件在今年…",
+    "published": "2026-11-04T03:22:00Z",
+    "source": "雷锋网",
+    "source_id": "leiphone",
+    "lang": "zh",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": null,
+    "category": "tools",
+    "tags": [
+      "工作流",
+      "自动化",
+      "部署",
+      "战略"
+    ],
+    "score": 39.35,
+    "id": "3313fc30db826b68",
+    "first_seen": "2026-11-04"
+  },
+  "28b59573f7ed5144": {
+    "title": "追觅科技亮相2026世界互联网大会人工智能嘉年华，以AI技术创新赋能智慧生活",
+    "url": "https://www.leiphone.com/category/industrynews/hRlEqJpWm8oawq9h.html",
+    "summary": "11月2日，2026年世界互联网大会乌镇峰会在浙江嘉兴乌镇正式启幕。本届峰会以“开源开放、共建共享”为主题，聚焦人工智能等前沿技术发展与产业应用。追觅携旗下T70 Ultra Station、T60 Steam等多款旗舰洗地机亮相“人工智能嘉年华”展区，集中展示智能清洁领域的技术创新成果，呈现前沿科技与家庭生活深度融合的创新实践。 作为全球领先的智能科技品牌，追觅始终坚持以技术创新驱动产品升级，持续探索人工智能、智能感知与清洁技术的融合应用。此次亮相的追觅T70 Ultra…",
+    "published": "2026-11-04T03:06:00Z",
+    "source": "雷锋网",
+    "source_id": "leiphone",
+    "lang": "zh",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": null,
+    "category": "tools",
+    "tags": [
+      "开源",
+      "深度"
+    ],
+    "score": 36.31,
+    "id": "28b59573f7ed5144",
+    "first_seen": "2026-11-04"
+  },
+  "251e1431859fefff": {
+    "title": "中国开源走向物理世界，蚂蚁灵波携机器人通用大脑亮相乌镇",
+    "url": "https://www.leiphone.com/category/industrynews/ADcxxdwtaojQvzhp.html",
+    "summary": "11月2日至5日，2026年世界互联网大会乌镇峰会在浙江乌镇举行，本届峰会的主题为“开源开放 共建共享——携手构建网络空间命运共同体”。蚂蚁集团旗下具身智能公司蚂蚁灵波，携全栈开源的机器人通用大脑亮相乌镇，展示模型研发、开源协作以及场景应用的新进展。 今天，开源正从语言、代码和内容生成，延伸至机器人对物理世界的感知、预测与行动。与数字世界不同，机器人本体千差万别，任务场景高度分散，许多团队不得不为每一种构型、每一个场景从头训练“大脑”。 对此，灵波给出的路径是开放的具身基础模…",
+    "published": "2026-11-03T13:41:00Z",
+    "source": "雷锋网",
+    "source_id": "leiphone",
+    "lang": "zh",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": null,
+    "category": "tools",
+    "tags": [
+      "开源",
+      "预测"
+    ],
+    "score": 24.23,
+    "id": "251e1431859fefff",
+    "first_seen": "2026-11-04"
+  },
+  "4e417829e275b1a5": {
+    "title": "香港大学发布全球首个KYA报告关注智能体信任建设，九类企业实践获收录",
+    "url": "https://www.leiphone.com/category/industrynews/KkjVOHcQ55GyhDLv.html",
+    "summary": "11月3日，香港大学副校长汪扬教授与香港大学经管学院杨宏副教授代表香港大学KYA课题组，在2026年香港金融科技周 x StartmeupHK创业节发布全球首个KYA（Know Your Agent）领域报告《KYA：智能体信用体系研究报告》。 报告聚焦智能体参与真实经济活动后的身份、授权、信用与责任问题，结合109份从业者有效问卷及包含Stripe、蚂蚁数科等近十个企业案例，提出智能体成熟度模型、KYA框架和智能体发展指数，并进一步探讨“智能体信任资本”的形成及其经济价值。…",
+    "published": "2026-11-03T10:09:00Z",
+    "source": "雷锋网",
+    "source_id": "leiphone",
+    "lang": "zh",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": null,
+    "category": "tools",
+    "tags": [
+      "框架",
+      "报告"
+    ],
+    "score": 21.05,
+    "id": "4e417829e275b1a5",
+    "first_seen": "2026-11-04"
+  },
+  "76d2e38aeab48119": {
+    "title": "最高288核的至强6+，为了Agent高密度部署还下了哪些「云功夫」？",
+    "url": "https://www.leiphone.com/category/chips/GQisGLfVBnbQVxVo.html",
+    "summary": "作者 | 陈悦琳 编辑 | 包永刚   一个智能体能顺利完成任务，不代表成百上千个智能体就能同时高效运行。   对于承载大量智能体任务的云服务器而言，除了提升计算速度，如何在任务集中到来时迅速准备好执行环境、怎样减少暂时闲置的任务对内存资源的占用，也成为亟待解决的问题。   对此，在一年一度的腾讯全球数字生态大会上，英特尔与腾讯云联合发布了基于至强6+处理器的新一代云实例，围绕任务启动效率、内存资源利用率等关键因素进行优化后，其综合性能较上一代提升30%以上。   从此前搭载…",
+    "published": "2026-11-03T10:03:00Z",
+    "source": "雷锋网",
+    "source_id": "leiphone",
+    "lang": "zh",
+    "weight": 1.0,
+    "kind": "article",
+    "publisher": "",
+    "publisher_url": "",
+    "default_category": null,
+    "category": "tools",
+    "tags": [
+      "如何",
+      "部署"
+    ],
+    "score": 20.96,
+    "id": "76d2e38aeab48119",
+    "first_seen": "2026-11-04"
+  },
+  "eb0d841b63b56c1a": {
+    "title": "UCLA, Cherokee Nation Partner on Indigenous Filmmaking Initiative",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ0o5UUtYT29lWlhxRDd2d0RzaEd1XzlJN19NN2FfdHRJMUtwQi13Wl9Hc1BSRGVTSV83U2FlNzN6NVZaMk1DRk81TmF6YWRGbXN2SktFQzNJcEhjQmxKSVUxZ2VoM1VLNDR6M2E2Z3FUZWpTc2U3R0Vmb2Q4cmdhYUQycHhyNWpMTHFmeWpJblpFNWN3OVppUGZhelhwdUJZMjdWZTVOb1NLSkstOU1COEFrd3g?oc=5",
+    "summary": "UCLA, Cherokee Nation Partner on Indigenous Filmmaking Initiative    MyNewsLA.com",
+    "published": "2026-10-26T17:59:00Z",
+    "source": "MyNewsLA.com",
+    "source_id": "google_news",
+    "lang": "en",
+    "weight": 0.95,
+    "kind": "article",
+    "publisher": "MyNewsLA.com",
+    "publisher_url": "https://mynewsla.com",
+    "default_category": "directing",
+    "extra": "Google 新闻 · Directing",
+    "category": "directing",
+    "tags": [
+      "filmmaking"
+    ],
+    "score": 10.9,
+    "id": "eb0d841b63b56c1a",
+    "first_seen": "2026-11-04"
+  },
+  "2a0662c2ca2c5b38": {
+    "title": "JustVugg/colibri",
+    "url": "https://github.com/JustVugg/colibri",
+    "summary": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+    "published": "2026-11-04T07:25:13Z",
+    "source": "GitHub Trending",
+    "source_id": "github_trending",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "repo",
+    "stars": 47424,
+    "extra": "今日 +802 · C",
+    "category": "tools",
+    "tags": [],
+    "score": 47.7,
+    "id": "2a0662c2ca2c5b38",
+    "first_seen": "2026-11-04"
+  },
+  "79aa7f3fe767f341": {
+    "title": "spotify/portal-ai-plugins",
+    "url": "https://github.com/spotify/portal-ai-plugins",
+    "summary": "GitHub Trending 项目",
+    "published": "2026-11-04T07:25:13Z",
+    "source": "GitHub Trending",
+    "source_id": "github_trending",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "repo",
+    "stars": 3101,
+    "extra": "今日 +91 · TypeScript",
+    "category": "tools",
+    "tags": [
+      "github"
+    ],
+    "score": 43.16,
+    "id": "79aa7f3fe767f341",
+    "first_seen": "2026-11-04"
+  },
+  "59a4beb114441f13": {
+    "title": "Usagi-org/ai-goofish-monitor",
+    "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+    "summary": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+    "published": "2026-11-04T07:25:13Z",
+    "source": "GitHub Trending",
+    "source_id": "github_trending",
+    "lang": "en",
+    "weight": 1.0,
+    "kind": "repo",
+    "stars": 16828,
+    "extra": "今日 +228 · Python",
+    "category": "tools",
+    "tags": [
+      "分析"
+    ],
+    "score": 49.1,
+    "id": "59a4beb114441f13",
+    "first_seen": "2026-11-04"
   }
 }
