@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-05",
-  "summary": "今天的内容集中在一件事上：怎样把「想法」变成能拍、能剪、能交付的镜头，而不是停留在套用提示词。三篇导演类文章分别从构图逻辑、运镜方式和机位取景来讲镜头语言，分镜文章则把镜头意图转成 AI 可执行的分镜表。剪辑方面，可以学到用 AI 复刻 B-roll 参考、在提示词里就完成剪辑，以及 4K 上采样与交付导出流程；AI 创作技巧类文章讲的是在提示词之前先准备好上下文，以及几个白白浪费生成额度的错误。",
+  "date": "2026-11-06",
+  "summary": "今天的可学内容集中在「先想清楚再动手」：用构图逻辑而非堆词写提示词、按真实镜头意图列分镜与运镜、把重复提示词沉淀成可复用技能。剪辑侧补两块容易被忽略的硬功夫——AI 生成视频的声音设计与 B-roll 复刻方法；学习侧则有 AI 绘画控制与 AI 音乐视频两条从零上手路径。",
   "picks": [
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "中文实操：从复刻优秀 B-roll 开始，反推 AI 生成素材的可靠做法，可直接照做练手。",
+      "why": "中文实操：用「复刻」现成优秀 B-roll 的方式反推 AI 生成提示词与运镜，比凭空许愿更可控。",
       "id": "524c8e0e12c5dce6"
     },
     {
-      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
-      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "讲清「在提示词内部完成剪辑」的思路，让节奏与转场在生成阶段就定下来。",
-      "id": "7cbb408ba5ddf5f0"
-    },
-    {
-      "title": "Advanced 4K Upscaling, Frame Rates, and Export Workflows for Final Delivery",
-      "url": "https://medium.com/@yogahema19/advanced-4k-upscaling-frame-rates-and-export-workflows-for-final-delivery-e309db4886a9?source=rss------post_production-5",
-      "why": "补上后期最后一环：4K 上采样、帧率选择和最终交付导出工作流。",
-      "id": "83ab5bce1982eaaf"
+      "title": "The Invisible Half of a Film: Sound Design for AI-Generated Video",
+      "url": "https://medium.com/@articog.com/the-invisible-half-of-a-film-sound-design-for-ai-generated-video-5749d82e2e92?source=rss------video_production-5",
+      "why": "AI 视频最缺的「另一半」——音效与环境声设计，给出可落地的声音层次搭建思路。",
+      "id": "8f8eca4e4bf86325"
     },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文观点鲜明：别用加法堆提示词，先立构图逻辑，画面才稳。",
+      "why": "别再往提示词里加形容词，讲的是先定构图逻辑再写词，出图稳定度立刻提升。",
       "id": "9acc46cbdeb37daa"
     },
     {
       "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
-      "why": "AI 电影课运镜篇，把推拉摇移翻译成模型能听懂的镜头指令。",
+      "why": "AI 电影制作系列第 3 天专讲运镜，把推拉摇移翻译成模型能听懂的镜头语言。",
       "id": "16df762f58b5b891"
-    },
-    {
-      "title": "Master the Frame: The Complete Guide to Camera Angles and Framing in Cinematography",
-      "url": "https://medium.com/@palyadofficial/master-the-frame-the-complete-guide-to-camera-angles-and-framing-in-cinematography-84649bb83d53?source=rss------cinematography-5",
-      "why": "机位与取景的系统梳理，是判断 AI 出图画面对不对的底层标尺。",
-      "id": "8c8a4b0d49b09964"
     },
     {
       "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
       "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "按真实镜头意图（景别·角度·运动）构建 AI 分镜表，避免只写形容词。",
+      "why": "按景别、角度、运动三要素搭 AI 分镜表，让每个镜头都有真实摄影意图而非随机切换。",
       "id": "c0ce3898519a2a2c"
     },
     {
-      "title": "7 Things I Now Give ChatGPT Before the Prompt That Completely Change the Quality of the Output",
-      "url": "https://medium.com/@promptprofesor/7-things-i-now-give-chatgpt-before-the-prompt-that-completely-change-the-quality-of-the-output-392b29e35c9a?source=rss------prompt_engineering-5",
-      "why": "在提示词之前先给模型 7 类背景信息，不改提示词技巧也能明显提升产出。",
-      "id": "7d866a17a9330849"
+      "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
+      "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
+      "why": "Seedance 2.5 从概念到逐镜方案的完整工作流，可直接套用到自己的短片筹备。",
+      "id": "6f5f39903e351a2c"
     },
     {
-      "title": "Seven Prompt Mistakes That Waste Your Credits on Uncensored AI Image Generators",
-      "url": "https://medium.com/@agentics/seven-prompt-mistakes-that-waste-your-credits-on-uncensored-ai-image-generators-226c9c41ccc5?source=rss------ai_art-5",
-      "why": "列出 7 个常见提示词错误，直接帮你少浪费生成额度。",
-      "id": "dd9cb2993b0916bd"
+      "title": "Stop Pasting the Same Prompt. Let skill-creator Turn It Into a Skill.",
+      "url": "https://antonlytvynov.medium.com/stop-pasting-the-same-prompt-let-skill-creator-turn-it-into-a-skill-e06287242774?source=rss------prompt_engineering-5",
+      "why": "把反复粘贴的提示词封装成可调用 Skill，是提示词工程走向工作流的关键一步。",
+      "id": "ac51d30a152f0473"
     },
     {
-      "title": "视频生成只是开始，AI 如何把内容做对？",
-      "url": "https://www.infoq.cn/article/GGILIuzW0RTGhoeuz9TD?utm_source=rss&utm_medium=article",
-      "why": "中文长文：生成只是起点，重点在内容判断与流程设计。",
-      "id": "4e2a2d12f136b46e"
+      "title": "I make toddler cartoons on an old laptop, and every frame is written in Python",
+      "url": "https://medium.com/@ak.karimzai6/i-make-toddler-cartoons-on-an-old-laptop-and-every-frame-is-written-in-python-627dffd14612?source=rss------generative_ai-5",
+      "why": "用 Python 逐帧生成动画的另类路径，适合想看「代码即分镜」的创作者借鉴。",
+      "id": "2512fc2e2a8a799e"
+    },
+    {
+      "title": "Mastering AI Art & Illustration: A Practical Guide to Prompts, Styles, and Creative Control",
+      "url": "https://medium.com/@oleksandr.andrushchenko1988/mastering-ai-art-illustration-a-practical-guide-to-prompts-styles-and-creative-control-4b7470347242?source=rss------ai_art-5",
+      "why": "AI 绘画的提示词、风格与创意控制三件套，是补基础最省时间的一篇。",
+      "id": "92bf772f04c6252e"
+    },
+    {
+      "title": "How to Create an AI Music Video: A Beginner’s Guide",
+      "url": "https://medium.com/@aivon.ai.vision/how-to-create-an-ai-music-video-a-beginners-guide-8b690f8c5974?source=rss------ai_video-5",
+      "why": "AI 音乐视频入门，把音乐节拍、画面切换与生成流程串成一条可复现的链。",
+      "id": "0b565aee28736660"
     }
   ]
 }
