@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-06",
-  "summary": "今天的可学内容集中在「先想清楚再动手」：用构图逻辑而非堆词写提示词、按真实镜头意图列分镜与运镜、把重复提示词沉淀成可复用技能。剪辑侧补两块容易被忽略的硬功夫——AI 生成视频的声音设计与 B-roll 复刻方法；学习侧则有 AI 绘画控制与 AI 音乐视频两条从零上手路径。",
+  "date": "2026-11-08",
+  "summary": "今天的共性是「先把镜头想清楚，再交给 AI」：从构图逻辑、机位与景别入手写提示词，比堆关键词更有效；剪辑侧强调 B-roll 复刻与在提示词内部完成剪辑节奏，AI 生成只是起点、合成才是终点。另有可照抄的分镜到镜头表工作流，以及 AI 短片起步和横竖屏转换的实操路径。",
   "picks": [
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "中文实操：用「复刻」现成优秀 B-roll 的方式反推 AI 生成提示词与运镜，比凭空许愿更可控。",
+      "why": "中文实操拆解如何用 AI 复刻优秀 B-roll 的镜头和节奏，是最容易直接模仿的日常练习法。",
       "id": "524c8e0e12c5dce6"
     },
     {
-      "title": "The Invisible Half of a Film: Sound Design for AI-Generated Video",
-      "url": "https://medium.com/@articog.com/the-invisible-half-of-a-film-sound-design-for-ai-generated-video-5749d82e2e92?source=rss------video_production-5",
-      "why": "AI 视频最缺的「另一半」——音效与环境声设计，给出可落地的声音层次搭建思路。",
-      "id": "8f8eca4e4bf86325"
+      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
+      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
+      "why": "把剪辑思维放进提示词里：用镜头顺序、时长和转场意图来驱动生成，而不是生成完再补救。",
+      "id": "7cbb408ba5ddf5f0"
     },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "别再往提示词里加形容词，讲的是先定构图逻辑再写词，出图稳定度立刻提升。",
+      "why": "中文讲清「构图逻辑优先于形容词堆叠」，提示词写法立刻能改。",
       "id": "9acc46cbdeb37daa"
     },
     {
-      "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
-      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
-      "why": "AI 电影制作系列第 3 天专讲运镜，把推拉摇移翻译成模型能听懂的镜头语言。",
-      "id": "16df762f58b5b891"
+      "title": "Master the Frame: The Complete Guide to Camera Angles and Framing in Cinematography",
+      "url": "https://medium.com/@palyadofficial/master-the-frame-the-complete-guide-to-camera-angles-and-framing-in-cinematography-84649bb83d53?source=rss------cinematography-5",
+      "why": "景别与机位的系统梳理，是写分镜和判断 AI 画面是否可信的底层参照。",
+      "id": "8c8a4b0d49b09964"
+    },
+    {
+      "title": "Why Camera Position Changes How Big an AI World Feels",
+      "url": "https://medium.com/@ttrimm/why-camera-position-changes-how-big-an-ai-world-feels-0b2d399937ed?source=rss------ai_art-5",
+      "why": "解释机位如何改变 AI 世界的尺度感与空间可信度，补上『景别之外的机位』这一课。",
+      "id": "49ba20bbd56ff62e"
+    },
+    {
+      "title": "Fixing AI Manga Faces with ComfyUI FaceDetailer: Not Solved",
+      "url": "https://medium.com/@vivastory.lab/fixing-ai-manga-faces-with-comfyui-facedetailer-not-solved-0338bcdfea18?source=rss------ai_art-5",
+      "why": "用 ComfyUI FaceDetailer 修 AI 漫画脸的完整踩坑记录，工具工作流可直接复用。",
+      "id": "c605cad5d9475365"
     },
     {
       "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
       "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "按景别、角度、运动三要素搭 AI 分镜表，让每个镜头都有真实摄影意图而非随机切换。",
+      "why": "教你把景别、角度、运镜写成带真实摄影意图的 AI 镜头表，而不是罗列关键词。",
       "id": "c0ce3898519a2a2c"
     },
     {
       "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
       "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "Seedance 2.5 从概念到逐镜方案的完整工作流，可直接套用到自己的短片筹备。",
+      "why": "Seedance 2.5 从概念到逐镜方案的完整工作流，可套用到其他视频模型。",
       "id": "6f5f39903e351a2c"
     },
     {
-      "title": "Stop Pasting the Same Prompt. Let skill-creator Turn It Into a Skill.",
-      "url": "https://antonlytvynov.medium.com/stop-pasting-the-same-prompt-let-skill-creator-turn-it-into-a-skill-e06287242774?source=rss------prompt_engineering-5",
-      "why": "把反复粘贴的提示词封装成可调用 Skill，是提示词工程走向工作流的关键一步。",
-      "id": "ac51d30a152f0473"
+      "title": "How to turn a horizontal video vertical without cutting the person out",
+      "url": "https://medium.com/@bestaiapp/how-to-turn-a-horizontal-video-vertical-without-cutting-the-person-out-4eb6d3366131?source=rss------video_production-5",
+      "why": "横屏转竖屏不切人的具体做法，短剧与短视频交付的高频痛点。",
+      "id": "0f0f6001d0e8bcf5"
     },
     {
-      "title": "I make toddler cartoons on an old laptop, and every frame is written in Python",
-      "url": "https://medium.com/@ak.karimzai6/i-make-toddler-cartoons-on-an-old-laptop-and-every-frame-is-written-in-python-627dffd14612?source=rss------generative_ai-5",
-      "why": "用 Python 逐帧生成动画的另类路径，适合想看「代码即分镜」的创作者借鉴。",
-      "id": "2512fc2e2a8a799e"
-    },
-    {
-      "title": "Mastering AI Art & Illustration: A Practical Guide to Prompts, Styles, and Creative Control",
-      "url": "https://medium.com/@oleksandr.andrushchenko1988/mastering-ai-art-illustration-a-practical-guide-to-prompts-styles-and-creative-control-4b7470347242?source=rss------ai_art-5",
-      "why": "AI 绘画的提示词、风格与创意控制三件套，是补基础最省时间的一篇。",
-      "id": "92bf772f04c6252e"
-    },
-    {
-      "title": "How to Create an AI Music Video: A Beginner’s Guide",
-      "url": "https://medium.com/@aivon.ai.vision/how-to-create-an-ai-music-video-a-beginners-guide-8b690f8c5974?source=rss------ai_video-5",
-      "why": "AI 音乐视频入门，把音乐节拍、画面切换与生成流程串成一条可复现的链。",
-      "id": "0b565aee28736660"
+      "title": "How to Start Your First AI Film: One Scene, Three Tabs",
+      "url": "https://hellobusinessdynamite.medium.com/how-to-start-your-first-ai-film-one-scene-three-tabs-a106e1242ea5?source=rss------screenwriting-5",
+      "why": "用「一场戏、三个标签页」把第一部 AI 短片跑通，降低起步门槛。",
+      "id": "9aa8f8bb097323ec"
     }
   ]
 }
