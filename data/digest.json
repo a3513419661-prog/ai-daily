@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-08",
-  "summary": "今天的共性是「先把镜头想清楚，再交给 AI」：从构图逻辑、机位与景别入手写提示词，比堆关键词更有效；剪辑侧强调 B-roll 复刻与在提示词内部完成剪辑节奏，AI 生成只是起点、合成才是终点。另有可照抄的分镜到镜头表工作流，以及 AI 短片起步和横竖屏转换的实操路径。",
+  "date": "2026-11-09",
+  "summary": "今天这批内容集中在可复用的实操链路：从 AI B-roll 复刻、Blender 预演到提示词内完成剪辑，再到构图逻辑与运镜设计。分镜侧可学 Seedance 工作流和按真实镜头意图写 shot list，另外补一条产品图转 AI 广告概念的学习案例。",
   "picks": [
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "中文实操拆解如何用 AI 复刻优秀 B-roll 的镜头和节奏，是最容易直接模仿的日常练习法。",
+      "why": "中文实操复盘，示范如何用复刻法拆解并做出可用的 AI B-roll。",
       "id": "524c8e0e12c5dce6"
+    },
+    {
+      "title": "Block Out Your Scene in Blender Before Asking an AI to Film It",
+      "url": "https://medium.com/@metachain.art/block-out-your-scene-in-blender-before-asking-an-ai-to-film-it-af705cf7daba?source=rss------video_production-5",
+      "why": "先 Blender 做场景 blockout 再交给 AI 拍，能显著提升镜头可控性。",
+      "id": "5a4fc1284e093547"
     },
     {
       "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "把剪辑思维放进提示词里：用镜头顺序、时长和转场意图来驱动生成，而不是生成完再补救。",
+      "why": "把剪辑思路前置到提示词里，适合建立 AI 视频的镜头节奏感。",
       "id": "7cbb408ba5ddf5f0"
     },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文讲清「构图逻辑优先于形容词堆叠」，提示词写法立刻能改。",
+      "why": "中文讲构图逻辑优先于堆提示词，直接提升 AI 画面导演能力。",
       "id": "9acc46cbdeb37daa"
     },
     {
-      "title": "Master the Frame: The Complete Guide to Camera Angles and Framing in Cinematography",
-      "url": "https://medium.com/@palyadofficial/master-the-frame-the-complete-guide-to-camera-angles-and-framing-in-cinematography-84649bb83d53?source=rss------cinematography-5",
-      "why": "景别与机位的系统梳理，是写分镜和判断 AI 画面是否可信的底层参照。",
-      "id": "8c8a4b0d49b09964"
-    },
-    {
-      "title": "Why Camera Position Changes How Big an AI World Feels",
-      "url": "https://medium.com/@ttrimm/why-camera-position-changes-how-big-an-ai-world-feels-0b2d399937ed?source=rss------ai_art-5",
-      "why": "解释机位如何改变 AI 世界的尺度感与空间可信度，补上『景别之外的机位』这一课。",
-      "id": "49ba20bbd56ff62e"
-    },
-    {
-      "title": "Fixing AI Manga Faces with ComfyUI FaceDetailer: Not Solved",
-      "url": "https://medium.com/@vivastory.lab/fixing-ai-manga-faces-with-comfyui-facedetailer-not-solved-0338bcdfea18?source=rss------ai_art-5",
-      "why": "用 ComfyUI FaceDetailer 修 AI 漫画脸的完整踩坑记录，工具工作流可直接复用。",
-      "id": "c605cad5d9475365"
+      "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
+      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
+      "why": "聚焦 AI filmmaking 的运镜，适合补镜头运动语言。",
+      "id": "16df762f58b5b891"
     },
     {
       "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
       "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "教你把景别、角度、运镜写成带真实摄影意图的 AI 镜头表，而不是罗列关键词。",
+      "why": "按景别、角度、运动构建 AI shot list，把相机意图写清楚。",
       "id": "c0ce3898519a2a2c"
     },
     {
       "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
       "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "Seedance 2.5 从概念到逐镜方案的完整工作流，可套用到其他视频模型。",
+      "why": "Seedance 2.5 的分镜工作流，可照着把概念拆成逐镜计划。",
       "id": "6f5f39903e351a2c"
     },
     {
-      "title": "How to turn a horizontal video vertical without cutting the person out",
-      "url": "https://medium.com/@bestaiapp/how-to-turn-a-horizontal-video-vertical-without-cutting-the-person-out-4eb6d3366131?source=rss------video_production-5",
-      "why": "横屏转竖屏不切人的具体做法，短剧与短视频交付的高频痛点。",
-      "id": "0f0f6001d0e8bcf5"
+      "title": "【经验开源】我的AI内容创作和一鱼多吃工作流",
+      "url": "https://www.woshipm.com/ai/6491042.html",
+      "why": "中文开源经验，覆盖 AI 内容创作与一鱼多吃的完整工作流。",
+      "id": "4400415189486cdc"
     },
     {
-      "title": "How to Start Your First AI Film: One Scene, Three Tabs",
-      "url": "https://hellobusinessdynamite.medium.com/how-to-start-your-first-ai-film-one-scene-three-tabs-a106e1242ea5?source=rss------screenwriting-5",
-      "why": "用「一场戏、三个标签页」把第一部 AI 短片跑通，降低起步门槛。",
-      "id": "9aa8f8bb097323ec"
+      "title": "AI产品经理技能4：提示词 3.0 开头别再写「你是一个 XX 专家」",
+      "url": "https://www.woshipm.com/ai/6490911.html",
+      "why": "中文提示词 3.0 思路，纠正「你是一个 XX 专家」式开头。",
+      "id": "300baec961a77220"
+    },
+    {
+      "title": "How to Turn One Product Photo into Three AI Ad Concepts",
+      "url": "https://medium.com/@liuyanchuna2008i/how-to-turn-one-product-photo-into-three-ai-ad-concepts-e9e6b372e437?source=rss------generative_ai-5",
+      "why": "用一张产品图延展三个 AI 广告概念，适合做创意提案练习。",
+      "id": "2e7bf65af4b3b1b7"
     }
   ]
 }
