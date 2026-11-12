@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-11",
-  "summary": "今天的条目几乎都能直接上手：剪辑侧可以学 AI 生成 B-roll 的「复刻」方法和音效卡点节奏；导演侧重点是把镜头语言变成提示词纪律，一次只让 AI 做一种运镜、用构图逻辑而非堆词来描述画面，并补上焦距与空间压缩的基础；分镜与 AI 创作侧则给出从剧本到镜头清单、AI 角色系列化和图像提示词的完整流程。",
+  "date": "2026-11-12",
+  "summary": "今天的内容偏重「可上手的工序」：从提示词到构图、从分镜到镜头清单，把 AI 生成纳入真实的拍摄与剪辑流程。剪辑侧可以学习 AI B-roll 的复刻方法、Premiere 调色模式和喜剧音效的节奏判断；导演与分镜侧强调用构图逻辑和真实镜头意图来写提示词与镜头清单。适合按「写提示词→出分镜→拍摄、生成→剪辑调色」的顺序选读。",
   "picks": [
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "用「先复刻再创作」的思路拆解 AI B-roll，能直接套进日常剪辑的素材补充流程。",
+      "why": "用「复刻」拆解 AI B-roll，能直接学到可复用的生成与匹配剪辑流程。",
       "id": "524c8e0e12c5dce6"
     },
     {
-      "title": "Meme Sound Effects: Find the Sound, Then Time the Cut",
-      "url": "https://oscarmorgan-2.medium.com/meme-sound-effects-reactions-reveals-02f143189ed6?source=rss------video_editing-5",
-      "why": "先找音效再卡剪辑点，把「梗音效」变成可复用的节奏训练法。",
-      "id": "fd3de06b2941b7a9"
+      "title": "Premiere Pro’s Color Mode Adds More Control for Editors Finishing Their Own Work",
+      "url": "https://www.provideocoalition.com/premiere-pros-color-mode-adds-more-control-for-editors-finishing-their-own-work/",
+      "why": "讲 Premiere 调色模式如何给自剪自调的剪辑师更多控制，属于直接能上手的调色内容。",
+      "id": "cd776be7c1c9f859"
     },
     {
-      "title": "Ask an AI Video Model for One Camera Move, Not Three",
-      "url": "https://medium.com/@metachain.art/ask-an-ai-video-model-for-one-camera-move-not-three-192da2c16ae5?source=rss------filmmaking-5",
-      "why": "提示词只写一个运镜，是 AI 视频最容易被忽视却最见效的纪律。",
-      "id": "5531b3227c1dc6bf"
+      "title": "Funny Sound Effects: Choose a Cue for the Joke",
+      "url": "https://medium.com/@nina-chen/funny-sound-effects-choose-a-cue-for-the-joke-e2a99eaa4bb2?source=rss------video_editing-5",
+      "why": "用音效给笑点「下钩子」，是节奏与喜剧剪辑的具体判断方法。",
+      "id": "2041f15798d3377d"
+    },
+    {
+      "title": "Prompting Is Directing: How to Write Shot Descriptions for Cinematic AI Video",
+      "url": "https://medium.com/@koboshi1989/prompting-is-directing-how-to-write-shot-descriptions-for-cinematic-ai-video-4052c313ca32?source=rss------ai_art-5",
+      "why": "把镜头描述当导演工作来写，是 AI 视频提示词最实用的一课。",
+      "id": "87a34c0e0b39e005"
     },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "讲清提示词为什么要从加法转向构图逻辑，画面控制力提升最明显的一课。",
+      "why": "中文实操观点：提示词别堆元素，先立构图逻辑，直接改写出片质量。",
       "id": "9acc46cbdeb37daa"
-    },
-    {
-      "title": "Cinematography #4: Focal Length and Spatial Compression",
-      "url": "https://medium.com/@walter.ckli/cinematography-4-focal-length-and-spatial-compression-4d3bded53a5f?source=rss------cinematography-5",
-      "why": "焦距与空间压缩是镜头语言的底层参数，实拍和 AI 生成都用得上。",
-      "id": "d365061da70e0fd0"
-    },
-    {
-      "title": "Seedream 5.5 Prompts: 20 Practical Starting Points for Reusable Images",
-      "url": "https://medium.com/@image2video/seedream-5-5-prompts-20-practical-starting-points-for-reusable-images-a39ffff38e94?source=rss------ai_art-5",
-      "why": "20 个可复用的 Seedream 提示词起点，适合当模板库直接改写。",
-      "id": "fd5431e4d35ee5d5"
-    },
-    {
-      "title": "One Cat, Thirty Episodes: How I Plan a Recurring AI Cat Character Before I Generate Anything",
-      "url": "https://medium.com/@poptoy998/one-cat-thirty-episodes-how-i-plan-a-recurring-ai-cat-character-before-i-generate-anything-64b3645ede76?source=rss------ai_video-5",
-      "why": "先规划再生成的角色一致性方法，做系列化 AI 内容必学。",
-      "id": "aa68620de798f82e"
     },
     {
       "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
       "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "用真实摄影的景别、机位、运动意图来搭 AI 镜头清单，比分镜模板更实用。",
+      "why": "按景别、角度、运动三要素搭 AI 镜头清单，能把提示词落成可拍的镜头。",
       "id": "c0ce3898519a2a2c"
     },
     {
-      "title": "Seedance 2.5 Storyboard Workflow: Turning a Concept into a Shot-by-Shot Plan",
-      "url": "https://grace-001.medium.com/seedance-2-5-storyboard-workflow-turning-a-concept-into-a-shot-by-shot-plan-e3e7176cc3da?source=rss------storyboard-5",
-      "why": "从概念到逐镜头的 Seedance 工作流，可直接迁移到别的 AI 视频工具。",
-      "id": "6f5f39903e351a2c"
+      "title": "How to Turn a Screenplay Into a Storyboard: A Practical Guide for Filmmakers",
+      "url": "https://medium.com/@arpitcoder25/how-to-turn-a-screenplay-into-a-storyboard-a-practical-guide-for-filmmakers-e1fef06978c3?source=rss------screenwriting-5",
+      "why": "剧本转分镜的完整实操指南，适合建立从文字到画面的标准流程。",
+      "id": "a2b5b5bc85f008ec"
     },
     {
-      "title": "AI Prompts for Vector Art: How to Generate Images That Trace Into a Clean SVG",
-      "url": "https://medium.com/@perfectvector/ai-prompts-for-vector-art-how-to-generate-images-that-trace-into-a-clean-svg-b411cde3c519?source=rss------ai_art-5",
-      "why": "面向可描摹成干净 SVG 的提示词写法，补上视觉素材从图到矢量的关键一步。",
-      "id": "48189e708e8acce8"
+      "title": "GPT Image 2.6 Prompt Guide: Tips and 12 Example Prompts",
+      "url": "https://medium.com/@sidrachaudhary321/gpt-image-2-6-prompt-guide-tips-and-12-example-prompts-b146aa8375a6?source=rss------prompt_engineering-5",
+      "why": "12 个示例提示词可直接对照改写，省去自己摸索图像提示词的时间。",
+      "id": "58e75c7560d5d2b8"
+    },
+    {
+      "title": "Why Writing The Correct Prompt Still Doesn’t Give The Result You Want.",
+      "url": "https://medium.com/codetodeploy/why-writing-the-correct-prompt-still-doesnt-give-the-result-you-want-7d437cd0a955?source=rss------prompt_engineering-5",
+      "why": "解释提示词写对了却出不来结果的原因，帮你排查工作流而非只改措辞。",
+      "id": "165d3fe280412d73"
+    },
+    {
+      "title": "How to Plan a Factory Film: From the First Site Visit to the Final Edit",
+      "url": "https://medium.com/@jazirehadv/how-to-plan-a-factory-film-from-the-first-site-visit-to-the-final-edit-1e073870126a?source=rss------filmmaking-5",
+      "why": "从踩点到终剪的工厂影片策划全流程，可迁移到任何纪实、品牌短片项目。",
+      "id": "8ead6bcdd6aa254e"
     }
   ]
 }
