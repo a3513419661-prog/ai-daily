@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-12",
-  "summary": "今天的内容偏重「可上手的工序」：从提示词到构图、从分镜到镜头清单，把 AI 生成纳入真实的拍摄与剪辑流程。剪辑侧可以学习 AI B-roll 的复刻方法、Premiere 调色模式和喜剧音效的节奏判断；导演与分镜侧强调用构图逻辑和真实镜头意图来写提示词与镜头清单。适合按「写提示词→出分镜→拍摄、生成→剪辑调色」的顺序选读。",
+  "date": "2026-11-13",
+  "summary": "今天可以重点学三条线：用“复刻”拆解 AI B-roll，并把剪辑决策写进提示词；把提示词当导演，用构图逻辑和镜头描述控制画面；以及从剧本到分镜、镜头清单的落地流程。另有短视频复刻与短剧台词写法，适合直接照着练。",
   "picks": [
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "用「复刻」拆解 AI B-roll，能直接学到可复用的生成与匹配剪辑流程。",
+      "why": "用复刻法拆解优秀 B-roll 的镜头与节奏，再让 AI 照着生成，实操性很强。",
       "id": "524c8e0e12c5dce6"
     },
     {
-      "title": "Premiere Pro’s Color Mode Adds More Control for Editors Finishing Their Own Work",
-      "url": "https://www.provideocoalition.com/premiere-pros-color-mode-adds-more-control-for-editors-finishing-their-own-work/",
-      "why": "讲 Premiere 调色模式如何给自剪自调的剪辑师更多控制，属于直接能上手的调色内容。",
-      "id": "cd776be7c1c9f859"
+      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
+      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
+      "why": "把剪辑决策写进提示词，学 AI 视频“提示词内完成剪辑”的工作流。",
+      "id": "7cbb408ba5ddf5f0"
     },
     {
-      "title": "Funny Sound Effects: Choose a Cue for the Joke",
-      "url": "https://medium.com/@nina-chen/funny-sound-effects-choose-a-cue-for-the-joke-e2a99eaa4bb2?source=rss------video_editing-5",
-      "why": "用音效给笑点「下钩子」，是节奏与喜剧剪辑的具体判断方法。",
-      "id": "2041f15798d3377d"
+      "title": "How I Edit an AI Anime Episode: Cut First, Music Last",
+      "url": "https://hellobusinessdynamite.medium.com/how-i-edit-an-ai-anime-episode-cut-first-music-last-8b9f53f171ce?source=rss------film_making-5",
+      "why": "“先剪后配乐”的 AI 动画剪辑节奏法，适合学剪辑点与音乐进入时机。",
+      "id": "23ebd751d9c4a098"
     },
     {
       "title": "Prompting Is Directing: How to Write Shot Descriptions for Cinematic AI Video",
       "url": "https://medium.com/@koboshi1989/prompting-is-directing-how-to-write-shot-descriptions-for-cinematic-ai-video-4052c313ca32?source=rss------ai_art-5",
-      "why": "把镜头描述当导演工作来写，是 AI 视频提示词最实用的一课。",
+      "why": "把提示词写成镜头描述：景别、机位、运动、光线一次讲清。",
       "id": "87a34c0e0b39e005"
     },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文实操观点：提示词别堆元素，先立构图逻辑，直接改写出片质量。",
+      "why": "别堆形容词，用构图逻辑组织提示词，画面会更可控。",
       "id": "9acc46cbdeb37daa"
     },
     {
       "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
       "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "按景别、角度、运动三要素搭 AI 镜头清单，能把提示词落成可拍的镜头。",
+      "why": "按真实摄影意图搭 AI 镜头清单：景别、角度、运动如何对应。",
       "id": "c0ce3898519a2a2c"
     },
     {
-      "title": "How to Turn a Screenplay Into a Storyboard: A Practical Guide for Filmmakers",
-      "url": "https://medium.com/@arpitcoder25/how-to-turn-a-screenplay-into-a-storyboard-a-practical-guide-for-filmmakers-e1fef06978c3?source=rss------screenwriting-5",
-      "why": "剧本转分镜的完整实操指南，适合建立从文字到画面的标准流程。",
-      "id": "a2b5b5bc85f008ec"
+      "title": "How to Turn a Script Into an AI Storyboard, Step by Step",
+      "url": "https://hellobusinessdynamite.medium.com/how-to-turn-a-script-into-an-ai-storyboard-step-by-step-4eeff043fa96?source=rss------screenwriting-5",
+      "why": "从剧本逐场拆成可拍的 AI 分镜，步骤清晰，适合直接照做。",
+      "id": "7577b8e42ea26229"
     },
     {
-      "title": "GPT Image 2.6 Prompt Guide: Tips and 12 Example Prompts",
-      "url": "https://medium.com/@sidrachaudhary321/gpt-image-2-6-prompt-guide-tips-and-12-example-prompts-b146aa8375a6?source=rss------prompt_engineering-5",
-      "why": "12 个示例提示词可直接对照改写，省去自己摸索图像提示词的时间。",
-      "id": "58e75c7560d5d2b8"
+      "title": "Want to Recreate a Short Video Without Filming It Again? A Guide to viral studio",
+      "url": "https://medium.com/@zhouyiming1995/want-to-recreate-a-short-video-without-filming-it-again-a-guide-to-viral-studio-ca0136755bea?source=rss------ai_video-5",
+      "why": "不重拍也能复刻爆款短视频的 AI 流程，含场景与镜头替换思路。",
+      "id": "778245f10ed1f9cb"
     },
     {
-      "title": "Why Writing The Correct Prompt Still Doesn’t Give The Result You Want.",
-      "url": "https://medium.com/codetodeploy/why-writing-the-correct-prompt-still-doesnt-give-the-result-you-want-7d437cd0a955?source=rss------prompt_engineering-5",
-      "why": "解释提示词写对了却出不来结果的原因，帮你排查工作流而非只改措辞。",
-      "id": "165d3fe280412d73"
+      "title": "Five Lines, One Twist: How I Write Dialogue for a 20-Second Fruit Drama",
+      "url": "https://medium.com/@poptoy998/five-lines-one-twist-how-i-write-dialogue-for-a-20-second-fruit-drama-0ca3bdc8b00b?source=rss------ai_video-5",
+      "why": "20 秒水果短剧的台词写法：五句铺垫加一个反转，可直接套结构。",
+      "id": "6f07dead7a1d4ecd"
     },
     {
-      "title": "How to Plan a Factory Film: From the First Site Visit to the Final Edit",
-      "url": "https://medium.com/@jazirehadv/how-to-plan-a-factory-film-from-the-first-site-visit-to-the-final-edit-1e073870126a?source=rss------filmmaking-5",
-      "why": "从踩点到终剪的工厂影片策划全流程，可迁移到任何纪实、品牌短片项目。",
-      "id": "8ead6bcdd6aa254e"
+      "title": "Five Things I Put in Every Exploded-View Product Prompt",
+      "url": "https://dev.to/wenchao_builds/five-things-i-put-in-every-exploded-view-product-prompt-18do",
+      "why": "产品爆炸图提示词的五个固定要素，适合做产品视觉时复用。",
+      "id": "ad211bacee19e43c"
     }
   ]
 }
