@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-14",
-  "summary": "今天的条目几乎都围绕「先想清楚再生成」：提示词要按构图与镜头语言来写，分镜与镜头清单要在生成前定好，剪辑则从 B-roll 复刻、声音修复到「在提示词里完成剪辑」都能直接上手。学完这一组，可以形成一条从剧本、分镜、镜头描述、AI 生成，到剪辑节奏与音频处理的完整链路。",
+  "date": "2026-11-15",
+  "summary": "今天的重点全在「想清楚再动手」：提示词要从构图与镜头意图出发，而不是堆形容词；分镜与镜头清单决定 AI 视频成败；剪辑端则是把 B-roll、空镜和后期思路前置到生成环节。三条实操线可以串成一套从脚本到成片的流程。",
   "picks": [
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "用「复刻」拆解优秀 B-roll，最适合练 AI 补镜头的实操路径，可直接照着做。",
+      "why": "中文实操：先用「复刻」拆解优秀 B-roll 的镜头与节奏，再让 AI 批量生产，是最快建立素材库的路径。",
       "id": "524c8e0e12c5dce6"
-    },
-    {
-      "title": "Rescue Your Interview Audio Without Leaving Premiere",
-      "url": "https://www.provideocoalition.com/rescue-your-interview-audio-without-leaving-premiere/",
-      "why": "不离开 Premiere 就能修好采访音频，是采访、口播、短剧对白都能马上用的操作。",
-      "id": "1af957fb93e4a61a"
     },
     {
       "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "把「剪辑」提前到提示词阶段，理解 AI 影像在生成时就决定节奏与镜头衔接。",
+      "why": "把剪辑思维搬进提示词：用镜头顺序、时长感与转场意图写 prompt，让生成素材天生可剪。",
       "id": "7cbb408ba5ddf5f0"
     },
     {
-      "title": "不要用加法思维写提示词，构图逻辑更重要",
-      "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文讲解为什么要少用加法式堆词，改用构图逻辑写提示词，是提升画面质感的关键思路。",
-      "id": "9acc46cbdeb37daa"
+      "title": "Generate the Empty Room Before You Put a Person in It",
+      "url": "https://medium.com/@metachain.art/generate-the-empty-room-before-you-put-a-person-in-it-c28362ca0499?source=rss------video_production-5",
+      "why": "先出空场景再放人，能显著减少 AI 生成中的人物畸变与光影冲突，是合成镜头的实用技巧。",
+      "id": "2ae505077a1cc10c"
     },
     {
       "title": "Prompting Is Directing: How to Write Shot Descriptions for Cinematic AI Video",
       "url": "https://medium.com/@koboshi1989/prompting-is-directing-how-to-write-shot-descriptions-for-cinematic-ai-video-4052c313ca32?source=rss------ai_art-5",
-      "why": "把提示词当导演台本来写镜头描述，给出可复用的电影感镜头句式。",
+      "why": "核心观点：提示词即导演。按景别、机位、运动、光比写镜头描述，比堆风格词更可控。",
       "id": "87a34c0e0b39e005"
     },
     {
-      "title": "The Geometry of Light: How Visual Framing Drives Emotional Storytelling",
-      "url": "https://medium.com/@mukeshcho8580/the-geometry-of-light-how-visual-framing-drives-emotional-storytelling-667512b5ee1e?source=rss------cinematography-5",
-      "why": "讲光线与构图如何驱动情绪，适合用来为画面取舍找依据。",
-      "id": "1bbf5d12792cf574"
-    },
-    {
-      "title": "Stop Generating Random AI Images: Build a Smarter AI Creation Workflow",
-      "url": "https://medium.com/@xronxon25/stop-generating-random-ai-images-build-a-smarter-ai-creation-workflow-a10ea417f75a?source=rss------prompt_engineering-5",
-      "why": "从随机抽卡转向固定创作工作流，适合给自己搭一套能复用的出图流程。",
-      "id": "6ec741bdfd55b342"
-    },
-    {
-      "title": "Your Prompt Is Probably Fine. The AI Is Missing One Fact",
-      "url": "https://beyondthestacknotes.medium.com/your-prompt-is-probably-fine-the-ai-is-missing-one-fact-daae9a09b93d?source=rss------generative_ai-5",
-      "why": "提醒提示词本身没问题，缺的是关键事实，可以帮你排查「为什么总是出不来想要的画面」。",
-      "id": "3d0e35f160ae8cfe"
+      "title": "不要用加法思维写提示词，构图逻辑更重要",
+      "url": "https://www.digitaling.com/articles/1582727.html",
+      "why": "中文：别用加法思维堆元素，先定构图骨架（主体位置、前中后景、视线方向）再补细节。",
+      "id": "9acc46cbdeb37daa"
     },
     {
       "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
       "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "按景别、角度、运镜搭 AI 镜头清单，把真实摄影意图写进生成指令，分镜实操性最强。",
+      "why": "把景别、角度、运动还原成真实摄影机意图来写 AI 镜头清单，是分镜到生成的关键一步。",
       "id": "c0ce3898519a2a2c"
     },
     {
-      "title": "How to Create Convincing Worlds Inside Glass Spheres With AI",
-      "url": "https://medium.com/prompt-odyssey/how-to-create-convincing-worlds-inside-glass-spheres-with-ai-a6613489b86e?source=rss------ai_art-5",
-      "why": "玻璃球内造世界的视觉小练习，可当作学习可控场景与光影营造的练手项目。",
-      "id": "a7ca8b5ac01ca8f0"
+      "title": "How to Turn a Screenplay Into a Storyboard: A Practical Guide for Filmmakers",
+      "url": "https://medium.com/@arpitcoder25/how-to-turn-a-screenplay-into-a-storyboard-a-practical-guide-for-filmmakers-e1fef06978c3?source=rss------screenwriting-5",
+      "why": "从剧本文字转成分镜图的完整方法，适合建立可交付、可拍摄的标准流程。",
+      "id": "a2b5b5bc85f008ec"
+    },
+    {
+      "title": "Why Your AI Always Picks 7, and Why Vague Prompts Lead to Slop",
+      "url": "https://darren-broemmer.medium.com/why-your-ai-always-picks-7-and-why-vague-prompts-lead-to-slop-618f5a2e9c99?source=rss------prompt_engineering-5",
+      "why": "解释模糊提示词为何必然产出「平均值垃圾」，以及如何用具体约束把模型推出舒适区。",
+      "id": "e7df79a37e646cbc"
+    },
+    {
+      "title": "The Prompt Playbook : Show It the Evidence First",
+      "url": "https://medium.com/@AIProductSignal/the-prompt-playbook-show-it-the-evidence-first-f7c536ba98d1?source=rss------prompt_engineering-5",
+      "why": "先给证据再提要求：把参考图、样例、数据放在指令之前，能明显提升输出稳定性。",
+      "id": "286313fad0164cb9"
+    },
+    {
+      "title": "The Script Is Not the Timeline: How to Turn a Blog Post Into a YouTube Short With AI",
+      "url": "https://medium.com/@aiprofessionalmix/https-www-aipromix-com-2026-11-blog-post-to-youtube-short-ai-html-9853ff48b087?source=rss------video_editing-5",
+      "why": "脚本不等于时间线：把长文拆成短视频节奏的实操流程，适合把文字素材快速转成成片。",
+      "id": "b836c352aaeae179"
     }
   ]
 }
