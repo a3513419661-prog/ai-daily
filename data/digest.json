@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-18",
-  "summary": "今天的条目很实操：剪辑侧可以学到 AI 做 B-roll 的复刻方法、把剪辑思路写进提示词，以及 AI 初剪对节奏的取舍；导演侧的核心是“提示词就是导演”，用构图逻辑和调度思维替代堆词。分镜与教程各有一条可落地清单，帮你把画面意图变成模型能执行的镜头表。",
+  "date": "2026-11-20",
+  "summary": "今天的内容集中在一件事上：让 AI 视频从“看着还行”变成“看着对”。剪辑这边有 B-roll 复刻方法、AE 自动调色脚本，以及把剪辑思路提前写进提示词的做法；导演与分镜这边讲构图逻辑、镜头描述写法、真实摄像机意图下的镜头清单和剧本转分镜；AI 创作技巧则提供可直接上手的工作流自动化与提示词改法。建议今天先学构图逻辑和镜头清单，再把 B-roll 复刻当作练习。",
   "picks": [
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "中文实操向：用“先复刻再原创”的方法拆解 AI B-roll，能直接照做练手。",
+      "why": "中文实操：用“复刻”逆向拆解优秀 B-roll，是练 AI 素材质感最快的方法。",
       "id": "524c8e0e12c5dce6"
+    },
+    {
+      "title": "Auto Levels – a free script for color grading in After Effects",
+      "url": "https://www.provideocoalition.com/auto-levels-a-free-script-for-color-grading-in-after-effects/",
+      "why": "免费的 After Effects 自动色阶脚本，调色流程能直接接入项目使用。",
+      "id": "7ca189cf5928509f"
     },
     {
       "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "把剪辑判断写进提示词，是 AI 视频里最省钱省时的粗剪方式。",
+      "why": "把“剪辑”提前到提示词阶段，讲清 AI 素材如何一步到位、少返工。",
       "id": "7cbb408ba5ddf5f0"
-    },
-    {
-      "title": "I ran my own 80-second take through an AI first cut. It came back 28 seconds long.",
-      "url": "https://medium.com/@mohamedmokbel979/i-ran-my-own-80-second-take-through-an-ai-first-cut-it-came-back-28-seconds-long-7eddecd370e3?source=rss------video_editing-5",
-      "why": "一次真实实验：80 秒素材被 AI 初剪成 28 秒，正好用来反思节奏与取舍标准。",
-      "id": "df08ab110777dd43"
-    },
-    {
-      "title": "Prompting Is Directing: How to Write Shot Descriptions for Cinematic AI Video",
-      "url": "https://medium.com/@koboshi1989/prompting-is-directing-how-to-write-shot-descriptions-for-cinematic-ai-video-4052c313ca32?source=rss------ai_art-5",
-      "why": "把提示词当分镜来写，教你怎么给 AI 描述景别、机位与运动。",
-      "id": "87a34c0e0b39e005"
     },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文观点：提示词别再堆形容词，先想清楚构图逻辑更有效。",
+      "why": "中文干货：提示词别堆形容词，先搭构图逻辑，画面稳定的关键就在这。",
       "id": "9acc46cbdeb37daa"
     },
     {
-      "title": "How Do You Stage a Conversation Between Two Characters on Screen?",
-      "url": "https://roohdaarie.medium.com/how-do-you-stage-a-conversation-between-two-characters-on-screen-835b38d15083?source=rss------film_making-5",
-      "why": "两人对话戏的调度方法，可直接迁移到 AI 双人对白镜头的站位与切点。",
-      "id": "0706b145fc57f214"
+      "title": "Prompting Is Directing: How to Write Shot Descriptions for Cinematic AI Video",
+      "url": "https://medium.com/@koboshi1989/prompting-is-directing-how-to-write-shot-descriptions-for-cinematic-ai-video-4052c313ca32?source=rss------ai_art-5",
+      "why": "把提示词当导演功课来写，逐条示范电影感镜头描述的结构。",
+      "id": "87a34c0e0b39e005"
+    },
+    {
+      "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
+      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
+      "why": "AI 电影制作系列的运镜篇，讲怎么让模型听懂推拉摇移，可以照着练。",
+      "id": "16df762f58b5b891"
     },
     {
       "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
       "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "用真实摄影意图（景别、角度、运动）搭 AI 镜头清单，分镜落地最实用的一条。",
+      "why": "从景别、角度、运动三个维度搭建有真实摄像机意图的 AI 镜头清单。",
       "id": "c0ce3898519a2a2c"
     },
     {
-      "title": "AI video in one prompt: 5 rules that make or break the clip",
-      "url": "https://medium.com/@mark.steier99/ai-video-in-one-prompt-5-rules-that-make-or-break-the-clip-b0962fd61e06?source=rss------prompt_engineering-5",
-      "why": "五条单提示词生成视频的成败规则，适合当生成前的检查清单。",
-      "id": "a644d71f0e7bc030"
+      "title": "土豆姐最新教程，手把手教你用Grok Bot搞定一切工作流自动化",
+      "url": "https://www.woshipm.com/ai/6497143.html",
+      "why": "中文手把手教程，用 Grok Bot 把重复工作流自动化，能马上照做。",
+      "id": "1378d91ff567c719"
     },
     {
-      "title": "Keep a Rejects Folder for the AI Takes That Almost Worked",
-      "url": "https://medium.com/@metachain.art/keep-a-rejects-folder-for-the-ai-takes-that-almost-worked-8be4bf6afd80?source=rss------prompt_engineering-5",
-      "why": "给“差一点就成了”的 AI 废片建文件夹，是把抽卡变成可复用经验的小习惯。",
-      "id": "e93995877dfcdae9"
+      "title": "How to Edit a Photo With AI Using a Text Prompt: A Step-by-Step Guide",
+      "url": "https://medium.com/@haibizdigital/how-to-edit-a-photo-with-ai-using-a-text-prompt-a-step-by-step-guide-b4ce639f25b3?source=rss------prompt_engineering-5",
+      "why": "文本提示改图的完整步骤演示，适合当作提示词控制力练习。",
+      "id": "443b226b92a71041"
     },
     {
-      "title": "Why Your “Cinematic” AI Videos Still Look Fake — And How To Fix It",
-      "url": "https://medium.com/@koboshi1989/why-your-cinematic-ai-videos-still-look-fake-and-how-to-fix-it-596969822790?source=rss------prompt_engineering-5",
-      "why": "系统拆解 AI 视频“一眼假”的成因与修法，属于底层审美补课。",
-      "id": "823576eb6fd7f08a"
+      "title": "Check an AI Video Intro Against the Tutorial It Introduces",
+      "url": "https://medium.com/@liorabennett/check-an-ai-video-intro-against-the-tutorial-it-introduces-f84f8fa492de?source=rss------ai_video-5",
+      "why": "教你拿 AI 生成的片头去对照它介绍的教程，从而自查宣传与内容是否脱节。",
+      "id": "ed7987b28931b304"
     }
   ]
 }
