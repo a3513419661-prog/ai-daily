@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-20",
-  "summary": "今天的内容集中在一件事上：让 AI 视频从“看着还行”变成“看着对”。剪辑这边有 B-roll 复刻方法、AE 自动调色脚本，以及把剪辑思路提前写进提示词的做法；导演与分镜这边讲构图逻辑、镜头描述写法、真实摄像机意图下的镜头清单和剧本转分镜；AI 创作技巧则提供可直接上手的工作流自动化与提示词改法。建议今天先学构图逻辑和镜头清单，再把 B-roll 复刻当作练习。",
+  "date": "2026-11-21",
+  "summary": "今天的内容集中在三件事：用提示词完成“导演”工作（构图逻辑、镜头描述、运镜），在生成前就把分镜和镜头表做扎实（景别、角度、运动意图），以及 AI 剪辑与出片节奏的实操经验（B-roll 复刻、在提示词里完成剪辑、前三秒钩子）。此外还有两条提示词习惯类的内容，可以直接改掉旧习惯；一条跨 40 个镜头保持角色一致的连载工作流，值得保存下来，当作模板参考。",
   "picks": [
-    {
-      "title": "让 AI 做好 B-roll，我决定先从复刻开始",
-      "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "中文实操：用“复刻”逆向拆解优秀 B-roll，是练 AI 素材质感最快的方法。",
-      "id": "524c8e0e12c5dce6"
-    },
-    {
-      "title": "Auto Levels – a free script for color grading in After Effects",
-      "url": "https://www.provideocoalition.com/auto-levels-a-free-script-for-color-grading-in-after-effects/",
-      "why": "免费的 After Effects 自动色阶脚本，调色流程能直接接入项目使用。",
-      "id": "7ca189cf5928509f"
-    },
-    {
-      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
-      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "把“剪辑”提前到提示词阶段，讲清 AI 素材如何一步到位、少返工。",
-      "id": "7cbb408ba5ddf5f0"
-    },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文干货：提示词别堆形容词，先搭构图逻辑，画面稳定的关键就在这。",
+      "why": "讲构图逻辑优先于堆提示词细节，这正是新手最容易反着做的地方。",
       "id": "9acc46cbdeb37daa"
     },
     {
       "title": "Prompting Is Directing: How to Write Shot Descriptions for Cinematic AI Video",
       "url": "https://medium.com/@koboshi1989/prompting-is-directing-how-to-write-shot-descriptions-for-cinematic-ai-video-4052c313ca32?source=rss------ai_art-5",
-      "why": "把提示词当导演功课来写，逐条示范电影感镜头描述的结构。",
+      "why": "把“写提示词”当成“写分镜描述”，教你把景别、机位、光线写成可执行的句子。",
       "id": "87a34c0e0b39e005"
     },
     {
       "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
-      "why": "AI 电影制作系列的运镜篇，讲怎么让模型听懂推拉摇移，可以照着练。",
+      "why": "AI 电影制作系列中的运镜专讲，可以直接照着练推、拉、摇、移的提示词写法。",
       "id": "16df762f58b5b891"
+    },
+    {
+      "title": "让 AI 做好 B-roll，我决定先从复刻开始",
+      "url": "https://www.woshipm.com/ai/6470298.html",
+      "why": "用“复刻”成熟 B-roll 的方式反推 AI 生成流程，是能积累经验的练习方法。",
+      "id": "524c8e0e12c5dce6"
+    },
+    {
+      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
+      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
+      "why": "把剪辑意图提前写进提示词，能减少后期返工，是 AI 流程特有的思路。",
+      "id": "7cbb408ba5ddf5f0"
+    },
+    {
+      "title": "Why Most YouTube & TikTok Videos Fail in the First 3 Seconds (And the Free 2026 Editing Toolkit to…",
+      "url": "https://medium.com/@richardkaynat/why-most-youtube-tiktok-videos-fail-in-the-first-3-seconds-and-the-free-2026-editing-toolkit-to-56ffc898b5b6?source=rss------film_making-5",
+      "why": "拆解前三秒为什么会失败，属于能直接套用的开场节奏与钩子结构。",
+      "id": "568eaf727eee41ff"
     },
     {
       "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
       "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "从景别、角度、运动三个维度搭建有真实摄像机意图的 AI 镜头清单。",
+      "why": "按真实摄影意图（景别、角度、运动）搭 AI 镜头表，生成前就把画面确定下来。",
       "id": "c0ce3898519a2a2c"
     },
     {
-      "title": "土豆姐最新教程，手把手教你用Grok Bot搞定一切工作流自动化",
-      "url": "https://www.woshipm.com/ai/6497143.html",
-      "why": "中文手把手教程，用 Grok Bot 把重复工作流自动化，能马上照做。",
-      "id": "1378d91ff567c719"
+      "title": "How to Hold One Character Across 40 AI Shots",
+      "url": "https://medium.com/@info_13818/how-to-hold-one-character-across-40-ai-shots-c1f67277d37d?source=rss------ai_video-5",
+      "why": "跨 40 个镜头保持同一角色，是系列化 AI 短片最影响成本的实操难题。",
+      "id": "3ae94bf95f67bf44"
     },
     {
-      "title": "How to Edit a Photo With AI Using a Text Prompt: A Step-by-Step Guide",
-      "url": "https://medium.com/@haibizdigital/how-to-edit-a-photo-with-ai-using-a-text-prompt-a-step-by-step-guide-b4ce639f25b3?source=rss------prompt_engineering-5",
-      "why": "文本提示改图的完整步骤演示，适合当作提示词控制力练习。",
-      "id": "443b226b92a71041"
+      "title": "How to Talk to Claude: 5 Simple Prompt Habits That Instantly Upgrade Your Results",
+      "url": "https://medium.com/@rajmishra757/how-to-talk-to-claude-ai-prompt-habits-beginners-ddbccea0b247?source=rss------prompt_engineering-5",
+      "why": "五个提示词小习惯，能立刻改善输出表达的质量，改造成本很低。",
+      "id": "440334ec1a62b2bd"
     },
     {
-      "title": "Check an AI Video Intro Against the Tutorial It Introduces",
-      "url": "https://medium.com/@liorabennett/check-an-ai-video-intro-against-the-tutorial-it-introduces-f84f8fa492de?source=rss------ai_video-5",
-      "why": "教你拿 AI 生成的片头去对照它介绍的教程，从而自查宣传与内容是否脱节。",
-      "id": "ed7987b28931b304"
+      "title": "Five Prompt Habits Worth Retiring (and What to Do Instead)",
+      "url": "https://medium.com/@kanisshka12/five-prompt-habits-worth-retiring-and-what-to-do-instead-e57f57efd3c2?source=rss------prompt_engineering-5",
+      "why": "列出该淘汰的旧提示词习惯，适合和上一条搭配着做一次习惯纠错。",
+      "id": "49a5effee78575b6"
     }
   ]
 }
