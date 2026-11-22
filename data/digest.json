@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-21",
-  "summary": "今天的内容集中在三件事：用提示词完成“导演”工作（构图逻辑、镜头描述、运镜），在生成前就把分镜和镜头表做扎实（景别、角度、运动意图），以及 AI 剪辑与出片节奏的实操经验（B-roll 复刻、在提示词里完成剪辑、前三秒钩子）。此外还有两条提示词习惯类的内容，可以直接改掉旧习惯；一条跨 40 个镜头保持角色一致的连载工作流，值得保存下来，当作模板参考。",
+  "date": "2026-11-22",
+  "summary": "今天能学到的主要是把「提示词」当镜头语言来写：构图逻辑优先于堆词，用机位、景别、运镜描述代替形容词。剪辑侧提供了可复用的 B-roll 复刻法和 AI 批量剪静音的实际教训，分镜侧给了从剧本到可拍摄镜头清单的完整路径。另有一条 MCP 入门，适合把素材检索与工具链接到自己的工作流里。",
   "picks": [
+    {
+      "title": "让 AI 做好 B-roll，我决定先从复刻开始",
+      "url": "https://www.woshipm.com/ai/6470298.html",
+      "why": "中文实操，用「复刻」拆解优质 B-roll 的镜头与节奏，是最容易照抄上手的一条练习路径。",
+      "id": "524c8e0e12c5dce6"
+    },
+    {
+      "title": "We Cut a 19-Minute TED Talk’s Silence With AI",
+      "url": "https://medium.com/@sanookai55/we-cut-a-19-minute-ted-talks-silence-with-ai-e98b43502c9d?source=rss------video_editing-5",
+      "why": "用 19 分钟 TED 演讲做样本，示范 AI 批量去静音后如何保住说话节奏，剪长口播可直接套用。",
+      "id": "289c69a414495caa"
+    },
+    {
+      "title": "Making Claude edit video takes a weekend. Making the cuts not sound like cuts doesn’t",
+      "url": "https://medium.com/@gargsarthak183/making-claude-edit-video-takes-a-weekend-making-the-cuts-not-sound-like-cuts-doesnt-41aa37538bb1?source=rss------video_editing-5",
+      "why": "讲清 AI 自动剪辑最难的一关——切口听起来不像切口，属于剪节奏的实战经验而非工具宣传。",
+      "id": "a6d473e582dbebe3"
+    },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "讲构图逻辑优先于堆提示词细节，这正是新手最容易反着做的地方。",
+      "why": "中文，纠正「加法式堆词」的提示词习惯，把构图逻辑放在第一位，写镜头前值得先读。",
       "id": "9acc46cbdeb37daa"
     },
     {
       "title": "Prompting Is Directing: How to Write Shot Descriptions for Cinematic AI Video",
       "url": "https://medium.com/@koboshi1989/prompting-is-directing-how-to-write-shot-descriptions-for-cinematic-ai-video-4052c313ca32?source=rss------ai_art-5",
-      "why": "把“写提示词”当成“写分镜描述”，教你把景别、机位、光线写成可执行的句子。",
+      "why": "把提示词还原为导演工作：如何写一句可执行的镜头描述，与上一条互为补充。",
       "id": "87a34c0e0b39e005"
     },
     {
       "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
-      "why": "AI 电影制作系列中的运镜专讲，可以直接照着练推、拉、摇、移的提示词写法。",
+      "why": "AI 电影制作系列第三天专讲运镜，是系列里最可练的一环，可直接拿来做镜头练习。",
       "id": "16df762f58b5b891"
     },
     {
-      "title": "让 AI 做好 B-roll，我决定先从复刻开始",
-      "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "用“复刻”成熟 B-roll 的方式反推 AI 生成流程，是能积累经验的练习方法。",
-      "id": "524c8e0e12c5dce6"
+      "title": "Stop Typing “8K Masterpiece” If You Want AI Portraits to Look Real",
+      "url": "https://medium.com/@karrrrr/stop-typing-8k-masterpiece-if-you-want-ai-portraits-to-look-real-d9e9337a0353?source=rss------ai_art-5",
+      "why": "反面清单式提示词技巧：为什么「8K 杰作」毁掉写实感，改法具体、立刻能改自己的模板。",
+      "id": "d171e8cff174dcb3"
     },
     {
-      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
-      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "把剪辑意图提前写进提示词，能减少后期返工，是 AI 流程特有的思路。",
-      "id": "7cbb408ba5ddf5f0"
-    },
-    {
-      "title": "Why Most YouTube & TikTok Videos Fail in the First 3 Seconds (And the Free 2026 Editing Toolkit to…",
-      "url": "https://medium.com/@richardkaynat/why-most-youtube-tiktok-videos-fail-in-the-first-3-seconds-and-the-free-2026-editing-toolkit-to-56ffc898b5b6?source=rss------film_making-5",
-      "why": "拆解前三秒为什么会失败，属于能直接套用的开场节奏与钩子结构。",
-      "id": "568eaf727eee41ff"
+      "title": "花1千多，6个场景极限横测完御三家最强模型，我沉默了…（附提示词）",
+      "url": "https://www.woshipm.com/evaluating/6498002.html",
+      "why": "中文，六场景横测三家视频模型并附提示词，能看清同一提示词在不同模型上的偏差。",
+      "id": "5d54115ac3df7ff8"
     },
     {
       "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
       "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "按真实摄影意图（景别、角度、运动）搭 AI 镜头表，生成前就把画面确定下来。",
+      "why": "景别、角度、运动三要素构建 AI 镜头清单，把真实摄影意图写进分镜，避免生成结果散乱。",
       "id": "c0ce3898519a2a2c"
     },
     {
-      "title": "How to Hold One Character Across 40 AI Shots",
-      "url": "https://medium.com/@info_13818/how-to-hold-one-character-across-40-ai-shots-c1f67277d37d?source=rss------ai_video-5",
-      "why": "跨 40 个镜头保持同一角色，是系列化 AI 短片最影响成本的实操难题。",
-      "id": "3ae94bf95f67bf44"
-    },
-    {
-      "title": "How to Talk to Claude: 5 Simple Prompt Habits That Instantly Upgrade Your Results",
-      "url": "https://medium.com/@rajmishra757/how-to-talk-to-claude-ai-prompt-habits-beginners-ddbccea0b247?source=rss------prompt_engineering-5",
-      "why": "五个提示词小习惯，能立刻改善输出表达的质量，改造成本很低。",
-      "id": "440334ec1a62b2bd"
-    },
-    {
-      "title": "Five Prompt Habits Worth Retiring (and What to Do Instead)",
-      "url": "https://medium.com/@kanisshka12/five-prompt-habits-worth-retiring-and-what-to-do-instead-e57f57efd3c2?source=rss------prompt_engineering-5",
-      "why": "列出该淘汰的旧提示词习惯，适合和上一条搭配着做一次习惯纠错。",
-      "id": "49a5effee78575b6"
+      "title": "MCP 协议入门，让你的 Agent 连接微信、文档和数据库",
+      "url": "https://juejin.cn/post/7710282992080044059",
+      "why": "MCP 入门中文教程，能把素材库、文档接进 Agent，为后续工作流自动化打底。",
+      "id": "707166b7cf792b46"
     }
   ]
 }
