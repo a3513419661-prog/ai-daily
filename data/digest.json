@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-23",
-  "summary": "今天最值得学的是「提示词即导演」这条主线：用构图逻辑而不是形容词堆砌来写镜头描述，把机位、景别、运动写进提示词，再配合真实摄影意图的镜头清单。剪辑侧有可复刻的 AI B-roll 工作法、时间线节奏感和音效沉浸感三条实操线；另外补一条面部追踪与头发遮罩的技巧，以及两条提示词精修方法。",
+  "date": "2026-11-24",
+  "summary": "今天的内容集中在「把 AI 生成变成可控的拍摄流程」：先用分镜和镜头清单想清楚，再用构图逻辑和光学参数写提示词，最后在剪辑台上用复刻法和先测最难镜头来检验生成画面。剪辑侧还有一篇电商 AI 剪辑的工程复盘，以及一条从单张图做到 15 秒有声视频的实操指南。",
   "picks": [
+    {
+      "title": "让 AI 做好 B-roll，我决定先从复刻开始",
+      "url": "https://www.woshipm.com/ai/6470298.html",
+      "why": "中文实操：从复刻已有优秀 B-roll 入手，拆出提示词与运镜参数，是最快建立 AI 素材质感的路径。",
+      "id": "524c8e0e12c5dce6"
+    },
+    {
+      "title": "Don’t Start With Scene One: Test the Hardest AI Shot First",
+      "url": "https://medium.com/@udit.rawat03/dont-start-with-scene-one-test-the-hardest-ai-shot-first-f7d99416dc47?source=rss------video_production-5",
+      "why": "遇到瓶颈时，先测试最难的那个人机（人或机）镜头，而不是从第一场顺序推进；这样在时间有限时，能先暴露生成风险。",
+      "id": "8864756413250df0"
+    },
+    {
+      "title": "从批量生成到业务可用：电商 AI 剪辑的工程取舍与实践复盘｜AICon北京",
+      "url": "https://www.infoq.cn/article/YMYl4DVNr1pRKD8ITfaW?utm_source=rss&utm_medium=article",
+      "why": "电商批量 AI 剪辑的工程取舍复盘，讲清哪些环节交给自动化、哪些必须人工保留，适合搭建交付流水线的人。",
+      "id": "e711e04aaa45c21f"
+    },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文实操向：讲清为什么堆形容词的加法式提示词无效，改用构图逻辑组织画面信息，是最直接能改稿的一条。",
+      "why": "中文观点：提示词不要靠堆词，靠构图逻辑（主体位置、景别、视线）来控制画面，比用加法堆词更可靠。",
       "id": "9acc46cbdeb37daa"
     },
     {
       "title": "Prompting Is Directing: How to Write Shot Descriptions for Cinematic AI Video",
       "url": "https://medium.com/@koboshi1989/prompting-is-directing-how-to-write-shot-descriptions-for-cinematic-ai-video-4052c313ca32?source=rss------ai_art-5",
-      "why": "把「写提示词」等同于「当导演」，给出 AI 视频镜头描述的写法框架，可直接套进你的生成流程。",
+      "why": "把提示词当作导演讲戏来写：镜头描述如何交代景别、机位、运动与光线，是生成电影感视频的基本功。",
       "id": "87a34c0e0b39e005"
     },
     {
-      "title": "Learn AI Filmmaking Day 3 — Moving the Camera",
-      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-3-moving-the-camera-4e719e32a144?source=rss------ai_video-5",
-      "why": "AI 电影学习系列第三课专讲运镜，从静到动的机位设计讲得系统，适合按课补基础。",
-      "id": "16df762f58b5b891"
+      "title": "The 4-Part Optical Formula for FLUX & SDXL: Stop Guessing Camera Angles, Lenses, and Lighting",
+      "url": "https://medium.com/stablediffusion/the-4-part-optical-formula-for-flux-sdxl-stop-guessing-camera-angles-lenses-and-lighting-794f11e82c23?source=rss------cinematography-5",
+      "why": "把机位角度、镜头焦段、布光写成四段式公式，直接套用到 FLUX/SDXL，不必再靠猜测。",
+      "id": "7271243d8b24883f"
     },
     {
-      "title": "让 AI 做好 B-roll，我决定先从复刻开始",
-      "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "中文案例：从复刻别人的 B-roll 入手反推 AI 素材怎么做，是一条能立刻上手的训练路径。",
-      "id": "524c8e0e12c5dce6"
+      "title": "Why Most AI Prompts Fail—And the 3-Block Structure That Fixes Them",
+      "url": "https://medium.com/@itsabdulmoiz369/why-most-ai-prompts-fail-and-the-3-block-structure-that-fixes-them-1bb40c6cac50?source=rss------prompt_engineering-5",
+      "why": "多数提示词失败在于结构混乱，三块式模板可直接替换你现在的写法。",
+      "id": "543069fbeb4346d6"
     },
     {
-      "title": "Recognition Is Half the Work. The Timeline Is the Other Half.",
-      "url": "https://medium.com/@edgemac/recognition-is-half-the-work-the-timeline-is-the-other-half-640651c04553?source=rss------video_editing-5",
-      "why": "谈时间线本身的表达力，提醒剪辑节奏不只靠选素材，更靠段落排布与呼吸感。",
-      "id": "dba8705ef837fa52"
+      "title": "Why Your AI Character Keeps Changing — and the Camera Keeps Running Away",
+      "url": "https://medium.com/@ai.sidework.labo/why-your-ai-character-keeps-changing-and-the-camera-keeps-running-away-71f1fe685b0e?source=rss------ai_video-5",
+      "why": "专门解决 AI 角色前后不一致、镜头乱跑的问题，是连载短剧最容易踩的坑。",
+      "id": "3fb9ced5e7cb9807"
     },
     {
-      "title": "7 Ways AI Sound Effects Can Make Your Videos More Immersive",
-      "url": "https://medium.com/@ytzoloai/7-ways-ai-sound-effects-can-make-your-videos-more-immersive-861fbb534724?source=rss------video_editing-5",
-      "why": "七种 AI 音效用法提升沉浸感，属于低成本高回报的后期细节，能马上试。",
-      "id": "fbaebd6175abcd63"
+      "title": "How to Write a Shot List for an AI Video Model",
+      "url": "https://medium.com/@hytonexu/how-to-write-a-shot-list-for-an-ai-video-model-7e0cc67565b5?source=rss------ai_video-5",
+      "why": "面向 AI 视频模型的镜头清单写法：一个镜头一条，明确运动与时长，生成前先想清楚。",
+      "id": "f08d2875189be053"
     },
     {
-      "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
-      "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "用真实摄影意图（景别、角度、运动）搭建 AI 镜头清单，把分镜和可执行参数接上。",
-      "id": "c0ce3898519a2a2c"
-    },
-    {
-      "title": "Anthropic Says Stop Writing “Think Carefully” in Your Prompts. I Tested It on My Own Work.",
-      "url": "https://medium.com/@mayankgairola114/anthropic-says-stop-writing-think-carefully-in-your-prompts-i-tested-it-on-my-own-work-bc17304e2993?source=rss------prompt_engineering-5",
-      "why": "作者亲自复测「写 think carefully」这类指令的真实效果，给提示词的减法提供依据。",
-      "id": "201400b67ddc897b"
-    },
-    {
-      "title": "Beyond the First Answer: The Science of Refining and Evaluating AI Prompts",
-      "url": "https://nagvekar.medium.com/beyond-the-first-answer-the-science-of-refining-and-evaluating-ai-prompts-b91342964233?source=rss------prompt_engineering-5",
-      "why": "讲第一版答案之后的精修与评估方法，把提示词迭代从玄学变成可重复的流程。",
-      "id": "06d6de15b4e19db9"
-    },
-    {
-      "title": "How to Improve Face Tracking and Hair Masks in Claude Video Effects Skills",
-      "url": "https://dev.to/lyric_li_3ece3678d9e199cb/how-to-improve-face-tracking-and-hair-masks-in-claude-video-effects-skills-44b",
-      "why": "面部追踪与头发遮罩的具体调优技巧，是 AI 视频特效里最容易露馅也最值得磨的环节。",
-      "id": "854419ef4de34e99"
+      "title": "一張圖變成最長 15 秒的有聲影片：MiniMax H3 應用指南",
+      "url": "https://medium.com/@data_research/%E4%B8%80%E5%BC%B5%E5%9C%96%E8%AE%8A%E6%88%90%E6%9C%80%E9%95%B7-15-%E7%A7%92%E7%9A%84%E6%9C%89%E8%81%B2%E5%BD%B1%E7%89%87-minimax-h3-%E6%87%89%E7%94%A8%E6%8C%87%E5%8D%97-4c088c6fa8b1?source=rss------ai_video-5",
+      "why": "用单张图做成 15 秒有声竖屏视频的中文应用指南，步骤完整，适合用来练习图生视频的完整流程。",
+      "id": "955f46e60bb0281f"
     }
   ]
 }
