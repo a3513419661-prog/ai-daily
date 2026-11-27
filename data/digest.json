@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-26",
-  "summary": "今天能学到的核心是「先想清楚再生成」：把提示词当成导演阐述来写，用构图逻辑而非关键词堆叠；分镜和镜头清单要先落到景别、角度、运动上。剪辑侧则提供了 AI 素材的节奏剪辑、B-roll 复刻、以及在提示词阶段就完成“剪辑”的具体做法，还有角色面部一致性与图像微调的实操技巧。",
+  "date": "2026-11-27",
+  "summary": "今天最值得学的是「提示词当导演用」这条主线：先用构图逻辑和镜头描述写清楚画面，再谈堆词；剪辑侧有两篇可直接抄的工作流——用复刻法学做 AI B-roll，以及在提示词内部完成剪辑决策。此外补齐了 AI 视频的分镜清单、角色一致性做法和图像提示词公式，从脚本到成片的链路基本能走通一遍。",
   "picks": [
-    {
-      "title": "Prompting Is Directing: How to Write Shot Descriptions for Cinematic AI Video",
-      "url": "https://medium.com/@koboshi1989/prompting-is-directing-how-to-write-shot-descriptions-for-cinematic-ai-video-4052c313ca32?source=rss------ai_art-5",
-      "why": "把提示词写作直接对标导演的分镜描述，是今天最系统的镜头语言实操。",
-      "id": "87a34c0e0b39e005"
-    },
-    {
-      "title": "不要用加法思维写提示词，构图逻辑更重要",
-      "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文实操：提示词别用加法堆词，用构图逻辑组织画面，可直接改你的写法。",
-      "id": "9acc46cbdeb37daa"
-    },
-    {
-      "title": "AI Filmmaking: Plan the Scene Beyond the Impressive Shot",
-      "url": "https://danielcolestudio.medium.com/ai-filmmaking-plan-the-scene-beyond-the-impressive-shot-7634c0c1ed92?source=rss------film_making-5",
-      "why": "提醒你在“好看的单镜头”之外先规划整场戏，避免 AI 片变成素材拼贴。",
-      "id": "5ca0d798e78d447a"
-    },
     {
       "title": "让 AI 做好 B-roll，我决定先从复刻开始",
       "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "中文案例：靠复刻优秀 B-roll 来反推 AI 生成方法，路径清晰可照做。",
+      "why": "中文实操：用「复刻」现成片子的方式反推 AI B-roll 的提示词与节奏，比空想提示词快得多。",
       "id": "524c8e0e12c5dce6"
-    },
-    {
-      "title": "My AI restock reels use 16 clips and 26 cuts. Here’s the edit.",
-      "url": "https://medium.com/@michowmin/my-ai-restock-reels-use-16-clips-and-26-cuts-heres-the-edit-744b478caf9c?source=rss------video_editing-5",
-      "why": "16 段素材 26 个切点全部拆开讲，是学短视频剪辑节奏的现成范本。",
-      "id": "72d8d6cd9b2e7898"
     },
     {
       "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
       "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "把“剪辑”前置到提示词里完成，是 AI 影像工作流里很实用的一环。",
+      "why": "AI 电影制作 Day 5 把「剪辑」前移到提示词里，讲清哪些剪辑决策该在生成前就定下来。",
       "id": "7cbb408ba5ddf5f0"
     },
     {
-      "title": "Shot Size, Angle, Movement: How to Build an AI Shot List With Real Camera Intent",
-      "url": "https://studiovity.medium.com/shot-size-angle-movement-how-to-build-an-ai-shot-list-with-real-camera-intent-5419763ea942?source=rss------filmmaking-5",
-      "why": "按真实摄影的景别、角度、运动来搭 AI 镜头清单，分镜落地性最强。",
-      "id": "c0ce3898519a2a2c"
+      "title": "不要用加法思维写提示词，构图逻辑更重要",
+      "url": "https://www.digitaling.com/articles/1582727.html",
+      "why": "中文实战观点：提示词别做加法堆词，先定构图逻辑，画面才会稳。",
+      "id": "9acc46cbdeb37daa"
     },
     {
-      "title": "Basics Of How To Get Consistent Character Faces Across AI Images",
-      "url": "https://medium.com/@shivansh-/basics-of-how-to-get-consistent-character-faces-across-ai-images-c997893ffb3b?source=rss------ai_art-5",
-      "why": "跨图保持同一张脸是 AI 叙事的刚需，这篇给的是可直接试的基础方法。",
-      "id": "f660854ae5c10992"
+      "title": "Prompting Is Directing: How to Write Shot Descriptions for Cinematic AI Video",
+      "url": "https://medium.com/@koboshi1989/prompting-is-directing-how-to-write-shot-descriptions-for-cinematic-ai-video-4052c313ca32?source=rss------ai_art-5",
+      "why": "把导演思维翻译成可复用的镜头描述模板，是写电影感 AI 视频提示词的骨架。",
+      "id": "87a34c0e0b39e005"
     },
     {
-      "title": "Felt Puppet AI Pictures: Fixing a Stuck Grin and Shaping Loud vs Quiet Speech Bubbles | Image Model…",
-      "url": "https://medium.com/@iamsupcat/felt-puppet-ai-pictures-fixing-a-stuck-grin-and-shaping-loud-vs-quiet-speech-bubbles-image-model-cd01587dafdc?source=rss------ai_art-5",
-      "why": "用玩偶图修表情、区分气泡强弱的迭代过程，示范了图像模型怎么“调”出来。",
-      "id": "30b2fc6be813910f"
+      "title": "Where Should You Cut When a Character Walks Through a Door?",
+      "url": "https://medium.com/@youzhenzuoteng843/where-should-you-cut-when-a-character-walks-through-a-door-0394bc52e0b9?source=rss------film_making-5",
+      "why": "人物穿过一扇门该在哪切，是调度与剪点结合的经典问题，直接可套用到短片里。",
+      "id": "0337ac6c51b47489"
     },
     {
-      "title": "Prompt Engineering Was Just the Beginning. Why Context Engineering Matters.",
-      "url": "https://medium.com/ai-engineering-simplified/prompt-engineering-was-just-the-beginning-why-context-engineering-matters-5cb10c826526?source=rss------prompt_engineering-5",
-      "why": "从提示词工程转向上下文工程，帮你搭可持续复用的创作流程。",
-      "id": "5186e76a175512e5"
+      "title": "How to Write a Shot List for an AI Video Model",
+      "url": "https://medium.com/@hytonexu/how-to-write-a-shot-list-for-an-ai-video-model-7e0cc67565b5?source=rss------ai_video-5",
+      "why": "教你为 AI 视频模型写镜头清单，把分镜落成模型能读懂的一行行指令。",
+      "id": "f08d2875189be053"
+    },
+    {
+      "title": "Why Should You Storyboard AI Video Before You Generate It?",
+      "url": "https://medium.com/@hello_64813/why-should-you-storyboard-ai-video-before-you-generate-it-bb208d3d0996?source=rss------storyboard-5",
+      "why": "解释为什么必须先分镜再生成，能省下大量废片和重抽成本。",
+      "id": "d04396b9dbf541e8"
+    },
+    {
+      "title": "How I Keep Characters Consistent in Short AI Videos Without Paying for a Subscription",
+      "url": "https://medium.com/@jackjia_97013/how-i-keep-characters-consistent-in-short-ai-videos-without-paying-for-a-subscription-5c0de49ded33?source=rss------ai_video-5",
+      "why": "不花钱维持 AI 短片角色一致性的具体做法，系列短片创作者的核心痛点。",
+      "id": "a69513cb77bbcb36"
+    },
+    {
+      "title": "AI Image Prompts That Actually Work: A Practical Formula With Real Examples for Product Shots, Poste",
+      "url": "https://medium.com/@jaypixbloom/ai-image-prompts-that-actually-work-a-practical-formula-with-real-examples-for-product-shots-poste-722beb34db25?source=rss------prompt_engineering-5",
+      "why": "给出一套可套用的图像提示词公式，附产品图、海报等真实示例。",
+      "id": "cb862ac292178b79"
+    },
+    {
+      "title": "How To Edit AI Images",
+      "url": "https://medium.com/@shivansh-/how-to-edit-ai-images-c8c37c97e1bb?source=rss------ai_art-5",
+      "why": "AI 图像后期编辑的基础流程，补上「生成之后怎么修」这一步。",
+      "id": "cc36f685d56dc268"
     }
   ]
 }
