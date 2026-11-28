@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-27",
-  "summary": "今天最值得学的是「提示词当导演用」这条主线：先用构图逻辑和镜头描述写清楚画面，再谈堆词；剪辑侧有两篇可直接抄的工作流——用复刻法学做 AI B-roll，以及在提示词内部完成剪辑决策。此外补齐了 AI 视频的分镜清单、角色一致性做法和图像提示词公式，从脚本到成片的链路基本能走通一遍。",
+  "date": "2026-11-28",
+  "summary": "今天最值得学的是「提示词即导演」这条主线：从构图逻辑、镜头描述到时间轴提示词与运动提示词漂移，形成一套可复用的 AI 视频可控性方法。剪辑侧落在节拍标记与 B-roll 复刻两个能立刻上手的实操，分镜侧补齐 match cut 与给 AI 模型的镜头清单，最后用一个漫画改绘本的全流程案例收尾。",
   "picks": [
-    {
-      "title": "让 AI 做好 B-roll，我决定先从复刻开始",
-      "url": "https://www.woshipm.com/ai/6470298.html",
-      "why": "中文实操：用「复刻」现成片子的方式反推 AI B-roll 的提示词与节奏，比空想提示词快得多。",
-      "id": "524c8e0e12c5dce6"
-    },
-    {
-      "title": "Learn AI Filmmaking Day 5 — Editing Inside the Prompt",
-      "url": "https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-day-5-editing-inside-the-prompt-a00050fe7a85?source=rss------ai_video-5",
-      "why": "AI 电影制作 Day 5 把「剪辑」前移到提示词里，讲清哪些剪辑决策该在生成前就定下来。",
-      "id": "7cbb408ba5ddf5f0"
-    },
     {
       "title": "不要用加法思维写提示词，构图逻辑更重要",
       "url": "https://www.digitaling.com/articles/1582727.html",
-      "why": "中文实战观点：提示词别做加法堆词，先定构图逻辑，画面才会稳。",
+      "why": "讲清构图逻辑优先于堆砌形容词，是写提示词最该先改的思维习惯。",
       "id": "9acc46cbdeb37daa"
     },
     {
       "title": "Prompting Is Directing: How to Write Shot Descriptions for Cinematic AI Video",
       "url": "https://medium.com/@koboshi1989/prompting-is-directing-how-to-write-shot-descriptions-for-cinematic-ai-video-4052c313ca32?source=rss------ai_art-5",
-      "why": "把导演思维翻译成可复用的镜头描述模板，是写电影感 AI 视频提示词的骨架。",
+      "why": "把镜头描述当导演工作来做，给出可照抄的电影感镜头写法。",
       "id": "87a34c0e0b39e005"
     },
     {
-      "title": "Where Should You Cut When a Character Walks Through a Door?",
-      "url": "https://medium.com/@youzhenzuoteng843/where-should-you-cut-when-a-character-walks-through-a-door-0394bc52e0b9?source=rss------film_making-5",
-      "why": "人物穿过一扇门该在哪切，是调度与剪点结合的经典问题，直接可套用到短片里。",
-      "id": "0337ac6c51b47489"
+      "title": "How to Write Timeline Prompts for 30-Second AI Videos (With Magi 2 Templates)",
+      "url": "https://medium.com/@sunluna668/how-to-write-timeline-prompts-for-30-second-ai-videos-with-magi-2-templates-ae363a3f0ea1?source=rss------video_production-5",
+      "why": "附 Magi 2 模板的 30 秒时间轴提示词写法，直接解决长视频分段失控。",
+      "id": "d237a54a158dd38e"
+    },
+    {
+      "title": "Why Motion Prompts Drift After Three Seconds and How to Stop It",
+      "url": "https://medium.com/@info_13818/why-motion-prompts-drift-after-three-seconds-and-how-to-stop-it-25a9b0d13adc?source=rss------ai_video-5",
+      "why": "解释运动提示词为何三秒后跑偏，并给出可执行的抑制办法。",
+      "id": "45c6165c654430fc"
+    },
+    {
+      "title": "I stopped placing beat markers by hand. Here is the free way, and where it fails",
+      "url": "https://medium.com/@be.liveedits/i-stopped-placing-beat-markers-by-hand-here-is-the-free-way-and-where-it-fails-2d7970127f77?source=rss------video_editing-5",
+      "why": "免手动打节拍标记的免费方案，还标明了失效场景，剪辑节奏党必看。",
+      "id": "af632b4a476c7cb9"
+    },
+    {
+      "title": "让 AI 做好 B-roll，我决定先从复刻开始",
+      "url": "https://www.woshipm.com/ai/6470298.html",
+      "why": "用「先复刻再原创」的思路把 AI B-roll 做到能用，方法可迁移。",
+      "id": "524c8e0e12c5dce6"
+    },
+    {
+      "title": "Two Storyboard Examples for Planning a Match Cut",
+      "url": "https://medium.com/@nina-chen/two-storyboard-examples-for-planning-a-match-cut-975af7d7d10f?source=rss------storyboarding-5",
+      "why": "两个 match cut 分镜实例，把转场设计提前到分镜阶段解决。",
+      "id": "e9f44fae7a0d94ee"
     },
     {
       "title": "How to Write a Shot List for an AI Video Model",
       "url": "https://medium.com/@hytonexu/how-to-write-a-shot-list-for-an-ai-video-model-7e0cc67565b5?source=rss------ai_video-5",
-      "why": "教你为 AI 视频模型写镜头清单，把分镜落成模型能读懂的一行行指令。",
+      "why": "教你写出 AI 视频模型能读懂的镜头清单，衔接分镜与生成。",
       "id": "f08d2875189be053"
     },
     {
-      "title": "Why Should You Storyboard AI Video Before You Generate It?",
-      "url": "https://medium.com/@hello_64813/why-should-you-storyboard-ai-video-before-you-generate-it-bb208d3d0996?source=rss------storyboard-5",
-      "why": "解释为什么必须先分镜再生成，能省下大量废片和重抽成本。",
-      "id": "d04396b9dbf541e8"
+      "title": "From Comic to Picture Book: Remaking a 20-Panel AI Comic as an 8-Page Storybook with a Local Model…",
+      "url": "https://medium.com/@iamsupcat/from-comic-to-picture-book-remaking-a-20-panel-ai-comic-as-an-8-page-storybook-with-a-local-model-5c8d14d2f587?source=rss------ai_art-5",
+      "why": "本地模型把 20 格漫画改造成 8 页绘本，完整展示多阶段内容重构流程。",
+      "id": "33a6bc0aacc5d8b4"
     },
     {
-      "title": "How I Keep Characters Consistent in Short AI Videos Without Paying for a Subscription",
-      "url": "https://medium.com/@jackjia_97013/how-i-keep-characters-consistent-in-short-ai-videos-without-paying-for-a-subscription-5c0de49ded33?source=rss------ai_video-5",
-      "why": "不花钱维持 AI 短片角色一致性的具体做法，系列短片创作者的核心痛点。",
-      "id": "a69513cb77bbcb36"
-    },
-    {
-      "title": "AI Image Prompts That Actually Work: A Practical Formula With Real Examples for Product Shots, Poste",
-      "url": "https://medium.com/@jaypixbloom/ai-image-prompts-that-actually-work-a-practical-formula-with-real-examples-for-product-shots-poste-722beb34db25?source=rss------prompt_engineering-5",
-      "why": "给出一套可套用的图像提示词公式，附产品图、海报等真实示例。",
-      "id": "cb862ac292178b79"
-    },
-    {
-      "title": "How To Edit AI Images",
-      "url": "https://medium.com/@shivansh-/how-to-edit-ai-images-c8c37c97e1bb?source=rss------ai_art-5",
-      "why": "AI 图像后期编辑的基础流程，补上「生成之后怎么修」这一步。",
-      "id": "cc36f685d56dc268"
+      "title": "Why ChatGPT Keeps Agreeing With You, and 5 Prompts That Make It Push Back",
+      "url": "https://medium.com/@promptprofesor/why-chatgpt-keeps-agreeing-with-you-and-5-prompts-that-make-it-push-back-be73adee3af2?source=rss------prompt_engineering-5",
+      "why": "5 个让模型反驳你的提示词，用来打破默认附和、逼出可用反馈。",
+      "id": "caa26379d94d8fe1"
     }
   ]
 }
